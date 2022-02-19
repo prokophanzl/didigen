@@ -1,0 +1,6 @@
+# macOS Desktop Service Store files
+.DS_Store
+
+# private data
+data/chats/*
+*.numbers
