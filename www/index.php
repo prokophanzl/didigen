@@ -366,8 +366,10 @@
 	</section>
 	<section class="footer-section">
 		<hr>
-		<span id="copyright">&copy; Prokop Hanzl</span><br>
+		<span id="copyright">&copy; 2022 Prokop Hanzl</span>
+		<br>
 		<a href="https://github.com/prokophanzl" target="_blank">GitHub</a> |
+		<a href="https://github.com/ProkopHanzl/dsw/issues/new/choose">Fehler melden</a> |
 		<a href="mailto:phanzl@dustah.com">Kontakt</a>
 	</section>
 
