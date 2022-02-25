@@ -1,10 +1,3 @@
-:root {
-	--fonts: 'Work Sans', sans-serif;
-	background-color: var(--background);
-	color: var(--text-primary);
-	font-family: var(--fonts);
-}
-
 /* default: light mode */
 :root {
 	--background: hsl(220, 10%, 95%);
@@ -63,6 +56,13 @@
 
 		--logo-border: hsl(220, 10%, 95%);
 	}
+}
+
+:root {
+	--fonts: "Work Sans", sans-serif;
+	background-color: var(--background);
+	color: var(--text-primary);
+	font-family: var(--fonts);
 }
 
 body {
@@ -146,7 +146,7 @@ input, button {
 }
 
 .inputWrapper::before {
-	content: '';
+	content: "";
 	position: absolute;
 	top: 0;
 	left: 0;
@@ -158,7 +158,7 @@ input, button {
 }
 
 .inputWrapper::after {
-	content: '';
+	content: "";
 	position: relative;
 	display: block;
 	height: 4px;
@@ -360,7 +360,7 @@ input, button {
 	cursor: pointer;
 }
 
-.cantonContainer > div input[type='checkbox'] {
+.cantonContainer > div input[type="checkbox"] {
 	position: absolute;
 	opacity: 0;
 	cursor: inherit;
@@ -399,7 +399,7 @@ input, button {
 }
 
 .checkmarkSpan::after {
-	content: '';
+	content: "";
 	position: absolute;
 	top: 4px;
 	left: 8px;
@@ -427,11 +427,11 @@ input, button {
 }
 
 .filterButton::after {
-	content: '';
+	content: "";
 	height: 100%;
 	width: 100%;
 	display: block;
-	background-image: url('filter.svg');
+	background-image: url("filter.svg");
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: 50%;
@@ -505,11 +505,11 @@ input, button {
 }
 
 .wordHeader > .wordMenu::after {
-	content: '';
+	content: "";
 	height: 100%;
 	width: 100%;
 	display: block;
-	background-image: url('arrow-right.svg');
+	background-image: url("arrow-right.svg");
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: 60%;
@@ -546,7 +546,7 @@ input, button {
 }
 
 .wordHeader > .wordGerman::after, .wordMoreInfo::after {
-	content: '';
+	content: "";
 	position: absolute;
 	top: 0;
 	left: 0;
