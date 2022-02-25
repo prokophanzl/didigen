@@ -1,13 +1,16 @@
 <!DOCTYPE html>
-<html>
+<html lang="de">
 
 <head>
 	<meta charset='utf-8'>
 	<meta name='viewport' content='width=device-width'>
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;500;700&display=swap" rel="stylesheet">
 	<link rel='stylesheet' type='text/css' href='resources/styles.css'>
 	<link rel='icon' type='image/png' href='/resources/logo/logo_58.png'>
-	<title>Deutsch-Schweizerdeutsches Wörterbuch</title>
 	<script src='https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js'></script>
+	<title>Deutsch-Schweizerdeutsches Wörterbuch</title>
 </head>
 
 <body>
@@ -18,7 +21,7 @@
 				<div class='inputField'>
 					<div class='logoDiv'>DS<br>W</div>
 					<div class='inputWrapper'>
-						<input type='text' name='word' placeholder='Deutsch → Schweizerdeutsch' id='wordInput' class='wordInput' />
+						<input type='text' name='word' placeholder='Deutsch → Schweizerdeutsch' id='wordInput' class='wordInput' required />
 					</div>
 				</div>
 				<div class='submitButtons'>
@@ -46,197 +49,197 @@
 				<div class='filterTitleDiv'>
 					Kanton
 					<small>
-						(<a class='link' onclick='cantons.forEach(canton => document.getElementById(canton).checked = true);'>alle auswählen</a> | 
-						<a class='link' onclick='cantons.forEach(canton => document.getElementById(canton).checked = false);'>keine auswählen</a>)
+						(<a class='link' onclick='$(".checkbox-canton").prop("checked", true);'>alle auswählen</a> | 
+						<a class='link' onclick='$(".checkbox-canton").prop("checked", false);'>keine auswählen</a>)
 					</small>
 				</div>
 				<div class='cantonContainer filterSub'>
 					<div>
 						<label>
 							Aargau
-							<input type='checkbox' name='ag' id='ag'>
+							<input type='checkbox' name='ag' id='ag' class="checkbox-canton">
 							<span class='checkmarkSpan'></span>
 						</label>
 					</div>
 					<div>
 						<label>
 							Appenzell Ausserrhoden
-							<input type='checkbox' name='ar' id='ar'>
+							<input type='checkbox' name='ar' id='ar' class="checkbox-canton">
 							<span class='checkmarkSpan'></span>
 						</label>
 					</div>
 					<div>
 						<label>
 							Appenzell Inerrhoden
-							<input type='checkbox' name='ai' id='ai'>
+							<input type='checkbox' name='ai' id='ai' class="checkbox-canton">
 							<span class='checkmarkSpan'></span>
 						</label>
 					</div>
 					<div>
 						<label>
 							Basel-Landschaft
-							<input type='checkbox' name='bl' id='bl'>
+							<input type='checkbox' name='bl' id='bl' class="checkbox-canton">
 							<span class='checkmarkSpan'></span>
 						</label>
 					</div>
 					<div>
 						<label>
 							Basel-Stadt
-							<input type='checkbox' name='bs' id='bs'>
+							<input type='checkbox' name='bs' id='bs' class="checkbox-canton">
 							<span class='checkmarkSpan'></span>
 						</label>
 					</div>
 					<div>
 						<label>
 							Bern
-							<input type='checkbox' name='be' id='be'>
+							<input type='checkbox' name='be' id='be' class="checkbox-canton">
 							<span class='checkmarkSpan'></span>
 						</label>
 					</div>
 					<div>
 						<label>
 							Freiburg
-							<input type='checkbox' name='fr' id='fr'>
+							<input type='checkbox' name='fr' id='fr' class="checkbox-canton">
 							<span class='checkmarkSpan'></span>
 						</label>
 					</div>
 					<div>
 						<label>
 							Genf
-							<input type='checkbox' name='ge' id='ge'>
+							<input type='checkbox' name='ge' id='ge' class="checkbox-canton">
 							<span class='checkmarkSpan'></span>
 						</label>
 					</div>
 					<div>
 						<label>
 							Glarus
-							<input type='checkbox' name='gl' id='gl'>
+							<input type='checkbox' name='gl' id='gl' class="checkbox-canton">
 							<span class='checkmarkSpan'></span>
 						</label>
 					</div>
 					<div>
 						<label>
 							Graubünden
-							<input type='checkbox' name='gr' id='gr'>
+							<input type='checkbox' name='gr' id='gr' class="checkbox-canton">
 							<span class='checkmarkSpan'></span>
 						</label>
 					</div>
 					<div>
 						<label>
 							Jura
-							<input type='checkbox' name='ju' id='ju'>
+							<input type='checkbox' name='ju' id='ju' class="checkbox-canton">
 							<span class='checkmarkSpan'></span>
 						</label>
 					</div>
 					<div>
 						<label>
 							Luzern
-							<input type='checkbox' name='lu' id='lu'>
+							<input type='checkbox' name='lu' id='lu' class="checkbox-canton">
 							<span class='checkmarkSpan'></span>
 						</label>
 					</div>
 					<div>
 						<label>
 							Neuenburg
-							<input type='checkbox' name='ne' id='ne'>
+							<input type='checkbox' name='ne' id='ne' class="checkbox-canton">
 							<span class='checkmarkSpan'></span>
 						</label>
 					</div>
 					<div>
 						<label>
 							Nidwalden
-							<input type='checkbox' name='nw' id='nw'>
+							<input type='checkbox' name='nw' id='nw' class="checkbox-canton">
 							<span class='checkmarkSpan'></span>
 						</label>
 					</div>
 					<div>
 						<label>
 							Obwalden
-							<input type='checkbox' name='ow' id='ow'>
+							<input type='checkbox' name='ow' id='ow' class="checkbox-canton">
 							<span class='checkmarkSpan'></span>
 						</label>
 					</div>
 					<div>
 						<label>
 							Schaffhausen
-							<input type='checkbox' name='sh' id='sh'>
+							<input type='checkbox' name='sh' id='sh' class="checkbox-canton">
 							<span class='checkmarkSpan'></span>
 						</label>
 					</div>
 					<div>
 						<label>
 							Schwyz
-							<input type='checkbox' name='sz' id='sz'>
+							<input type='checkbox' name='sz' id='sz' class="checkbox-canton">
 							<span class='checkmarkSpan'></span>
 						</label>
 					</div>
 					<div>
 						<label>
 							Solothurn
-							<input type='checkbox' name='so' id='so'>
+							<input type='checkbox' name='so' id='so' class="checkbox-canton">
 							<span class='checkmarkSpan'></span>
 						</label>
 					</div>
 					<div>
 						<label>
 							St. Gallen
-							<input type='checkbox' name='sg' id='sg'>
+							<input type='checkbox' name='sg' id='sg' class="checkbox-canton">
 							<span class='checkmarkSpan'></span>
 						</label>
 					</div>
 					<div>
 						<label>
 							Tessin
-							<input type='checkbox' name='ti' id='ti'>
+							<input type='checkbox' name='ti' id='ti' class="checkbox-canton">
 							<span class='checkmarkSpan'></span>
 						</label>
 					</div>
 					<div>
 						<label>
 							Thurgau
-							<input type='checkbox' name='tg' id='tg'>
+							<input type='checkbox' name='tg' id='tg' class="checkbox-canton">
 							<span class='checkmarkSpan'></span>
 						</label>
 					</div>
 					<div>
 						<label>
 							Uri
-							<input type='checkbox' name='ur' id='ur'>
+							<input type='checkbox' name='ur' id='ur' class="checkbox-canton">
 							<span class='checkmarkSpan'></span>
 						</label>
 					</div>
 					<div>
 						<label>
 							Waadt
-							<input type='checkbox' name='vd' id='vd'>
+							<input type='checkbox' name='vd' id='vd' class="checkbox-canton">
 							<span class='checkmarkSpan'></span>
 						</label>
 					</div>
 					<div>
 						<label>
 							Wallis
-							<input type='checkbox' name='vs' id='vs'>
+							<input type='checkbox' name='vs' id='vs' class="checkbox-canton">
 							<span class='checkmarkSpan'></span>
 						</label>
 					</div>
 					<div>
 						<label>
 							Zug
-							<input type='checkbox' name='zg' id='zg'>
+							<input type='checkbox' name='zg' id='zg' class="checkbox-canton">
 							<span class='checkmarkSpan'></span>
 						</label>
 					</div>
 					<div>
 						<label>
 							Zürich
-							<input type='checkbox' name='zh' id='zh'>
+							<input type='checkbox' name='zh' id='zh' class="checkbox-canton">
 							<span class='checkmarkSpan'></span>
 						</label>
 					</div>
 					<div>
 						<label>
 							Unbekannt
-							<input type='checkbox' name='xx' id='xx'>
+							<input type='checkbox' name='xx' id='xx' class="checkbox-canton">
 							<span class='checkmarkSpan'></span>
 						</label>
 					</div>
@@ -248,17 +251,20 @@
 		</form>
 	</section>
 	<section class='bodySection'>
-		<h3>3 Suchergebnisse für &laquo;&nbsp;<span id='wordSearched'></span>&nbsp;&raquo;</span> <span class='primary50 normal-weight'>(145 Datenpunkte, <span id='filtersActive'></span> Filter aktiv)</span></h1>
+		<h3>
+			3 Suchergebnisse für &laquo;&nbsp;<span id='wordSearched'></span>&nbsp;&raquo;
+			<span class='primary50 normal-weight'>(145 Datenpunkte, <span id='filtersActive'></span> Filter aktiv)</span>
+		</h3>
 		<div class='wordWrapper' style='--matches: 6; --count-first: 5'>
 			<div class='wordHeader'>
 				<div class='wordMenu' onclick='toggle("Weihnachten")' id='WeihnachtenMenu'></div>
 				<div class='wordGerman headerWord' id='WeihnachtenG'>
-					<span class='wordGermanSpan breakNoDis'>Weihnachten</span><span
-						class='primary50 matchesGermanSpan breakDis'> (6)</span>
+					<span class='wordGermanSpan breakNoDis'>Weihnachten</span>
+					<span class='primary50 matchesGermanSpan breakDis'>(6)</span>
 				</div>
 				<div class='wordSwissGerman headerWord' id='WeihnachtenSG'>
-					<span class='wordSwissGermanSpan breakNoDis'>Wiehnachte</span><span
-						class='primary50 matchesSwissGermanSpan breakDis'>(5/6)</span>
+					<span class='wordSwissGermanSpan breakNoDis'>Wiehnachte</span>
+					<span class='primary50 matchesSwissGermanSpan breakDis'>(5/6)</span>
 				</div>
 			</div>
 			<div class='wordMoreInfo infoBar' id='Weihnachten'>
@@ -266,13 +272,13 @@
 					<div style='--count: 5'>
 						<span class='translationContainer'>
 							<span class='translation'>Wiehnachte</span>
-							<span class='translationCount primary50'> 5</span>
+							<span class='translationCount primary50'>5</span>
 						</span>
 					</div>
 					<div style='--count: 1'>
 						<span class='translationContainer'>
 							<span class='translation'>Wienachte</span>
-							<span class='translationCount primary50'> 1</span>
+							<span class='translationCount primary50'>1</span>
 						</span>
 					</div>
 				</div>
@@ -280,7 +286,6 @@
 		</div>
 
 		<div class='wordWrapper' style='--matches: 37; --count-first: 19'>
-			<!-- weil: 37 treffen / 19x will, 12x wil, 6x well -->
 			<div class='wordHeader'>
 				<div class='wordMenu' onclick='toggle("weil")' id='weilMenu'></div>
 				<div class='wordGerman headerWord' id='weilG'>
@@ -317,7 +322,6 @@
 		</div>
 
 		<div class='wordWrapper' style='--matches: 102; --count-first: 53'>
-			<!-- wir: 102 treffen / 53* mir, 37* mer, 7* mr, 4* mier -->
 			<div class='wordHeader'>
 				<div class='wordMenu' onclick='toggle("wir")' id='wirMenu'></div>
 				<div class='wordGerman headerWord' id='wirG'>
@@ -363,11 +367,11 @@
 	<section class='footerSection'>
 		<hr>
 		<span id='copyright'>&copy; Prokop Hanzl</span><br>
-		<a href='https://github.com/prokophanzl' target='_blank'>GitHub</a> | <a
-			href='mailto:phanzl@dustah.com'>Kontakt</a>
+		<a href='https://github.com/prokophanzl' target='_blank'>GitHub</a> |
+		<a href='mailto:phanzl@dustah.com'>Kontakt</a>
 	</section>
 
-	<script type='text/javascript'>
+	<script>
 		const urlParams = new URLSearchParams(window.location.search);
 
 		var cantons = ['ag','ar','ai','bl','bs','be','fr','ge','gl','gr','ju','lu','ne','nw','ow','sh','sz','so','sg','ti','tg','ur','vd','vs','zg','zh','xx'];
@@ -380,7 +384,7 @@
 				cantonsSet--;
 			} else 
 			if (urlParams.get(canton) == 'on') {
-				document.getElementById(canton).checked = true;
+				$('#' + canton).prop('checked', true);
 			}
 		}
 
@@ -394,7 +398,7 @@
 		}
 
 		if (urlParams.get('word')) {
-			document.getElementById('wordInput').value = urlParams.get('word');
+			$('#wordInput').val(urlParams.get('word'));
 			$('#wordSearched').text(urlParams.get('word'))
 		}
 
@@ -404,7 +408,7 @@
 		}
 
 		if (sessionStorage.getItem('filtersOpen')) {
-			document.getElementById('filterContainer').style.display = 'block';
+			$('#filterContainer').css('display', 'block');
 		}
 
 		filtersActive = $('#filtersActive');
@@ -415,50 +419,50 @@
 		}
 
 		function toggleMatch(matchVal) {
-			document.getElementById('termInput').value = matchVal;
+			$('#termInput').val(matchVal);
 
-			if (!document.getElementById(matchVal).classList.contains('searchOptionSelected')) {
+			if (!$('#' + matchVal).hasClass('searchOptionSelected')) {
 				$('.searchOption').removeClass('searchOptionSelected');
 				$('#' + matchVal).addClass('searchOptionSelected');
 			}
 		}
 
 		function toggleFilters() {
-			var filtersOpen = sessionStorage.getItem('filtersOpen');
-			const filterContainer = document.getElementById('filterContainer');
-			// const headSection = document.getElementById('headSection');
-			// const filterButton = document.getElementById('filterButton');
+			const filtersOpen = sessionStorage.getItem('filtersOpen');
+			const filterContainer = $('#filterContainer');
 
 			if (filtersOpen) {
-				filterContainer.style.display = 'none';
+				filterContainer.css('display', 'none');
 				sessionStorage.removeItem('filtersOpen');
 			} else {
-				filterContainer.style.display = 'block';
+				filterContainer.css('display', 'block');
 				sessionStorage.setItem('filtersOpen', true);
 			}
 		}
 
 		function toggle(infoId) {
-			const thisMenu = document.getElementById(infoId);
-			const thisToggle = document.getElementById(infoId + 'Menu');
-			const g = document.getElementById(infoId + 'G');
-			const sg = document.getElementById(infoId + 'SG');
-			const menuOpen = thisToggle.classList.contains('menuEngaged');
+			const thisMenu = $('#' + infoId);
+			const thisToggle = $('#' + infoId + 'Menu');
+			const g = $('#' + infoId + 'G');
+			const sg = $('#' + infoId + 'SG');
+
+			const menuOpen = thisToggle.hasClass('menuEngaged');
 
 			if (menuOpen) {
-				thisMenu.classList.remove('infoDisplay');
-				thisToggle.classList.remove('menuEngaged');
-				g.style.background = 'var(--background)';
-				g.style.setProperty('--inset-shadow-color', 'var(--background)');
-				sg.style.display = 'block';
+				thisMenu.removeClass('infoDisplay');
+				thisToggle.removeClass('menuEngaged');
+				g.css('background', 'var(--background)');
+				g.css('--inset-shadow-color', 'var(--background)');
+				sg.css('display', 'block');
 			} else {
-				thisMenu.classList.add('infoDisplay');
-				thisToggle.classList.add('menuEngaged');
-				g.style.background = 'var(--accent)';
-				g.style.setProperty('--inset-shadow-color', 'var(--accent)');
-				sg.style.display = 'none';
+				thisMenu.addClass('infoDisplay');
+				thisToggle.addClass('menuEngaged');
+				g.css('background', 'var(--accent)');
+				g.css('--inset-shadow-color', 'var(--accent)');
+				sg.css('display', 'none');
 			}
 		}
+
 	</script>
 </body>
 
