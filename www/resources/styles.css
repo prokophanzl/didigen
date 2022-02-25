@@ -93,7 +93,7 @@ input, button {
 	font-weight: normal;
 }
 
-.inputWrapper {
+.input-wrapper {
 	width: 100%;
 	position: relative;
 	border-bottom: 2px dashed var(--text-primary-50);
@@ -102,15 +102,15 @@ input, button {
 	height: 48px;
 }
 
-.inputWrapper:focus-within .searchLabel {
+.input-wrapper:focus-within .search-label {
 	opacity: 0;
 }
 
-.inputField {
+.input-field {
 	display: flex;
 }
 
-.logoDiv {
+.logo-div {
 	height: 32px;
 	aspect-ratio: 1;
 	line-height: 16px;
@@ -126,7 +126,7 @@ input, button {
 	-webkit-user-select: none;
 }
 
-.wordInput {
+.word-input {
 	color: inherit;
 	font-size: 1.5rem;
 	width: 100%;
@@ -145,7 +145,7 @@ input, button {
 	z-index: 1;
 }
 
-.inputWrapper::before {
+.input-wrapper::before {
 	content: "";
 	position: absolute;
 	top: 0;
@@ -157,7 +157,7 @@ input, button {
 	pointer-events: none;
 }
 
-.inputWrapper::after {
+.input-wrapper::after {
 	content: "";
 	position: relative;
 	display: block;
@@ -171,11 +171,11 @@ input, button {
 	z-index: 3;
 }
 
-.inputWrapper:focus-within {
+.input-wrapper:focus-within {
 	border-color: transparent;
 }
 
-.inputWrapper:focus-within::after {
+.input-wrapper:focus-within::after {
 	transform: scaleX(1);
 }
 
@@ -201,7 +201,7 @@ input, button {
 	color: var(--accent);
 }
 
-.filterContainer {
+.filter-container {
 	border: 2px solid var(--text-primary);
 	margin-top: 16px;
 	display: none;
@@ -209,7 +209,7 @@ input, button {
 	position: relative
 }
 
-.closeFilters {
+.close-filters {
 	position: absolute;
 	bottom: 0;
 	right: 0;
@@ -218,135 +218,139 @@ input, button {
 }
 
 @media only screen and (max-width: 300px) {
-	.closeFilters {
+	.close-filters {
 		position: inherit;
 		padding: 0;
 	}
 }
 
-.filterTitleDiv {
+.filter-title-div {
 	margin-bottom: 8px;
 	padding: 0 4px;
 	font-size: 1.75rem;
 }
 
-.filterTitleDiv:not(:first-child) {
+.filter-title-div:not(:first-child) {
 	margin-top: 16px;
 }
 
-.searchOptionContainer {
+.search-option-container {
 	padding: 6px;
 	display: flex;
 	width: calc(100% - 12px);
 }
 
-.searchOptionButtonContainer > div:not(:first-child), .searchOptionContainer > div:first-child, .searchOptionContainer > div:last-child {
+.search-option-button-container > div:not(:first-child),
+.search-option-container > div:first-child,
+.search-option-container > div:last-child {
 	margin-left: 8px;
 }
 
-.searchOptionButtonContainer > div, .searchOptionContainer > div:first-child, .searchOptionContainer > div:last-child {
+.search-option-button-container > div,
+.search-option-container > div:first-child,
+.search-option-container > div:last-child {
 	padding: 8px;
 }
 
-.searchOptionContainer > div:first-child, .searchOptionContainer > div:last-child {
+.search-option-container > div:first-child, .search-option-container > div:last-child {
 	line-height: 24px;
 	height: 24px;
 	padding-left: 0;
 }
 
-.searchOptionButtonContainer {
+.search-option-button-container {
 	display: flex;
 	min-width: 300px;
 	width: 50%;
 	width: auto;
 }
 
-.searchOptionButtonContainer > div {
+.search-option-button-container > div {
 	flex: 1;
 	line-height: 24px;
 	height: 24px;
 	text-align: center;
 }
 
-.searchOptionContainer > div:first-child {
+.search-option-container > div:first-child {
 	margin: 0;
 	padding-left: 0;
 	text-align: right;
 }
 
-.searchOptionContainer > div:last-child {
+.search-option-container > div:last-child {
 	padding-right: 0;
 	text-align: left;
 }
 
-.searchOption {
+.search-option {
 	cursor: pointer;
 	border: 2px solid var(--text-primary);
 	transition: 0.2s ease all;
 }
 
-.searchOption:not(.searchOptionSelected):hover {
+.search-option:not(.search-option-selected):hover {
 	background: var(--text-primary-50);
 }
 
-.searchOptionButtonContainer {
+.search-option-button-container {
 	display: flex;
 	height: 44px;
 	white-space: nowrap;
 }
 
-.searchOptionSelected {
+.search-option-selected {
 	background: var(--accent);
 }
 
-.termInput {
+.term-input {
 	display: none;
 }
 
 @media only screen and (max-width: 590px) {
-	.searchOptionContainer > div {
+	.search-option-container > div {
 		margin: 0;
 		padding: 0;
 	}
 
-	.searchOptionContainer > div:first-child {
+	.search-option-container > div:first-child {
 		text-align: left;
 	}
 
-	.searchOptionContainer > div:last-child {
+	.search-option-container > div:last-child {
 		margin: 0;
 	}
 
-	.searchOptionContainer {
+	.search-option-container {
 		display: block;
 		white-space: normal;
 	}
 
-	.searchOptionButtonContainer {
+	.search-option-button-container {
 		margin: 8px 0;
 		min-width: 0;
 	}
 }
 
 @media only screen and (max-width: 390px) {
-	.searchOptionButtonContainer {
+	.search-option-button-container {
 		display: block;
 		height: auto;
 	}
 
-	.searchOptionButtonContainer > div:not(:first-child) {
+	.search-option-button-container > div:not(:first-child) {
 		margin: 8px 0 0 0;
 	}
 }
 
-.cantonContainer {
+.canton-container {
 	width: 100%;
 	display: grid;
 	gap: 8px;
 	grid-template-columns: repeat(auto-fit, minmax(19rem, 1fr));
 }
 
-.cantonContainer > div {
+.canton-container > div {
 	display: block;
 	font-size: 1.25rem;
 	height: 40px;
@@ -360,7 +364,7 @@ input, button {
 	cursor: pointer;
 }
 
-.cantonContainer > div input[type="checkbox"] {
+.canton-container > div input[type="checkbox"] {
 	position: absolute;
 	opacity: 0;
 	cursor: inherit;
@@ -368,7 +372,7 @@ input, button {
 	width: 0;
 }
 
-.cantonContainer > div label {
+.canton-container > div label {
 	cursor: inherit;
 	position: absolute;
 	top: 0;
@@ -379,11 +383,11 @@ input, button {
 	transition: 0.2s ease all;
 }
 
-.cantonContainer > div:hover label {
+.canton-container > div:hover label {
 	color: var(--accent-secondary);
 }
 
-.checkmarkSpan {
+.checkmark-span {
 	position: absolute;
 	left: 6px;
 	top: 50%;
@@ -394,11 +398,11 @@ input, button {
 	transition: 0.2s ease all;
 }
 
-.cantonContainer > div input:checked ~ .checkmarkSpan {
+.canton-container > div input:checked ~ .checkmark-span {
 	background: var(--accent);
 }
 
-.checkmarkSpan::after {
+.checkmark-span::after {
 	content: "";
 	position: absolute;
 	top: 4px;
@@ -412,11 +416,11 @@ input, button {
 	transition: 0.2s ease all;
 }
 
-.cantonContainer > div input:checked ~ .checkmarkSpan::after {
+.canton-container > div input:checked ~ .checkmark-span::after {
 	transform: rotate(45deg) scale(1);
 }
 
-.filterButton {
+.filter-button {
 	height: 50px;
 	width: 50px;
 	color: var(--background);
@@ -426,7 +430,7 @@ input, button {
 	margin-right: 16px;
 }
 
-.filterButton::after {
+.filter-button::after {
 	content: "";
 	height: 100%;
 	width: 100%;
@@ -440,20 +444,20 @@ input, button {
 	filter: var(--background-filter);
 }
 
-.filterButton:hover:after {
+.filter-button:hover:after {
 	filter: var(--accent-filter);
 }
 
-.flexorP {
+.flexor-parent {
 	width: 100%;
 	display: flex;
 }
 
-.flexorP > div {
+.flexor-parent > div {
 	flex: 1;
 }
 
-.submitButtons {
+.submit-buttons {
 	display: flex;
 	max-width: 300px;
 	margin: 0 0 0 16px;
@@ -464,15 +468,15 @@ input, button {
 		padding: 64px 16px;
 	}
 	
-	.logoDiv {
+	.logo-div {
 		display: none;
 	}
 
-	.flexorP {
+	.flexor-parent {
 		display: block;
 	}
 
-	.submitButtons {
+	.submit-buttons {
 		margin: 8px 0 0 0;
 		max-width: 100%;
 	}
@@ -482,29 +486,29 @@ input, button {
 	flex: 1;
 }
 
-.wordWrapper {
+.word-wrapper {
 	margin-bottom: 32px;
 }
 
-.wordHeader {
+.word-header {
 	display: flex;
 	width: 100%;
 	height: 48px;
 	line-height: 48px;
 }
 
-.wordHeader > div {
+.word-header > div {
 	height: 100%;
 	border: 2px solid var(--text-primary);
 }
 
-.wordHeader > .wordMenu {
+.word-header > .word-menu {
 	width: 48px;
 	background: var(--accent);
 	transition: 0.2s ease all;
 }
 
-.wordHeader > .wordMenu::after {
+.word-header > .word-menu::after {
 	content: "";
 	height: 100%;
 	width: 100%;
@@ -518,19 +522,19 @@ input, button {
 	pointer-events: none;
 }
 
-.wordHeader > .wordMenu:hover:after {
+.word-header > .word-menu:hover:after {
 	transform: rotate(90deg);
 }
 
-.menuEngaged::after {
+.menu-engaged::after {
 	transform: rotate(90deg);
 }
 
-.wordHeader > .wordMenu:hover {
+.word-header > .word-menu:hover {
 	cursor: pointer;
 }
 
-.wordHeader > .headerWord {
+.word-header > .header-word {
 	margin-left: 16px;
 	flex: 1;
 	padding: 0 8px;
@@ -541,11 +545,11 @@ input, button {
 	transition: 0.5s ease all;
 }
 
-.wordHeader > .wordGerman, .wordMoreInfo {
+.word-header > .word-german, .word-more-info {
 	--inset-shadow-color: var(--background);
 }
 
-.wordHeader > .wordGerman::after, .wordMoreInfo::after {
+.word-header > .word-german::after, .word-more-info::after {
 	content: "";
 	position: absolute;
 	top: 0;
@@ -558,23 +562,23 @@ input, button {
 	transition: 0.5s ease all;
 }
 
-.wordHeader > .wordSwissGerman {
+.word-header > .word-swiss-german {
 	background: hsl(var(--accent-1), var(--accent-2), var(--accent-3), calc(var(--count-first) / var(--matches)));
 }
 
-.breakNoDis, .breakDis {
+.break-no-dis, .break-dis {
 	float: left;
 }
 
-.breakDis {
+.break-dis {
 	display: block;
 }
 
-.matchesGermanSpan, .matchesSwissGermanSpan {
+.matches-german-span, .matches-swiss-german-span {
 	margin-left: 0.5rem;
 }
 
-.wordMoreInfo {
+.word-more-info {
 	border: 2px solid var(--text-primary);
 	position: relative;
 	top: 4px;
@@ -583,7 +587,7 @@ input, button {
 	overflow: hidden;
 }
 
-.translationBarWrapper > div {
+.translation-bar-wrapper > div {
 	height: 32px;
 	line-height: 32px;
 	border: 2px solid var(--text-primary);
@@ -595,11 +599,11 @@ input, button {
 	background: hsl(var(--accent2-1), var(--accent2-2), var(--accent2-3), calc(var(--count) / var(--count-first)));
 }
 
-.translationBarWrapper > div:first-child {
+.translation-bar-wrapper > div:first-child {
 	margin-top: 0;
 }
 
-.translationContainer {
+.translation-container {
 	position: absolute;
 	left: 100%;
 	margin-left: 8px;
@@ -609,47 +613,47 @@ input, button {
 	:root {
 		font-size: 0.8rem;
 	}
-	.wordMoreInfo {
+	.word-more-info {
 		--inset-shadow-color: rgba(0, 0, 0, 0);
 	}
 
-	.translationContainer {
+	.translation-container {
 		left: 0;
 	}
 
-	.translationBarWrapper > div {
+	.translation-bar-wrapper > div {
 		width: calc(100% - 4px);
 		max-width: calc(100% - 4px);
 	}
 
-	.wordSwissGerman {
+	.word-swiss-german {
 		display: none !important;
 	}
 
-	.submitButtons {
+	.submit-buttons {
 		margin: 16px 0 0 0;
 	}
 } 
 
-.infoBar {
+.info-bar {
 	display: none;
 }
 
-.infoDisplay {
+.info-display {
 	display: block;
 }
 
-.headSection {
+.head-section {
 	margin-bottom: 32px;
 }
 
-.footerSection {
+.footer-section {
 	opacity: .5;
 	font-size: 1rem;
 	margin-top: 64px;
 }
 
-.footerSection > hr {
+.footer-section > hr {
 	border: 1px solid var(--text-primary);
 	margin-bottom: 8px;
 }

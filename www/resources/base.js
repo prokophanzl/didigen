@@ -7,17 +7,17 @@ function checkCantons(canton) {
     }
 }
 function toggleMatch(matchVal) {
-    $("#termInput").val(matchVal);
+    $("#term-input").val(matchVal);
     
-    if (!$("#" + matchVal).hasClass("searchOptionSelected")) {
-        $(".searchOption").removeClass("searchOptionSelected");
-        $("#" + matchVal).addClass("searchOptionSelected");
+    if (!$("#" + matchVal).hasClass("search-option-selected")) {
+        $(".search-option").removeClass("search-option-selected");
+        $("#" + matchVal).addClass("search-option-selected");
     }
 }
 
 function toggleFilters() {
     const filtersOpen = sessionStorage.getItem("filtersOpen");
-    const filterContainer = $("#filterContainer");
+    const filterContainer = $("#filter-container");
     
     if (filtersOpen) {
         filterContainer.css("display", "none");
@@ -30,21 +30,21 @@ function toggleFilters() {
 
 function toggle(infoId) {
     const thisMenu = $("#" + infoId);
-    const thisToggle = $("#" + infoId + "Menu");
-    const g = $("#" + infoId + "G");
-    const sg = $("#" + infoId + "SG");
+    const thisToggle = $("#" + infoId + "-menu");
+    const g = $("#" + infoId + "-g");
+    const sg = $("#" + infoId + "-sg");
     
-    const menuOpen = thisToggle.hasClass("menuEngaged");
+    const menuOpen = thisToggle.hasClass("menu-engaged");
     
     if (menuOpen) {
-        thisMenu.removeClass("infoDisplay");
-        thisToggle.removeClass("menuEngaged");
+        thisMenu.removeClass("info-display");
+        thisToggle.removeClass("menu-engaged");
         g.css("background", "var(--background)");
         g.css("--inset-shadow-color", "var(--background)");
         sg.css("display", "block");
     } else {
-        thisMenu.addClass("infoDisplay");
-        thisToggle.addClass("menuEngaged");
+        thisMenu.addClass("info-display");
+        thisToggle.addClass("menu-engaged");
         g.css("background", "var(--accent)");
         g.css("--inset-shadow-color", "var(--accent)");
         sg.css("display", "none");
@@ -95,20 +95,20 @@ if (cantonsSet == 0) {
 }
 
 if (urlParams.get("word")) {
-    $("#wordInput").val(urlParams.get("word"));
-    $("#wordSearched").text(urlParams.get("word"))
+    $("#word-input").val(urlParams.get("word"));
+    $("#word-searched").text(urlParams.get("word"))
 }
 
 if(urlParams.get("match")) {
-    $("#termInput").value = urlParams.get("match");
+    $("#term-input").value = urlParams.get("match");
     toggleMatch(urlParams.get("match"));
 }
 
 if (sessionStorage.getItem("filtersOpen")) {
-    $("#filterContainer").css("display", "block");
+    $("#filter-container").css("display", "block");
 }
 
-filtersActive = $("#filtersActive");
+filtersActive = $("#filters-active");
 if (filterCounter == 0) {
     filtersActive.text("keine");
 } else {
