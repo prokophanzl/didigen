@@ -1,0 +1,678 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+:root {
+	--fonts: 'Work Sans', sans-serif;
+	background-color: var(--background);
+	color: var(--text-primary);
+	font-family: var(--fonts);
+}
+
+/* default: light mode */
+:root {
+	--background: hsl(220, 10%, 95%);
+
+	--text-primary: hsl(220, 10%, 10%);
+	--text-primary-50: hsl(220, 10%, 10%, 50%);
+
+	--accent: hsl(0, 70%, 70%);
+	--accent-secondary: hsl(0, 70%, 50%);
+
+	--accent2: hsl(210, 70%, 70%);
+	--accent2-secondary: hsl(210, 50%, 50%);
+
+	--background-filter: invert(99%) sepia(1%) saturate(297%) hue-rotate(180deg) brightness(99%) contrast(94%);
+	--text-primary-filter: invert(6%) sepia(10%) saturate(781%) hue-rotate(176deg) brightness(99%) contrast(93%);
+	--accent-filter: invert(64%) sepia(42%) saturate(873%) hue-rotate(311deg) brightness(98%) contrast(86%);
+
+	--accent-1: 0;
+	--accent-2: 70%;
+	--accent-3: 70%;
+
+	--accent2-1: 210;
+	--accent2-2: 70%;
+	--accent2-3: 70%;
+
+	--logo-color: hsl(220, 10%, 95%);
+	--logo-background: hsl(0, 70%, 50%);
+	--logo-border: hsl(0, 70%, 50%);
+}
+
+/* if browser supports it and user prefers it: dark mode */
+@media (prefers-color-scheme: dark) {
+	:root {
+		--background: hsl(220, 10%, 15%);
+
+		--text-primary: hsl(220, 10%, 90%);
+		--text-primary-50: hsl(220, 10%, 90%, 50%);
+
+		--accent: hsl(0, 50%, 50%);
+		--accent-secondary: hsl(0, 50%, 70%);
+
+		--accent2: hsl(210, 50%, 50%);
+		--accent2-secondary: hsl(210, 70%, 70%);
+
+		--background-filter: invert(10%) sepia(4%) saturate(2590%) hue-rotate(179deg) brightness(95%) contrast(87%);
+		--text-primary-filter: invert(99%) sepia(4%) saturate(754%) hue-rotate(177deg) brightness(95%) contrast(91%);
+		--accent-filter: invert(30%) sepia(67%) saturate(1378%) hue-rotate(328deg) brightness(90%) contrast(90%);
+
+		--accent-1: 0;
+		--accent-2: 50%;
+		--accent-3: 50%;
+
+		--accent2-1: 210;
+		--accent2-2: 50%;
+		--accent2-3: 50%;
+
+		--logo-border: hsl(220, 10%, 95%);
+	}
+}
+
+body {
+	padding: 64px;
+	font-size: 1.25rem;
+	-webkit-text-size-adjust: 100%;
+	-ms-text-size-adjust: 100%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-weight: 500;
+}
+
+h1 {
+	margin-top: 0;
+	font-size: 2rem;
+}
+
+input, button {
+	font-family: inherit;
+}
+
+.primary50 {
+	color: var(--text-primary-50);
+}
+
+.normal-weight {
+	font-weight: normal;
+}
+
+.inputWrapper {
+	width: 100%;
+	position: relative;
+	border-bottom: 2px dashed var(--text-primary-50);
+	transition: 0.5s ease all;
+	margin: 0;
+	height: 48px;
+}
+
+.inputWrapper:focus-within .searchLabel {
+	opacity: 0;
+}
+
+.inputField {
+	display: flex;
+}
+
+.logoDiv {
+	height: 32px;
+	aspect-ratio: 1;
+	line-height: 16px;
+	margin-right: 16px;
+	padding: 4px;
+	border: 5px solid var(--logo-border);
+	font-weight: 700;
+	background: var(--logo-background);
+	color: var(--logo-color);
+	user-select: none;
+	-ms-user-select: none;
+	-moz-user-select: none;
+	-webkit-user-select: none;
+}
+
+.wordInput {
+	color: inherit;
+	font-size: 1.5rem;
+	width: 100%;
+	height: 48px;
+	border-radius: 0;
+	-moz-appearance: textfield;
+	-webkit-appearance: textfield;
+	padding: 0;
+	outline: none;
+	border: none;
+	overflow: hidden;
+	margin: 0;
+	background: none;
+	font-weight: 500;
+	position: relative;
+	z-index: 1;
+}
+
+.inputWrapper::before {
+	content: '';
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	box-shadow: inset -32px 0 12px -16px var(--background);
+	z-index: 2;
+	pointer-events: none;
+}
+
+.inputWrapper::after {
+	content: '';
+	position: relative;
+	display: block;
+	height: 4px;
+	width: 100%;
+	background: var(--accent);
+	transform: scaleX(0);
+	transform-origin: 0;
+	transition: 0.5s ease all;
+	top: -2px;
+	z-index: 3;
+}
+
+.inputWrapper:focus-within {
+	border-color: transparent;
+}
+
+.inputWrapper:focus-within::after {
+	transform: scaleX(1);
+}
+
+.submit {
+	font-weight: 500;
+	width: 100%;
+	height: 50px;
+	line-height: 50px;
+	color: var(--background);
+	border: none;
+	border-radius: 0;
+	background: var(--text-primary);
+	font-size: 1.5rem;
+	cursor: pointer;
+	transition: 0.2s ease all;
+	padding: 0 2rem;
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	appearance: none;
+}
+
+.submit:hover {
+	color: var(--accent);
+}
+
+.filterContainer {
+	border: 2px solid var(--text-primary);
+	margin-top: 16px;
+	display: none;
+	padding: 8px;
+	position: relative
+}
+
+.closeFilters {
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	padding: 8px;
+	text-align: right;
+}
+
+@media only screen and (max-width: 300px) {
+	.closeFilters {
+		position: inherit;
+		padding: 0;
+	}
+}
+
+.filterTitleDiv {
+	margin-bottom: 8px;
+	padding: 0 4px;
+	font-size: 1.75rem;
+}
+
+.filterTitleDiv:not(:first-child) {
+	margin-top: 16px;
+}
+
+.searchOptionContainer {
+	padding: 6px;
+	display: flex;
+	width: calc(100% - 12px);
+}
+
+.searchOptionButtonContainer > div:not(:first-child), .searchOptionContainer > div:first-child, .searchOptionContainer > div:last-child {
+	margin-left: 8px;
+}
+
+.searchOptionButtonContainer > div, .searchOptionContainer > div:first-child, .searchOptionContainer > div:last-child {
+	padding: 8px;
+}
+
+.searchOptionContainer > div:first-child, .searchOptionContainer > div:last-child {
+	line-height: 24px;
+	height: 24px;
+	padding-left: 0;
+}
+
+.searchOptionButtonContainer {
+	display: flex;
+	min-width: 300px;
+	width: 50%;
+	width: auto;
+}
+
+.searchOptionButtonContainer > div {
+	flex: 1;
+	line-height: 24px;
+	height: 24px;
+	text-align: center;
+}
+
+.searchOptionContainer > div:first-child {
+	margin: 0;
+	padding-left: 0;
+	text-align: right;
+}
+
+.searchOptionContainer > div:last-child {
+	padding-right: 0;
+	text-align: left;
+}
+
+.searchOption {
+	cursor: pointer;
+	border: 2px solid var(--text-primary);
+	transition: 0.2s ease all;
+}
+
+.searchOption:not(.searchOptionSelected):hover {
+	background: var(--text-primary-50);
+}
+
+.searchOptionButtonContainer {
+	display: flex;
+	height: 44px;
+	white-space: nowrap;
+}
+
+.searchOptionSelected {
+	background: var(--accent);
+}
+
+.termInput {
+	display: none;
+}
+
+@media only screen and (max-width: 590px) {
+	.searchOptionContainer > div {
+		margin: 0;
+		padding: 0;
+	}
+
+	.searchOptionContainer > div:first-child {
+		text-align: left;
+	}
+
+	.searchOptionContainer > div:last-child {
+		margin: 0;
+	}
+
+	.searchOptionContainer {
+		display: block;
+		white-space: normal;
+	}
+
+	.searchOptionButtonContainer {
+		margin: 8px 0;
+		min-width: 0;
+	}
+}
+
+@media only screen and (max-width: 390px) {
+	.searchOptionButtonContainer {
+		display: block;
+		height: auto;
+	}
+
+	.searchOptionButtonContainer > div:not(:first-child) {
+		/* display: block;
+		border: 2px solid var(--accent); */
+		margin: 8px 0 0 0;
+	}
+}
+
+.cantonContainer {
+	width: 100%;
+	display: grid;
+	gap: 8px;
+	grid-template-columns: repeat(auto-fit, minmax(19rem, 1fr));
+}
+
+.cantonContainer > div {
+	display: block;
+	font-size: 1.25rem;
+	height: 40px;
+	line-height: 40px;
+	padding: 0 8px;
+	position: relative;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	cursor: pointer;
+}
+
+.cantonContainer > div input[type='checkbox'] {
+	position: absolute;
+	opacity: 0;
+	cursor: inherit;
+	height: 0;
+	width: 0;
+}
+
+.cantonContainer > div label {
+	cursor: inherit;
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 100%;
+	width: 100%;
+	padding-left: 44px;
+	transition: 0.2s ease all;
+}
+
+.cantonContainer > div:hover label {
+	color: var(--accent-secondary);
+}
+
+.checkmarkSpan {
+	position: absolute;
+	left: 6px;
+	top: 50%;
+	transform: translate(0, -50%);
+	height: 24px;
+	width: 24px;
+	border: 2px solid var(--text-primary);
+	transition: 0.2s ease all;
+}
+
+.cantonContainer > div input:checked ~ .checkmarkSpan {
+	background: var(--accent);
+}
+
+.checkmarkSpan::after {
+	content: '';
+	position: absolute;
+	/* display: none; */
+	top: 4px;
+	left: 8px;
+	width: 6px;
+	height: 10px;
+	border: solid var(--text-primary);
+	border-width: 0 3px 3px 0;
+	transform: rotate(45deg) scale(0);
+	transform-origin: center;
+	transition: 0.2s ease all;
+}
+
+.cantonContainer > div input:checked ~ .checkmarkSpan::after {
+	transform: rotate(45deg) scale(1);
+}
+
+.filterButton {
+	height: 50px;
+	width: 50px;
+	color: var(--background);
+	/* background: var(--text-primary-50); */
+	background: var(--text-primary);
+	cursor: pointer;
+	transition: 0.2s ease all;
+	margin-right: 16px;
+	/* border: 2px solid var(--text-primary); */
+}
+
+.filterButton::after {
+	content: '';
+	height: 100%;
+	width: 100%;
+	display: block;
+	background-image: url('filter.svg');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 50%;
+	transition: 0.2s ease all;
+	pointer-events: none;
+	filter: var(--background-filter);
+}
+
+/* .filterButton:hover {
+	background: var(--text-primary);
+} */
+
+.filterButton:hover:after {
+	filter: var(--accent-filter);
+}
+
+.flexorP {
+	width: 100%;
+	display: flex;
+}
+
+.flexorP > div {
+	flex: 1;
+}
+
+.submitButtons {
+	display: flex;
+	max-width: 300px;
+	margin: 0 0 0 16px;
+}
+
+@media only screen and (max-width: 820px) {
+	body {
+		padding: 64px 16px;
+	}
+	
+	.logoDiv {
+		display: none;
+	}
+
+	.flexorP {
+		display: block;
+	}
+
+	.submitButtons {
+		margin: 8px 0 0 0;
+		max-width: 100%;
+	}
+}
+
+.flex1 {
+	flex: 1;
+}
+
+.wordWrapper {
+	/* display: flex; */
+	margin-bottom: 32px;
+}
+
+.wordHeader {
+	display: flex;
+	width: 100%;
+	height: 48px;
+	line-height: 48px;
+}
+
+.wordHeader > div {
+	height: 100%;
+	border: 2px solid var(--text-primary);
+}
+
+.wordHeader > .wordMenu {
+	width: 48px;
+	background: var(--accent);
+	transition: 0.2s ease all;
+}
+
+.wordHeader > .wordMenu::after {
+	content: '';
+	height: 100%;
+	width: 100%;
+	display: block;
+	background-image: url('arrow-right.svg');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 60%;
+	filter: var(--text-primary-filter);
+	transition: 0.2s ease all;
+	pointer-events: none;
+}
+
+.wordHeader > .wordMenu:hover:after {
+	transform: rotate(90deg);
+}
+
+.menuEngaged::after {
+	transform: rotate(90deg);
+}
+
+.wordHeader > .wordMenu:hover {
+	cursor: pointer;
+}
+
+.wordHeader > .headerWord {
+	margin-left: 16px;
+	flex: 1;
+	padding: 0 8px;
+	display: block;
+	overflow: hidden;
+	white-space: nowrap;
+	position: relative;
+	transition: 0.5s ease all;
+}
+
+.wordHeader > .wordGerman, .wordMoreInfo {
+	--inset-shadow-color: var(--background);
+}
+
+.wordHeader > .wordGerman::after, .wordMoreInfo::after {
+	content: '';
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	z-index: 255;
+	box-shadow: inset -32px 0 12px -16px var(--inset-shadow-color);
+	pointer-events: none;
+	transition: 0.5s ease all;
+}
+
+.wordHeader > .wordSwissGerman {
+	background: hsl(var(--accent-1), var(--accent-2), var(--accent-3), calc(var(--count-first) / var(--matches)));
+}
+
+.breakNoDis, .breakDis {
+	float: left;
+}
+
+.breakDis {
+	display: block;
+}
+
+.matchesGermanSpan, .matchesSwissGermanSpan {
+	margin-left: 0.5rem;
+}
+
+.wordMoreInfo {
+	border: 2px solid var(--text-primary);
+	position: relative;
+	top: 4px;
+	margin: 16px 0 0 68px;
+	padding: 8px;
+	overflow: hidden;
+}
+
+.translationBarWrapper > div {
+	height: 32px;
+	line-height: 32px;
+	border: 2px solid var(--text-primary);
+	margin-top: 8px;
+	width: calc(var(--count) / var(--count-first) * 50% - 12px);
+	max-width: calc(var(--count) / var(--count-first) * 300px);
+	white-space: nowrap;
+	position: relative;
+	background: hsl(var(--accent2-1), var(--accent2-2), var(--accent2-3), calc(var(--count) / var(--count-first)));
+}
+
+.translationBarWrapper > div:first-child {
+	margin-top: 0;
+}
+
+.translationContainer {
+	position: absolute;
+	left: 100%;
+	margin-left: 8px;
+}
+
+@media only screen and (max-width: 450px) {
+	:root {
+		font-size: 0.8rem;
+	}
+	.wordMoreInfo {
+		--inset-shadow-color: rgba(0, 0, 0, 0);
+	}
+
+	.translationContainer {
+		left: 0;
+	}
+
+	.translationBarWrapper > div {
+		width: calc(100% - 4px);
+		max-width: calc(100% - 4px);
+	}
+
+	.wordSwissGerman {
+		display: none !important;
+	}
+
+	.submitButtons {
+		margin: 16px 0 0 0;
+	}
+} 
+
+.infoBar {
+	display: none;
+}
+
+.infoDisplay {
+	display: block;
+}
+
+.headSection {
+	margin-bottom: 32px;
+}
+
+.footerSection {
+	opacity: .5;
+	font-size: 1rem;
+	margin-top: 64px;
+}
+
+.footerSection > hr {
+	border: 1px solid var(--text-primary);
+	margin-bottom: 8px;
+}
+
+a[href], .link {
+	transition: 0.2s ease all;
+	color: var(--accent);
+	text-decoration: none;
+	cursor: pointer;
+}
+
+a[href]:hover, .link:hover {
+	color: var(--accent-secondary);
+}
