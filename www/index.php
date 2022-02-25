@@ -255,114 +255,116 @@
 			3 Suchergebnisse für &laquo;&nbsp;<span id="word-searched"></span>&nbsp;&raquo;
 			<span class="primary50 normal-weight">(145 Datenpunkte, <span id="filters-active"></span> Filter aktiv)</span>
 		</h3>
-		<div class="word-wrapper" style="--matches: 6; --count-first: 5">
-			<div class="word-header">
-				<div class="word-menu" onclick="toggle('Weihnachten')" id="Weihnachten-menu"></div>
-				<div class="word-german header-word" id="Weihnachten-g">
-					<span class="word-german-span break-no-dis">Weihnachten</span>
-					<span class="primary50 matches-german-span break-dis">(6)</span>
-				</div>
-				<div class="word-swiss-german header-word" id="Weihnachten-sg">
-					<span class="word-swiss-german-span break-no-dis">Wiehnachte</span>
-					<span class="primary50 matches-swiss-german-span break-dis">(5/6)</span>
-				</div>
-			</div>
-			<div class="word-more-info info-bar" id="Weihnachten">
-				<div class="translation-bar-wrapper">
-					<div style="--count: 5">
-						<span class="translation-container">
-							<span class="translation">Wiehnachte</span>
-							<span class="translation-count primary50">5</span>
-						</span>
+		<div id="translation-parent">
+			<div class="word-wrapper" style="--matches: 6; --count-first: 5">
+				<div class="word-header">
+					<div class="word-menu" onclick="toggle('Weihnachten')" id="Weihnachten-menu"></div>
+					<div class="word-german header-word" id="Weihnachten-g">
+						<span class="word-german-span break-no-dis">Weihnachten</span>
+						<span class="primary50 matches-german-span break-dis">(6)</span>
 					</div>
-					<div style="--count: 1">
-						<span class="translation-container">
-							<span class="translation">Wienachte</span>
-							<span class="translation-count primary50">1</span>
-						</span>
+					<div class="word-swiss-german header-word" id="Weihnachten-sg">
+						<span class="word-swiss-german-span break-no-dis">Wiehnachte</span>
+						<span class="primary50 matches-swiss-german-span break-dis">(5/6)</span>
 					</div>
 				</div>
+				<div class="word-more-info info-bar" id="Weihnachten">
+					<div class="translation-bar-wrapper">
+						<div style="--count: 5">
+							<span class="translation-container">
+								<span class="translation">Wiehnachte</span>
+								<span class="translation-count primary50">5</span>
+							</span>
+						</div>
+						<div style="--count: 1">
+							<span class="translation-container">
+								<span class="translation">Wienachte</span>
+								<span class="translation-count primary50">1</span>
+							</span>
+						</div>
+					</div>
+				</div>
 			</div>
-		</div>
-
-		<div class="word-wrapper" style="--matches: 37; --count-first: 19">
-			<div class="word-header">
-				<div class="word-menu" onclick="toggle('weil')" id="weil-menu"></div>
-				<div class="word-german header-word" id="weil-g">
-					<span class="word-german-span break-no-dis">weil</span><span
+			
+			<div class="word-wrapper" style="--matches: 37; --count-first: 19">
+				<div class="word-header">
+					<div class="word-menu" onclick="toggle('weil')" id="weil-menu"></div>
+					<div class="word-german header-word" id="weil-g">
+						<span class="word-german-span break-no-dis">weil</span><span
 						class="primary50 matches-german-span break-dis"> (37)</span>
-				</div>
-				<div class="word-swiss-german header-word" id="weil-sg">
-					<span class="word-swiss-german-span break-no-dis">will</span><span
+					</div>
+					<div class="word-swiss-german header-word" id="weil-sg">
+						<span class="word-swiss-german-span break-no-dis">will</span><span
 						class="primary50 matches-swiss-german-span break-dis">(19/37)</span>
-				</div>
-			</div>
-			<div class="word-more-info info-bar" id="weil">
-				<div class="translation-bar-wrapper">
-					<div style="--count: 19">
-						<span class="translation-container">
-							<span class="translation">will</span>
-							<span class="translation-count primary50"> 19</span>
-						</span>
-					</div>
-					<div style="--count: 12">
-						<span class="translation-container">
-							<span class="translation">wil</span>
-							<span class="translation-count primary50"> 12</span>
-						</span>
-					</div>
-					<div style="--count: 6">
-						<span class="translation-container">
-							<span class="translation">well</span>
-							<span class="translation-count primary50"> 6</span>
-						</span>
 					</div>
 				</div>
+				<div class="word-more-info info-bar" id="weil">
+					<div class="translation-bar-wrapper">
+						<div style="--count: 19">
+							<span class="translation-container">
+								<span class="translation">will</span>
+								<span class="translation-count primary50"> 19</span>
+							</span>
+						</div>
+						<div style="--count: 12">
+							<span class="translation-container">
+								<span class="translation">wil</span>
+								<span class="translation-count primary50"> 12</span>
+							</span>
+						</div>
+						<div style="--count: 6">
+							<span class="translation-container">
+								<span class="translation">well</span>
+								<span class="translation-count primary50"> 6</span>
+							</span>
+						</div>
+					</div>
+				</div>
 			</div>
-		</div>
-
-		<div class="word-wrapper" style="--matches: 102; --count-first: 53">
-			<div class="word-header">
-				<div class="word-menu" onclick="toggle('wir')" id="wir-menu"></div>
-				<div class="word-german header-word" id="wir-g">
-					<span class="word-german-span break-no-dis">wir</span><span
+			
+			<div class="word-wrapper" style="--matches: 102; --count-first: 53">
+				<div class="word-header">
+					<div class="word-menu" onclick="toggle('wir')" id="wir-menu"></div>
+					<div class="word-german header-word" id="wir-g">
+						<span class="word-german-span break-no-dis">wir</span><span
 						class="primary50 matches-german-span break-dis"> (102)</span>
-				</div>
-				<div class="word-swiss-german header-word" id="wir-sg">
-					<span class="word-swiss-german-span break-no-dis">mir</span><span
+					</div>
+					<div class="word-swiss-german header-word" id="wir-sg">
+						<span class="word-swiss-german-span break-no-dis">mir</span><span
 						class="primary50 matches-swiss-german-span break-dis">(53/102)</span>
+					</div>
 				</div>
-			</div>
-			<div class="word-more-info info-bar" id="wir">
-				<div class="translation-bar-wrapper">
-					<div style="--count: 53">
-						<span class="translation-container">
-							<span class="translation">mir</span>
-							<span class="translation-count primary50"> 53</span>
-						</span>
-					</div>
-					<div style="--count: 37">
-						<span class="translation-container">
-							<span class="translation">mer</span>
-							<span class="translation-count primary50"> 37</span>
-						</span>
-					</div>
-					<div style="--count: 7">
-						<span class="translation-container">
-							<span class="translation">mr</span>
-							<span class="translation-count primary50"> 7</span>
-						</span>
-					</div>
-					<div style="--count: 4">
-						<span class="translation-container">
-							<span class="translation">mier</span>
-							<span class="translation-count primary50"> 4</span>
-						</span>
+				<div class="word-more-info info-bar" id="wir">
+					<div class="translation-bar-wrapper">
+						<div style="--count: 53">
+							<span class="translation-container">
+								<span class="translation">mir</span>
+								<span class="translation-count primary50"> 53</span>
+							</span>
+						</div>
+						<div style="--count: 37">
+							<span class="translation-container">
+								<span class="translation">mer</span>
+								<span class="translation-count primary50"> 37</span>
+							</span>
+						</div>
+						<div style="--count: 7">
+							<span class="translation-container">
+								<span class="translation">mr</span>
+								<span class="translation-count primary50"> 7</span>
+							</span>
+						</div>
+						<div style="--count: 4">
+							<span class="translation-container">
+								<span class="translation">mier</span>
+								<span class="translation-count primary50"> 4</span>
+							</span>
+						</div>
 					</div>
 				</div>
 			</div>
 		</div>
-
+		
 	</section>
 	<section class="footer-section">
 		<hr>

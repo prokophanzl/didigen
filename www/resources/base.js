@@ -53,7 +53,7 @@ function toggle(infoId) {
 
 const urlParams = new URLSearchParams(window.location.search);
 
-var cantons = [
+const cantons = [
     "ag",
     "ar",
     "ai",
@@ -80,7 +80,7 @@ var cantons = [
     "vs",
     "zg",
     "zh",
-    "xx"
+    "xx",
 ];
 
 var cantonsSet = cantons.length;
