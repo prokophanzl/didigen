@@ -1,2 +1,0 @@
-# dskue
- Deutsch-Schweizerdeutscher Korpusübersetzer
