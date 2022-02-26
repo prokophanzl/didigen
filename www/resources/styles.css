@@ -65,6 +65,23 @@
 	font-family: var(--fonts);
 }
 
+::-webkit-scrollbar {
+	width: 10px;
+}
+
+::-webkit-scrollbar-track {
+	background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+	background: var(--text-primary);
+	border-radius: 0;
+}
+
+::-webkit-scrollbar-button {
+	display: none;
+}
+
 body {
 	padding: 64px;
 	font-size: 1.25rem;
