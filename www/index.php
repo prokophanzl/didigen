@@ -25,9 +25,8 @@
 					</div>
 				</div>
 				<div class="submit-buttons">
-					<div id="filter-button" class="filter-button" onclick="toggleFilters()">
-					</div>
-					<div class="flex1">
+					<div id="filter-button" class="filter-button" onclick="toggleFilters()"></div>
+					<div class="flex1 focus-outline">
 						<input type="submit" class="submit" id="submit" value="übersetzen" onclick="sessionStorage.removeItem('filtersOpen');">
 					</div>
 				</div>
