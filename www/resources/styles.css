@@ -444,7 +444,7 @@ input, button {
 	filter: var(--background-filter);
 }
 
-.filter-button:hover:after {
+.filter-button:hover::after {
 	filter: var(--accent-filter);
 }
 
@@ -522,7 +522,7 @@ input, button {
 	pointer-events: none;
 }
 
-.word-header > .word-menu:hover:after {
+.word-header > .word-menu:hover::after {
 	transform: rotate(90deg);
 }
 
