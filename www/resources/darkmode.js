@@ -1,3 +1,5 @@
+// borrowed from: https://codepen.io/kevinpowell/pen/EMdjOV
+
 let darkMode = localStorage.getItem("darkMode");
 const darkModeToggle = document.querySelector("#dark-mode-toggle");
 const prefersDarkMode = window.matchMedia("(prefers-color-scheme:dark)").matches;
