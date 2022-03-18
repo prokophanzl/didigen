@@ -368,7 +368,7 @@
 
 		<script>
 			$(window).on("load", function () {
-				$(".loader-wrapper").fadeOut("slow");
+				$(".loader-wrapper").delay(500).fadeOut("slow");
 			});
 		</script>
 		<script src="resources/base.js"></script>
