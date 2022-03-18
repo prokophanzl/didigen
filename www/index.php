@@ -357,10 +357,12 @@
 			<hr />
 			<span id="copyright">&copy; 2022 Prokop Hanzl</span>
 			<br />
-			<a href="https://github.com/prokophanzl" target="_blank">GitHub</a> | <a href="https://github.com/ProkopHanzl/dsw/issues/new/choose" target="_blank">Fehler melden</a> |
+			<a href="#" id="dark-mode-toggle">Dunkelmodus</a> | <a href="https://github.com/prokophanzl" target="_blank">GitHub</a> |
+			<a href="https://github.com/ProkopHanzl/dsw/issues/new/choose" target="_blank">Fehler melden</a> |
 			<a href="mailto:phanzl@dustah.com">Kontakt</a>
 		</section>
 
 		<script src="resources/base.js"></script>
+		<script src="resources/darkmode.js"></script>
 	</body>
 </html>
