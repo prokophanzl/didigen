@@ -6,6 +6,7 @@
 		<link rel="preconnect" href="https://fonts.googleapis.com" />
 		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 		<link href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;500;700&display=swap" rel="stylesheet" />
+		<link rel="stylesheet" type="text/css" href="resources/loader.css" />
 		<link rel="stylesheet" type="text/css" href="resources/styles.css" />
 		<link rel="icon" type="image/png" href="/resources/logo/logo_58.png" />
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
@@ -13,6 +14,9 @@
 	</head>
 
 	<body>
+		<div class="loader-wrapper">
+			<span class="loader"><span class="loader-inner"></span></span>
+		</div>
 		<section class="head-section">
 			<form method="get" autocomplete="off">
 				<h1 class="main-title">Deutsch-Schweizerdeutsches Wörterbuch</h1>
@@ -362,6 +366,11 @@
 			<a href="mailto:phanzl@dustah.com">Kontakt</a>
 		</section>
 
+		<script>
+			$(window).on("load", function () {
+				$(".loader-wrapper").fadeOut("slow");
+			});
+		</script>
 		<script src="resources/base.js"></script>
 		<script src="resources/darkmode.js"></script>
 	</body>

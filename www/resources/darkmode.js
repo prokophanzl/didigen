@@ -12,11 +12,11 @@ const enableDarkMode = () => {
 
 const disableDarkMode = () => {
 	document.body.classList.remove("darkmode");
-	localStorage.setItem("darkMode", null);
+	localStorage.setItem("darkMode", "disabled");
 	$("#dark-mode-toggle").html("Dunkelmodus");
 };
 
-if (darkMode === "enabled") {
+if (darkMode === "enabled" || (darkMode !== "disabled" && prefersDarkMode)) {
 	enableDarkMode();
 }
 
@@ -28,7 +28,3 @@ darkModeToggle.addEventListener("click", () => {
 		disableDarkMode();
 	}
 });
-
-if (prefersDarkMode) {
-	enableDarkMode;
-}
