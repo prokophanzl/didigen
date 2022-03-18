@@ -54,8 +54,8 @@ const urlParams = new URLSearchParams(window.location.search);
 
 const cantons = ["ag", "ar", "ai", "bl", "bs", "be", "fr", "ge", "gl", "gr", "ju", "lu", "ne", "nw", "ow", "sh", "sz", "so", "sg", "ti", "tg", "ur", "vd", "vs", "zg", "zh", "xx"];
 
-var cantonsSet = cantons.length;
-var filterCounter = 0;
+let cantonsSet = cantons.length;
+let filterCounter = 0;
 
 cantons.forEach((canton) => checkCantons(canton));
 
