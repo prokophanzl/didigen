@@ -28,9 +28,9 @@
 						</div>
 					</div>
 					<div class="submit-buttons">
-						<div id="filter-button" class="filter-button" onclick="toggleFilters()"></div>
+						<div id="filter-button" class="filter-button filter-toggle"></div>
 						<div class="flex1 focus-outline">
-							<input type="submit" class="submit" id="submit" value="übersetzen" onclick="sessionStorage.removeItem('filtersOpen');" />
+							<input type="submit" class="submit" id="submit" value="übersetzen" />
 						</div>
 					</div>
 				</div>
@@ -40,18 +40,15 @@
 					<div class="search-option-container filter-sub">
 						<div>Wort</div>
 						<div class="search-option-button-container">
-							<div class="search-option search-option-selected" onclick="toggleMatch('begins');" id="begins">beginnt mit</div>
-							<div class="search-option" onclick="toggleMatch('match');" id="match">ist</div>
-							<div class="search-option" onclick="toggleMatch('contains');" id="contains">enthält</div>
+							<div class="search-option search-option-selected" id="begins">beginnt mit</div>
+							<div class="search-option" id="match">ist</div>
+							<div class="search-option" id="contains">enthält</div>
 						</div>
 						<div>Suchbegriff</div>
 					</div>
 					<div class="filter-title-div">
 						Kanton
-						<small>
-							(<a class="link" onclick="$('.checkbox-canton').prop('checked', true);">alle auswählen</a> |
-							<a class="link" onclick="$('.checkbox-canton').prop('checked', false);">keine auswählen</a>)
-						</small>
+						<small> (<a class="link" id="check-all">alle auswählen</a> | <a class="link" id="check-none">keine auswählen</a>) </small>
 					</div>
 					<div class="canton-container filter-sub">
 						<div>
@@ -245,7 +242,7 @@
 						</div>
 					</div>
 					<div class="close-filters">
-						<span class="link" onclick="toggleFilters();">schliessen</span>
+						<span class="link filter-toggle">schliessen</span>
 					</div>
 				</div>
 			</form>

@@ -87,6 +87,34 @@ let filterCounter = 0;
 
 cantons.forEach((canton) => checkCantons(canton));
 
+$("#submit").bind("click", () => {
+	sessionStorage.removeItem("filtersOpen");
+});
+
+$(".filter-toggle").bind("click", () => {
+	toggleFilters();
+});
+
+$("#begins").bind("click", () => {
+	toggleMatch("begins");
+});
+
+$("#match").bind("click", () => {
+	toggleMatch("match");
+});
+
+$("#contains").bind("click", () => {
+	toggleMatch("contains");
+});
+
+$("#check-all").bind("click", () => {
+	$(".checkbox-canton").prop("checked", true);
+});
+
+$("#check-none").bind("click", () => {
+	$(".checkbox-canton").prop("checked", false);
+});
+
 if (cantonsSet == 0) {
 	$(".checkbox-canton").prop("checked", true);
 } else {
