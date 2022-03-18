@@ -89,7 +89,12 @@ body {
 	-ms-text-size-adjust: 100%;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
 	font-weight: 500;
 }
 
@@ -98,7 +103,8 @@ h1 {
 	font-size: 2rem;
 }
 
-input, button {
+input,
+button {
 	font-family: inherit;
 }
 
@@ -249,7 +255,7 @@ input, button {
 	margin-top: 16px;
 	display: none;
 	padding: 8px;
-	position: relative
+	position: relative;
 }
 
 .close-filters {
@@ -295,7 +301,8 @@ input, button {
 	padding: 8px;
 }
 
-.search-option-container > div:first-child, .search-option-container > div:last-child {
+.search-option-container > div:first-child,
+.search-option-container > div:last-child {
 	line-height: 24px;
 	height: 24px;
 	padding-left: 0;
@@ -510,7 +517,7 @@ input, button {
 	body {
 		padding: 64px 16px;
 	}
-	
+
 	.logo-div {
 		display: none;
 	}
@@ -588,11 +595,13 @@ input, button {
 	transition: 0.5s ease all;
 }
 
-.word-header > .word-german, .word-more-info {
+.word-header > .word-german,
+.word-more-info {
 	--inset-shadow-color: var(--background);
 }
 
-.word-header > .word-german::after, .word-more-info::after {
+.word-header > .word-german::after,
+.word-more-info::after {
 	content: "";
 	position: absolute;
 	top: 0;
@@ -609,7 +618,8 @@ input, button {
 	background: hsl(var(--accent-1), var(--accent-2), var(--accent-3), calc(var(--count-first) / var(--matches)));
 }
 
-.break-no-dis, .break-dis {
+.break-no-dis,
+.break-dis {
 	float: left;
 }
 
@@ -617,7 +627,8 @@ input, button {
 	display: block;
 }
 
-.matches-german-span, .matches-swiss-german-span {
+.matches-german-span,
+.matches-swiss-german-span {
 	margin-left: 0.5rem;
 }
 
@@ -676,7 +687,7 @@ input, button {
 	.submit-buttons {
 		margin: 16px 0 0 0;
 	}
-} 
+}
 
 .info-bar {
 	display: none;
@@ -691,7 +702,7 @@ input, button {
 }
 
 .footer-section {
-	opacity: .5;
+	opacity: 0.5;
 	font-size: 1rem;
 	margin-top: 64px;
 }
@@ -701,13 +712,15 @@ input, button {
 	margin-bottom: 8px;
 }
 
-a[href], .link {
+a[href],
+.link {
 	transition: 0.2s ease all;
 	color: var(--accent);
 	text-decoration: none;
 	cursor: pointer;
 }
 
-a[href]:hover, .link:hover {
+a[href]:hover,
+.link:hover {
 	color: var(--accent-secondary);
 }
