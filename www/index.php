@@ -289,9 +289,12 @@
 				<div class="word-wrapper" style="--matches: 37; --count-first: 19">
 					<div class="word-header">
 						<div class="word-menu" onclick="toggle('weil')" id="weil-menu"></div>
-						<div class="word-german header-word" id="weil-g"><span class="word-german-span break-no-dis">weil</span><span class="primary50 matches-german-span break-dis"> (37)</span></div>
+						<div class="word-german header-word" id="weil-g">
+							<span class="word-german-span break-no-dis">weil</span><span class="primary50 matches-german-span break-dis"> (37)</span>
+						</div>
 						<div class="word-swiss-german header-word" id="weil-sg">
-							<span class="word-swiss-german-span break-no-dis">will</span><span class="primary50 matches-swiss-german-span break-dis">(19/37)</span>
+							<span class="word-swiss-german-span break-no-dis">will</span
+							><span class="primary50 matches-swiss-german-span break-dis">(19/37)</span>
 						</div>
 					</div>
 					<div class="word-more-info info-bar" id="weil">
@@ -321,9 +324,12 @@
 				<div class="word-wrapper" style="--matches: 102; --count-first: 53">
 					<div class="word-header">
 						<div class="word-menu" onclick="toggle('wir')" id="wir-menu"></div>
-						<div class="word-german header-word" id="wir-g"><span class="word-german-span break-no-dis">wir</span><span class="primary50 matches-german-span break-dis"> (102)</span></div>
+						<div class="word-german header-word" id="wir-g">
+							<span class="word-german-span break-no-dis">wir</span><span class="primary50 matches-german-span break-dis"> (102)</span>
+						</div>
 						<div class="word-swiss-german header-word" id="wir-sg">
-							<span class="word-swiss-german-span break-no-dis">mir</span><span class="primary50 matches-swiss-german-span break-dis">(53/102)</span>
+							<span class="word-swiss-german-span break-no-dis">mir</span
+							><span class="primary50 matches-swiss-german-span break-dis">(53/102)</span>
 						</div>
 					</div>
 					<div class="word-more-info info-bar" id="wir">
