@@ -467,7 +467,6 @@ button {
 	color: var(--background);
 	background-color: var(--text-primary);
 	cursor: pointer;
-	/* transition: 0.2s ease all; */
 	margin-right: 16px;
 }
 
@@ -583,7 +582,6 @@ button {
 	overflow: hidden;
 	white-space: nowrap;
 	position: relative;
-	transition: background-color 0.5s ease;
 }
 
 .word-header > .word-german,
@@ -602,7 +600,6 @@ button {
 	z-index: 254;
 	box-shadow: inset -32px 0 12px -16px var(--inset-shadow-color);
 	pointer-events: none;
-	transition: 0.5s ease all;
 }
 
 .word-header > .word-swiss-german {
