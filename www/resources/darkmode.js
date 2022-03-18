@@ -1,7 +1,6 @@
 // borrowed from: https://codepen.io/kevinpowell/pen/EMdjOV
 
 let darkMode = localStorage.getItem("darkMode");
-const darkModeToggle = document.querySelector("#dark-mode-toggle");
 const prefersDarkMode = window.matchMedia("(prefers-color-scheme:dark)").matches;
 
 const enableDarkMode = () => {
@@ -20,7 +19,7 @@ if (darkMode === "enabled" || (darkMode !== "disabled" && prefersDarkMode)) {
 	enableDarkMode();
 }
 
-darkModeToggle.addEventListener("click", () => {
+$("#dark-mode-toggle").bind("click", () => {
 	darkMode = localStorage.getItem("darkMode");
 	if (darkMode !== "enabled") {
 		enableDarkMode();
