@@ -7,6 +7,7 @@
 		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 		<link href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;500;700&display=swap" rel="stylesheet" />
 		<link rel="stylesheet" type="text/css" href="resources/loader.css" />
+		<link rel="stylesheet" type="text/css" href="resources/base.css" />
 		<link rel="stylesheet" type="text/css" href="resources/main.css" />
 		<link rel="icon" type="image/png" href="/resources/logo/logo_58.png" />
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
