@@ -701,6 +701,32 @@ button {
 	margin-bottom: 8px;
 }
 
+.footer-text {
+	position: relative;
+}
+
+.footer-links {
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+.footer-copyright {
+	position: absolute;
+	top: 0;
+	right: 0;
+}
+
+@media only screen and (max-width: 600px) {
+	.footer-links {
+		top: 1.25em;
+	}
+
+	.footer-copyright {
+		left: 0;
+	}
+}
+
 a[href],
 .link {
 	transition: color 0.2s ease;
