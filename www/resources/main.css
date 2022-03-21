@@ -232,10 +232,6 @@
 	background-color: var(--accent);
 }
 
-.term-input {
-	display: none;
-}
-
 @media only screen and (max-width: 590px) {
 	.search-option-container > div {
 		margin: 0;

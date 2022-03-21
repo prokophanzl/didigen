@@ -37,7 +37,7 @@
 				</div>
 				<div id="filter-container" class="filter-container">
 					<div class="filter-title-div">Suchbegriff</div>
-					<input type="text" name="match" id="term-input" class="term-input" value="begins" />
+					<input type="hidden" name="match" id="term-input" value="begins" />
 					<div class="search-option-container filter-sub">
 						<div>Wort</div>
 						<div class="search-option-button-container">
