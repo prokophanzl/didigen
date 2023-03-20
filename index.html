@@ -250,11 +250,13 @@
 		</section>
 		<section class="body-section">
 			<h3>
-				3 Suchergebnisse für &laquo;<span id="word-searched"></span>&raquo;
-				<span class="primary50 normal-weight">(145 Datenpunkte, <span id="filters-active"></span> Filter aktiv)</span>
+				<span id="search-results-info-de"></span> Suchergebnisse für &laquo;<span id="word-searched"></span>&raquo;
+				<span class="primary50 normal-weight"
+					>(<span id="search-results-info-gsw"></span> Datenpunkte, <span id="filters-active"></span> Filter aktiv)</span
+				>
 			</h3>
 			<div id="translation-parent">
-				<div class="word-wrapper" style="--matches: 6; --count-first: 5">
+				<!-- <div class="word-wrapper" style="--matches: 6; --count-first: 5">
 					<div class="word-header">
 						<div class="word-menu" onclick="toggle('Weihnachten')" id="Weihnachten-menu"></div>
 						<div class="word-german header-word" id="Weihnachten-g">
@@ -278,41 +280,6 @@
 								<span class="translation-container">
 									<span class="translation">Wienachte</span>
 									<span class="translation-count primary50">1</span>
-								</span>
-							</div>
-						</div>
-					</div>
-				</div>
-
-				<div class="word-wrapper" style="--matches: 37; --count-first: 19">
-					<div class="word-header">
-						<div class="word-menu" onclick="toggle('weil')" id="weil-menu"></div>
-						<div class="word-german header-word" id="weil-g">
-							<span class="word-german-span break-no-dis">weil</span><span class="primary50 matches-german-span break-dis"> (37)</span>
-						</div>
-						<div class="word-swiss-german header-word" id="weil-sg">
-							<span class="word-swiss-german-span break-no-dis">will</span
-							><span class="primary50 matches-swiss-german-span break-dis">(19/37)</span>
-						</div>
-					</div>
-					<div class="word-more-info info-bar" id="weil">
-						<div class="translation-bar-wrapper">
-							<div style="--count: 19">
-								<span class="translation-container">
-									<span class="translation">will</span>
-									<span class="translation-count primary50"> 19</span>
-								</span>
-							</div>
-							<div style="--count: 12">
-								<span class="translation-container">
-									<span class="translation">wil</span>
-									<span class="translation-count primary50"> 12</span>
-								</span>
-							</div>
-							<div style="--count: 6">
-								<span class="translation-container">
-									<span class="translation">well</span>
-									<span class="translation-count primary50"> 6</span>
 								</span>
 							</div>
 						</div>
@@ -358,7 +325,42 @@
 							</div>
 						</div>
 					</div>
-				</div>
+				</div>  -->
+
+				<!-- <div class="word-wrapper" style="--matches: 37; --count-first: 19">
+					<div class="word-header">
+						<div class="word-menu" onclick="toggle('weil')" id="weil-menu"></div>
+						<div class="word-german header-word" id="weil-g">
+							<span class="word-german-span break-no-dis">weil</span><span class="primary50 matches-german-span break-dis"> (37)</span>
+						</div>
+						<div class="word-swiss-german header-word" id="weil-sg">
+							<span class="word-swiss-german-span break-no-dis">will</span
+							><span class="primary50 matches-swiss-german-span break-dis">(19/37)</span>
+						</div>
+					</div>
+					<div class="word-more-info info-bar" id="weil">
+						<div class="translation-bar-wrapper">
+							<div style="--count: 19">
+								<span class="translation-container">
+									<span class="translation">will</span>
+									<span class="translation-count primary50"> 19</span>
+								</span>
+							</div>
+							<div style="--count: 12">
+								<span class="translation-container">
+									<span class="translation">wil</span>
+									<span class="translation-count primary50"> 12</span>
+								</span>
+							</div>
+							<div style="--count: 6">
+								<span class="translation-container">
+									<span class="translation">well</span>
+									<span class="translation-count primary50"> 6</span>
+								</span>
+							</div>
+						</div>
+					</div>
+				</div> -->
 			</div>
 		</section>
 		<section class="footer-section">
@@ -380,5 +382,7 @@
 		</script>
 		<script src="resources/js/base.js"></script>
 		<script src="resources/js/darkmode.js"></script>
+		<script src="resources/js/parse.js" type="module"></script>
+		<!-- <script src="resources/js/dataprep.js" type="module"></script> -->
 	</body>
 </html>

@@ -1,0 +1,43 @@
+[
+	{
+		"de": "ab",
+		"gsw": [
+			{ "gsw": "ab", "canton": "zh", "count": 7 },
+			{ "gsw": "ab", "canton": "ai", "count": 1 }
+		]
+	},
+	{
+		"de": "aber",
+		"gsw": [
+			{ "gsw": "aber", "canton": "zh", "count": 89 },
+			{ "gsw": "aber", "canton": "ai", "count": 7 },
+			{ "gsw": "abe", "canton": "ai", "count": 3 },
+			{ "gsw": "abr", "canton": "zh", "count": 1 }
+		]
+	},
+	{ "de": "abfahrt", "gsw": [{ "gsw": "abfaht", "canton": "ai", "count": 1 }] },
+	{ "de": "abgebaut", "gsw": [{ "gsw": "abbaut", "canton": "ai", "count": 1 }] },
+	{ "de": "ablaufen", "gsw": [{ "gsw": "ablaufe", "canton": "ai", "count": 2 }] },
+	{ "de": "akustischen", "gsw": [{ "gsw": "akustische", "canton": "ai", "count": 1 }] },
+	{ "de": "alben", "gsw": [{ "gsw": "albe", "canton": "ai", "count": 1 }] },
+	{ "de": "alkoholische", "gsw": [{ "gsw": "alkoholische", "canton": "ai", "count": 2 }] },
+	{
+		"de": "alle",
+		"gsw": [
+			{ "gsw": "alli", "canton": "zh", "count": 10 },
+			{ "gsw": "all", "canton": "zh", "count": 7 },
+			{ "gsw": "alli", "canton": "ai", "count": 4 }
+		]
+	},
+	{ "de": "alltags", "gsw": [{ "gsw": "alltags", "canton": "ai", "count": 1 }] },
+	{
+		"de": "als",
+		"gsw": [
+			{ "gsw": "als", "canton": "zh", "count": 8 },
+			{ "gsw": "wie", "canton": "ai", "count": 2 },
+			{ "gsw": "als", "canton": "xx", "count": 2 },
+			{ "gsw": "als", "canton": "ai", "count": 1 },
+			{ "gsw": "as", "canton": "ai", "count": 1 }
+		]
+	}
+]
