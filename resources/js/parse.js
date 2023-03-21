@@ -49,12 +49,23 @@ const nonAlpha = (str) => {
 // });
 
 // if "word" url parameter exists, filter dataParsed to only contain objects with "de" property containing "word"
-// if (urlParams.get("word")) {
-// console.log(urlParams.get("word"));
-const dataParsed = sourceData.filter((item) => item.de.includes(urlParams.get("word")));
-// } else {
-// const dataParsed = sourceData;
-// }
+
+var dataParsed;
+if (urlParams.get("match")) {
+	switch (urlParams.get("match")) {
+		case "begins":
+			dataParsed = sourceData.filter((item) => item.de.startsWith(urlParams.get("word")));
+			break;
+		case "match":
+			dataParsed = sourceData.filter((item) => item.de === urlParams.get("word"));
+			break;
+		case "contains":
+			dataParsed = sourceData.filter((item) => item.de.includes(urlParams.get("word")));
+			break;
+		default:
+			break;
+	}
+}
 
 // add "count" property to each "de" object, containing the sum of all "count" properties of the "gsw" objects
 dataParsed.forEach((item) => {
