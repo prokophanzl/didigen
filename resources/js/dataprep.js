@@ -65,10 +65,10 @@ let zhParsed = compressData(zh);
 // console.log(allParsed.slice(0, 10));
 
 // export allParsed to json and download it
-const dataStr = "data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(allParsed));
-const downloadAnchorNode = document.createElement("a");
-downloadAnchorNode.setAttribute("href", dataStr);
-downloadAnchorNode.setAttribute("download", "all.json");
-document.body.appendChild(downloadAnchorNode); // required for firefox
-downloadAnchorNode.click();
-downloadAnchorNode.remove();
+// const dataStr = "data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(allParsed));
+// const downloadAnchorNode = document.createElement("a");
+// downloadAnchorNode.setAttribute("href", dataStr);
+// downloadAnchorNode.setAttribute("download", "all.json");
+// document.body.appendChild(downloadAnchorNode); // required for firefox
+// downloadAnchorNode.click();
+// downloadAnchorNode.remove();
