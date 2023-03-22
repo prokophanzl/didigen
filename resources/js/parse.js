@@ -1,5 +1,3 @@
-import sourceData from "../data/parsed/allParsed.json" assert { type: "json" };
-
 // function that replaces all non-alphanumeric characters with an alphanumeric equivalent
 const nonAlpha = (str) => {
 	return str
@@ -10,7 +8,100 @@ const nonAlpha = (str) => {
 		.replace(/[^a-z0-9]/gi, "");
 };
 
+function compressData(data) {
+	const output = [];
+
+	// join objects with same "de" value into one object with an array of "gsw" values with "count" property for duplicate gsw values
+	data.forEach((item) => {
+		// find index of object with same "de" value
+		const index = output.findIndex((obj) => nonAlpha(obj.de) === nonAlpha(item.de));
+		// if no object with same "de" value exists, push new object to output
+		if (index === -1) {
+			output.push({
+				de: item.de,
+				translations: item.translations,
+			});
+		} else {
+			// if object with same "de" value exists, merge "translations" arrays
+			output[index].translations = output[index].translations.concat(item.translations);
+			// go through "translations" array and remove duplicates, incrementing "count" property for duplicates
+			output[index].translations = output[index].translations.reduce((acc, current) => {
+				const x = acc.find((item) => item.gsw === current.gsw);
+				if (!x) {
+					return acc.concat([current]);
+				} else {
+					x.count += current.count;
+					return acc;
+				}
+			}, []);
+		}
+	});
+
+	// sort data by "de" value
+	output.sort((a, b) => (a.de.toLowerCase() > b.de.toLowerCase() ? 1 : -1));
+
+	// sort "translations" arrays by "count" property, case insensitive
+	output.forEach((item) => {
+		item.translations.sort((a, b) => b.count - a.count);
+	});
+
+	return output;
+}
+
 // if "word" url parameter exists, filter dataParsed to only contain objects with "de" property containing "word"
+
+const cantons = [
+	// "ag",
+	// "ar",
+	"ai",
+	// "bl",
+	// "bs",
+	// "be",
+	// "fr",
+	// "ge",
+	// "gl",
+	// "gr",
+	// "ju",
+	// "lu",
+	// "ne",
+	// "nw",
+	// "ow",
+	// "sh",
+	// "sz",
+	// "so",
+	// "sg",
+	// "ti",
+	// "tg",
+	// "ur",
+	// "vd",
+	// "vs",
+	// "zg",
+	"zh",
+	"xx",
+];
+
+import allData from "../data/parsed/allParsed.json" assert { type: "json" };
+import aiData from "../data/parsed/aiParsed.json" assert { type: "json" };
+import zhData from "../data/parsed/zhParsed.json" assert { type: "json" };
+import xxData from "../data/parsed/xxParsed.json" assert { type: "json" };
+
+let sourceData;
+
+// for each canton from "cantons", check if it is in the url parameters
+// if it is, add it to the "cantonsUsed" array
+const cantonsUsed = cantons.filter((canton) => urlParams.get(canton) === "on");
+if (cantonsUsed.length === 1) {
+	sourceData = eval(cantonsUsed[0] + "Data");
+} else if (cantonsUsed.length === 0 || cantonsUsed.length === cantons.length) {
+	sourceData = allData;
+} else {
+	// join the arrays of selected cantons
+	sourceData = cantonsUsed.reduce((acc, canton) => acc.concat(eval(canton + "Data")), []);
+	sourceData.sort((a, b) => (a.de > b.de ? 1 : -1));
+	// first 10 lines of sourceData
+	console.log(sourceData.slice(0, 10));
+	sourceData = compressData(sourceData);
+}
 
 var dataParsed;
 const word = urlParams.get("word").toLowerCase();
