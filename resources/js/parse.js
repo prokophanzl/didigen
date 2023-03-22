@@ -80,29 +80,36 @@ const cantons = [
 	"xx",
 ];
 
-import allData from "../data/parsed/allParsed.json" assert { type: "json" };
-import aiData from "../data/parsed/aiParsed.json" assert { type: "json" };
-import zhData from "../data/parsed/zhParsed.json" assert { type: "json" };
-import xxData from "../data/parsed/xxParsed.json" assert { type: "json" };
+// import allData from "../data/parsed/allParsed.json" assert { type: "json" };
+// import aiData from "../data/parsed/aiParsed.json" assert { type: "json" };
+// import zhData from "../data/parsed/zhParsed.json" assert { type: "json" };
+// import xxData from "../data/parsed/xxParsed.json" assert { type: "json" };
 
-if (urlParams.get("word")) {
-	let sourceData;
+let allData;
+// let aiData;
+// let zhData;
+// let xxData;
+let sourceData = [];
+let filesToLoad = [];
 
-	// for each canton from "cantons", check if it is in the url parameters
-	// if it is, add it to the "cantonsUsed" array
-	const cantonsUsed = cantons.filter((canton) => urlParams.get(canton) === "on");
-	if (cantonsUsed.length === 1) {
-		sourceData = eval(cantonsUsed[0] + "Data");
-	} else if (cantonsUsed.length === 0 || cantonsUsed.length === cantons.length) {
-		sourceData = allData;
-	} else {
-		// join the arrays of selected cantons
-		sourceData = cantonsUsed.reduce((acc, canton) => acc.concat(eval(canton + "Data")), []);
+function loadJson(url) {
+	return fetch(url).then((response) => response.json());
+}
+
+async function loadAllJsonFiles() {
+	for (let i = 0; i < filesToLoad.length; i++) {
+		const url = filesToLoad[i];
+		const jsonArray = await loadJson(url);
+		sourceData = sourceData.concat(jsonArray);
+	}
+	// console.log(sourceData); // do something with the big array here
+
+	if (filesToLoad.length > 1) {
 		sourceData.sort((a, b) => (a.de > b.de ? 1 : -1));
-		// first 10 lines of sourceData
-		console.log(sourceData.slice(0, 10));
 		sourceData = compressData(sourceData);
 	}
+
+	// console.log(sourceData); // do something with the big array here
 
 	var dataParsed;
 	const word = urlParams.get("word").toLowerCase();
@@ -115,6 +122,7 @@ if (urlParams.get("word")) {
 			dataParsed = sourceData.filter((item) => item.de.toLowerCase() === word);
 			break;
 		case "contains":
+			// console.log(sourceData);
 			dataParsed = sourceData.filter((item) => item.de.toLowerCase().includes(word));
 			break;
 		default:
@@ -163,6 +171,118 @@ if (urlParams.get("word")) {
 	// fill in search results info
 	document.querySelector("#search-results-info-de").innerHTML = dataParsed.length;
 	document.querySelector("#search-results-info-gsw").innerHTML = dataParsed.reduce((acc, obj) => acc + obj.count, 0);
+}
+
+loadAllJsonFiles();
+
+if (urlParams.get("word")) {
+	const cantonsUsed = cantons.filter((canton) => urlParams.get(canton) === "on");
+	let joinCantons;
+	if (cantonsUsed.length === 1) {
+		// sourceData = eval(cantonsUsed[0] + "Data");
+		// dataCode = cantonsUsed[0];
+		filesToLoad = [`resources/data/parsed/${cantonsUsed[0]}Parsed.json`];
+	} else if (cantonsUsed.length === 0 || cantonsUsed.length === cantons.length) {
+		// sourceData = allData;
+		// dataCode = "all";
+		filesToLoad = ["resources/data/parsed/allParsed.json"];
+	} else {
+		// dataCode = "all";
+		filesToLoad = cantonsUsed.map((canton) => `resources/data/parsed/${canton}Parsed.json`);
+		// console.log(filesToLoad);
+		joinCantons = true;
+	}
+
+	loadAllJsonFiles();
+
+	// fetch(`resources/data/parsed/allParsed.json`)
+	// 	.then((response) => {
+	// 		return response.json();
+	// 	})
+	// 	.then((allData) => {
+	// 		if (joinCantons) {
+	// 			sourceData = allData;
+	// 		} else {
+	// 			sourceData = allData;
+	// 		}
+
+	// 		// for each canton from "cantons", check if it is in the url parameters
+	// 		// if it is, add it to the "cantonsUsed" array
+	// 		// const cantonsUsed = cantons.filter((canton) => urlParams.get(canton) === "on");
+	// 		// if (cantonsUsed.length === 1) {
+	// 		// 	sourceData = eval(cantonsUsed[0] + "Data");
+	// 		// } else if (cantonsUsed.length === 0 || cantonsUsed.length === cantons.length) {
+	// 		// 	sourceData = allData;
+	// 		// } else {
+	// 		// 	// join the arrays of selected cantons
+	// 		// 	sourceData = cantonsUsed.reduce((acc, canton) => acc.concat(eval(canton + "Data")), []);
+	// 		// 	sourceData.sort((a, b) => (a.de > b.de ? 1 : -1));
+	// 		// 	// first 10 lines of sourceData
+	// 		// 	console.log(sourceData.slice(0, 10));
+	// 		// 	sourceData = compressData(sourceData);
+	// 		// }
+
+	// 		var dataParsed;
+	// 		const word = urlParams.get("word").toLowerCase();
+
+	// 		switch (urlParams.get("match")) {
+	// 			case "begins":
+	// 				dataParsed = sourceData.filter((item) => item.de.toLowerCase().startsWith(word));
+	// 				break;
+	// 			case "match":
+	// 				dataParsed = sourceData.filter((item) => item.de.toLowerCase() === word);
+	// 				break;
+	// 			case "contains":
+	// 				// console.log(sourceData);
+	// 				dataParsed = sourceData.filter((item) => item.de.toLowerCase().includes(word));
+	// 				break;
+	// 			default:
+	// 				break;
+	// 		}
+
+	// 		// add "count" property to each "de" object, containing the sum of all "count" properties of the "gsw" objects
+	// 		dataParsed.forEach((item) => {
+	// 			item.count = item.translations.reduce((acc, obj) => acc + obj.count, 0);
+	// 		});
+
+	// 		// for each element in joined, print a div in "#translation-parent" with its data in it
+	// 		dataParsed.forEach((item) => {
+	// 			document.querySelector("#translation-parent").innerHTML += `
+	// 	<div class="word-wrapper" style="--matches: ${item.count}; --count-first: ${item.translations[0].count}">
+	// 		<div class="word-header">
+	// 			<div class="word-menu" onclick="toggle('${nonAlpha(item.de)}')" id="${nonAlpha(item.de)}-menu"></div>
+	// 			<div class="word-german header-word" id="${nonAlpha(item.de)}-g">
+	// 				<span class="word-german-span break-no-dis">${item.de}</span><span class="primary50 matches-german-span break-dis"> (${item.count})</span>
+	// 			</div>
+	// 			<div class="word-swiss-german header-word" id="${nonAlpha(item.de)}-sg">
+	// 				<span class="word-swiss-german-span break-no-dis">${item.translations[0].gsw}</span
+	// 				><span class="primary50 matches-swiss-german-span break-dis">(${item.translations[0].count}/${item.count})</span>
+	// 			</div>
+	// 		</div>
+	// 		<div class="word-more-info info-bar" id="${nonAlpha(item.de)}">
+	// 			<div class="translation-bar-wrapper" id="translation-bar-wrapper-${nonAlpha(item.de)}">
+	// 			</div>
+	// 		</div>
+	// 	</div>
+	// `;
+
+	// 			// for each "gsw" object, print a div in "#translation-bar-wrapper-${item.de}" with its data in it
+	// 			item.translations.forEach((item2) => {
+	// 				document.querySelector(`#translation-bar-wrapper-${nonAlpha(item.de)}`).innerHTML += `
+	// 		<div style="--count: ${item2.count}">
+	// 			<span class="translation-container">
+	// 				<span class="translation">${item2.gsw}</span>
+	// 				<span class="translation-count primary50"> ${item2.count}</span>
+	// 			</span>
+	// 		</div>
+	// 	`;
+	// 			});
+	// 		});
+
+	// 		// fill in search results info
+	// 		document.querySelector("#search-results-info-de").innerHTML = dataParsed.length;
+	// 		document.querySelector("#search-results-info-gsw").innerHTML = dataParsed.reduce((acc, obj) => acc + obj.count, 0);
+	// 	});
 } else {
 	document.querySelector("#search-results-heading").innerHTML = "Geben Sie einen Suchbegriff ein.";
 }
