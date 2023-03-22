@@ -1,49 +1,74 @@
-import words from "./data.json" assert { type: "json" };
-console.log(words);
+import ai from "../data/ai.json" assert { type: "json" };
+import xx from "../data/xx.json" assert { type: "json" };
+import zh from "../data/zh.json" assert { type: "json" };
 
-// join objects with same "de" values. for each object, create an array of objects containing the "gsw" and "canton" values. join duplicate objects and add a "count" property to each object. use pure javascript.
-const joinedWords = words.reduce((acc, obj) => {
-	// find index of object with same "de" value
-	const index = acc.findIndex((item) => item.de === obj.de);
-	// if no object with same "de" value exists, push new object to accumulator
-	if (index === -1) {
-		acc.push({
-			de: obj.de,
-			gsw: [
-				{
-					gsw: obj.gsw,
-					canton: obj.canton,
-					count: 1,
-				},
-			],
-		});
-	} else {
-		// if object with same "de" value exists, find index of object with same "gsw" and "canton" values
-		const index2 = acc[index].gsw.findIndex((item) => item.gsw === obj.gsw && item.canton === obj.canton);
-		if (index2 === -1) {
-			acc[index].gsw.push({
-				gsw: obj.gsw,
-				canton: obj.canton,
-				count: 1,
+function compressData(data) {
+	const output = [];
+	// make all gsw values lowercase
+	data.forEach((item) => {
+		item.gsw = item.gsw.toLowerCase();
+	});
+
+	// join objects with same "de" value into one object with an array of "gsw" values with "count" property for duplicate gsw values
+	data.forEach((item) => {
+		// find index of object with same "de" value
+		const index = output.findIndex((obj) => obj.de === item.de);
+		// if no object with same "de" value exists, push new object to output
+		if (index === -1) {
+			output.push({
+				de: item.de,
+				translations: [
+					{
+						gsw: item.gsw,
+						count: 1,
+					},
+				],
 			});
-			// if object with same "gsw" and "canton" values exists, increment "count" property
 		} else {
-			acc[index].gsw[index2].count++;
+			// if object with same "de" value exists, find index of object with same "gsw" and "canton" values
+			const index2 = output[index].translations.findIndex((obj) => obj.gsw === item.gsw);
+			if (index2 === -1) {
+				output[index].translations.push({
+					gsw: item.gsw,
+					count: 1,
+				});
+				// if object with same "gsw" and "canton" values exists, increment "count" property
+			} else {
+				output[index].translations[index2].count++;
+			}
 		}
-	}
-	return acc;
-}, []);
+	});
 
-// sort "gsw" arrays by "count" property
-joinedWords.forEach((item) => {
-	item.gsw.sort((a, b) => b.count - a.count);
-});
+	// sort data by "de" value
+	output.sort((a, b) => (a.de.toLowerCase() > b.de.toLowerCase() ? 1 : -1));
 
-// export joinedWords to json file and download it
-// const joinedWordsString = JSON.stringify(joinedWords);
-// const joinedWordsBlob = new Blob([joinedWordsString], { type: "application/json" });
-// const joinedWordsUrl = URL.createObjectURL(joinedWordsBlob);
-// const joinedWordsLink = document.createElement("a");
-// joinedWordsLink.href = joinedWordsUrl;
-// joinedWordsLink.download = "joinedWords.json";
-// joinedWordsLink.click();
+	// sort "translations" arrays by "count" property, case insensitive
+	output.forEach((item) => {
+		item.translations.sort((a, b) => b.count - a.count);
+	});
+
+	return output;
+}
+
+// join all data into one array
+let all = [...ai, ...xx, ...zh];
+// sort array by "de" value
+all.sort((a, b) => (a.de > b.de ? 1 : -1));
+// console.log(all);
+
+let allParsed = compressData(all);
+let aiParsed = compressData(ai);
+let xxParsed = compressData(xx);
+let zhParsed = compressData(zh);
+
+// console log first 10 objects of allParsed
+// console.log(allParsed.slice(0, 10));
+
+// export allParsed to json and download it
+const dataStr = "data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(allParsed));
+const downloadAnchorNode = document.createElement("a");
+downloadAnchorNode.setAttribute("href", dataStr);
+downloadAnchorNode.setAttribute("download", "all.json");
+document.body.appendChild(downloadAnchorNode); // required for firefox
+downloadAnchorNode.click();
+downloadAnchorNode.remove();
