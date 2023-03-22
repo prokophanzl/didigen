@@ -85,49 +85,50 @@ import aiData from "../data/parsed/aiParsed.json" assert { type: "json" };
 import zhData from "../data/parsed/zhParsed.json" assert { type: "json" };
 import xxData from "../data/parsed/xxParsed.json" assert { type: "json" };
 
-let sourceData;
+if (urlParams.get("word")) {
+	let sourceData;
 
-// for each canton from "cantons", check if it is in the url parameters
-// if it is, add it to the "cantonsUsed" array
-const cantonsUsed = cantons.filter((canton) => urlParams.get(canton) === "on");
-if (cantonsUsed.length === 1) {
-	sourceData = eval(cantonsUsed[0] + "Data");
-} else if (cantonsUsed.length === 0 || cantonsUsed.length === cantons.length) {
-	sourceData = allData;
-} else {
-	// join the arrays of selected cantons
-	sourceData = cantonsUsed.reduce((acc, canton) => acc.concat(eval(canton + "Data")), []);
-	sourceData.sort((a, b) => (a.de > b.de ? 1 : -1));
-	// first 10 lines of sourceData
-	console.log(sourceData.slice(0, 10));
-	sourceData = compressData(sourceData);
-}
+	// for each canton from "cantons", check if it is in the url parameters
+	// if it is, add it to the "cantonsUsed" array
+	const cantonsUsed = cantons.filter((canton) => urlParams.get(canton) === "on");
+	if (cantonsUsed.length === 1) {
+		sourceData = eval(cantonsUsed[0] + "Data");
+	} else if (cantonsUsed.length === 0 || cantonsUsed.length === cantons.length) {
+		sourceData = allData;
+	} else {
+		// join the arrays of selected cantons
+		sourceData = cantonsUsed.reduce((acc, canton) => acc.concat(eval(canton + "Data")), []);
+		sourceData.sort((a, b) => (a.de > b.de ? 1 : -1));
+		// first 10 lines of sourceData
+		console.log(sourceData.slice(0, 10));
+		sourceData = compressData(sourceData);
+	}
 
-var dataParsed;
-const word = urlParams.get("word").toLowerCase();
+	var dataParsed;
+	const word = urlParams.get("word").toLowerCase();
 
-switch (urlParams.get("match")) {
-	case "begins":
-		dataParsed = sourceData.filter((item) => item.de.toLowerCase().startsWith(word));
-		break;
-	case "match":
-		dataParsed = sourceData.filter((item) => item.de.toLowerCase() === word);
-		break;
-	case "contains":
-		dataParsed = sourceData.filter((item) => item.de.toLowerCase().includes(word));
-		break;
-	default:
-		break;
-}
+	switch (urlParams.get("match")) {
+		case "begins":
+			dataParsed = sourceData.filter((item) => item.de.toLowerCase().startsWith(word));
+			break;
+		case "match":
+			dataParsed = sourceData.filter((item) => item.de.toLowerCase() === word);
+			break;
+		case "contains":
+			dataParsed = sourceData.filter((item) => item.de.toLowerCase().includes(word));
+			break;
+		default:
+			break;
+	}
 
-// add "count" property to each "de" object, containing the sum of all "count" properties of the "gsw" objects
-dataParsed.forEach((item) => {
-	item.count = item.translations.reduce((acc, obj) => acc + obj.count, 0);
-});
+	// add "count" property to each "de" object, containing the sum of all "count" properties of the "gsw" objects
+	dataParsed.forEach((item) => {
+		item.count = item.translations.reduce((acc, obj) => acc + obj.count, 0);
+	});
 
-// for each element in joined, print a div in "#translation-parent" with its data in it
-dataParsed.forEach((item) => {
-	document.querySelector("#translation-parent").innerHTML += `
+	// for each element in joined, print a div in "#translation-parent" with its data in it
+	dataParsed.forEach((item) => {
+		document.querySelector("#translation-parent").innerHTML += `
 		<div class="word-wrapper" style="--matches: ${item.count}; --count-first: ${item.translations[0].count}">
 			<div class="word-header">
 				<div class="word-menu" onclick="toggle('${nonAlpha(item.de)}')" id="${nonAlpha(item.de)}-menu"></div>
@@ -146,9 +147,9 @@ dataParsed.forEach((item) => {
 		</div>
 	`;
 
-	// for each "gsw" object, print a div in "#translation-bar-wrapper-${item.de}" with its data in it
-	item.translations.forEach((item2) => {
-		document.querySelector(`#translation-bar-wrapper-${nonAlpha(item.de)}`).innerHTML += `
+		// for each "gsw" object, print a div in "#translation-bar-wrapper-${item.de}" with its data in it
+		item.translations.forEach((item2) => {
+			document.querySelector(`#translation-bar-wrapper-${nonAlpha(item.de)}`).innerHTML += `
 			<div style="--count: ${item2.count}">
 				<span class="translation-container">
 					<span class="translation">${item2.gsw}</span>
@@ -156,9 +157,12 @@ dataParsed.forEach((item) => {
 				</span>
 			</div>
 		`;
+		});
 	});
-});
 
-// fill in search results info
-document.querySelector("#search-results-info-de").innerHTML = dataParsed.length;
-document.querySelector("#search-results-info-gsw").innerHTML = dataParsed.reduce((acc, obj) => acc + obj.count, 0);
+	// fill in search results info
+	document.querySelector("#search-results-info-de").innerHTML = dataParsed.length;
+	document.querySelector("#search-results-info-gsw").innerHTML = dataParsed.reduce((acc, obj) => acc + obj.count, 0);
+} else {
+	document.querySelector("#search-results-heading").innerHTML = "Geben Sie einen Suchbegriff ein.";
+}
