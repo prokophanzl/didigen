@@ -1,12 +1,65 @@
-import ai from "../data/ai.json" assert { type: "json" };
-import xx from "../data/xx.json" assert { type: "json" };
-import zh from "../data/zh.json" assert { type: "json" };
-import fr from "../data/fr.json" assert { type: "json" };
+const cantons = [
+	// "ag",
+	// "ar",
+	"ai",
+	// "bl",
+	// "bs",
+	// "be",
+	"fr",
+	// "ge",
+	// "gl",
+	// "gr",
+	// "ju",
+	// "lu",
+	// "ne",
+	// "nw",
+	// "ow",
+	// "sh",
+	// "sz",
+	// "so",
+	// "sg",
+	// "ti",
+	// "tg",
+	// "ur",
+	// "vd",
+	// "vs",
+	// "zg",
+	"zh",
+	"xx",
+];
+
+function csvToArray(csv) {
+	const lines = csv.replace(/\r/g, "").split("\n");
+	const headers = lines[0].split(",").map((header) => header.trim().replace(/\s+/g, "_"));
+	const result = [];
+
+	for (let i = 1; i < lines.length; i++) {
+		const obj = {};
+		const currentLine = lines[i].split(",");
+
+		for (let j = 0; j < headers.length; j++) {
+			obj[headers[j]] = currentLine[j];
+		}
+
+		result.push(obj);
+	}
+
+	return result;
+}
+
+function loadCsvFromServer(url) {
+	return fetch(url)
+		.then((response) => response.text())
+		.then((csv) => csvToArray(csv));
+}
 
 function compressData(data) {
 	const output = [];
 	// make all gsw values lowercase
+	// console.log(data.slice(0, 10));
 	data.forEach((item) => {
+		// console.log(item);
+		// console.log(item.gsw);
 		item.gsw = item.gsw.toLowerCase();
 	});
 
@@ -51,17 +104,58 @@ function compressData(data) {
 	return output;
 }
 
-// join all data into one array
-let all = [...ai, ...xx, ...zh, ...fr];
-// sort array by "de" value
-all.sort((a, b) => (a.de > b.de ? 1 : -1));
-// console.log(all);
+// import ai from "../data/ai.json" assert { type: "json" };
+// import xx from "../data/xx.json" assert { type: "json" };
+// import zh from "../data/zh.json" assert { type: "json" };
+// import fr from "../data/fr.json" assert { type: "json" };
 
-let allParsed = compressData(all);
-let aiParsed = compressData(ai);
-let xxParsed = compressData(xx);
-let zhParsed = compressData(zh);
-let frParsed = compressData(fr);
+// load csv files from server for each canton in cantons array
+
+// loadCsvFromServer("/data/ai.csv").then((data) => {
+// 	ai = data;
+// });
+
+// loadCsvFromServer("/data/xx.csv").then((data) => {
+// 	xx = data;
+// });
+
+// loadCsvFromServer("/data/zh.csv").then((data) => {
+// 	zh = data;
+// });
+
+// loadCsvFromServer("/data/fr.csv").then((data) => {
+// 	fr = data;
+// });
+
+let allParsed;
+let aiParsed;
+let xxParsed;
+let zhParsed;
+let frParsed;
+
+// load csv files from server for all cantons in cantons array
+Promise.all(
+	cantons.map((canton) => {
+		return loadCsvFromServer(`/resources/data/${canton}.csv`);
+	})
+).then((data) => {
+	let ai = data[0];
+	let fr = data[1];
+	let zh = data[2];
+	let xx = data[3];
+
+	// join all data into one array
+	let all = [...ai, ...xx, ...zh, ...fr];
+	// sort array by "de" value
+	all.sort((a, b) => (a.de > b.de ? 1 : -1));
+	// console.log(all);
+
+	allParsed = compressData(all);
+	aiParsed = compressData(ai);
+	xxParsed = compressData(xx);
+	zhParsed = compressData(zh);
+	frParsed = compressData(fr);
+});
 
 // console log first 10 objects of allParsed
 // console.log(allParsed.slice(0, 10));
@@ -88,9 +182,9 @@ function exportJson(obj, name) {
 
 // when #button is clicked, run exportJson function for each parsed data array
 document.getElementById("download").addEventListener("click", () => {
-	exportJson(allParsed, "all");
-	exportJson(aiParsed, "ai");
-	exportJson(xxParsed, "xx");
-	exportJson(zhParsed, "zh");
-	exportJson(frParsed, "fr");
+	exportJson(allParsed, "allParsed");
+	exportJson(aiParsed, "aiParsed");
+	exportJson(xxParsed, "xxParsed");
+	exportJson(zhParsed, "zhParsed");
+	exportJson(frParsed, "frParsed");
 });
