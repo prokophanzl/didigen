@@ -1,10 +1,68 @@
 [
 	{
+		"de": "",
+		"translations": [
+			{
+				"gsw": "test",
+				"count": 1
+			},
+			{
+				"gsw": "quarantäne",
+				"count": 1
+			},
+			{
+				"gsw": "nur",
+				"count": 1
+			},
+			{
+				"gsw": "nicht",
+				"count": 1
+			},
+			{
+				"gsw": "musst",
+				"count": 1
+			},
+			{
+				"gsw": "muss",
+				"count": 1
+			},
+			{
+				"gsw": "in",
+				"count": 1
+			},
+			{
+				"gsw": "ich",
+				"count": 1
+			},
+			{
+				"gsw": "einen",
+				"count": 1
+			},
+			{
+				"gsw": "du",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "ab",
 		"translations": [
 			{
 				"gsw": "ab",
 				"count": 11
+			}
+		]
+	},
+	{
+		"de": "abartiges",
+		"translations": [
+			{
+				"gsw": "appartegs",
+				"count": 1
+			},
+			{
+				"gsw": "appártege",
+				"count": 1
 			}
 		]
 	},
@@ -31,7 +89,7 @@
 		"translations": [
 			{
 				"gsw": "aber",
-				"count": 107
+				"count": 115
 			},
 			{
 				"gsw": "abe",
@@ -111,6 +169,10 @@
 		"translations": [
 			{
 				"gsw": "abgschriebe",
+				"count": 2
+			},
+			{
+				"gsw": "abgschribe",
 				"count": 1
 			},
 			{
@@ -138,6 +200,15 @@
 		]
 	},
 	{
+		"de": "Abgrenzung",
+		"translations": [
+			{
+				"gsw": "abgrenzeg",
+				"count": 2
+			}
+		]
+	},
+	{
 		"de": "abhängig",
 		"translations": [
 			{
@@ -160,6 +231,28 @@
 		"translations": [
 			{
 				"gsw": "ableitig",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "ablesen",
+		"translations": [
+			{
+				"gsw": "ablese",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Abländschen",
+		"translations": [
+			{
+				"gsw": "òòflensche",
+				"count": 1
+			},
+			{
+				"gsw": "ààflensche",
 				"count": 1
 			}
 		]
@@ -282,6 +375,15 @@
 		]
 	},
 	{
+		"de": "Alkohol",
+		"translations": [
+			{
+				"gsw": "alk",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "alkoholische",
 		"translations": [
 			{
@@ -309,6 +411,10 @@
 			{
 				"gsw": "all",
 				"count": 8
+			},
+			{
+				"gsw": "aalì",
+				"count": 1
 			}
 		]
 	},
@@ -318,6 +424,10 @@
 			{
 				"gsw": "allne",
 				"count": 6
+			},
+			{
+				"gsw": "aùne",
+				"count": 1
 			},
 			{
 				"gsw": "all",
@@ -330,7 +440,7 @@
 		"translations": [
 			{
 				"gsw": "alles",
-				"count": 17
+				"count": 18
 			},
 			{
 				"gsw": "all",
@@ -366,14 +476,27 @@
 		]
 	},
 	{
+		"de": "Alpha",
+		"translations": [
+			{
+				"gsw": "alpha",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "als",
 		"translations": [
 			{
 				"gsw": "als",
-				"count": 12
+				"count": 14
 			},
 			{
 				"gsw": "wie",
+				"count": 3
+			},
+			{
+				"gsw": "va",
 				"count": 2
 			},
 			{
@@ -387,7 +510,7 @@
 		"translations": [
 			{
 				"gsw": "also",
-				"count": 58
+				"count": 60
 			},
 			{
 				"gsw": "aso",
@@ -396,11 +519,20 @@
 		]
 	},
 	{
+		"de": "alter",
+		"translations": [
+			{
+				"gsw": "aùter",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "am",
 		"translations": [
 			{
 				"gsw": "am",
-				"count": 52
+				"count": 54
 			}
 		]
 	},
@@ -418,7 +550,7 @@
 		"translations": [
 			{
 				"gsw": "a",
-				"count": 9
+				"count": 10
 			},
 			{
 				"gsw": "ah",
@@ -452,6 +584,15 @@
 		"translations": [
 			{
 				"gsw": "amne",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "an welcher",
+		"translations": [
+			{
+				"gsw": "wa",
 				"count": 1
 			}
 		]
@@ -504,6 +645,10 @@
 				"count": 9
 			},
 			{
+				"gsw": "òndere",
+				"count": 1
+			},
+			{
 				"gsw": "anderne",
 				"count": 1
 			},
@@ -517,6 +662,10 @@
 		"de": "anderes",
 		"translations": [
 			{
+				"gsw": "òndersch",
+				"count": 1
+			},
+			{
 				"gsw": "anders",
 				"count": 1
 			}
@@ -527,6 +676,10 @@
 		"translations": [
 			{
 				"gsw": "anderst",
+				"count": 2
+			},
+			{
+				"gsw": "òndersch",
 				"count": 1
 			},
 			{
@@ -581,6 +734,15 @@
 		]
 	},
 	{
+		"de": "angegeben",
+		"translations": [
+			{
+				"gsw": "òòggee",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "angeht (er/sie/es)",
 		"translations": [
 			{
@@ -594,6 +756,15 @@
 		"translations": [
 			{
 				"gsw": "acho",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "angepasst",
+		"translations": [
+			{
+				"gsw": "òòpasst",
 				"count": 1
 			}
 		]
@@ -621,10 +792,28 @@
 		]
 	},
 	{
+		"de": "angeschrieben",
+		"translations": [
+			{
+				"gsw": "òògschrìbe",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "angestrebt",
 		"translations": [
 			{
 				"gsw": "agstrebt",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "angetan",
+		"translations": [
+			{
+				"gsw": "anetue",
 				"count": 1
 			}
 		]
@@ -678,6 +867,14 @@
 		"translations": [
 			{
 				"gsw": "anstatt",
+				"count": 2
+			},
+			{
+				"gsw": "ònstatt",
+				"count": 1
+			},
+			{
+				"gsw": "ànstatt",
 				"count": 1
 			}
 		]
@@ -759,6 +956,15 @@
 		]
 	},
 	{
+		"de": "arbeiten",
+		"translations": [
+			{
+				"gsw": "schaffe",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "arbeiten (sie)",
 		"translations": [
 			{
@@ -786,6 +992,15 @@
 		]
 	},
 	{
+		"de": "Arbeitsgemeinschaft",
+		"translations": [
+			{
+				"gsw": "arbìitsgmìinschaft",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "Arsch",
 		"translations": [
 			{
@@ -799,7 +1014,7 @@
 		"translations": [
 			{
 				"gsw": "art",
-				"count": 2
+				"count": 3
 			}
 		]
 	},
@@ -808,7 +1023,7 @@
 		"translations": [
 			{
 				"gsw": "artikel",
-				"count": 1
+				"count": 2
 			}
 		]
 	},
@@ -844,11 +1059,23 @@
 		"translations": [
 			{
 				"gsw": "au",
-				"count": 187
+				"count": 205
+			},
+			{
+				"gsw": "òò",
+				"count": 6
 			},
 			{
 				"gsw": "auch",
 				"count": 3
+			},
+			{
+				"gsw": "ò",
+				"count": 1
+			},
+			{
+				"gsw": "aù",
+				"count": 1
 			}
 		]
 	},
@@ -857,11 +1084,19 @@
 		"translations": [
 			{
 				"gsw": "uf",
-				"count": 52
+				"count": 55
+			},
+			{
+				"gsw": "ùff",
+				"count": 5
 			},
 			{
 				"gsw": "of",
 				"count": 2
+			},
+			{
+				"gsw": "uff",
+				"count": 1
 			},
 			{
 				"gsw": "auf",
@@ -1109,11 +1344,33 @@
 		]
 	},
 	{
+		"de": "Auge",
+		"translations": [
+			{
+				"gsw": "ùùg",
+				"count": 2
+			},
+			{
+				"gsw": "ùug",
+				"count": 2
+			}
+		]
+	},
+	{
 		"de": "Augen",
 		"translations": [
 			{
 				"gsw": "auge",
 				"count": 2
+			}
+		]
+	},
+	{
+		"de": "August",
+		"translations": [
+			{
+				"gsw": "ùugschte",
+				"count": 1
 			}
 		]
 	},
@@ -1141,6 +1398,10 @@
 	{
 		"de": "aus dem",
 		"translations": [
+			{
+				"gsw": "ùsem",
+				"count": 2
+			},
 			{
 				"gsw": "ussem",
 				"count": 2
@@ -1236,6 +1497,10 @@
 		"de": "ausgegeben",
 		"translations": [
 			{
+				"gsw": "usaggee",
+				"count": 3
+			},
+			{
 				"gsw": "usegeh",
 				"count": 1
 			}
@@ -1251,10 +1516,37 @@
 		]
 	},
 	{
+		"de": "ausgesprochen",
+		"translations": [
+			{
+				"gsw": "ussgspròche",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "auslassen",
 		"translations": [
 			{
 				"gsw": "usla",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Auslaut",
+		"translations": [
+			{
+				"gsw": "ussluut",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Ausnahme",
+		"translations": [
+			{
+				"gsw": "ussnàm",
 				"count": 1
 			}
 		]
@@ -1286,7 +1578,7 @@
 		"translations": [
 			{
 				"gsw": "ussert",
-				"count": 1
+				"count": 2
 			},
 			{
 				"gsw": "usser",
@@ -1326,7 +1618,7 @@
 		"translations": [
 			{
 				"gsw": "uswendig",
-				"count": 1
+				"count": 2
 			}
 		]
 	},
@@ -1362,6 +1654,24 @@
 		]
 	},
 	{
+		"de": "Bau",
+		"translations": [
+			{
+				"gsw": "buu",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "bauen",
+		"translations": [
+			{
+				"gsw": "buue",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "Bauern",
 		"translations": [
 			{
@@ -1376,6 +1686,19 @@
 			{
 				"gsw": "bauindustrie",
 				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Baum",
+		"translations": [
+			{
+				"gsw": "bǜǜm",
+				"count": 2
+			},
+			{
+				"gsw": "bǜüm",
+				"count": 2
 			}
 		]
 	},
@@ -1461,6 +1784,15 @@
 		]
 	},
 	{
+		"de": "behandelt",
+		"translations": [
+			{
+				"gsw": "behòndlet",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "behandelt (er/sie/es)",
 		"translations": [
 			{
@@ -1474,7 +1806,11 @@
 		"translations": [
 			{
 				"gsw": "bi",
-				"count": 49
+				"count": 51
+			},
+			{
+				"gsw": "bì",
+				"count": 3
 			},
 			{
 				"gsw": "bii",
@@ -1507,6 +1843,10 @@
 	{
 		"de": "beiden",
 		"translations": [
+			{
+				"gsw": "bìede",
+				"count": 1
+			},
 			{
 				"gsw": "beidne",
 				"count": 1
@@ -1545,6 +1885,10 @@
 			{
 				"gsw": "bim",
 				"count": 6
+			},
+			{
+				"gsw": "bìm",
+				"count": 2
 			}
 		]
 	},
@@ -1567,6 +1911,15 @@
 		]
 	},
 	{
+		"de": "Beispielwörter",
+		"translations": [
+			{
+				"gsw": "byyspìùwörter",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "bekomme (ich)",
 		"translations": [
 			{
@@ -1580,7 +1933,7 @@
 		"translations": [
 			{
 				"gsw": "becho",
-				"count": 10
+				"count": 12
 			},
 			{
 				"gsw": "bechoo",
@@ -1664,7 +2017,7 @@
 		"translations": [
 			{
 				"gsw": "benutze",
-				"count": 1
+				"count": 2
 			}
 		]
 	},
@@ -1696,11 +2049,89 @@
 		]
 	},
 	{
+		"de": "Berge",
+		"translations": [
+			{
+				"gsw": "bäärga",
+				"count": 2
+			},
+			{
+				"gsw": "bärge",
+				"count": 1
+			},
+			{
+				"gsw": "bärga",
+				"count": 1
+			},
+			{
+				"gsw": "bärg",
+				"count": 1
+			},
+			{
+				"gsw": "bäärge",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Bergen",
+		"translations": [
+			{
+				"gsw": "bäärga",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "berichtet",
+		"translations": [
+			{
+				"gsw": "prìchtet",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "Bern",
 		"translations": [
 			{
+				"gsw": "bärn",
+				"count": 1
+			},
+			{
 				"gsw": "bern",
 				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Berndeutschen",
+		"translations": [
+			{
+				"gsw": "bärntütsche",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Berner",
+		"translations": [
+			{
+				"gsw": "bärner",
+				"count": 3
+			},
+			{
+				"gsw": "berner",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Bernischen",
+		"translations": [
+			{
+				"gsw": "bäärnesche",
+				"count": 3
 			}
 		]
 	},
@@ -1727,6 +2158,28 @@
 		"translations": [
 			{
 				"gsw": "beschlosse",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Beschreibung",
+		"translations": [
+			{
+				"gsw": "bschryybeg",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "beschrieben",
+		"translations": [
+			{
+				"gsw": "bschrìbe",
+				"count": 1
+			},
+			{
+				"gsw": "bìschrìbe",
 				"count": 1
 			}
 		]
@@ -2001,6 +2454,23 @@
 		]
 	},
 	{
+		"de": "Bindung",
+		"translations": [
+			{
+				"gsw": "bìndeg",
+				"count": 2
+			},
+			{
+				"gsw": "bindung",
+				"count": 1
+			},
+			{
+				"gsw": "bindig",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "Bindungen",
 		"translations": [
 			{
@@ -2059,7 +2529,7 @@
 		"translations": [
 			{
 				"gsw": "bis",
-				"count": 19
+				"count": 20
 			}
 		]
 	},
@@ -2086,7 +2556,16 @@
 		"translations": [
 			{
 				"gsw": "blatt",
-				"count": 5
+				"count": 6
+			}
+		]
+	},
+	{
+		"de": "Blei",
+		"translations": [
+			{
+				"gsw": "blyy",
+				"count": 1
 			}
 		]
 	},
@@ -2149,7 +2628,7 @@
 		"translations": [
 			{
 				"gsw": "blätter",
-				"count": 5
+				"count": 6
 			},
 			{
 				"gsw": "bletter",
@@ -2328,6 +2807,19 @@
 		]
 	},
 	{
+		"de": "Brot",
+		"translations": [
+			{
+				"gsw": "bruet",
+				"count": 1
+			},
+			{
+				"gsw": "broot",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "bräuchte es (ich)",
 		"translations": [
 			{
@@ -2359,7 +2851,11 @@
 		"translations": [
 			{
 				"gsw": "buech",
-				"count": 11
+				"count": 15
+			},
+			{
+				"gsw": "bürgisser",
+				"count": 1
 			}
 		]
 	},
@@ -2382,6 +2878,15 @@
 		]
 	},
 	{
+		"de": "Bulle",
+		"translations": [
+			{
+				"gsw": "boù",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "Bundesebene",
 		"translations": [
 			{
@@ -2395,7 +2900,42 @@
 		"translations": [
 			{
 				"gsw": "bus",
-				"count": 3
+				"count": 4
+			}
+		]
+	},
+	{
+		"de": "Butter",
+		"translations": [
+			{
+				"gsw": "òòhe",
+				"count": 1
+			},
+			{
+				"gsw": "òòche",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Butzuckerregulation",
+		"translations": [
+			{
+				"gsw": "bluetzuckerregulation",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Bäckerei",
+		"translations": [
+			{
+				"gsw": "belegort",
+				"count": 1
+			},
+			{
+				"gsw": "beckeryy",
+				"count": 1
 			}
 		]
 	},
@@ -2404,6 +2944,15 @@
 		"translations": [
 			{
 				"gsw": "bäumli",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Bürokratie",
+		"translations": [
+			{
+				"gsw": "bürokratyy",
 				"count": 1
 			}
 		]
@@ -2524,7 +3073,7 @@
 		"translations": [
 			{
 				"gsw": "chemie",
-				"count": 15
+				"count": 16
 			},
 			{
 				"gsw": "chemi",
@@ -2617,7 +3166,7 @@
 		"translations": [
 			{
 				"gsw": "da",
-				"count": 17
+				"count": 18
 			},
 			{
 				"gsw": "do",
@@ -2654,6 +3203,10 @@
 				"count": 8
 			},
 			{
+				"gsw": "derfǜǜr",
+				"count": 1
+			},
+			{
 				"gsw": "dafür",
 				"count": 1
 			}
@@ -2665,6 +3218,10 @@
 			{
 				"gsw": "degege",
 				"count": 9
+			},
+			{
+				"gsw": "dergäge",
+				"count": 3
 			},
 			{
 				"gsw": "dagege",
@@ -2725,11 +3282,11 @@
 		"translations": [
 			{
 				"gsw": "danke",
-				"count": 135
+				"count": 137
 			},
 			{
 				"gsw": "merci",
-				"count": 13
+				"count": 24
 			},
 			{
 				"gsw": "dankä",
@@ -2749,6 +3306,10 @@
 				"count": 4
 			},
 			{
+				"gsw": "de",
+				"count": 2
+			},
+			{
 				"gsw": "den",
 				"count": 1
 			}
@@ -2757,6 +3318,10 @@
 	{
 		"de": "darauf",
 		"translations": [
+			{
+				"gsw": "dròò",
+				"count": 1
+			},
 			{
 				"gsw": "druf",
 				"count": 1
@@ -2826,10 +3391,19 @@
 			},
 			{
 				"gsw": "darum",
-				"count": 3
+				"count": 4
 			},
 			{
 				"gsw": "drom",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "darüber",
+		"translations": [
+			{
+				"gsw": "drùber",
 				"count": 1
 			}
 		]
@@ -2839,11 +3413,15 @@
 		"translations": [
 			{
 				"gsw": "das",
-				"count": 157
+				"count": 165
 			},
 			{
 				"gsw": "s",
 				"count": 45
+			},
+			{
+				"gsw": "ds",
+				"count": 13
 			},
 			{
 				"gsw": "es",
@@ -2860,6 +3438,10 @@
 			{
 				"gsw": "da",
 				"count": 2
+			},
+			{
+				"gsw": "daas",
+				"count": 1
 			},
 			{
 				"gsw": "dass",
@@ -2894,6 +3476,15 @@
 		"translations": [
 			{
 				"gsw": "sbeschte",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "das Buch",
+		"translations": [
+			{
+				"gsw": "sbuech",
 				"count": 1
 			}
 		]
@@ -3002,7 +3593,7 @@
 		"translations": [
 			{
 				"gsw": "dass",
-				"count": 48
+				"count": 49
 			},
 			{
 				"gsw": "das",
@@ -3049,6 +3640,10 @@
 		"de": "davon",
 		"translations": [
 			{
+				"gsw": "dervòò",
+				"count": 1
+			},
+			{
 				"gsw": "devo",
 				"count": 1
 			}
@@ -3064,6 +3659,14 @@
 			{
 				"gsw": "dazue",
 				"count": 2
+			},
+			{
+				"gsw": "drzue",
+				"count": 1
+			},
+			{
+				"gsw": "derzue",
+				"count": 1
 			}
 		]
 	},
@@ -3135,6 +3738,10 @@
 			{
 				"gsw": "de",
 				"count": 8
+			},
+			{
+				"gsw": "däm",
+				"count": 1
 			}
 		]
 	},
@@ -3152,15 +3759,15 @@
 		"translations": [
 			{
 				"gsw": "de",
-				"count": 52
+				"count": 62
 			},
 			{
 				"gsw": "wo",
-				"count": 2
+				"count": 3
 			},
 			{
 				"gsw": "dä",
-				"count": 1
+				"count": 2
 			}
 		]
 	},
@@ -3177,8 +3784,12 @@
 		"de": "den (pl.)",
 		"translations": [
 			{
+				"gsw": "de",
+				"count": 6
+			},
+			{
 				"gsw": "dene",
-				"count": 5
+				"count": 6
 			}
 		]
 	},
@@ -3205,7 +3816,15 @@
 		"translations": [
 			{
 				"gsw": "de",
-				"count": 87
+				"count": 89
+			},
+			{
+				"gsw": "dr",
+				"count": 20
+			},
+			{
+				"gsw": "der",
+				"count": 6
 			},
 			{
 				"gsw": "wo",
@@ -3216,12 +3835,8 @@
 				"count": 5
 			},
 			{
-				"gsw": "der",
-				"count": 3
-			},
-			{
-				"gsw": "dere",
-				"count": 2
+				"gsw": "wa",
+				"count": 1
 			}
 		]
 	},
@@ -3230,7 +3845,15 @@
 		"translations": [
 			{
 				"gsw": "de",
-				"count": 3
+				"count": 5
+			},
+			{
+				"gsw": "dere",
+				"count": 2
+			},
+			{
+				"gsw": "der",
+				"count": 1
 			}
 		]
 	},
@@ -3262,11 +3885,64 @@
 		]
 	},
 	{
+		"de": "deutlich",
+		"translations": [
+			{
+				"gsw": "tütlech",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "Deutsch",
 		"translations": [
 			{
 				"gsw": "dütsch",
 				"count": 18
+			}
+		]
+	},
+	{
+		"de": "Deutschfreiburger",
+		"translations": [
+			{
+				"gsw": "tütschfrybùrger",
+				"count": 2
+			},
+			{
+				"gsw": "tütschschwyz",
+				"count": 1
+			},
+			{
+				"gsw": "tüschfrybùrger",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "deutschschweizer",
+		"translations": [
+			{
+				"gsw": "tütschschwyzer",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "deutschsprachige",
+		"translations": [
+			{
+				"gsw": "tütschspraachìgì",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "deutschsprachigen",
+		"translations": [
+			{
+				"gsw": "tütschspraaìg",
+				"count": 1
 			}
 		]
 	},
@@ -3284,6 +3960,28 @@
 		"translations": [
 			{
 				"gsw": "dezimalzahl",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Dialekt",
+		"translations": [
+			{
+				"gsw": "dialäkt",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Dialektbeispiele",
+		"translations": [
+			{
+				"gsw": "die",
+				"count": 1
+			},
+			{
+				"gsw": "dialäktbyyspìù",
 				"count": 1
 			}
 		]
@@ -3319,12 +4017,12 @@
 		"de": "die",
 		"translations": [
 			{
-				"gsw": "die",
-				"count": 72
+				"gsw": "d",
+				"count": 78
 			},
 			{
-				"gsw": "d",
-				"count": 54
+				"gsw": "die",
+				"count": 72
 			},
 			{
 				"gsw": "wo",
@@ -3332,19 +4030,31 @@
 			},
 			{
 				"gsw": "di",
-				"count": 10
+				"count": 11
+			},
+			{
+				"gsw": "dì",
+				"count": 9
 			},
 			{
 				"gsw": "diä",
-				"count": 5
+				"count": 6
 			},
 			{
 				"gsw": "de",
-				"count": 5
+				"count": 6
+			},
+			{
+				"gsw": "wa",
+				"count": 3
 			},
 			{
 				"gsw": "e",
 				"count": 3
+			},
+			{
+				"gsw": "dia",
+				"count": 1
 			},
 			{
 				"gsw": "t",
@@ -3357,7 +4067,7 @@
 		"translations": [
 			{
 				"gsw": "die",
-				"count": 3
+				"count": 10
 			}
 		]
 	},
@@ -3461,6 +4171,15 @@
 		]
 	},
 	{
+		"de": "die Seite",
+		"translations": [
+			{
+				"gsw": "dsite",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "die Strukturen",
 		"translations": [
 			{
@@ -3479,10 +4198,28 @@
 		]
 	},
 	{
+		"de": "die Vase",
+		"translations": [
+			{
+				"gsw": "dvase",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "die Verdauung",
 		"translations": [
 			{
 				"gsw": "dverdauung",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "die Wörter",
+		"translations": [
+			{
+				"gsw": "dwörter",
 				"count": 1
 			}
 		]
@@ -3493,6 +4230,24 @@
 			{
 				"gsw": "zistig",
 				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Diminutiv",
+		"translations": [
+			{
+				"gsw": "diminutiv",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Diphthongierung",
+		"translations": [
+			{
+				"gsw": "diphthongiereg",
+				"count": 2
 			}
 		]
 	},
@@ -3528,11 +4283,20 @@
 		]
 	},
 	{
+		"de": "Dissertation",
+		"translations": [
+			{
+				"gsw": "dissertation",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "doch",
 		"translations": [
 			{
 				"gsw": "doch",
-				"count": 23
+				"count": 25
 			},
 			{
 				"gsw": "do",
@@ -3589,6 +4353,15 @@
 		]
 	},
 	{
+		"de": "Doppelstunde",
+		"translations": [
+			{
+				"gsw": "doppelstund",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "Dorf",
 		"translations": [
 			{
@@ -3602,7 +4375,7 @@
 		"translations": [
 			{
 				"gsw": "döt",
-				"count": 3
+				"count": 4
 			},
 			{
 				"gsw": "dete",
@@ -3623,7 +4396,7 @@
 		"translations": [
 			{
 				"gsw": "dossier",
-				"count": 5
+				"count": 6
 			}
 		]
 	},
@@ -3642,6 +4415,19 @@
 			{
 				"gsw": "drüse",
 				"count": 1
+			}
+		]
+	},
+	{
+		"de": "drei",
+		"translations": [
+			{
+				"gsw": "drüü",
+				"count": 5
+			},
+			{
+				"gsw": "dryy",
+				"count": 2
 			}
 		]
 	},
@@ -3686,7 +4472,7 @@
 		"translations": [
 			{
 				"gsw": "du",
-				"count": 41
+				"count": 42
 			}
 		]
 	},
@@ -3722,11 +4508,15 @@
 		"translations": [
 			{
 				"gsw": "dure",
-				"count": 2
+				"count": 3
 			},
 			{
 				"gsw": "durch",
 				"count": 2
+			},
+			{
+				"gsw": "durn",
+				"count": 1
 			},
 			{
 				"gsw": "döre",
@@ -3771,6 +4561,15 @@
 		]
 	},
 	{
+		"de": "Dörfern",
+		"translations": [
+			{
+				"gsw": "düerfer",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "dümmer",
 		"translations": [
 			{
@@ -3794,6 +4593,10 @@
 			{
 				"gsw": "derf",
 				"count": 2
+			},
+			{
+				"gsw": "derfet",
+				"count": 1
 			},
 			{
 				"gsw": "derfed",
@@ -3868,6 +4671,10 @@
 			{
 				"gsw": "egal",
 				"count": 3
+			},
+			{
+				"gsw": "gliich",
+				"count": 1
 			}
 		]
 	},
@@ -3876,7 +4683,7 @@
 		"translations": [
 			{
 				"gsw": "eh",
-				"count": 4
+				"count": 5
 			}
 		]
 	},
@@ -3886,6 +4693,10 @@
 			{
 				"gsw": "eher",
 				"count": 9
+			},
+			{
+				"gsw": "iender",
+				"count": 2
 			}
 		]
 	},
@@ -3903,6 +4714,15 @@
 		"translations": [
 			{
 				"gsw": "eier",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "eigenartige",
+		"translations": [
+			{
+				"gsw": "ìigenaarteg",
 				"count": 1
 			}
 		]
@@ -3930,15 +4750,24 @@
 		]
 	},
 	{
+		"de": "eigenes",
+		"translations": [
+			{
+				"gsw": "ìigeds",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "eigentlich",
 		"translations": [
 			{
 				"gsw": "eigentlich",
-				"count": 13
+				"count": 14
 			},
 			{
 				"gsw": "eig",
-				"count": 3
+				"count": 4
 			}
 		]
 	},
@@ -3946,16 +4775,32 @@
 		"de": "ein",
 		"translations": [
 			{
-				"gsw": "en",
-				"count": 9
+				"gsw": "es",
+				"count": 10
 			},
 			{
-				"gsw": "es",
-				"count": 7
+				"gsw": "en",
+				"count": 10
+			},
+			{
+				"gsw": "a",
+				"count": 2
 			},
 			{
 				"gsw": "eis",
 				"count": 2
+			},
+			{
+				"gsw": "z",
+				"count": 1
+			},
+			{
+				"gsw": "as",
+				"count": 1
+			},
+			{
+				"gsw": "s",
+				"count": 1
 			},
 			{
 				"gsw": "e",
@@ -3992,6 +4837,10 @@
 				"count": 4
 			},
 			{
+				"gsw": "as",
+				"count": 2
+			},
+			{
 				"gsw": "s",
 				"count": 2
 			},
@@ -4010,7 +4859,7 @@
 		"translations": [
 			{
 				"gsw": "chli",
-				"count": 10
+				"count": 11
 			},
 			{
 				"gsw": "echli",
@@ -4049,7 +4898,11 @@
 		"translations": [
 			{
 				"gsw": "e",
-				"count": 34
+				"count": 38
+			},
+			{
+				"gsw": "a",
+				"count": 7
 			},
 			{
 				"gsw": "eini",
@@ -4062,6 +4915,10 @@
 			{
 				"gsw": "en",
 				"count": 2
+			},
+			{
+				"gsw": "abchǜrzeg",
+				"count": 1
 			},
 			{
 				"gsw": "eine",
@@ -4095,6 +4952,10 @@
 		"de": "einem",
 		"translations": [
 			{
+				"gsw": "a",
+				"count": 1
+			},
+			{
 				"gsw": "ne",
 				"count": 1
 			},
@@ -4109,7 +4970,11 @@
 		"translations": [
 			{
 				"gsw": "en",
-				"count": 13
+				"count": 15
+			},
+			{
+				"gsw": "a",
+				"count": 2
 			},
 			{
 				"gsw": "einte",
@@ -4129,6 +4994,10 @@
 				"count": 2
 			},
 			{
+				"gsw": "ana",
+				"count": 1
+			},
+			{
 				"gsw": "ere",
 				"count": 1
 			},
@@ -4143,19 +5012,19 @@
 		"translations": [
 			{
 				"gsw": "eifach",
-				"count": 29
+				"count": 31
 			},
 			{
 				"gsw": "efach",
 				"count": 6
 			},
 			{
-				"gsw": "afoch",
-				"count": 2
+				"gsw": "eif",
+				"count": 3
 			},
 			{
-				"gsw": "eif",
-				"count": 1
+				"gsw": "afoch",
+				"count": 2
 			}
 		]
 	},
@@ -4178,6 +5047,24 @@
 		]
 	},
 	{
+		"de": "Einheit",
+		"translations": [
+			{
+				"gsw": "einheit",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Einheitsform",
+		"translations": [
+			{
+				"gsw": "ìinhìitsform",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "einlaufen",
 		"translations": [
 			{
@@ -4191,6 +5078,15 @@
 		"translations": [
 			{
 				"gsw": "eimal",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Einordnung",
+		"translations": [
+			{
+				"gsw": "yyuerneg",
 				"count": 1
 			}
 		]
@@ -4234,6 +5130,10 @@
 				"count": 3
 			},
 			{
+				"gsw": "enzìgì",
+				"count": 1
+			},
+			{
 				"gsw": "einzigi",
 				"count": 1
 			},
@@ -4270,6 +5170,15 @@
 			},
 			{
 				"gsw": "eiwiis",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Elektriker",
+		"translations": [
+			{
+				"gsw": "elektriker",
 				"count": 1
 			}
 		]
@@ -4378,6 +5287,24 @@
 		]
 	},
 	{
+		"de": "Endsilbevokal",
+		"translations": [
+			{
+				"gsw": "endsilbevokaù",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Endung",
+		"translations": [
+			{
+				"gsw": "endeg",
+				"count": 2
+			}
+		]
+	},
+	{
 		"de": "engagiert",
 		"translations": [
 			{
@@ -4481,7 +5408,11 @@
 		"translations": [
 			{
 				"gsw": "er",
-				"count": 27
+				"count": 31
+			},
+			{
+				"gsw": "är",
+				"count": 6
 			}
 		]
 	},
@@ -4513,8 +5444,21 @@
 		]
 	},
 	{
+		"de": "Erforschungsgeschichte",
+		"translations": [
+			{
+				"gsw": "erforschigsgschicht",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "Ergebnis",
 		"translations": [
+			{
+				"gsw": "ergebniss",
+				"count": 1
+			},
 			{
 				"gsw": "ergebnis",
 				"count": 1
@@ -4526,6 +5470,24 @@
 		"translations": [
 			{
 				"gsw": "ergitt",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Erhalt",
+		"translations": [
+			{
+				"gsw": "erhaùt",
+				"count": 2
+			}
+		]
+	},
+	{
+		"de": "erhalten",
+		"translations": [
+			{
+				"gsw": "erhaùte",
 				"count": 1
 			}
 		]
@@ -4592,7 +5554,7 @@
 		"translations": [
 			{
 				"gsw": "erscht",
-				"count": 3
+				"count": 4
 			},
 			{
 				"gsw": "ersch",
@@ -4616,6 +5578,14 @@
 				"count": 2
 			},
 			{
+				"gsw": "im",
+				"count": 1
+			},
+			{
+				"gsw": "ierscht",
+				"count": 1
+			},
+			{
 				"gsw": "erste",
 				"count": 1
 			},
@@ -4630,7 +5600,7 @@
 		"translations": [
 			{
 				"gsw": "erschte",
-				"count": 2
+				"count": 3
 			}
 		]
 	},
@@ -4702,15 +5672,19 @@
 		"translations": [
 			{
 				"gsw": "es",
-				"count": 65
+				"count": 68
 			},
 			{
 				"gsw": "äs",
-				"count": 10
+				"count": 11
 			},
 			{
 				"gsw": "s",
-				"count": 3
+				"count": 4
+			},
+			{
+				"gsw": "as",
+				"count": 1
 			}
 		]
 	},
@@ -4751,6 +5725,15 @@
 		]
 	},
 	{
+		"de": "etwa",
+		"translations": [
+			{
+				"gsw": "eppa",
+				"count": 2
+			}
+		]
+	},
+	{
 		"de": "etwas",
 		"translations": [
 			{
@@ -4760,6 +5743,10 @@
 			{
 				"gsw": "öppis",
 				"count": 5
+			},
+			{
+				"gsw": "eppes",
+				"count": 2
 			},
 			{
 				"gsw": "üpis",
@@ -4852,7 +5839,20 @@
 		"translations": [
 			{
 				"gsw": "falsch",
-				"count": 7
+				"count": 9
+			}
+		]
+	},
+	{
+		"de": "Fang",
+		"translations": [
+			{
+				"gsw": "fr",
+				"count": 1
+			},
+			{
+				"gsw": "fàng",
+				"count": 1
 			}
 		]
 	},
@@ -4861,7 +5861,16 @@
 		"translations": [
 			{
 				"gsw": "fascht",
-				"count": 2
+				"count": 3
+			}
+		]
+	},
+	{
+		"de": "fehlende",
+		"translations": [
+			{
+				"gsw": "fielendì",
+				"count": 1
 			}
 		]
 	},
@@ -4871,6 +5880,10 @@
 			{
 				"gsw": "fehler",
 				"count": 2
+			},
+			{
+				"gsw": "fähler",
+				"count": 1
 			}
 		]
 	},
@@ -4880,6 +5893,10 @@
 			{
 				"gsw": "fehlt",
 				"count": 2
+			},
+			{
+				"gsw": "fieùt",
+				"count": 1
 			}
 		]
 	},
@@ -4937,6 +5954,15 @@
 		"translations": [
 			{
 				"gsw": "füechtigkeit",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Feuerwehr",
+		"translations": [
+			{
+				"gsw": "fürwehr",
 				"count": 1
 			}
 		]
@@ -5004,7 +6030,7 @@
 		"translations": [
 			{
 				"gsw": "findi",
-				"count": 8
+				"count": 9
 			}
 		]
 	},
@@ -5049,7 +6075,7 @@
 		"translations": [
 			{
 				"gsw": "form",
-				"count": 2
+				"count": 4
 			}
 		]
 	},
@@ -5080,7 +6106,7 @@
 		"translations": [
 			{
 				"gsw": "formle",
-				"count": 2
+				"count": 4
 			}
 		]
 	},
@@ -5089,6 +6115,15 @@
 		"translations": [
 			{
 				"gsw": "formelsammlig",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Formen",
+		"translations": [
+			{
+				"gsw": "forme",
 				"count": 1
 			}
 		]
@@ -5126,6 +6161,10 @@
 			{
 				"gsw": "fotis",
 				"count": 3
+			},
+			{
+				"gsw": "foto",
+				"count": 1
 			}
 		]
 	},
@@ -5240,7 +6279,20 @@
 		"translations": [
 			{
 				"gsw": "franz",
-				"count": 4
+				"count": 6
+			},
+			{
+				"gsw": "französisch",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "französischen",
+		"translations": [
+			{
+				"gsw": "fronzüesìsche",
+				"count": 1
 			}
 		]
 	},
@@ -5268,6 +6320,19 @@
 			{
 				"gsw": "frei",
 				"count": 7
+			}
+		]
+	},
+	{
+		"de": "Freiburg",
+		"translations": [
+			{
+				"gsw": "fryybùrg",
+				"count": 1
+			},
+			{
+				"gsw": "frybùrg",
+				"count": 1
 			}
 		]
 	},
@@ -5423,6 +6488,10 @@
 			},
 			{
 				"gsw": "früener",
+				"count": 3
+			},
+			{
+				"gsw": "früer",
 				"count": 2
 			}
 		]
@@ -5459,6 +6528,19 @@
 		"translations": [
 			{
 				"gsw": "funktioniert",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Fuss",
+		"translations": [
+			{
+				"gsw": "gìtts",
+				"count": 1
+			},
+			{
+				"gsw": "fues",
 				"count": 1
 			}
 		]
@@ -5598,11 +6680,15 @@
 		"translations": [
 			{
 				"gsw": "für",
-				"count": 45
+				"count": 46
 			},
 			{
 				"gsw": "fö",
 				"count": 4
+			},
+			{
+				"gsw": "fer",
+				"count": 1
 			}
 		]
 	},
@@ -5660,7 +6746,7 @@
 		"translations": [
 			{
 				"gsw": "ganz",
-				"count": 11
+				"count": 12
 			}
 		]
 	},
@@ -5686,10 +6772,14 @@
 		"translations": [
 			{
 				"gsw": "ganze",
-				"count": 3
+				"count": 4
 			},
 			{
 				"gsw": "ganz",
+				"count": 2
+			},
+			{
+				"gsw": "ganzi",
 				"count": 1
 			}
 		]
@@ -5699,7 +6789,7 @@
 		"translations": [
 			{
 				"gsw": "ganzes",
-				"count": 1
+				"count": 2
 			}
 		]
 	},
@@ -5708,10 +6798,23 @@
 		"translations": [
 			{
 				"gsw": "gar",
-				"count": 6
+				"count": 8
 			},
 			{
 				"gsw": "ger",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Garn",
+		"translations": [
+			{
+				"gsw": "gaare",
+				"count": 1
+			},
+			{
+				"gsw": "gaar",
 				"count": 1
 			}
 		]
@@ -5762,6 +6865,15 @@
 		]
 	},
 	{
+		"de": "gearbeitet",
+		"translations": [
+			{
+				"gsw": "gwärchet",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "gebe (ich)",
 		"translations": [
 			{
@@ -5798,11 +6910,42 @@
 		]
 	},
 	{
+		"de": "geblieben",
+		"translations": [
+			{
+				"gsw": "plìbe",
+				"count": 1
+			},
+			{
+				"gsw": "blìben",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "gebraucht",
+		"translations": [
+			{
+				"gsw": "gbrucht",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "gecheckt",
+		"translations": [
+			{
+				"gsw": "checkt",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "gedacht",
 		"translations": [
 			{
 				"gsw": "denkt",
-				"count": 2
+				"count": 3
 			},
 			{
 				"gsw": "dacht",
@@ -5842,7 +6985,7 @@
 		"translations": [
 			{
 				"gsw": "gfrögt",
-				"count": 3
+				"count": 5
 			},
 			{
 				"gsw": "gfröget",
@@ -5929,7 +7072,7 @@
 		"translations": [
 			{
 				"gsw": "gange",
-				"count": 3
+				"count": 4
 			},
 			{
 				"gsw": "go",
@@ -5967,6 +7110,10 @@
 		"de": "Gegensatz",
 		"translations": [
 			{
+				"gsw": "gägesatz",
+				"count": 1
+			},
+			{
 				"gsw": "gegesatz",
 				"count": 1
 			}
@@ -5995,7 +7142,19 @@
 		"translations": [
 			{
 				"gsw": "gha",
-				"count": 8
+				"count": 11
+			},
+			{
+				"gsw": "kòò",
+				"count": 1
+			},
+			{
+				"gsw": "ghääbe",
+				"count": 1
+			},
+			{
+				"gsw": "gchäbe",
+				"count": 1
 			}
 		]
 	},
@@ -6017,7 +7176,7 @@
 			},
 			{
 				"gsw": "gah",
-				"count": 3
+				"count": 4
 			},
 			{
 				"gsw": "goh",
@@ -6061,6 +7220,15 @@
 		]
 	},
 	{
+		"de": "gehören (sie)",
+		"translations": [
+			{
+				"gsw": "küere",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "gehört",
 		"translations": [
 			{
@@ -6074,10 +7242,28 @@
 		]
 	},
 	{
+		"de": "gehört (er/sie/es)",
+		"translations": [
+			{
+				"gsw": "gküert",
+				"count": 2
+			}
+		]
+	},
+	{
 		"de": "geil",
 		"translations": [
 			{
 				"gsw": "geil",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "gekifft",
+		"translations": [
+			{
+				"gsw": "kifft",
 				"count": 1
 			}
 		]
@@ -6106,6 +7292,15 @@
 			{
 				"gsw": "glade",
 				"count": 4
+			}
+		]
+	},
+	{
+		"de": "gelb",
+		"translations": [
+			{
+				"gsw": "gel",
+				"count": 1
 			}
 		]
 	},
@@ -6167,7 +7362,16 @@
 		"translations": [
 			{
 				"gsw": "gmacht",
-				"count": 20
+				"count": 21
+			}
+		]
+	},
+	{
+		"de": "Gemeinde",
+		"translations": [
+			{
+				"gsw": "gmìi",
+				"count": 2
 			}
 		]
 	},
@@ -6176,7 +7380,7 @@
 		"translations": [
 			{
 				"gsw": "gmeint",
-				"count": 6
+				"count": 7
 			}
 		]
 	},
@@ -6202,7 +7406,7 @@
 			},
 			{
 				"gsw": "gnau",
-				"count": 2
+				"count": 3
 			}
 		]
 	},
@@ -6278,7 +7482,7 @@
 		"translations": [
 			{
 				"gsw": "gnueg",
-				"count": 2
+				"count": 4
 			}
 		]
 	},
@@ -6305,6 +7509,15 @@
 		]
 	},
 	{
+		"de": "gerechnet",
+		"translations": [
+			{
+				"gsw": "grächnet",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "gerechtliche",
 		"translations": [
 			{
@@ -6318,7 +7531,7 @@
 		"translations": [
 			{
 				"gsw": "gredet",
-				"count": 1
+				"count": 2
 			}
 		]
 	},
@@ -6328,6 +7541,14 @@
 			{
 				"gsw": "gern",
 				"count": 8
+			},
+			{
+				"gsw": "gääre",
+				"count": 1
+			},
+			{
+				"gsw": "gäär",
+				"count": 1
 			},
 			{
 				"gsw": "gerne",
@@ -6340,7 +7561,7 @@
 		"translations": [
 			{
 				"gsw": "gseit",
-				"count": 21
+				"count": 24
 			}
 		]
 	},
@@ -6367,10 +7588,23 @@
 		"translations": [
 			{
 				"gsw": "gschicht",
-				"count": 4
+				"count": 5
+			},
+			{
+				"gsw": "gschìcht",
+				"count": 1
 			},
 			{
 				"gsw": "geschichte",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Geschichten",
+		"translations": [
+			{
+				"gsw": "gschìchtlìnì",
 				"count": 1
 			}
 		]
@@ -6380,7 +7614,7 @@
 		"translations": [
 			{
 				"gsw": "gschickt",
-				"count": 6
+				"count": 7
 			},
 			{
 				"gsw": "gschickte",
@@ -6418,6 +7652,10 @@
 	{
 		"de": "geschrieben",
 		"translations": [
+			{
+				"gsw": "gschrìbe",
+				"count": 3
+			},
 			{
 				"gsw": "gschribe",
 				"count": 3
@@ -6536,6 +7774,15 @@
 		]
 	},
 	{
+		"de": "getestet",
+		"translations": [
+			{
+				"gsw": "teschtet",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "Getränk",
 		"translations": [
 			{
@@ -6585,11 +7832,19 @@
 		"translations": [
 			{
 				"gsw": "gsi",
-				"count": 12
+				"count": 13
 			},
 			{
 				"gsw": "gsii",
 				"count": 2
+			},
+			{
+				"gsw": "gsyy",
+				"count": 1
+			},
+			{
+				"gsw": "gsy",
+				"count": 1
 			},
 			{
 				"gsw": "gsie",
@@ -6687,11 +7942,20 @@
 		]
 	},
 	{
+		"de": "Glaube",
+		"translations": [
+			{
+				"gsw": "glùube",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "glaube (ich)",
 		"translations": [
 			{
 				"gsw": "glaub",
-				"count": 42
+				"count": 44
 			},
 			{
 				"gsw": "glaubs",
@@ -6712,11 +7976,11 @@
 			},
 			{
 				"gsw": "glaubs",
-				"count": 7
+				"count": 9
 			},
 			{
 				"gsw": "glaubi",
-				"count": 1
+				"count": 2
 			}
 		]
 	},
@@ -6725,7 +7989,11 @@
 		"translations": [
 			{
 				"gsw": "glich",
-				"count": 3
+				"count": 4
+			},
+			{
+				"gsw": "glyych",
+				"count": 1
 			},
 			{
 				"gsw": "gleich",
@@ -6745,11 +8013,19 @@
 				"count": 2
 			},
 			{
+				"gsw": "glyych",
+				"count": 1
+			},
+			{
 				"gsw": "gliichi",
 				"count": 1
 			},
 			{
 				"gsw": "gliche",
+				"count": 1
+			},
+			{
+				"gsw": "glich",
 				"count": 1
 			}
 		]
@@ -6817,6 +8093,15 @@
 		]
 	},
 	{
+		"de": "Glucose",
+		"translations": [
+			{
+				"gsw": "glucose",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "Glukagon",
 		"translations": [
 			{
@@ -6871,11 +8156,20 @@
 		]
 	},
 	{
-		"de": "grfragt",
+		"de": "Greyerzbezirk",
 		"translations": [
 			{
-				"gsw": "gfrögt",
-				"count": 1
+				"gsw": "grüerschbìzìrk",
+				"count": 2
+			}
+		]
+	},
+	{
+		"de": "Greyerzerland",
+		"translations": [
+			{
+				"gsw": "greyerzerland",
+				"count": 2
 			}
 		]
 	},
@@ -6884,6 +8178,19 @@
 		"translations": [
 			{
 				"gsw": "gross",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "grosse",
+		"translations": [
+			{
+				"gsw": "gruessì",
+				"count": 1
+			},
+			{
+				"gsw": "groossi",
 				"count": 1
 			}
 		]
@@ -6912,6 +8219,10 @@
 			{
 				"gsw": "grund",
 				"count": 2
+			},
+			{
+				"gsw": "grùnd",
+				"count": 1
 			}
 		]
 	},
@@ -6929,7 +8240,7 @@
 		"translations": [
 			{
 				"gsw": "gruppe",
-				"count": 9
+				"count": 11
 			}
 		]
 	},
@@ -6983,7 +8294,7 @@
 		"translations": [
 			{
 				"gsw": "guet",
-				"count": 35
+				"count": 36
 			}
 		]
 	},
@@ -7018,6 +8329,10 @@
 		"de": "Gymiprüfungen",
 		"translations": [
 			{
+				"gsw": "gymiprüefige",
+				"count": 1
+			},
+			{
 				"gsw": "gymiprüefig",
 				"count": 1
 			}
@@ -7028,6 +8343,15 @@
 		"translations": [
 			{
 				"gsw": "gültig",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "gültigen",
+		"translations": [
+			{
+				"gsw": "gǜùtege",
 				"count": 1
 			}
 		]
@@ -7068,7 +8392,7 @@
 		"translations": [
 			{
 				"gsw": "han",
-				"count": 49
+				"count": 53
 			},
 			{
 				"gsw": "ha",
@@ -7090,7 +8414,7 @@
 		"translations": [
 			{
 				"gsw": "hans",
-				"count": 15
+				"count": 16
 			},
 			{
 				"gsw": "has",
@@ -7103,7 +8427,7 @@
 		"translations": [
 			{
 				"gsw": "hani",
-				"count": 13
+				"count": 14
 			},
 			{
 				"gsw": "han",
@@ -7125,7 +8449,7 @@
 		"translations": [
 			{
 				"gsw": "hanis",
-				"count": 1
+				"count": 2
 			}
 		]
 	},
@@ -7164,11 +8488,11 @@
 		"translations": [
 			{
 				"gsw": "hend",
-				"count": 28
+				"count": 32
 			},
 			{
 				"gsw": "händ",
-				"count": 6
+				"count": 9
 			}
 		]
 	},
@@ -7195,7 +8519,7 @@
 		"translations": [
 			{
 				"gsw": "hemmer",
-				"count": 24
+				"count": 27
 			},
 			{
 				"gsw": "hemer",
@@ -7207,6 +8531,10 @@
 			},
 			{
 				"gsw": "händ mir",
+				"count": 1
+			},
+			{
+				"gsw": "hämmer",
 				"count": 1
 			},
 			{
@@ -7274,7 +8602,16 @@
 		"translations": [
 			{
 				"gsw": "halt",
-				"count": 20
+				"count": 22
+			}
+		]
+	},
+	{
+		"de": "haltbar",
+		"translations": [
+			{
+				"gsw": "haltbar",
+				"count": 1
 			}
 		]
 	},
@@ -7283,6 +8620,15 @@
 		"translations": [
 			{
 				"gsw": "hebe",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Hammer",
+		"translations": [
+			{
+				"gsw": "hammer",
 				"count": 1
 			}
 		]
@@ -7319,7 +8665,7 @@
 		"translations": [
 			{
 				"gsw": "hesch",
-				"count": 10
+				"count": 11
 			},
 			{
 				"gsw": "häsch",
@@ -7332,7 +8678,7 @@
 		"translations": [
 			{
 				"gsw": "hesch",
-				"count": 4
+				"count": 6
 			}
 		]
 	},
@@ -7350,15 +8696,23 @@
 		"translations": [
 			{
 				"gsw": "het",
-				"count": 86
+				"count": 91
 			},
 			{
 				"gsw": "hät",
-				"count": 8
+				"count": 19
 			},
 			{
 				"gsw": "hett",
 				"count": 6
+			},
+			{
+				"gsw": "hätt",
+				"count": 2
+			},
+			{
+				"gsw": "hìi",
+				"count": 1
 			}
 		]
 	},
@@ -7377,6 +8731,24 @@
 			{
 				"gsw": "hets",
 				"count": 1
+			}
+		]
+	},
+	{
+		"de": "hat es (er/sie/es)",
+		"translations": [
+			{
+				"gsw": "häts",
+				"count": 2
+			}
+		]
+	},
+	{
+		"de": "Haufen",
+		"translations": [
+			{
+				"gsw": "huufe",
+				"count": 2
 			}
 		]
 	},
@@ -7466,7 +8838,7 @@
 		"translations": [
 			{
 				"gsw": "helfe",
-				"count": 2
+				"count": 3
 			}
 		]
 	},
@@ -7493,6 +8865,15 @@
 		"translations": [
 			{
 				"gsw": "use",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "herausgekommen",
+		"translations": [
+			{
+				"gsw": "usachua",
 				"count": 1
 			}
 		]
@@ -7547,7 +8928,7 @@
 		"translations": [
 			{
 				"gsw": "hüt",
-				"count": 8
+				"count": 10
 			},
 			{
 				"gsw": "hütt",
@@ -7569,6 +8950,15 @@
 		]
 	},
 	{
+		"de": "Hiatus",
+		"translations": [
+			{
+				"gsw": "hiatus",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "Hilfe",
 		"translations": [
 			{
@@ -7582,6 +8972,15 @@
 		"translations": [
 			{
 				"gsw": "hilfrich",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Hilfsverb",
+		"translations": [
+			{
+				"gsw": "hǜufsverb",
 				"count": 1
 			}
 		]
@@ -7618,7 +9017,7 @@
 		"translations": [
 			{
 				"gsw": "hoch",
-				"count": 8
+				"count": 9
 			}
 		]
 	},
@@ -7712,6 +9111,15 @@
 		]
 	},
 	{
+		"de": "Hoppla",
+		"translations": [
+			{
+				"gsw": "hoppla",
+				"count": 2
+			}
+		]
+	},
+	{
 		"de": "Hund",
 		"translations": [
 			{
@@ -7734,7 +9142,7 @@
 		"translations": [
 			{
 				"gsw": "hä",
-				"count": 9
+				"count": 10
 			}
 		]
 	},
@@ -7796,12 +9204,12 @@
 		"de": "hätte (ich)",
 		"translations": [
 			{
-				"gsw": "het",
-				"count": 3
+				"gsw": "hett",
+				"count": 4
 			},
 			{
-				"gsw": "hett",
-				"count": 2
+				"gsw": "het",
+				"count": 3
 			},
 			{
 				"gsw": "hetti",
@@ -7824,6 +9232,10 @@
 			{
 				"gsw": "hetted",
 				"count": 4
+			},
+			{
+				"gsw": "hettet",
+				"count": 1
 			},
 			{
 				"gsw": "het",
@@ -7858,10 +9270,28 @@
 		]
 	},
 	{
+		"de": "Höchstalemmanischen",
+		"translations": [
+			{
+				"gsw": "höchstalemannische",
+				"count": 2
+			}
+		]
+	},
+	{
 		"de": "Höhe",
 		"translations": [
 			{
 				"gsw": "höhi",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "höhen",
+		"translations": [
+			{
+				"gsw": "hueje",
 				"count": 1
 			}
 		]
@@ -7885,6 +9315,15 @@
 		]
 	},
 	{
+		"de": "hört man",
+		"translations": [
+			{
+				"gsw": "küerpmù",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "Hürde",
 		"translations": [
 			{
@@ -7898,7 +9337,7 @@
 		"translations": [
 			{
 				"gsw": "ich",
-				"count": 329
+				"count": 338
 			},
 			{
 				"gsw": "i",
@@ -7947,7 +9386,7 @@
 		"translations": [
 			{
 				"gsw": "glaub",
-				"count": 5
+				"count": 11
 			}
 		]
 	},
@@ -7973,7 +9412,7 @@
 		"translations": [
 			{
 				"gsw": "hans",
-				"count": 2
+				"count": 4
 			}
 		]
 	},
@@ -8013,7 +9452,7 @@
 		"translations": [
 			{
 				"gsw": "ihm",
-				"count": 5
+				"count": 6
 			},
 			{
 				"gsw": "ehm",
@@ -8030,7 +9469,7 @@
 			},
 			{
 				"gsw": "en",
-				"count": 1
+				"count": 2
 			}
 		]
 	},
@@ -8106,7 +9545,24 @@
 		"translations": [
 			{
 				"gsw": "im",
+				"count": 39
+			},
+			{
+				"gsw": "ìm",
 				"count": 34
+			}
+		]
+	},
+	{
+		"de": "im Westen",
+		"translations": [
+			{
+				"gsw": "zämmefasseg",
+				"count": 1
+			},
+			{
+				"gsw": "z desúús",
+				"count": 1
 			}
 		]
 	},
@@ -8115,7 +9571,7 @@
 		"translations": [
 			{
 				"gsw": "immer",
-				"count": 17
+				"count": 19
 			}
 		]
 	},
@@ -8142,11 +9598,23 @@
 		"translations": [
 			{
 				"gsw": "i",
-				"count": 48
+				"count": 56
 			},
 			{
 				"gsw": "in",
-				"count": 27
+				"count": 34
+			},
+			{
+				"gsw": "ì",
+				"count": 9
+			},
+			{
+				"gsw": "z",
+				"count": 6
+			},
+			{
+				"gsw": "ìn",
+				"count": 1
 			},
 			{
 				"gsw": "im",
@@ -8181,7 +9649,7 @@
 		"translations": [
 			{
 				"gsw": "ide",
-				"count": 10
+				"count": 11
 			},
 			{
 				"gsw": "i dere",
@@ -8246,6 +9714,15 @@
 		]
 	},
 	{
+		"de": "in welcher",
+		"translations": [
+			{
+				"gsw": "wo",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "indirekt",
 		"translations": [
 			{
@@ -8276,6 +9753,10 @@
 		"de": "innerhalb",
 		"translations": [
 			{
+				"gsw": "ìnnerhaùb",
+				"count": 1
+			},
+			{
 				"gsw": "innerhalb",
 				"count": 1
 			}
@@ -8286,7 +9767,7 @@
 		"translations": [
 			{
 				"gsw": "is",
-				"count": 2
+				"count": 3
 			}
 		]
 	},
@@ -8295,6 +9776,15 @@
 		"translations": [
 			{
 				"gsw": "instruktione",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Insulin",
+		"translations": [
+			{
+				"gsw": "insulin",
 				"count": 1
 			}
 		]
@@ -8314,6 +9804,15 @@
 			{
 				"gsw": "internet",
 				"count": 2
+			}
+		]
+	},
+	{
+		"de": "Intonation",
+		"translations": [
+			{
+				"gsw": "intonation",
+				"count": 1
 			}
 		]
 	},
@@ -8393,7 +9892,7 @@
 		"translations": [
 			{
 				"gsw": "irgendwie",
-				"count": 7
+				"count": 8
 			}
 		]
 	},
@@ -8407,17 +9906,39 @@
 		]
 	},
 	{
+		"de": "ironischen",
+		"translations": [
+			{
+				"gsw": "yròònìschìi",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Isolation",
+		"translations": [
+			{
+				"gsw": "isolation",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "isoliert",
 		"translations": [
 			{
 				"gsw": "isoliert",
-				"count": 2
+				"count": 3
 			}
 		]
 	},
 	{
 		"de": "ist",
 		"translations": [
+			{
+				"gsw": "ìsch",
+				"count": 23
+			},
 			{
 				"gsw": "isch",
 				"count": 5
@@ -8429,11 +9950,7 @@
 		"translations": [
 			{
 				"gsw": "isch",
-				"count": 171
-			},
-			{
-				"gsw": "ich",
-				"count": 1
+				"count": 181
 			},
 			{
 				"gsw": "ischt",
@@ -8472,12 +9989,16 @@
 		"de": "ist es",
 		"translations": [
 			{
+				"gsw": "ischs",
+				"count": 4
+			},
+			{
 				"gsw": "isches",
 				"count": 3
 			},
 			{
-				"gsw": "ischs",
-				"count": 2
+				"gsw": "isch",
+				"count": 1
 			}
 		]
 	},
@@ -8504,7 +10025,7 @@
 		"translations": [
 			{
 				"gsw": "ja",
-				"count": 264
+				"count": 271
 			},
 			{
 				"gsw": "jo",
@@ -8530,7 +10051,19 @@
 		"translations": [
 			{
 				"gsw": "jahr",
-				"count": 5
+				"count": 6
+			},
+			{
+				"gsw": "jaar",
+				"count": 4
+			},
+			{
+				"gsw": "jauner",
+				"count": 1
+			},
+			{
+				"gsw": "jaun",
+				"count": 1
 			},
 			{
 				"gsw": "johr",
@@ -8542,6 +10075,10 @@
 		"de": "Jahre",
 		"translations": [
 			{
+				"gsw": "jaar",
+				"count": 1
+			},
+			{
 				"gsw": "johr",
 				"count": 1
 			}
@@ -8552,6 +10089,102 @@
 		"translations": [
 			{
 				"gsw": "johr",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Jaun",
+		"translations": [
+			{
+				"gsw": "jùu",
+				"count": 15
+			}
+		]
+	},
+	{
+		"de": "jaundeutsch",
+		"translations": [
+			{
+				"gsw": "jùutütsch",
+				"count": 12
+			}
+		]
+	},
+	{
+		"de": "Jaundeutsch",
+		"translations": [
+			{
+				"gsw": "jùutütsch",
+				"count": 8
+			},
+			{
+				"gsw": "jùùntütsch",
+				"count": 1
+			},
+			{
+				"gsw": "jùuntütsch",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "jaundeutsche",
+		"translations": [
+			{
+				"gsw": "jùutütschì",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Jaundeutsche",
+		"translations": [
+			{
+				"gsw": "jùutütsch",
+				"count": 5
+			}
+		]
+	},
+	{
+		"de": "Jaundeutschen",
+		"translations": [
+			{
+				"gsw": "jùutütsch",
+				"count": 4
+			},
+			{
+				"gsw": "jùutüsche",
+				"count": 1
+			},
+			{
+				"gsw": "jùutüsch",
+				"count": 1
+			},
+			{
+				"gsw": "jùutsch",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "jaundeutsches",
+		"translations": [
+			{
+				"gsw": "jùutütsch",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Jauner",
+		"translations": [
+			{
+				"gsw": "jouner",
+				"count": 1
+			},
+			{
+				"gsw": "jauner",
 				"count": 1
 			}
 		]
@@ -8597,7 +10230,7 @@
 		"translations": [
 			{
 				"gsw": "öpper",
-				"count": 33
+				"count": 34
 			},
 			{
 				"gsw": "öber",
@@ -8634,7 +10267,7 @@
 		"translations": [
 			{
 				"gsw": "jetzt",
-				"count": 18
+				"count": 20
 			},
 			{
 				"gsw": "ez",
@@ -8686,7 +10319,11 @@
 			},
 			{
 				"gsw": "cha",
-				"count": 4
+				"count": 5
+			},
+			{
+				"gsw": "chò",
+				"count": 1
 			}
 		]
 	},
@@ -8695,7 +10332,7 @@
 		"translations": [
 			{
 				"gsw": "chan",
-				"count": 9
+				"count": 10
 			},
 			{
 				"gsw": "cha",
@@ -8717,6 +10354,19 @@
 		"translations": [
 			{
 				"gsw": "channi",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Kanne",
+		"translations": [
+			{
+				"gsw": "chòna",
+				"count": 1
+			},
+			{
+				"gsw": "channa",
 				"count": 1
 			}
 		]
@@ -8744,7 +10394,11 @@
 		"translations": [
 			{
 				"gsw": "kanton",
-				"count": 5
+				"count": 7
+			},
+			{
+				"gsw": "kapitel",
+				"count": 1
 			},
 			{
 				"gsw": "kantön",
@@ -8780,11 +10434,20 @@
 		]
 	},
 	{
+		"de": "Kapazität",
+		"translations": [
+			{
+				"gsw": "kapazität",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "Kapitel",
 		"translations": [
 			{
 				"gsw": "kapitel",
-				"count": 6
+				"count": 8
 			},
 			{
 				"gsw": "kapital",
@@ -8797,6 +10460,15 @@
 		"translations": [
 			{
 				"gsw": "kartöuuschnett",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "katholisch",
+		"translations": [
+			{
+				"gsw": "katòòlesch",
 				"count": 1
 			}
 		]
@@ -8915,10 +10587,58 @@
 		]
 	},
 	{
+		"de": "Kind",
+		"translations": [
+			{
+				"gsw": "chìnd",
+				"count": 3
+			},
+			{
+				"gsw": "chinn",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Kinder",
+		"translations": [
+			{
+				"gsw": "chind",
+				"count": 1
+			},
+			{
+				"gsw": "chin",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "Kiste",
 		"translations": [
 			{
 				"gsw": "chischte",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "klagen",
+		"translations": [
+			{
+				"gsw": "chlage",
+				"count": 2
+			},
+			{
+				"gsw": "chlaage",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Klammeransatz",
+		"translations": [
+			{
+				"gsw": "klammerasatz",
 				"count": 1
 			}
 		]
@@ -9005,6 +10725,19 @@
 		]
 	},
 	{
+		"de": "kleines Tal",
+		"translations": [
+			{
+				"gsw": "täùti",
+				"count": 1
+			},
+			{
+				"gsw": "tältì",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "kleistern",
 		"translations": [
 			{
@@ -9014,11 +10747,20 @@
 		]
 	},
 	{
+		"de": "Kollektiv",
+		"translations": [
+			{
+				"gsw": "kollektiv",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "Kombinatorik",
 		"translations": [
 			{
 				"gsw": "kombinatorik",
-				"count": 1
+				"count": 2
 			}
 		]
 	},
@@ -9031,7 +10773,7 @@
 			},
 			{
 				"gsw": "chume",
-				"count": 3
+				"count": 4
 			}
 		]
 	},
@@ -9049,7 +10791,11 @@
 		"translations": [
 			{
 				"gsw": "cho",
-				"count": 5
+				"count": 6
+			},
+			{
+				"gsw": "chòò",
+				"count": 1
 			}
 		]
 	},
@@ -9093,6 +10839,10 @@
 		"de": "kommt",
 		"translations": [
 			{
+				"gsw": "chùnt",
+				"count": 1
+			},
+			{
 				"gsw": "chunt",
 				"count": 1
 			}
@@ -9103,11 +10853,11 @@
 		"translations": [
 			{
 				"gsw": "chunnt",
-				"count": 4
+				"count": 7
 			},
 			{
 				"gsw": "chunt",
-				"count": 3
+				"count": 4
 			},
 			{
 				"gsw": "chund",
@@ -9165,6 +10915,15 @@
 		]
 	},
 	{
+		"de": "Kontakte",
+		"translations": [
+			{
+				"gsw": "kontäkt",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "Kontodaten",
 		"translations": [
 			{
@@ -9205,7 +10964,7 @@
 		"translations": [
 			{
 				"gsw": "konversatione",
-				"count": 1
+				"count": 2
 			}
 		]
 	},
@@ -9322,11 +11081,24 @@
 		]
 	},
 	{
+		"de": "kursiven",
+		"translations": [
+			{
+				"gsw": "kursive",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "kurz",
 		"translations": [
 			{
 				"gsw": "churz",
 				"count": 6
+			},
+			{
+				"gsw": "chùrz",
+				"count": 1
 			},
 			{
 				"gsw": "kurz",
@@ -9353,11 +11125,28 @@
 		]
 	},
 	{
+		"de": "Kurzvokalen",
+		"translations": [
+			{
+				"gsw": "chùrzvokaù",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "Käse",
 		"translations": [
 			{
 				"gsw": "chääs",
 				"count": 2
+			},
+			{
+				"gsw": "chies",
+				"count": 1
+			},
+			{
+				"gsw": "chees",
+				"count": 1
 			},
 			{
 				"gsw": "chäs",
@@ -9370,11 +11159,11 @@
 		"translations": [
 			{
 				"gsw": "chöne",
-				"count": 6
+				"count": 11
 			},
 			{
 				"gsw": "chönne",
-				"count": 3
+				"count": 9
 			}
 		]
 	},
@@ -9399,15 +11188,15 @@
 				"count": 4
 			},
 			{
+				"gsw": "chan",
+				"count": 3
+			},
+			{
 				"gsw": "chönt",
 				"count": 1
 			},
 			{
 				"gsw": "chönnt",
-				"count": 1
-			},
-			{
-				"gsw": "chan",
 				"count": 1
 			}
 		]
@@ -9467,6 +11256,10 @@
 	{
 		"de": "könnte (er/sie/es)",
 		"translations": [
+			{
+				"gsw": "chönti",
+				"count": 1
+			},
 			{
 				"gsw": "chönt",
 				"count": 1
@@ -9588,6 +11381,15 @@
 		]
 	},
 	{
+		"de": "Kürzung",
+		"translations": [
+			{
+				"gsw": "chǜrzeg",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "Labor",
 		"translations": [
 			{
@@ -9615,10 +11417,32 @@
 		]
 	},
 	{
+		"de": "Lage",
+		"translations": [
+			{
+				"gsw": "lag",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "Lager",
 		"translations": [
 			{
 				"gsw": "lager",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Land",
+		"translations": [
+			{
+				"gsw": "lònd",
+				"count": 1
+			},
+			{
+				"gsw": "lann",
 				"count": 1
 			}
 		]
@@ -9636,6 +11460,10 @@
 		"de": "lang",
 		"translations": [
 			{
+				"gsw": "lengs",
+				"count": 1
+			},
+			{
 				"gsw": "lang",
 				"count": 1
 			}
@@ -9645,7 +11473,20 @@
 		"de": "lange",
 		"translations": [
 			{
+				"gsw": "lengì",
+				"count": 1
+			},
+			{
 				"gsw": "lang",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "langem",
+		"translations": [
+			{
+				"gsw": "lengem",
 				"count": 1
 			}
 		]
@@ -9744,10 +11585,50 @@
 		]
 	},
 	{
+		"de": "Laut",
+		"translations": [
+			{
+				"gsw": "luut",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "Lautstärke",
 		"translations": [
 			{
 				"gsw": "luutstechitechnisch",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Lautung",
+		"translations": [
+			{
+				"gsw": "luuteg",
+				"count": 3
+			}
+		]
+	},
+	{
+		"de": "Lautverbindung",
+		"translations": [
+			{
+				"gsw": "luutverbìndeg",
+				"count": 2
+			}
+		]
+	},
+	{
+		"de": "leben",
+		"translations": [
+			{
+				"gsw": "läbe",
+				"count": 1
+			},
+			{
+				"gsw": "lääbe",
 				"count": 1
 			}
 		]
@@ -9758,6 +11639,15 @@
 			{
 				"gsw": "lebe",
 				"count": 2
+			}
+		]
+	},
+	{
+		"de": "Lebern",
+		"translations": [
+			{
+				"gsw": "lebere",
+				"count": 1
 			}
 		]
 	},
@@ -9802,6 +11692,15 @@
 		"translations": [
 			{
 				"gsw": "legitim",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Lehrer",
+		"translations": [
+			{
+				"gsw": "lehrer",
 				"count": 1
 			}
 		]
@@ -9882,7 +11781,7 @@
 		"translations": [
 			{
 				"gsw": "lern",
-				"count": 3
+				"count": 4
 			}
 		]
 	},
@@ -9891,7 +11790,7 @@
 		"translations": [
 			{
 				"gsw": "lerne",
-				"count": 11
+				"count": 12
 			}
 		]
 	},
@@ -9941,6 +11840,15 @@
 		]
 	},
 	{
+		"de": "Lernzielen",
+		"translations": [
+			{
+				"gsw": "lernziel",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "lese (ich)",
 		"translations": [
 			{
@@ -9954,7 +11862,7 @@
 		"translations": [
 			{
 				"gsw": "lese",
-				"count": 16
+				"count": 18
 			}
 		]
 	},
@@ -9963,6 +11871,15 @@
 		"translations": [
 			{
 				"gsw": "lesid",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Leserbriefe",
+		"translations": [
+			{
+				"gsw": "läserbriefa",
 				"count": 1
 			}
 		]
@@ -10074,7 +11991,7 @@
 		"translations": [
 			{
 				"gsw": "literatur",
-				"count": 1
+				"count": 2
 			}
 		]
 	},
@@ -10101,7 +12018,15 @@
 		"translations": [
 			{
 				"gsw": "luschtig",
-				"count": 2
+				"count": 4
+			},
+			{
+				"gsw": "lùschteg",
+				"count": 1
+			},
+			{
+				"gsw": "luschteg",
+				"count": 1
 			},
 			{
 				"gsw": "lustig",
@@ -10133,6 +12058,10 @@
 			{
 				"gsw": "längi",
 				"count": 3
+			},
+			{
+				"gsw": "lengi",
+				"count": 1
 			}
 		]
 	},
@@ -10141,7 +12070,7 @@
 		"translations": [
 			{
 				"gsw": "länger",
-				"count": 2
+				"count": 3
 			}
 		]
 	},
@@ -10177,7 +12106,7 @@
 		"translations": [
 			{
 				"gsw": "löse",
-				"count": 6
+				"count": 8
 			}
 		]
 	},
@@ -10213,7 +12142,7 @@
 		"translations": [
 			{
 				"gsw": "lösige",
-				"count": 6
+				"count": 7
 			},
 			{
 				"gsw": "lösungen",
@@ -10262,7 +12191,7 @@
 		"translations": [
 			{
 				"gsw": "mache",
-				"count": 19
+				"count": 20
 			}
 		]
 	},
@@ -10356,10 +12285,14 @@
 		"translations": [
 			{
 				"gsw": "mal",
-				"count": 43
+				"count": 44
 			},
 			{
 				"gsw": "mol",
+				"count": 3
+			},
+			{
+				"gsw": "amel",
 				"count": 2
 			},
 			{
@@ -10371,6 +12304,14 @@
 	{
 		"de": "Mal",
 		"translations": [
+			{
+				"gsw": "max",
+				"count": 1
+			},
+			{
+				"gsw": "maù",
+				"count": 1
+			},
 			{
 				"gsw": "mol",
 				"count": 1
@@ -10396,14 +12337,27 @@
 		]
 	},
 	{
-		"de": "manchmal",
+		"de": "man",
 		"translations": [
 			{
-				"gsw": "mengisch",
+				"gsw": "mù",
 				"count": 2
 			},
 			{
+				"gsw": "mer",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "manchmal",
+		"translations": [
+			{
 				"gsw": "amigs",
+				"count": 3
+			},
+			{
+				"gsw": "mengisch",
 				"count": 2
 			},
 			{
@@ -10417,6 +12371,23 @@
 		"translations": [
 			{
 				"gsw": "mann",
+				"count": 2
+			},
+			{
+				"gsw": "mòò",
+				"count": 1
+			},
+			{
+				"gsw": "maa",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Markenzeichen",
+		"translations": [
+			{
+				"gsw": "maarggezìiche",
 				"count": 1
 			}
 		]
@@ -10462,6 +12433,15 @@
 		]
 	},
 	{
+		"de": "Medien",
+		"translations": [
+			{
+				"gsw": "medie",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "mega",
 		"translations": [
 			{
@@ -10475,7 +12455,7 @@
 		"translations": [
 			{
 				"gsw": "meh",
-				"count": 10
+				"count": 11
 			},
 			{
 				"gsw": "me",
@@ -10542,6 +12522,15 @@
 		]
 	},
 	{
+		"de": "mein (M)",
+		"translations": [
+			{
+				"gsw": "min",
+				"count": 3
+			}
+		]
+	},
+	{
 		"de": "mein (N)",
 		"translations": [
 			{
@@ -10555,7 +12544,7 @@
 		"translations": [
 			{
 				"gsw": "mini",
-				"count": 6
+				"count": 7
 			}
 		]
 	},
@@ -10564,7 +12553,7 @@
 		"translations": [
 			{
 				"gsw": "mein",
-				"count": 3
+				"count": 4
 			},
 			{
 				"gsw": "main",
@@ -10676,7 +12665,7 @@
 		"translations": [
 			{
 				"gsw": "meter",
-				"count": 1
+				"count": 2
 			}
 		]
 	},
@@ -10685,20 +12674,11 @@
 		"translations": [
 			{
 				"gsw": "mich",
-				"count": 14
+				"count": 17
 			},
 			{
 				"gsw": "mi",
 				"count": 2
-			}
-		]
-	},
-	{
-		"de": "micht",
-		"translations": [
-			{
-				"gsw": "mich",
-				"count": 1
 			}
 		]
 	},
@@ -10734,7 +12714,7 @@
 		"translations": [
 			{
 				"gsw": "mir",
-				"count": 30
+				"count": 35
 			},
 			{
 				"gsw": "mer",
@@ -10772,11 +12752,41 @@
 		"translations": [
 			{
 				"gsw": "mit",
-				"count": 35
+				"count": 41
+			},
+			{
+				"gsw": "mìt",
+				"count": 4
 			},
 			{
 				"gsw": "mir",
 				"count": 2
+			},
+			{
+				"gsw": "mundart",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "mit dem",
+		"translations": [
+			{
+				"gsw": "mitem",
+				"count": 2
+			},
+			{
+				"gsw": "mìtem",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "mit den",
+		"translations": [
+			{
+				"gsw": "mìtte",
+				"count": 1
 			}
 		]
 	},
@@ -10785,7 +12795,7 @@
 		"translations": [
 			{
 				"gsw": "miteme",
-				"count": 1
+				"count": 2
 			}
 		]
 	},
@@ -10830,7 +12840,7 @@
 		"translations": [
 			{
 				"gsw": "mitneh",
-				"count": 1
+				"count": 4
 			}
 		]
 	},
@@ -10840,6 +12850,15 @@
 			{
 				"gsw": "mittag",
 				"count": 3
+			}
+		]
+	},
+	{
+		"de": "Mitternachtsformeln",
+		"translations": [
+			{
+				"gsw": "mitternachtsformle",
+				"count": 1
 			}
 		]
 	},
@@ -10866,7 +12885,7 @@
 		"translations": [
 			{
 				"gsw": "mittwuch",
-				"count": 15
+				"count": 16
 			}
 		]
 	},
@@ -10907,11 +12926,38 @@
 		]
 	},
 	{
+		"de": "Monophthongen",
+		"translations": [
+			{
+				"gsw": "monophthong",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "monophthongiert",
+		"translations": [
+			{
+				"gsw": "monophthongiert",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Monophthongierung",
+		"translations": [
+			{
+				"gsw": "monophthongiereg",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "Montag",
 		"translations": [
 			{
 				"gsw": "mäntig",
-				"count": 13
+				"count": 14
 			},
 			{
 				"gsw": "montig",
@@ -10924,11 +12970,19 @@
 		"translations": [
 			{
 				"gsw": "morn",
-				"count": 21
+				"count": 23
 			},
 			{
 				"gsw": "morge",
 				"count": 2
+			},
+			{
+				"gsw": "muere",
+				"count": 1
+			},
+			{
+				"gsw": "muer",
+				"count": 1
 			}
 		]
 	},
@@ -10937,7 +12991,43 @@
 		"translations": [
 			{
 				"gsw": "morge",
+				"count": 4
+			}
+		]
+	},
+	{
+		"de": "Mundart",
+		"translations": [
+			{
+				"gsw": "mùndart",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Mundarten",
+		"translations": [
+			{
+				"gsw": "mùndarte",
 				"count": 3
+			}
+		]
+	},
+	{
+		"de": "Mundartsprache",
+		"translations": [
+			{
+				"gsw": "mùndartspraach",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Mundartwörterbuch",
+		"translations": [
+			{
+				"gsw": "mundartwörterbuch",
+				"count": 1
 			}
 		]
 	},
@@ -11044,10 +13134,40 @@
 		]
 	},
 	{
+		"de": "Mädchen",
+		"translations": [
+			{
+				"gsw": "miitli",
+				"count": 2
+			},
+			{
+				"gsw": "mìitlì",
+				"count": 1
+			},
+			{
+				"gsw": "meitli",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "Männerkleider",
 		"translations": [
 			{
 				"gsw": "mannechleide",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "männlichen",
+		"translations": [
+			{
+				"gsw": "männliche",
+				"count": 1
+			},
+			{
+				"gsw": "männleche",
 				"count": 1
 			}
 		]
@@ -11097,20 +13217,15 @@
 		]
 	},
 	{
-		"de": "müssem",
-		"translations": [
-			{
-				"gsw": "müsse",
-				"count": 1
-			}
-		]
-	},
-	{
 		"de": "müssen",
 		"translations": [
 			{
 				"gsw": "müesse",
 				"count": 4
+			},
+			{
+				"gsw": "müsse",
+				"count": 2
 			},
 			{
 				"gsw": "möse",
@@ -11135,7 +13250,15 @@
 				"count": 5
 			},
 			{
+				"gsw": "muen",
+				"count": 2
+			},
+			{
 				"gsw": "müsst",
+				"count": 1
+			},
+			{
+				"gsw": "münd",
 				"count": 1
 			},
 			{
@@ -11147,7 +13270,7 @@
 				"count": 1
 			},
 			{
-				"gsw": "muen",
+				"gsw": "müent",
 				"count": 1
 			},
 			{
@@ -11165,14 +13288,22 @@
 		"translations": [
 			{
 				"gsw": "müemer",
-				"count": 5
+				"count": 12
 			},
 			{
-				"gsw": "müemr",
-				"count": 2
+				"gsw": "mömer",
+				"count": 4
+			},
+			{
+				"gsw": "müemmer",
+				"count": 3
 			},
 			{
 				"gsw": "muemer",
+				"count": 3
+			},
+			{
+				"gsw": "müemr",
 				"count": 2
 			},
 			{
@@ -11184,11 +13315,11 @@
 				"count": 1
 			},
 			{
-				"gsw": "müemmer",
+				"gsw": "mömmer",
 				"count": 1
 			},
 			{
-				"gsw": "mömmer",
+				"gsw": "memer",
 				"count": 1
 			},
 			{
@@ -11229,6 +13360,10 @@
 		"translations": [
 			{
 				"gsw": "müesstet",
+				"count": 1
+			},
+			{
+				"gsw": "mösstet",
 				"count": 1
 			}
 		]
@@ -11287,6 +13422,15 @@
 		]
 	},
 	{
+		"de": "nachgewiesen",
+		"translations": [
+			{
+				"gsw": "nahìgwìse",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "nachher",
 		"translations": [
 			{
@@ -11326,7 +13470,7 @@
 		"translations": [
 			{
 				"gsw": "nachrichte",
-				"count": 4
+				"count": 5
 			}
 		]
 	},
@@ -11375,6 +13519,15 @@
 		]
 	},
 	{
+		"de": "nano",
+		"translations": [
+			{
+				"gsw": "nano",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "Nationalstaate",
 		"translations": [
 			{
@@ -11388,6 +13541,15 @@
 		"translations": [
 			{
 				"gsw": "natürlich",
+				"count": 2
+			}
+		]
+	},
+	{
+		"de": "neben",
+		"translations": [
+			{
+				"gsw": "näbe",
 				"count": 1
 			}
 		]
@@ -11433,7 +13595,7 @@
 		"translations": [
 			{
 				"gsw": "nei",
-				"count": 23
+				"count": 51
 			},
 			{
 				"gsw": "ne",
@@ -11463,6 +13625,24 @@
 		]
 	},
 	{
+		"de": "nennt (er/sie/es)",
+		"translations": [
+			{
+				"gsw": "nennt",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "neu",
+		"translations": [
+			{
+				"gsw": "nüü",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "neue",
 		"translations": [
 			{
@@ -11471,19 +13651,6 @@
 			},
 			{
 				"gsw": "neui",
-				"count": 1
-			},
-			{
-				"gsw": "neu",
-				"count": 1
-			}
-		]
-	},
-	{
-		"de": "neuen",
-		"translations": [
-			{
-				"gsw": "noie",
 				"count": 1
 			},
 			{
@@ -11497,11 +13664,37 @@
 		]
 	},
 	{
+		"de": "neuen",
+		"translations": [
+			{
+				"gsw": "noie",
+				"count": 2
+			},
+			{
+				"gsw": "neue",
+				"count": 1
+			},
+			{
+				"gsw": "neu",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "neuer",
+		"translations": [
+			{
+				"gsw": "nüüa",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "neues",
 		"translations": [
 			{
 				"gsw": "neus",
-				"count": 7
+				"count": 8
 			},
 			{
 				"gsw": "nois",
@@ -11514,11 +13707,11 @@
 		"translations": [
 			{
 				"gsw": "nöd",
-				"count": 164
+				"count": 192
 			},
 			{
 				"gsw": "nid",
-				"count": 24
+				"count": 26
 			},
 			{
 				"gsw": "nöt",
@@ -11531,6 +13724,10 @@
 			{
 				"gsw": "ned",
 				"count": 5
+			},
+			{
+				"gsw": "nìt",
+				"count": 2
 			},
 			{
 				"gsw": "nüd",
@@ -11569,7 +13766,11 @@
 		"translations": [
 			{
 				"gsw": "nüt",
-				"count": 13
+				"count": 15
+			},
+			{
+				"gsw": "nüüt",
+				"count": 1
 			}
 		]
 	},
@@ -11578,7 +13779,7 @@
 		"translations": [
 			{
 				"gsw": "nie",
-				"count": 5
+				"count": 7
 			}
 		]
 	},
@@ -11605,6 +13806,15 @@
 		]
 	},
 	{
+		"de": "nimm",
+		"translations": [
+			{
+				"gsw": "nimm",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "nimmt (er/sie/es)",
 		"translations": [
 			{
@@ -11623,15 +13833,28 @@
 		]
 	},
 	{
+		"de": "nirgendwo",
+		"translations": [
+			{
+				"gsw": "nirgendwo",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "noch",
 		"translations": [
 			{
 				"gsw": "no",
-				"count": 65
+				"count": 73
 			},
 			{
 				"gsw": "na",
 				"count": 3
+			},
+			{
+				"gsw": "nò",
+				"count": 2
 			}
 		]
 	},
@@ -11640,7 +13863,7 @@
 		"translations": [
 			{
 				"gsw": "nonig",
-				"count": 9
+				"count": 10
 			}
 		]
 	},
@@ -11649,7 +13872,7 @@
 		"translations": [
 			{
 				"gsw": "nonig",
-				"count": 1
+				"count": 2
 			}
 		]
 	},
@@ -11658,7 +13881,7 @@
 		"translations": [
 			{
 				"gsw": "nomal",
-				"count": 4
+				"count": 5
 			}
 		]
 	},
@@ -11668,6 +13891,15 @@
 			{
 				"gsw": "nome",
 				"count": 2
+			}
+		]
+	},
+	{
+		"de": "Norden",
+		"translations": [
+			{
+				"gsw": "norde",
+				"count": 1
 			}
 		]
 	},
@@ -11695,6 +13927,15 @@
 			{
 				"gsw": "note",
 				"count": 3
+			}
+		]
+	},
+	{
+		"de": "Notendiktat",
+		"translations": [
+			{
+				"gsw": "notediktat",
+				"count": 1
 			}
 		]
 	},
@@ -11739,19 +13980,23 @@
 		"translations": [
 			{
 				"gsw": "nur",
-				"count": 20
+				"count": 29
 			},
 			{
 				"gsw": "nume",
-				"count": 7
+				"count": 9
 			},
 			{
 				"gsw": "numme",
-				"count": 5
+				"count": 6
 			},
 			{
 				"gsw": "nome",
 				"count": 2
+			},
+			{
+				"gsw": "nùmme",
+				"count": 1
 			},
 			{
 				"gsw": "nümm",
@@ -11812,6 +14057,10 @@
 			{
 				"gsw": "nöchscht",
 				"count": 1
+			},
+			{
+				"gsw": "nächscht",
+				"count": 1
 			}
 		]
 	},
@@ -11834,11 +14083,20 @@
 		]
 	},
 	{
+		"de": "Nüsse",
+		"translations": [
+			{
+				"gsw": "nǜss",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "ob",
 		"translations": [
 			{
 				"gsw": "ob",
-				"count": 11
+				"count": 12
 			},
 			{
 				"gsw": "öb",
@@ -11869,11 +14127,37 @@
 		]
 	},
 	{
+		"de": "Oberland",
+		"translations": [
+			{
+				"gsw": "oberland",
+				"count": 2
+			},
+			{
+				"gsw": "oberlànd",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Oberländisch",
+		"translations": [
+			{
+				"gsw": "oberlendesch",
+				"count": 2
+			},
+			{
+				"gsw": "oberländisch",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "oder",
 		"translations": [
 			{
 				"gsw": "oder",
-				"count": 61
+				"count": 78
 			},
 			{
 				"gsw": "odr",
@@ -11937,15 +14221,15 @@
 				"count": 8
 			},
 			{
+				"gsw": "okay",
+				"count": 7
+			},
+			{
 				"gsw": "ka",
 				"count": 7
 			},
 			{
 				"gsw": "okee",
-				"count": 6
-			},
-			{
-				"gsw": "okay",
 				"count": 6
 			}
 		]
@@ -12000,7 +14284,7 @@
 		"translations": [
 			{
 				"gsw": "paar",
-				"count": 1
+				"count": 2
 			}
 		]
 	},
@@ -12041,6 +14325,15 @@
 		]
 	},
 	{
+		"de": "Passiv",
+		"translations": [
+			{
+				"gsw": "passiv",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "passt (er/sie/es)",
 		"translations": [
 			{
@@ -12055,6 +14348,15 @@
 			{
 				"gsw": "patient",
 				"count": 2
+			}
+		]
+	},
+	{
+		"de": "Patois",
+		"translations": [
+			{
+				"gsw": "patois",
+				"count": 1
 			}
 		]
 	},
@@ -12126,6 +14428,19 @@
 		]
 	},
 	{
+		"de": "Pfanne",
+		"translations": [
+			{
+				"gsw": "pfòna",
+				"count": 1
+			},
+			{
+				"gsw": "pfana",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "Pfeil",
 		"translations": [
 			{
@@ -12152,7 +14467,7 @@
 		"translations": [
 			{
 				"gsw": "physik",
-				"count": 16
+				"count": 19
 			}
 		]
 	},
@@ -12170,15 +14485,6 @@
 		"translations": [
 			{
 				"gsw": "physikzemefassig",
-				"count": 1
-			}
-		]
-	},
-	{
-		"de": "Physk",
-		"translations": [
-			{
-				"gsw": "physik",
 				"count": 1
 			}
 		]
@@ -12215,6 +14521,24 @@
 		"translations": [
 			{
 				"gsw": "platte",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Plural",
+		"translations": [
+			{
+				"gsw": "plural",
+				"count": 2
+			}
+		]
+	},
+	{
+		"de": "Pluralendug",
+		"translations": [
+			{
+				"gsw": "pluralendeg",
 				"count": 1
 			}
 		]
@@ -12287,7 +14611,7 @@
 		"translations": [
 			{
 				"gsw": "praktikum",
-				"count": 1
+				"count": 2
 			}
 		]
 	},
@@ -12341,6 +14665,15 @@
 		"translations": [
 			{
 				"gsw": "programm",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Projekt",
+		"translations": [
+			{
+				"gsw": "projekt",
 				"count": 1
 			}
 		]
@@ -12413,6 +14746,15 @@
 		"translations": [
 			{
 				"gsw": "prüefigsfrage",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Publikation",
+		"translations": [
+			{
+				"gsw": "publikation",
 				"count": 1
 			}
 		]
@@ -12507,6 +14849,15 @@
 		"translations": [
 			{
 				"gsw": "rand",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "rar",
+		"translations": [
+			{
+				"gsw": "raar",
 				"count": 1
 			}
 		]
@@ -12636,7 +14987,20 @@
 		"de": "redet (er/sie/es)",
 		"translations": [
 			{
+				"gsw": "red",
+				"count": 2
+			},
+			{
 				"gsw": "reded",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Redewendung",
+		"translations": [
+			{
+				"gsw": "redewendung",
 				"count": 1
 			}
 		]
@@ -12759,6 +15123,15 @@
 		]
 	},
 	{
+		"de": "repetitiv",
+		"translations": [
+			{
+				"gsw": "repetitiv",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "Resultate",
 		"translations": [
 			{
@@ -12790,6 +15163,15 @@
 		"translations": [
 			{
 				"gsw": "retikulum",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "rettet (er/sie/es)",
+		"translations": [
+			{
+				"gsw": "rettet",
 				"count": 1
 			}
 		]
@@ -12835,6 +15217,15 @@
 		]
 	},
 	{
+		"de": "rote",
+		"translations": [
+			{
+				"gsw": "roti",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "rotes",
 		"translations": [
 			{
@@ -12853,10 +15244,28 @@
 		]
 	},
 	{
+		"de": "Rundung",
+		"translations": [
+			{
+				"gsw": "rùndeg",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "runterscrollen",
 		"translations": [
 			{
 				"gsw": "abescrolle",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Russisch",
+		"translations": [
+			{
+				"gsw": "russisch",
 				"count": 1
 			}
 		]
@@ -12871,11 +15280,29 @@
 		]
 	},
 	{
+		"de": "Rätsel",
+		"translations": [
+			{
+				"gsw": "rätsel",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "römischen",
 		"translations": [
 			{
 				"gsw": "römische",
 				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Saanen",
+		"translations": [
+			{
+				"gsw": "saane",
+				"count": 2
 			}
 		]
 	},
@@ -12898,10 +15325,28 @@
 		]
 	},
 	{
+		"de": "Sack",
+		"translations": [
+			{
+				"gsw": "saketa",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "safe",
 		"translations": [
 			{
 				"gsw": "safe",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "sage (ich)",
+		"translations": [
+			{
+				"gsw": "säg",
 				"count": 1
 			}
 		]
@@ -12924,7 +15369,11 @@
 			},
 			{
 				"gsw": "säge",
-				"count": 3
+				"count": 4
+			},
+			{
+				"gsw": "sääge",
+				"count": 1
 			}
 		]
 	},
@@ -12943,6 +15392,10 @@
 			{
 				"gsw": "seit",
 				"count": 2
+			},
+			{
+				"gsw": "sìit",
+				"count": 1
 			},
 			{
 				"gsw": "sei",
@@ -12982,7 +15435,7 @@
 		"translations": [
 			{
 				"gsw": "satz",
-				"count": 4
+				"count": 5
 			}
 		]
 	},
@@ -13134,7 +15587,7 @@
 		"translations": [
 			{
 				"gsw": "schiebed",
-				"count": 1
+				"count": 2
 			}
 		]
 	},
@@ -13171,6 +15624,28 @@
 			{
 				"gsw": "schluss",
 				"count": 3
+			}
+		]
+	},
+	{
+		"de": "Schnee",
+		"translations": [
+			{
+				"gsw": "schnia",
+				"count": 1
+			},
+			{
+				"gsw": "schnee",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "schneien",
+		"translations": [
+			{
+				"gsw": "schnie",
+				"count": 1
 			}
 		]
 	},
@@ -13215,7 +15690,7 @@
 		"translations": [
 			{
 				"gsw": "scho",
-				"count": 62
+				"count": 64
 			}
 		]
 	},
@@ -13224,6 +15699,15 @@
 		"translations": [
 			{
 				"gsw": "schono",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Schreib-Richtlinie",
+		"translations": [
+			{
+				"gsw": "schryyb-rìchtlinie",
 				"count": 1
 			}
 		]
@@ -13255,6 +15739,14 @@
 			{
 				"gsw": "schribe",
 				"count": 2
+			},
+			{
+				"gsw": "schryybe",
+				"count": 1
+			},
+			{
+				"gsw": "schrybe",
+				"count": 1
 			}
 		]
 	},
@@ -13281,6 +15773,24 @@
 		]
 	},
 	{
+		"de": "schreibt (er/sie/es)",
+		"translations": [
+			{
+				"gsw": "schrybt",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Schreibung",
+		"translations": [
+			{
+				"gsw": "schrybeg",
+				"count": 2
+			}
+		]
+	},
+	{
 		"de": "Schreibzeug",
 		"translations": [
 			{
@@ -13295,6 +15805,15 @@
 			{
 				"gsw": "schribzüügs",
 				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Schriften",
+		"translations": [
+			{
+				"gsw": "gschrìftì",
+				"count": 2
 			}
 		]
 	},
@@ -13330,7 +15849,7 @@
 		"translations": [
 			{
 				"gsw": "schuel",
-				"count": 13
+				"count": 15
 			},
 			{
 				"gsw": "schule",
@@ -13431,6 +15950,14 @@
 		"de": "schön",
 		"translations": [
 			{
+				"gsw": "schüen",
+				"count": 1
+			},
+			{
+				"gsw": "schöön",
+				"count": 1
+			},
+			{
 				"gsw": "schön",
 				"count": 1
 			}
@@ -13459,6 +15986,28 @@
 		"translations": [
 			{
 				"gsw": "se",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "sechs",
+		"translations": [
+			{
+				"gsw": "sächs",
+				"count": 2
+			},
+			{
+				"gsw": "säks",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Seebezirk",
+		"translations": [
+			{
+				"gsw": "seebezirk",
 				"count": 1
 			}
 		]
@@ -13559,6 +16108,10 @@
 		"de": "seiner",
 		"translations": [
 			{
+				"gsw": "synere",
+				"count": 1
+			},
+			{
 				"gsw": "sinerer",
 				"count": 1
 			}
@@ -13567,6 +16120,10 @@
 	{
 		"de": "seit",
 		"translations": [
+			{
+				"gsw": "syt",
+				"count": 1
+			},
 			{
 				"gsw": "seit",
 				"count": 1
@@ -13578,7 +16135,7 @@
 		"translations": [
 			{
 				"gsw": "siite",
-				"count": 15
+				"count": 18
 			},
 			{
 				"gsw": "site",
@@ -13596,6 +16153,10 @@
 			{
 				"gsw": "siite",
 				"count": 2
+			},
+			{
+				"gsw": "sytì",
+				"count": 1
 			}
 		]
 	},
@@ -13618,10 +16179,28 @@
 		]
 	},
 	{
+		"de": "seltener",
+		"translations": [
+			{
+				"gsw": "säùtener",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "Semester",
 		"translations": [
 			{
 				"gsw": "semester",
+				"count": 2
+			}
+		]
+	},
+	{
+		"de": "Sendung",
+		"translations": [
+			{
+				"gsw": "sendig",
 				"count": 1
 			}
 		]
@@ -13663,11 +16242,86 @@
 		]
 	},
 	{
+		"de": "Sensebezirk",
+		"translations": [
+			{
+				"gsw": "sensebìzìrk",
+				"count": 3
+			},
+			{
+				"gsw": "sensebezìrk",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "senslerdeutsch",
+		"translations": [
+			{
+				"gsw": "senslertütsch",
+				"count": 11
+			}
+		]
+	},
+	{
+		"de": "Senslerdeutsch",
+		"translations": [
+			{
+				"gsw": "senslertütsch",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Senslerdeutsche",
+		"translations": [
+			{
+				"gsw": "senslertütsch",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "senslerdeutschen",
+		"translations": [
+			{
+				"gsw": "senslertütsch",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Senslerdeutschen",
+		"translations": [
+			{
+				"gsw": "senslertütsch",
+				"count": 3
+			},
+			{
+				"gsw": "senslertütsche",
+				"count": 2
+			}
+		]
+	},
+	{
+		"de": "Serie",
+		"translations": [
+			{
+				"gsw": "seryy",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "sich",
 		"translations": [
 			{
 				"gsw": "sich",
 				"count": 16
+			},
+			{
+				"gsw": "sìch",
+				"count": 1
 			}
 		]
 	},
@@ -13676,7 +16330,7 @@
 		"translations": [
 			{
 				"gsw": "sicher",
-				"count": 12
+				"count": 14
 			}
 		]
 	},
@@ -13694,7 +16348,7 @@
 		"translations": [
 			{
 				"gsw": "sie",
-				"count": 28
+				"count": 32
 			},
 			{
 				"gsw": "si",
@@ -13702,6 +16356,24 @@
 			},
 			{
 				"gsw": "sii",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Siebenthal",
+		"translations": [
+			{
+				"gsw": "sìbetaù",
+				"count": 2
+			}
+		]
+	},
+	{
+		"de": "Siegelung",
+		"translations": [
+			{
+				"gsw": "sieglig",
 				"count": 1
 			}
 		]
@@ -13729,6 +16401,24 @@
 		"translations": [
 			{
 				"gsw": "usgseht",
+				"count": 2
+			}
+		]
+	},
+	{
+		"de": "Silbe",
+		"translations": [
+			{
+				"gsw": "sǜube",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Silben",
+		"translations": [
+			{
+				"gsw": "sìùbe",
 				"count": 1
 			}
 		]
@@ -13752,6 +16442,15 @@
 		]
 	},
 	{
+		"de": "Simmental",
+		"translations": [
+			{
+				"gsw": "sǜbetaù",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "sind",
 		"translations": [
 			{
@@ -13765,7 +16464,19 @@
 		"translations": [
 			{
 				"gsw": "sind",
-				"count": 15
+				"count": 16
+			},
+			{
+				"gsw": "sy",
+				"count": 7
+			},
+			{
+				"gsw": "syy",
+				"count": 1
+			},
+			{
+				"gsw": "sì",
+				"count": 1
 			}
 		]
 	},
@@ -13774,7 +16485,7 @@
 		"translations": [
 			{
 				"gsw": "sind",
-				"count": 2
+				"count": 5
 			},
 			{
 				"gsw": "sönd",
@@ -13792,11 +16503,29 @@
 		]
 	},
 	{
+		"de": "singen",
+		"translations": [
+			{
+				"gsw": "sìnge",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Singular",
+		"translations": [
+			{
+				"gsw": "singular",
+				"count": 2
+			}
+		]
+	},
+	{
 		"de": "Sinn",
 		"translations": [
 			{
 				"gsw": "sinn",
-				"count": 4
+				"count": 5
 			}
 		]
 	},
@@ -13814,7 +16543,7 @@
 		"translations": [
 			{
 				"gsw": "skizze",
-				"count": 2
+				"count": 3
 			}
 		]
 	},
@@ -13823,7 +16552,7 @@
 		"translations": [
 			{
 				"gsw": "skript",
-				"count": 2
+				"count": 4
 			},
 			{
 				"gsw": "skribt",
@@ -13836,11 +16565,15 @@
 		"translations": [
 			{
 				"gsw": "so",
-				"count": 64
+				"count": 71
 			},
 			{
 				"gsw": "eso",
 				"count": 2
+			},
+			{
+				"gsw": "a sua",
+				"count": 1
 			}
 		]
 	},
@@ -13943,7 +16676,7 @@
 		"translations": [
 			{
 				"gsw": "sött",
-				"count": 1
+				"count": 2
 			},
 			{
 				"gsw": "söt",
@@ -13956,7 +16689,7 @@
 		"translations": [
 			{
 				"gsw": "sölle",
-				"count": 1
+				"count": 2
 			}
 		]
 	},
@@ -14119,11 +16852,33 @@
 		]
 	},
 	{
+		"de": "Spass",
+		"translations": [
+			{
+				"gsw": "spass",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "speichern",
 		"translations": [
 			{
 				"gsw": "speichere",
 				"count": 2
+			}
+		]
+	},
+	{
+		"de": "Spezialitäten",
+		"translations": [
+			{
+				"gsw": "spraachatlas",
+				"count": 1
+			},
+			{
+				"gsw": "spezialitäte",
+				"count": 1
 			}
 		]
 	},
@@ -14182,6 +16937,33 @@
 		]
 	},
 	{
+		"de": "Sprachgrenze",
+		"translations": [
+			{
+				"gsw": "spraachgrenza",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "sprachliche",
+		"translations": [
+			{
+				"gsw": "spraachlìchì",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Sprachmelodie",
+		"translations": [
+			{
+				"gsw": "spraachmelodyy",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "springende",
 		"translations": [
 			{
@@ -14195,6 +16977,15 @@
 		"translations": [
 			{
 				"gsw": "spaat",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "später",
+		"translations": [
+			{
+				"gsw": "druuf",
 				"count": 1
 			}
 		]
@@ -14254,6 +17045,15 @@
 		]
 	},
 	{
+		"de": "statt",
+		"translations": [
+			{
+				"gsw": "statt",
+				"count": 15
+			}
+		]
+	},
+	{
 		"de": "stehen",
 		"translations": [
 			{
@@ -14276,7 +17076,7 @@
 		"translations": [
 			{
 				"gsw": "staht",
-				"count": 6
+				"count": 7
 			},
 			{
 				"gsw": "stat",
@@ -14329,11 +17129,20 @@
 		]
 	},
 	{
+		"de": "Stichwörter",
+		"translations": [
+			{
+				"gsw": "stìchwörter",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "stimmt (er/sie/es)",
 		"translations": [
 			{
 				"gsw": "stimmt",
-				"count": 17
+				"count": 20
 			}
 		]
 	},
@@ -14383,6 +17192,15 @@
 		]
 	},
 	{
+		"de": "Struktur",
+		"translations": [
+			{
+				"gsw": "struktur",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "Stunde",
 		"translations": [
 			{
@@ -14419,6 +17237,15 @@
 		]
 	},
 	{
+		"de": "Substantiven",
+		"translations": [
+			{
+				"gsw": "substantiv",
+				"count": 3
+			}
+		]
+	},
+	{
 		"de": "suchen",
 		"translations": [
 			{
@@ -14433,6 +17260,24 @@
 			{
 				"gsw": "super",
 				"count": 6
+			}
+		]
+	},
+	{
+		"de": "System",
+		"translations": [
+			{
+				"gsw": "system",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Sätze",
+		"translations": [
+			{
+				"gsw": "sätz",
+				"count": 1
 			}
 		]
 	},
@@ -14467,6 +17312,10 @@
 		"de": "Tafel",
 		"translations": [
 			{
+				"gsw": "taafla",
+				"count": 1
+			},
+			{
 				"gsw": "tafle",
 				"count": 1
 			}
@@ -14478,6 +17327,23 @@
 			{
 				"gsw": "tag",
 				"count": 5
+			},
+			{
+				"gsw": "taag",
+				"count": 2
+			}
+		]
+	},
+	{
+		"de": "Tage",
+		"translations": [
+			{
+				"gsw": "taga",
+				"count": 2
+			},
+			{
+				"gsw": "taage",
+				"count": 1
 			}
 		]
 	},
@@ -14491,11 +17357,59 @@
 		]
 	},
 	{
+		"de": "Tanne",
+		"translations": [
+			{
+				"gsw": "tòòna",
+				"count": 2
+			},
+			{
+				"gsw": "tòònì",
+				"count": 1
+			},
+			{
+				"gsw": "tane",
+				"count": 1
+			},
+			{
+				"gsw": "tana",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Tannen",
+		"translations": [
+			{
+				"gsw": "tòònì",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "Taschenrechner",
 		"translations": [
 			{
 				"gsw": "tascherechner",
-				"count": 2
+				"count": 4
+			}
+		]
+	},
+	{
+		"de": "tatsächlich",
+		"translations": [
+			{
+				"gsw": "tatsächlich",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Teil",
+		"translations": [
+			{
+				"gsw": "teil",
+				"count": 1
 			}
 		]
 	},
@@ -14603,10 +17517,32 @@
 		]
 	},
 	{
+		"de": "Tier",
+		"translations": [
+			{
+				"gsw": "tier",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "Tierkopf",
 		"translations": [
 			{
 				"gsw": "tierkopf",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Tisch",
+		"translations": [
+			{
+				"gsw": "tǜsch",
+				"count": 1
+			},
+			{
+				"gsw": "tììsch",
 				"count": 1
 			}
 		]
@@ -14657,6 +17593,19 @@
 		]
 	},
 	{
+		"de": "trinken",
+		"translations": [
+			{
+				"gsw": "triihe",
+				"count": 1
+			},
+			{
+				"gsw": "triiche",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "trotzdem",
 		"translations": [
 			{
@@ -14699,6 +17648,10 @@
 	{
 		"de": "tun (sie)",
 		"translations": [
+			{
+				"gsw": "tü",
+				"count": 1
+			},
 			{
 				"gsw": "tünd",
 				"count": 1
@@ -14786,6 +17739,15 @@
 		]
 	},
 	{
+		"de": "Umfang",
+		"translations": [
+			{
+				"gsw": "umfang",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "Umgebung",
 		"translations": [
 			{
@@ -14808,7 +17770,7 @@
 		"translations": [
 			{
 				"gsw": "umrechne",
-				"count": 2
+				"count": 4
 			}
 		]
 	},
@@ -14844,18 +17806,52 @@
 		]
 	},
 	{
+		"de": "unbetonten",
+		"translations": [
+			{
+				"gsw": "ùnbìtuonte",
+				"count": 1
+			},
+			{
+				"gsw": "ùnbetuente",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "und",
 		"translations": [
 			{
 				"gsw": "und",
-				"count": 148
+				"count": 155
+			},
+			{
+				"gsw": "ù",
+				"count": 20
+			},
+			{
+				"gsw": "ùn",
+				"count": 8
 			},
 			{
 				"gsw": "ond",
 				"count": 5
 			},
 			{
+				"gsw": "ún",
+				"count": 1
+			},
+			{
 				"gsw": "u",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "und eine",
+		"translations": [
+			{
+				"gsw": "ùna",
 				"count": 1
 			}
 		]
@@ -14891,12 +17887,12 @@
 		"de": "uns",
 		"translations": [
 			{
-				"gsw": "ois",
+				"gsw": "üs",
 				"count": 4
 			},
 			{
-				"gsw": "üs",
-				"count": 3
+				"gsw": "ois",
+				"count": 4
 			},
 			{
 				"gsw": "eus",
@@ -14935,6 +17931,10 @@
 			{
 				"gsw": "unten",
 				"count": 1
+			},
+			{
+				"gsw": "unde",
+				"count": 1
 			}
 		]
 	},
@@ -14966,6 +17966,28 @@
 		]
 	},
 	{
+		"de": "unterscheidet",
+		"translations": [
+			{
+				"gsw": "unterschìidet",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Unterscheidung",
+		"translations": [
+			{
+				"gsw": "ùnterschìideg",
+				"count": 1
+			},
+			{
+				"gsw": "unterschìideg",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "unterste",
 		"translations": [
 			{
@@ -14979,6 +18001,33 @@
 		"translations": [
 			{
 				"gsw": "usa",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "uvular",
+		"translations": [
+			{
+				"gsw": "uvular",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Vater",
+		"translations": [
+			{
+				"gsw": "vater",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "veralteten",
+		"translations": [
+			{
+				"gsw": "veraùtete",
 				"count": 1
 			}
 		]
@@ -15020,10 +18069,28 @@
 		]
 	},
 	{
+		"de": "verbreiteter",
+		"translations": [
+			{
+				"gsw": "verbrìiteter",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "Verdachtsfall",
 		"translations": [
 			{
 				"gsw": "verdachtsfall",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "vereinfacht",
+		"translations": [
+			{
+				"gsw": "verìifacht",
 				"count": 1
 			}
 		]
@@ -15074,10 +18141,37 @@
 		]
 	},
 	{
+		"de": "verglichen",
+		"translations": [
+			{
+				"gsw": "verglìiche",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "verkauft (er/sie/es)",
 		"translations": [
 			{
 				"gsw": "verchauft",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "verlar",
+		"translations": [
+			{
+				"gsw": "velar",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Vernissage",
+		"translations": [
+			{
+				"gsw": "vernissage",
 				"count": 1
 			}
 		]
@@ -15146,10 +18240,46 @@
 		]
 	},
 	{
+		"de": "Verschiebung",
+		"translations": [
+			{
+				"gsw": "verschiebeg",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "verschiedenen",
+		"translations": [
+			{
+				"gsw": "verschìdene",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "verschoben",
+		"translations": [
+			{
+				"gsw": "verschobe",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "Version",
 		"translations": [
 			{
 				"gsw": "version",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "versperrt",
+		"translations": [
+			{
+				"gsw": "versperrta",
 				"count": 1
 			}
 		]
@@ -15168,7 +18298,7 @@
 		"translations": [
 			{
 				"gsw": "verspötig",
-				"count": 2
+				"count": 3
 			}
 		]
 	},
@@ -15218,6 +18348,15 @@
 		]
 	},
 	{
+		"de": "Vertiefungswoche",
+		"translations": [
+			{
+				"gsw": "vertüfigswuche",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "vertippt",
 		"translations": [
 			{
@@ -15231,6 +18370,33 @@
 		"translations": [
 			{
 				"gsw": "vertraue",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "verwandt",
+		"translations": [
+			{
+				"gsw": "verwònt",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "verwenden",
+		"translations": [
+			{
+				"gsw": "bruche",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "verwendet",
+		"translations": [
+			{
+				"gsw": "pruucht",
 				"count": 1
 			}
 		]
@@ -15250,6 +18416,15 @@
 			{
 				"gsw": "verwirrt",
 				"count": 3
+			}
+		]
+	},
+	{
+		"de": "Verzeichnis",
+		"translations": [
+			{
+				"gsw": "verzìichiiss",
+				"count": 1
 			}
 		]
 	},
@@ -15280,7 +18455,11 @@
 			},
 			{
 				"gsw": "vill",
-				"count": 4
+				"count": 5
+			},
+			{
+				"gsw": "vil",
+				"count": 1
 			}
 		]
 	},
@@ -15315,7 +18494,7 @@
 			},
 			{
 				"gsw": "viellicht",
-				"count": 2
+				"count": 4
 			}
 		]
 	},
@@ -15325,6 +18504,10 @@
 			{
 				"gsw": "vielmals",
 				"count": 2
+			},
+			{
+				"gsw": "vilmal",
+				"count": 1
 			},
 			{
 				"gsw": "vielmal",
@@ -15337,7 +18520,7 @@
 		"translations": [
 			{
 				"gsw": "vier",
-				"count": 1
+				"count": 3
 			}
 		]
 	},
@@ -15377,7 +18560,34 @@
 		"translations": [
 			{
 				"gsw": "voci",
-				"count": 9
+				"count": 10
+			}
+		]
+	},
+	{
+		"de": "Vokabeltest",
+		"translations": [
+			{
+				"gsw": "vocitesch",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Vokal",
+		"translations": [
+			{
+				"gsw": "vokaù",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Vokalen",
+		"translations": [
+			{
+				"gsw": "vokaù",
+				"count": 2
 			}
 		]
 	},
@@ -15426,7 +18636,7 @@
 		"translations": [
 			{
 				"gsw": "vom",
-				"count": 16
+				"count": 18
 			},
 			{
 				"gsw": "vo",
@@ -15442,6 +18652,14 @@
 				"count": 62
 			},
 			{
+				"gsw": "va",
+				"count": 25
+			},
+			{
+				"gsw": "vam",
+				"count": 1
+			},
+			{
 				"gsw": "von",
 				"count": 1
 			},
@@ -15452,6 +18670,15 @@
 			{
 				"gsw": "fo",
 				"count": 1
+			}
+		]
+	},
+	{
+		"de": "von dem",
+		"translations": [
+			{
+				"gsw": "vam",
+				"count": 4
 			}
 		]
 	},
@@ -15495,14 +18722,27 @@
 		]
 	},
 	{
+		"de": "von einer",
+		"translations": [
+			{
+				"gsw": "vùrnera",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "vor",
 		"translations": [
 			{
 				"gsw": "vor",
-				"count": 3
+				"count": 4
 			},
 			{
 				"gsw": "vo",
+				"count": 2
+			},
+			{
+				"gsw": "vùr",
 				"count": 1
 			}
 		]
@@ -15620,7 +18860,7 @@
 		"translations": [
 			{
 				"gsw": "vortrag",
-				"count": 1
+				"count": 2
 			}
 		]
 	},
@@ -15629,6 +18869,19 @@
 		"translations": [
 			{
 				"gsw": "vortritt",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "wachsen",
+		"translations": [
+			{
+				"gsw": "wakse",
+				"count": 1
+			},
+			{
+				"gsw": "wachse",
 				"count": 1
 			}
 		]
@@ -15668,8 +18921,29 @@
 		"de": "Wahrscheinlichkeit",
 		"translations": [
 			{
+				"gsw": "wahrschinlichkeit",
+				"count": 2
+			},
+			{
 				"gsw": "wahrschindlichkeit",
 				"count": 2
+			}
+		]
+	},
+	{
+		"de": "Wanderung",
+		"translations": [
+			{
+				"gsw": "wòndereg",
+				"count": 2
+			},
+			{
+				"gsw": "wanderung",
+				"count": 1
+			},
+			{
+				"gsw": "wanderig",
+				"count": 1
 			}
 		]
 	},
@@ -15736,7 +19010,7 @@
 		"translations": [
 			{
 				"gsw": "was",
-				"count": 23
+				"count": 24
 			},
 			{
 				"gsw": "wo",
@@ -15815,6 +19089,15 @@
 		]
 	},
 	{
+		"de": "Weg",
+		"translations": [
+			{
+				"gsw": "wääg",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "wegen",
 		"translations": [
 			{
@@ -15847,6 +19130,15 @@
 			{
 				"gsw": "wegla",
 				"count": 1
+			}
+		]
+	},
+	{
+		"de": "weiblichen",
+		"translations": [
+			{
+				"gsw": "wyybleche",
+				"count": 2
 			}
 		]
 	},
@@ -15890,7 +19182,7 @@
 			},
 			{
 				"gsw": "wil",
-				"count": 13
+				"count": 16
 			},
 			{
 				"gsw": "well",
@@ -15903,7 +19195,7 @@
 		"translations": [
 			{
 				"gsw": "wils",
-				"count": 2
+				"count": 3
 			},
 			{
 				"gsw": "wills",
@@ -15925,7 +19217,7 @@
 		"translations": [
 			{
 				"gsw": "weiss",
-				"count": 1
+				"count": 2
 			}
 		]
 	},
@@ -15998,6 +19290,19 @@
 			{
 				"gsw": "wiiter",
 				"count": 3
+			},
+			{
+				"gsw": "witer",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "weiterem",
+		"translations": [
+			{
+				"gsw": "wyterem",
+				"count": 1
 			}
 		]
 	},
@@ -16035,6 +19340,10 @@
 		"de": "welcher",
 		"translations": [
 			{
+				"gsw": "wa",
+				"count": 2
+			},
+			{
 				"gsw": "wo",
 				"count": 1
 			}
@@ -16050,6 +19359,19 @@
 			{
 				"gsw": "wo",
 				"count": 2
+			},
+			{
+				"gsw": "wa",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Welschen",
+		"translations": [
+			{
+				"gsw": "wäùtsche",
+				"count": 1
 			}
 		]
 	},
@@ -16103,7 +19425,7 @@
 		"translations": [
 			{
 				"gsw": "wenigstens",
-				"count": 2
+				"count": 3
 			}
 		]
 	},
@@ -16112,11 +19434,20 @@
 		"translations": [
 			{
 				"gsw": "wenn",
-				"count": 24
+				"count": 25
 			},
 			{
 				"gsw": "wänn",
-				"count": 3
+				"count": 4
+			}
+		]
+	},
+	{
+		"de": "Wenn",
+		"translations": [
+			{
+				"gsw": "wì",
+				"count": 1
 			}
 		]
 	},
@@ -16222,11 +19553,20 @@
 		]
 	},
 	{
+		"de": "werde (ich)",
+		"translations": [
+			{
+				"gsw": "wird",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "werden",
 		"translations": [
 			{
 				"gsw": "werde",
-				"count": 2
+				"count": 3
 			}
 		]
 	},
@@ -16236,6 +19576,18 @@
 			{
 				"gsw": "werdet",
 				"count": 2
+			},
+			{
+				"gsw": "wärde",
+				"count": 1
+			},
+			{
+				"gsw": "chùnd",
+				"count": 1
+			},
+			{
+				"gsw": "chäme",
+				"count": 1
 			},
 			{
 				"gsw": "werded",
@@ -16280,6 +19632,24 @@
 		]
 	},
 	{
+		"de": "Westalemannischen",
+		"translations": [
+			{
+				"gsw": "westalemannische",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Westen",
+		"translations": [
+			{
+				"gsw": "weschte",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "Whistleblower",
 		"translations": [
 			{
@@ -16302,7 +19672,7 @@
 		"translations": [
 			{
 				"gsw": "wichtig",
-				"count": 2
+				"count": 3
 			}
 		]
 	},
@@ -16338,11 +19708,23 @@
 		"translations": [
 			{
 				"gsw": "wie",
-				"count": 26
+				"count": 30
+			},
+			{
+				"gsw": "wì",
+				"count": 5
 			},
 			{
 				"gsw": "wiä",
-				"count": 2
+				"count": 3
+			},
+			{
+				"gsw": "wi",
+				"count": 1
+			},
+			{
+				"gsw": "wà",
+				"count": 1
 			}
 		]
 	},
@@ -16352,6 +19734,15 @@
 			{
 				"gsw": "wies",
 				"count": 1
+			}
+		]
+	},
+	{
+		"de": "wie man",
+		"translations": [
+			{
+				"gsw": "wìmù",
+				"count": 2
 			}
 		]
 	},
@@ -16391,6 +19782,15 @@
 			{
 				"gsw": "wild",
 				"count": 6
+			}
+		]
+	},
+	{
+		"de": "wilden",
+		"translations": [
+			{
+				"gsw": "wilde",
+				"count": 1
 			}
 		]
 	},
@@ -16486,15 +19886,15 @@
 		"translations": [
 			{
 				"gsw": "mir",
-				"count": 57
+				"count": 67
 			},
 			{
 				"gsw": "mer",
-				"count": 39
+				"count": 47
 			},
 			{
 				"gsw": "mr",
-				"count": 7
+				"count": 8
 			},
 			{
 				"gsw": "mier",
@@ -16550,12 +19950,24 @@
 		"translations": [
 			{
 				"gsw": "wird",
-				"count": 5
+				"count": 7
+			},
+			{
+				"gsw": "wìrd",
+				"count": 2
+			},
+			{
+				"gsw": "chùnt",
+				"count": 1
+			},
+			{
+				"gsw": "chunt",
+				"count": 1
 			}
 		]
 	},
 	{
-		"de": "wird (ich)",
+		"de": "wird (es/sie/es)",
 		"translations": [
 			{
 				"gsw": "wird",
@@ -16594,11 +20006,20 @@
 		]
 	},
 	{
+		"de": "Wirtschaft",
+		"translations": [
+			{
+				"gsw": "wirtschaft",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "wissen",
 		"translations": [
 			{
 				"gsw": "wüsse",
-				"count": 2
+				"count": 3
 			}
 		]
 	},
@@ -16612,11 +20033,33 @@
 		]
 	},
 	{
+		"de": "wissen es (wir)",
+		"translations": [
+			{
+				"gsw": "wüsseds",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "wissenschaftlich",
+		"translations": [
+			{
+				"gsw": "wǜsseschaftlech",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "wo",
 		"translations": [
 			{
 				"gsw": "wo",
-				"count": 16
+				"count": 18
+			},
+			{
+				"gsw": "wa",
+				"count": 2
 			}
 		]
 	},
@@ -16634,7 +20077,7 @@
 		"translations": [
 			{
 				"gsw": "wuche",
-				"count": 14
+				"count": 15
 			}
 		]
 	},
@@ -16643,7 +20086,7 @@
 		"translations": [
 			{
 				"gsw": "wuche",
-				"count": 1
+				"count": 2
 			}
 		]
 	},
@@ -16705,6 +20148,10 @@
 		"de": "wollen (wir)",
 		"translations": [
 			{
+				"gsw": "wet",
+				"count": 1
+			},
+			{
 				"gsw": "wend",
 				"count": 1
 			}
@@ -16735,6 +20182,10 @@
 	{
 		"de": "worden",
 		"translations": [
+			{
+				"gsw": "chua",
+				"count": 3
+			},
 			{
 				"gsw": "worde",
 				"count": 3
@@ -16803,6 +20254,10 @@
 				"count": 2
 			},
 			{
+				"gsw": "wärde",
+				"count": 1
+			},
+			{
 				"gsw": "wärend",
 				"count": 1
 			}
@@ -16822,7 +20277,7 @@
 		"translations": [
 			{
 				"gsw": "wär",
-				"count": 22
+				"count": 23
 			},
 			{
 				"gsw": "wer",
@@ -16875,6 +20330,28 @@
 		]
 	},
 	{
+		"de": "Wörterbuch",
+		"translations": [
+			{
+				"gsw": "wörterbuech",
+				"count": 4
+			}
+		]
+	},
+	{
+		"de": "Wörtern",
+		"translations": [
+			{
+				"gsw": "wörter",
+				"count": 2
+			},
+			{
+				"gsw": "wörtlene",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "wünsche (ich)",
 		"translations": [
 			{
@@ -16920,6 +20397,10 @@
 			{
 				"gsw": "wür",
 				"count": 2
+			},
+			{
+				"gsw": "würdi",
+				"count": 1
 			},
 			{
 				"gsw": "würd",
@@ -17021,10 +20502,37 @@
 		]
 	},
 	{
+		"de": "Zahlenfolgen",
+		"translations": [
+			{
+				"gsw": "zahlefolge",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Zahlwort",
+		"translations": [
+			{
+				"gsw": "zaalwort",
+				"count": 2
+			}
+		]
+	},
+	{
 		"de": "zeichnen",
 		"translations": [
 			{
 				"gsw": "zeichne",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Zeichnungen",
+		"translations": [
+			{
+				"gsw": "zeichnige",
 				"count": 1
 			}
 		]
@@ -17057,6 +20565,10 @@
 			{
 				"gsw": "zit",
 				"count": 5
+			},
+			{
+				"gsw": "zyt",
+				"count": 1
 			}
 		]
 	},
@@ -17075,6 +20587,19 @@
 			{
 				"gsw": "ziite",
 				"count": 2
+			}
+		]
+	},
+	{
+		"de": "Zeitung",
+		"translations": [
+			{
+				"gsw": "zytùnge",
+				"count": 1
+			},
+			{
+				"gsw": "zytùng",
+				"count": 1
 			}
 		]
 	},
@@ -17132,11 +20657,28 @@
 		"translations": [
 			{
 				"gsw": "zu",
-				"count": 10
+				"count": 12
 			},
 			{
 				"gsw": "z",
 				"count": 7
+			},
+			{
+				"gsw": "zù",
+				"count": 3
+			},
+			{
+				"gsw": "ds",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Zu",
+		"translations": [
+			{
+				"gsw": "zun",
+				"count": 1
 			}
 		]
 	},
@@ -17260,7 +20802,7 @@
 		"translations": [
 			{
 				"gsw": "zug",
-				"count": 2
+				"count": 3
 			}
 		]
 	},
@@ -17287,7 +20829,11 @@
 		"translations": [
 			{
 				"gsw": "zum",
-				"count": 14
+				"count": 20
+			},
+			{
+				"gsw": "zùm",
+				"count": 4
 			},
 			{
 				"gsw": "zom",
@@ -17301,6 +20847,32 @@
 			{
 				"gsw": "zum bispil",
 				"count": 2
+			}
+		]
+	},
+	{
+		"de": "Zunge",
+		"translations": [
+			{
+				"gsw": "zùngi",
+				"count": 1
+			},
+			{
+				"gsw": "zunge",
+				"count": 1
+			},
+			{
+				"gsw": "zunga",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Zungen",
+		"translations": [
+			{
+				"gsw": "zungì",
+				"count": 1
 			}
 		]
 	},
@@ -17366,7 +20938,7 @@
 		"translations": [
 			{
 				"gsw": "zemmefassig",
-				"count": 1
+				"count": 2
 			},
 			{
 				"gsw": "zemefassig",
@@ -17383,6 +20955,15 @@
 			},
 			{
 				"gsw": "zämefassige",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Zusammenhang",
+		"translations": [
+			{
+				"gsw": "zemmehang",
 				"count": 1
 			}
 		]
@@ -17437,7 +21018,15 @@
 		"translations": [
 			{
 				"gsw": "zwei",
-				"count": 6
+				"count": 7
+			},
+			{
+				"gsw": "zwǜǜ",
+				"count": 1
+			},
+			{
+				"gsw": "zwìi",
+				"count": 1
 			}
 		]
 	},
@@ -17549,6 +21138,15 @@
 		]
 	},
 	{
+		"de": "ältesten",
+		"translations": [
+			{
+				"gsw": "öuteschte",
+				"count": 1
+			}
+		]
+	},
+	{
 		"de": "ändern",
 		"translations": [
 			{
@@ -17613,6 +21211,10 @@
 	{
 		"de": "über",
 		"translations": [
+			{
+				"gsw": "ùber",
+				"count": 4
+			},
 			{
 				"gsw": "über",
 				"count": 4
@@ -17686,7 +21288,7 @@
 		"translations": [
 			{
 				"gsw": "übrigens",
-				"count": 1
+				"count": 2
 			}
 		]
 	},

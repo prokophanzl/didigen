@@ -59,7 +59,7 @@ const cantons = [
 	// "bl",
 	// "bs",
 	// "be",
-	// "fr",
+	"fr",
 	// "ge",
 	// "gl",
 	// "gr",

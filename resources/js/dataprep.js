@@ -1,6 +1,7 @@
 import ai from "../data/ai.json" assert { type: "json" };
 import xx from "../data/xx.json" assert { type: "json" };
 import zh from "../data/zh.json" assert { type: "json" };
+import fr from "../data/fr.json" assert { type: "json" };
 
 function compressData(data) {
 	const output = [];
@@ -51,7 +52,7 @@ function compressData(data) {
 }
 
 // join all data into one array
-let all = [...ai, ...xx, ...zh];
+let all = [...ai, ...xx, ...zh, ...fr];
 // sort array by "de" value
 all.sort((a, b) => (a.de > b.de ? 1 : -1));
 // console.log(all);
@@ -60,6 +61,7 @@ let allParsed = compressData(all);
 let aiParsed = compressData(ai);
 let xxParsed = compressData(xx);
 let zhParsed = compressData(zh);
+let frParsed = compressData(fr);
 
 // console log first 10 objects of allParsed
 // console.log(allParsed.slice(0, 10));
@@ -72,3 +74,21 @@ let zhParsed = compressData(zh);
 // document.body.appendChild(downloadAnchorNode); // required for firefox
 // downloadAnchorNode.click();
 // downloadAnchorNode.remove();
+
+// function that accepts an objects and downloads it as a json named after the object
+function exportJson(obj, name) {
+	const dataStr = "data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(obj));
+	const downloadAnchorNode = document.createElement("a");
+	downloadAnchorNode.setAttribute("href", dataStr);
+	downloadAnchorNode.setAttribute("download", `${name}.json`);
+	document.body.appendChild(downloadAnchorNode); // required for firefox
+	downloadAnchorNode.click();
+	downloadAnchorNode.remove();
+}
+
+// run exportJson function for each parsed data array
+exportJson(allParsed, "allParsed");
+exportJson(aiParsed, "aiParsed");
+exportJson(xxParsed, "xxParsed");
+exportJson(zhParsed, "zhParsed");
+exportJson(frParsed, "frParsed");

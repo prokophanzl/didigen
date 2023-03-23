@@ -461,6 +461,26 @@
 	},
 	{
 		"de": "aber",
+		"gsw": "aber"
+	},
+	{
+		"de": "aber",
+		"gsw": "aber"
+	},
+	{
+		"de": "aber",
+		"gsw": "aber"
+	},
+	{
+		"de": "aber",
+		"gsw": "aber"
+	},
+	{
+		"de": "aber",
+		"gsw": "aber"
+	},
+	{
+		"de": "aber",
 		"gsw": "abr"
 	},
 	{
@@ -493,6 +513,14 @@
 	},
 	{
 		"de": "abgeschrieben",
+		"gsw": "abgschribe"
+	},
+	{
+		"de": "abgeschrieben",
+		"gsw": "abgschriebe"
+	},
+	{
+		"de": "abgeschrieben",
 		"gsw": "abgschriebe"
 	},
 	{
@@ -510,6 +538,10 @@
 	{
 		"de": "Ableitung",
 		"gsw": "Ableitig"
+	},
+	{
+		"de": "ablesen",
+		"gsw": "ablese"
 	},
 	{
 		"de": "abnormal",
@@ -566,6 +598,10 @@
 	{
 		"de": "alen",
 		"gsw": "allne"
+	},
+	{
+		"de": "Alkohol",
+		"gsw": "alk"
 	},
 	{
 		"de": "all",
@@ -748,6 +784,10 @@
 		"gsw": "alles"
 	},
 	{
+		"de": "alles",
+		"gsw": "alles"
+	},
+	{
 		"de": "allgemein",
 		"gsw": "allgemein"
 	},
@@ -760,8 +800,8 @@
 		"gsw": "allgemeini"
 	},
 	{
-		"de": "als",
-		"gsw": "als"
+		"de": "Alpha",
+		"gsw": "alpha"
 	},
 	{
 		"de": "als",
@@ -794,6 +834,22 @@
 	{
 		"de": "als",
 		"gsw": "als"
+	},
+	{
+		"de": "als",
+		"gsw": "als"
+	},
+	{
+		"de": "als",
+		"gsw": "als"
+	},
+	{
+		"de": "als",
+		"gsw": "als"
+	},
+	{
+		"de": "als",
+		"gsw": "wie"
 	},
 	{
 		"de": "also",
@@ -1029,7 +1085,11 @@
 	},
 	{
 		"de": "also",
-		"gsw": "aso"
+		"gsw": "Also"
+	},
+	{
+		"de": "also",
+		"gsw": "also"
 	},
 	{
 		"de": "also",
@@ -1174,6 +1234,18 @@
 	{
 		"de": "also",
 		"gsw": "aso"
+	},
+	{
+		"de": "also",
+		"gsw": "aso"
+	},
+	{
+		"de": "am",
+		"gsw": "am"
+	},
+	{
+		"de": "am",
+		"gsw": "am"
 	},
 	{
 		"de": "am",
@@ -1512,6 +1584,10 @@
 		"gsw": "anderst"
 	},
 	{
+		"de": "anders",
+		"gsw": "anderst"
+	},
+	{
 		"de": "ändert (er/sie/es)",
 		"gsw": "ändert"
 	},
@@ -1552,6 +1628,10 @@
 		"gsw": "agstrebt"
 	},
 	{
+		"de": "angetan",
+		"gsw": "anetue"
+	},
+	{
 		"de": "ankommt (er/sie/es)",
 		"gsw": "achunt"
 	},
@@ -1566,6 +1646,10 @@
 	{
 		"de": "anschauen",
 		"gsw": "aluege"
+	},
+	{
+		"de": "anstatt",
+		"gsw": "anstatt"
 	},
 	{
 		"de": "anstatt",
@@ -1594,6 +1678,10 @@
 	{
 		"de": "App",
 		"gsw": "App"
+	},
+	{
+		"de": "arbeiten",
+		"gsw": "schaffe"
 	},
 	{
 		"de": "Arbeitsblatt",
@@ -1642,6 +1730,78 @@
 	{
 		"de": "Atom",
 		"gsw": "Atom"
+	},
+	{
+		"de": "auch",
+		"gsw": "au"
+	},
+	{
+		"de": "auch",
+		"gsw": "au"
+	},
+	{
+		"de": "auch",
+		"gsw": "au"
+	},
+	{
+		"de": "auch",
+		"gsw": "au"
+	},
+	{
+		"de": "auch",
+		"gsw": "au"
+	},
+	{
+		"de": "auch",
+		"gsw": "au"
+	},
+	{
+		"de": "auch",
+		"gsw": "au"
+	},
+	{
+		"de": "auch",
+		"gsw": "au"
+	},
+	{
+		"de": "auch",
+		"gsw": "au"
+	},
+	{
+		"de": "auch",
+		"gsw": "au"
+	},
+	{
+		"de": "auch",
+		"gsw": "au"
+	},
+	{
+		"de": "auch",
+		"gsw": "au"
+	},
+	{
+		"de": "auch",
+		"gsw": "au"
+	},
+	{
+		"de": "auch",
+		"gsw": "au"
+	},
+	{
+		"de": "auch",
+		"gsw": "au"
+	},
+	{
+		"de": "auch",
+		"gsw": "au"
+	},
+	{
+		"de": "auch",
+		"gsw": "au"
+	},
+	{
+		"de": "auch",
+		"gsw": "au"
 	},
 	{
 		"de": "auch",
@@ -2536,6 +2696,18 @@
 		"gsw": "uf"
 	},
 	{
+		"de": "auf",
+		"gsw": "uf"
+	},
+	{
+		"de": "auf",
+		"gsw": "uf"
+	},
+	{
+		"de": "auf",
+		"gsw": "uf"
+	},
+	{
 		"de": "auf den",
 		"gsw": "uf dene"
 	},
@@ -2864,8 +3036,16 @@
 		"gsw": "ussert"
 	},
 	{
+		"de": "ausser",
+		"gsw": "ussert"
+	},
+	{
 		"de": "ausser dem",
 		"gsw": "ussem"
+	},
+	{
+		"de": "auswendig",
+		"gsw": "uswendig"
 	},
 	{
 		"de": "auswendig",
@@ -2930,6 +3110,14 @@
 	{
 		"de": "behandelt (er/sie/es)",
 		"gsw": "behandlet"
+	},
+	{
+		"de": "bei",
+		"gsw": "bi"
+	},
+	{
+		"de": "bei",
+		"gsw": "bi"
 	},
 	{
 		"de": "bei",
@@ -3233,6 +3421,14 @@
 	},
 	{
 		"de": "bekommen",
+		"gsw": "becho"
+	},
+	{
+		"de": "bekommen",
+		"gsw": "becho"
+	},
+	{
+		"de": "bekommen",
 		"gsw": "bechoo"
 	},
 	{
@@ -3270,6 +3466,10 @@
 	{
 		"de": "benennen",
 		"gsw": "benenne"
+	},
+	{
+		"de": "benutzen",
+		"gsw": "benutze"
 	},
 	{
 		"de": "benutzen",
@@ -3728,6 +3928,10 @@
 		"gsw": "bis"
 	},
 	{
+		"de": "bis",
+		"gsw": "bis"
+	},
+	{
 		"de": "bist (du)",
 		"gsw": "bisch"
 	},
@@ -3962,6 +4166,14 @@
 	{
 		"de": "Blatt",
 		"gsw": "Blatt"
+	},
+	{
+		"de": "Blatt",
+		"gsw": "blatt"
+	},
+	{
+		"de": "Blätter",
+		"gsw": "Blätter"
 	},
 	{
 		"de": "Blätter",
@@ -4188,6 +4400,14 @@
 		"gsw": "buech"
 	},
 	{
+		"de": "Buch",
+		"gsw": "buech"
+	},
+	{
+		"de": "Buch",
+		"gsw": "buech"
+	},
+	{
 		"de": "Buchseite",
 		"gsw": "Buechsite"
 	},
@@ -4206,6 +4426,14 @@
 	{
 		"de": "Bus",
 		"gsw": "Bus"
+	},
+	{
+		"de": "Bus",
+		"gsw": "Bus"
+	},
+	{
+		"de": "Butzuckerregulation",
+		"gsw": "Bluetzuckerregulation"
 	},
 	{
 		"de": "Calcium",
@@ -4369,6 +4597,10 @@
 	},
 	{
 		"de": "Chemie",
+		"gsw": "chemie"
+	},
+	{
+		"de": "Chemie",
 		"gsw": "Physik"
 	},
 	{
@@ -4398,6 +4630,10 @@
 	{
 		"de": "Corona-Test",
 		"gsw": "Corona-Test"
+	},
+	{
+		"de": "da",
+		"gsw": "da"
 	},
 	{
 		"de": "da",
@@ -5173,6 +5409,14 @@
 	},
 	{
 		"de": "danke",
+		"gsw": "danke"
+	},
+	{
+		"de": "danke",
+		"gsw": "danke"
+	},
+	{
+		"de": "danke",
 		"gsw": "merci"
 	},
 	{
@@ -5222,6 +5466,50 @@
 	{
 		"de": "danke",
 		"gsw": "Merci"
+	},
+	{
+		"de": "danke",
+		"gsw": "merci"
+	},
+	{
+		"de": "danke",
+		"gsw": "merci"
+	},
+	{
+		"de": "danke",
+		"gsw": "merci"
+	},
+	{
+		"de": "danke",
+		"gsw": "merci"
+	},
+	{
+		"de": "danke",
+		"gsw": "merci"
+	},
+	{
+		"de": "danke",
+		"gsw": "merci"
+	},
+	{
+		"de": "danke",
+		"gsw": "merci"
+	},
+	{
+		"de": "danke",
+		"gsw": "merci"
+	},
+	{
+		"de": "danke",
+		"gsw": "merci"
+	},
+	{
+		"de": "danke",
+		"gsw": "merci"
+	},
+	{
+		"de": "danke",
+		"gsw": "merci"
 	},
 	{
 		"de": "dann",
@@ -5458,6 +5746,10 @@
 	{
 		"de": "darfst du",
 		"gsw": "dörfsch"
+	},
+	{
+		"de": "darum",
+		"gsw": "darum"
 	},
 	{
 		"de": "darum",
@@ -6113,6 +6405,38 @@
 	},
 	{
 		"de": "das",
+		"gsw": "das"
+	},
+	{
+		"de": "das",
+		"gsw": "das"
+	},
+	{
+		"de": "das",
+		"gsw": "das"
+	},
+	{
+		"de": "das",
+		"gsw": "das"
+	},
+	{
+		"de": "das",
+		"gsw": "Das"
+	},
+	{
+		"de": "das",
+		"gsw": "das"
+	},
+	{
+		"de": "das",
+		"gsw": "das"
+	},
+	{
+		"de": "das",
+		"gsw": "das"
+	},
+	{
+		"de": "das",
 		"gsw": "dass"
 	},
 	{
@@ -6320,6 +6644,10 @@
 		"gsw": "sbeschte"
 	},
 	{
+		"de": "das Buch",
+		"gsw": "sbuech"
+	},
+	{
 		"de": "das chemische",
 		"gsw": "s‘chemische"
 	},
@@ -6434,6 +6762,10 @@
 	{
 		"de": "dass",
 		"gsw": "das"
+	},
+	{
+		"de": "dass",
+		"gsw": "dass"
 	},
 	{
 		"de": "dass",
@@ -6961,6 +7293,38 @@
 	},
 	{
 		"de": "den",
+		"gsw": "de"
+	},
+	{
+		"de": "den",
+		"gsw": "de"
+	},
+	{
+		"de": "den",
+		"gsw": "de"
+	},
+	{
+		"de": "den",
+		"gsw": "de"
+	},
+	{
+		"de": "den",
+		"gsw": "de"
+	},
+	{
+		"de": "den",
+		"gsw": "de"
+	},
+	{
+		"de": "den",
+		"gsw": "de"
+	},
+	{
+		"de": "den",
+		"gsw": "wo"
+	},
+	{
+		"de": "den",
 		"gsw": "wo"
 	},
 	{
@@ -6992,6 +7356,10 @@
 		"gsw": "dene"
 	},
 	{
+		"de": "den (pl.)",
+		"gsw": "dene"
+	},
+	{
 		"de": "denke (ich)",
 		"gsw": "denk"
 	},
@@ -7046,6 +7414,10 @@
 	{
 		"de": "der",
 		"gsw": "dä"
+	},
+	{
+		"de": "der",
+		"gsw": "de"
 	},
 	{
 		"de": "der",
@@ -7357,11 +7729,7 @@
 	},
 	{
 		"de": "der",
-		"gsw": "dere"
-	},
-	{
-		"de": "der",
-		"gsw": "dere"
+		"gsw": "der"
 	},
 	{
 		"de": "der",
@@ -7382,6 +7750,18 @@
 	{
 		"de": "der (F)",
 		"gsw": "de"
+	},
+	{
+		"de": "der (F)",
+		"gsw": "de"
+	},
+	{
+		"de": "der (F)",
+		"gsw": "dere"
+	},
+	{
+		"de": "der (F)",
+		"gsw": "dere"
 	},
 	{
 		"de": "deswegen",
@@ -7681,7 +8061,19 @@
 	},
 	{
 		"de": "die",
-		"gsw": "de"
+		"gsw": "d"
+	},
+	{
+		"de": "die",
+		"gsw": "d"
+	},
+	{
+		"de": "die",
+		"gsw": "d"
+	},
+	{
+		"de": "die",
+		"gsw": "d"
 	},
 	{
 		"de": "die",
@@ -7701,7 +8093,11 @@
 	},
 	{
 		"de": "die",
-		"gsw": "di"
+		"gsw": "de"
+	},
+	{
+		"de": "die",
+		"gsw": "de"
 	},
 	{
 		"de": "die",
@@ -7730,6 +8126,14 @@
 	{
 		"de": "die",
 		"gsw": "di"
+	},
+	{
+		"de": "die",
+		"gsw": "di"
+	},
+	{
+		"de": "die",
+		"gsw": "diä"
 	},
 	{
 		"de": "die",
@@ -8104,6 +8508,34 @@
 		"gsw": "die"
 	},
 	{
+		"de": "die (pl.)",
+		"gsw": "die"
+	},
+	{
+		"de": "die (pl.)",
+		"gsw": "die"
+	},
+	{
+		"de": "die (pl.)",
+		"gsw": "die"
+	},
+	{
+		"de": "die (pl.)",
+		"gsw": "die"
+	},
+	{
+		"de": "die (pl.)",
+		"gsw": "die"
+	},
+	{
+		"de": "die (pl.)",
+		"gsw": "die"
+	},
+	{
+		"de": "die (pl.)",
+		"gsw": "die"
+	},
+	{
 		"de": "die Abwehr",
 		"gsw": "d'abwehr"
 	},
@@ -8156,12 +8588,24 @@
 		"gsw": "dschuel"
 	},
 	{
+		"de": "die Seite",
+		"gsw": "dsite"
+	},
+	{
 		"de": "die Strukturen",
 		"gsw": "dstrukture"
 	},
 	{
+		"de": "die Vase",
+		"gsw": "dvase"
+	},
+	{
 		"de": "die Verdauung",
 		"gsw": "dverdauung"
+	},
+	{
+		"de": "die Wörter",
+		"gsw": "dwörter"
 	},
 	{
 		"de": "Dienstag",
@@ -8210,6 +8654,14 @@
 	{
 		"de": "doch",
 		"gsw": "do"
+	},
+	{
+		"de": "doch",
+		"gsw": "doch"
+	},
+	{
+		"de": "doch",
+		"gsw": "doch"
 	},
 	{
 		"de": "doch",
@@ -8364,6 +8816,10 @@
 		"gsw": "Doppeldütsch"
 	},
 	{
+		"de": "Doppelstunde",
+		"gsw": "doppelstund"
+	},
+	{
 		"de": "Dorf",
 		"gsw": "Dorf"
 	},
@@ -8400,6 +8856,10 @@
 		"gsw": "döt"
 	},
 	{
+		"de": "dort",
+		"gsw": "döt"
+	},
+	{
 		"de": "Dossier",
 		"gsw": "Dossier"
 	},
@@ -8418,6 +8878,10 @@
 	{
 		"de": "Dossier",
 		"gsw": "Dossier"
+	},
+	{
+		"de": "Dossier",
+		"gsw": "dossier"
 	},
 	{
 		"de": "dran",
@@ -8600,6 +9064,14 @@
 		"gsw": "du"
 	},
 	{
+		"de": "du",
+		"gsw": "du"
+	},
+	{
+		"de": "",
+		"gsw": "du"
+	},
+	{
 		"de": "du es",
 		"gsw": "dus"
 	},
@@ -8622,6 +9094,10 @@
 	{
 		"de": "durch",
 		"gsw": "durch"
+	},
+	{
+		"de": "durch",
+		"gsw": "dure"
 	},
 	{
 		"de": "durch",
@@ -8658,6 +9134,10 @@
 	{
 		"de": "dürfen (wir)",
 		"gsw": "derfed"
+	},
+	{
+		"de": "dürfen (wir)",
+		"gsw": "derfet"
 	},
 	{
 		"de": "dürften",
@@ -8816,6 +9296,14 @@
 		"gsw": "egal"
 	},
 	{
+		"de": "egal",
+		"gsw": "gliich"
+	},
+	{
+		"de": "eh",
+		"gsw": "eh"
+	},
+	{
 		"de": "eh",
 		"gsw": "eh"
 	},
@@ -8889,6 +9377,14 @@
 	},
 	{
 		"de": "eigentlich",
+		"gsw": "eig"
+	},
+	{
+		"de": "eigentlich",
+		"gsw": "eigentlich"
+	},
+	{
+		"de": "eigentlich",
 		"gsw": "eigentlich"
 	},
 	{
@@ -8981,6 +9477,22 @@
 	},
 	{
 		"de": "ein",
+		"gsw": "en"
+	},
+	{
+		"de": "ein",
+		"gsw": "es"
+	},
+	{
+		"de": "ein",
+		"gsw": "es"
+	},
+	{
+		"de": "ein",
+		"gsw": "es"
+	},
+	{
+		"de": "ein",
 		"gsw": "es"
 	},
 	{
@@ -8998,6 +9510,10 @@
 	{
 		"de": "ein",
 		"gsw": "es"
+	},
+	{
+		"de": "ein",
+		"gsw": "s"
 	},
 	{
 		"de": "ein (M)",
@@ -9062,6 +9578,10 @@
 	{
 		"de": "ein (N)",
 		"gsw": "s"
+	},
+	{
+		"de": "ein Bisschen",
+		"gsw": "chli"
 	},
 	{
 		"de": "ein Bisschen",
@@ -9122,6 +9642,22 @@
 	{
 		"de": "eine",
 		"gsw": "ä"
+	},
+	{
+		"de": "eine",
+		"gsw": "e"
+	},
+	{
+		"de": "eine",
+		"gsw": "e"
+	},
+	{
+		"de": "eine",
+		"gsw": "e"
+	},
+	{
+		"de": "eine",
+		"gsw": "e"
 	},
 	{
 		"de": "eine",
@@ -9356,8 +9892,20 @@
 		"gsw": "en"
 	},
 	{
+		"de": "einen",
+		"gsw": "en"
+	},
+	{
+		"de": "einen",
+		"gsw": "en"
+	},
+	{
 		"de": "einer",
 		"gsw": "eine"
+	},
+	{
+		"de": "",
+		"gsw": "einen"
 	},
 	{
 		"de": "einer",
@@ -9390,6 +9938,22 @@
 	{
 		"de": "einfach",
 		"gsw": "eif"
+	},
+	{
+		"de": "einfach",
+		"gsw": "eif"
+	},
+	{
+		"de": "einfach",
+		"gsw": "eif"
+	},
+	{
+		"de": "einfach",
+		"gsw": "eifach"
+	},
+	{
+		"de": "einfach",
+		"gsw": "eifach"
 	},
 	{
 		"de": "einfach",
@@ -9508,6 +10072,10 @@
 		"gsw": "iigeh"
 	},
 	{
+		"de": "Einheit",
+		"gsw": "einheit"
+	},
+	{
 		"de": "einmal",
 		"gsw": "eimal"
 	},
@@ -9558,6 +10126,10 @@
 	{
 		"de": "Eiweiss",
 		"gsw": "Eiwiss"
+	},
+	{
+		"de": "Elektriker",
+		"gsw": "elektriker"
 	},
 	{
 		"de": "elektrischen",
@@ -9848,6 +10420,22 @@
 		"gsw": "er"
 	},
 	{
+		"de": "er",
+		"gsw": "er"
+	},
+	{
+		"de": "er",
+		"gsw": "er"
+	},
+	{
+		"de": "er",
+		"gsw": "er"
+	},
+	{
+		"de": "er",
+		"gsw": "er"
+	},
+	{
 		"de": "er es",
 		"gsw": "ers"
 	},
@@ -9862,6 +10450,10 @@
 	{
 		"de": "Ergebnis",
 		"gsw": "Ergebnis"
+	},
+	{
+		"de": "Ergebnis",
+		"gsw": "ergebniss"
 	},
 	{
 		"de": "ergibt (er/sie/es)",
@@ -9941,6 +10533,10 @@
 	},
 	{
 		"de": "erst",
+		"gsw": "erscht"
+	},
+	{
+		"de": "erst",
 		"gsw": "erst"
 	},
 	{
@@ -9954,6 +10550,10 @@
 	{
 		"de": "erste",
 		"gsw": "erste"
+	},
+	{
+		"de": "ersten",
+		"gsw": "erschte"
 	},
 	{
 		"de": "ersten",
@@ -10021,7 +10621,7 @@
 	},
 	{
 		"de": "es",
-		"gsw": "es"
+		"gsw": "äs"
 	},
 	{
 		"de": "es",
@@ -10246,6 +10846,26 @@
 	{
 		"de": "es",
 		"gsw": "es"
+	},
+	{
+		"de": "es",
+		"gsw": "es"
+	},
+	{
+		"de": "es",
+		"gsw": "es"
+	},
+	{
+		"de": "es",
+		"gsw": "es"
+	},
+	{
+		"de": "es",
+		"gsw": "es"
+	},
+	{
+		"de": "es",
+		"gsw": "s"
 	},
 	{
 		"de": "es",
@@ -10468,6 +11088,14 @@
 		"gsw": "falsch"
 	},
 	{
+		"de": "falsch",
+		"gsw": "falsch"
+	},
+	{
+		"de": "falsch",
+		"gsw": "falsch"
+	},
+	{
 		"de": "fände (ich)",
 		"gsw": "fänd"
 	},
@@ -10526,6 +11154,10 @@
 	{
 		"de": "fast",
 		"gsw": "fascht"
+	},
+	{
+		"de": "Fehler",
+		"gsw": "fähler"
 	},
 	{
 		"de": "Fehler",
@@ -10588,6 +11220,10 @@
 		"gsw": "füechtigkeit"
 	},
 	{
+		"de": "Feuerwehr",
+		"gsw": "fürwehr"
+	},
+	{
 		"de": "Fieber",
 		"gsw": "Fieber"
 	},
@@ -10634,6 +11270,10 @@
 	{
 		"de": "finde es (ich)",
 		"gsw": "finds"
+	},
+	{
+		"de": "finde ich",
+		"gsw": "findi"
 	},
 	{
 		"de": "finde ich",
@@ -10718,6 +11358,14 @@
 	{
 		"de": "Formeln",
 		"gsw": "Formle"
+	},
+	{
+		"de": "Formeln",
+		"gsw": "formle"
+	},
+	{
+		"de": "Formeln",
+		"gsw": "formle"
 	},
 	{
 		"de": "Formeln",
@@ -10830,6 +11478,14 @@
 	{
 		"de": "Französisch",
 		"gsw": "Franz"
+	},
+	{
+		"de": "Französisch",
+		"gsw": "Franz"
+	},
+	{
+		"de": "Französisch",
+		"gsw": "franz"
 	},
 	{
 		"de": "Französisch",
@@ -11020,6 +11676,10 @@
 		"gsw": "früener"
 	},
 	{
+		"de": "früher",
+		"gsw": "früener"
+	},
+	{
 		"de": "fühle (ich)",
 		"gsw": "fühl"
 	},
@@ -11050,6 +11710,10 @@
 	{
 		"de": "funktioniert (er/sie/es)",
 		"gsw": "funktioniert"
+	},
+	{
+		"de": "für",
+		"gsw": "für"
 	},
 	{
 		"de": "für",
@@ -11284,6 +11948,10 @@
 		"gsw": "ganz"
 	},
 	{
+		"de": "ganz",
+		"gsw": "ganz"
+	},
+	{
 		"de": "ganze",
 		"gsw": "ganz"
 	},
@@ -11321,15 +11989,39 @@
 	},
 	{
 		"de": "ganzen",
+		"gsw": "ganz"
+	},
+	{
+		"de": "ganzen",
 		"gsw": "ganze"
 	},
 	{
 		"de": "ganzen",
 		"gsw": "ganze"
+	},
+	{
+		"de": "ganzen",
+		"gsw": "ganze"
+	},
+	{
+		"de": "ganzen",
+		"gsw": "ganzi"
 	},
 	{
 		"de": "ganzes",
 		"gsw": "ganzes"
+	},
+	{
+		"de": "ganzes",
+		"gsw": "ganzes"
+	},
+	{
+		"de": "gar",
+		"gsw": "gar"
+	},
+	{
+		"de": "gar",
+		"gsw": "gar"
 	},
 	{
 		"de": "gar",
@@ -11380,8 +12072,20 @@
 		"gsw": "Gebiete"
 	},
 	{
+		"de": "gebraucht",
+		"gsw": "gbrucht"
+	},
+	{
+		"de": "gecheckt",
+		"gsw": "checkt"
+	},
+	{
 		"de": "gedacht",
 		"gsw": "dacht"
+	},
+	{
+		"de": "gedacht",
+		"gsw": "denkt"
 	},
 	{
 		"de": "gedacht",
@@ -11410,6 +12114,14 @@
 	{
 		"de": "gefragt",
 		"gsw": "gfröget"
+	},
+	{
+		"de": "gefragt",
+		"gsw": "gfrögt"
+	},
+	{
+		"de": "gefragt",
+		"gsw": "gfrögt"
 	},
 	{
 		"de": "gefragt",
@@ -11501,6 +12213,10 @@
 	},
 	{
 		"de": "gegangen",
+		"gsw": "gange"
+	},
+	{
+		"de": "gegangen",
 		"gsw": "go"
 	},
 	{
@@ -11564,8 +12280,24 @@
 		"gsw": "gha"
 	},
 	{
+		"de": "gehabt",
+		"gsw": "gha"
+	},
+	{
+		"de": "gehabt",
+		"gsw": "gha"
+	},
+	{
+		"de": "gehabt",
+		"gsw": "gha"
+	},
+	{
 		"de": "gehackt",
 		"gsw": "ghackt"
+	},
+	{
+		"de": "gehen",
+		"gsw": "gah"
 	},
 	{
 		"de": "gehen",
@@ -11692,6 +12424,10 @@
 		"gsw": "gahts"
 	},
 	{
+		"de": "gekifft",
+		"gsw": "kifft"
+	},
+	{
 		"de": "gekocht",
 		"gsw": "kocht"
 	},
@@ -11722,6 +12458,10 @@
 	{
 		"de": "geladen",
 		"gsw": "glade"
+	},
+	{
+		"de": "gelb",
+		"gsw": "gel"
 	},
 	{
 		"de": "gelernt",
@@ -11872,6 +12612,14 @@
 		"gsw": "gmacht"
 	},
 	{
+		"de": "gemacht",
+		"gsw": "gmacht"
+	},
+	{
+		"de": "gemeint",
+		"gsw": "gmeint"
+	},
+	{
 		"de": "gemeint",
 		"gsw": "gmeint"
 	},
@@ -11940,6 +12688,10 @@
 		"gsw": "gnau"
 	},
 	{
+		"de": "genau",
+		"gsw": "gnau"
+	},
+	{
 		"de": "genaue",
 		"gsw": "genaui"
 	},
@@ -11962,6 +12714,14 @@
 	{
 		"de": "genommen",
 		"gsw": "gno"
+	},
+	{
+		"de": "genug",
+		"gsw": "gnueg"
+	},
+	{
+		"de": "genug",
+		"gsw": "gnueg"
 	},
 	{
 		"de": "genug",
@@ -12022,6 +12782,10 @@
 	{
 		"de": "gerade",
 		"gsw": "grad"
+	},
+	{
+		"de": "geredet",
+		"gsw": "gredet"
 	},
 	{
 		"de": "gerne",
@@ -12136,6 +12900,18 @@
 		"gsw": "gseit"
 	},
 	{
+		"de": "gesagt",
+		"gsw": "gseit"
+	},
+	{
+		"de": "gesagt",
+		"gsw": "gseit"
+	},
+	{
+		"de": "gesagt",
+		"gsw": "gseit"
+	},
+	{
 		"de": "geschaut",
 		"gsw": "gluegt"
 	},
@@ -12162,6 +12938,14 @@
 	{
 		"de": "Geschichte",
 		"gsw": "gschicht"
+	},
+	{
+		"de": "Geschichte",
+		"gsw": "gschicht"
+	},
+	{
+		"de": "geschickt",
+		"gsw": "gschickt"
 	},
 	{
 		"de": "geschickt",
@@ -12264,6 +13048,10 @@
 		"gsw": "gstriche"
 	},
 	{
+		"de": "getestet",
+		"gsw": "teschtet"
+	},
+	{
 		"de": "Gewebe",
 		"gsw": "Gewebe"
 	},
@@ -12274,6 +13062,10 @@
 	{
 		"de": "gewechselt",
 		"gsw": "gwechslet"
+	},
+	{
+		"de": "gewesen",
+		"gsw": "gsi"
 	},
 	{
 		"de": "gewesen",
@@ -12390,6 +13182,14 @@
 	{
 		"de": "gilt (er/sie/es)",
 		"gsw": "gilt"
+	},
+	{
+		"de": "glaube (ich)",
+		"gsw": "glaub"
+	},
+	{
+		"de": "glaube (ich)",
+		"gsw": "glaub"
 	},
 	{
 		"de": "glaube (ich)",
@@ -12701,6 +13501,18 @@
 	},
 	{
 		"de": "glaube ich",
+		"gsw": "glaubi"
+	},
+	{
+		"de": "glaube ich",
+		"gsw": "glaubs"
+	},
+	{
+		"de": "glaube ich",
+		"gsw": "glaubs"
+	},
+	{
+		"de": "glaube ich",
 		"gsw": "glaubs"
 	},
 	{
@@ -12741,6 +13553,14 @@
 	},
 	{
 		"de": "gleich",
+		"gsw": "glich"
+	},
+	{
+		"de": "gleich",
+		"gsw": "glich"
+	},
+	{
+		"de": "gleiche",
 		"gsw": "glich"
 	},
 	{
@@ -12836,6 +13656,10 @@
 		"gsw": "Glück"
 	},
 	{
+		"de": "Glucose",
+		"gsw": "Glucose"
+	},
+	{
 		"de": "Glukagon",
 		"gsw": "Glukagon"
 	},
@@ -12854,10 +13678,6 @@
 	{
 		"de": "Grammatik",
 		"gsw": "Grammatik"
-	},
-	{
-		"de": "grfragt",
-		"gsw": "gfrögt"
 	},
 	{
 		"de": "gröber",
@@ -12928,6 +13748,14 @@
 		"gsw": "Gruppe"
 	},
 	{
+		"de": "Gruppe",
+		"gsw": "gruppe"
+	},
+	{
+		"de": "Gruppe",
+		"gsw": "Gruppe"
+	},
+	{
 		"de": "Gruppenchat",
 		"gsw": "Gruppechat"
 	},
@@ -12938,6 +13766,10 @@
 	{
 		"de": "gültig",
 		"gsw": "gültig"
+	},
+	{
+		"de": "gut",
+		"gsw": "guet"
 	},
 	{
 		"de": "gut",
@@ -13126,6 +13958,14 @@
 	{
 		"de": "Gymiprüfungen",
 		"gsw": "Gymiprüefig"
+	},
+	{
+		"de": "Gymiprüfungen",
+		"gsw": "Gymiprüefige"
+	},
+	{
+		"de": "hä",
+		"gsw": "hä"
 	},
 	{
 		"de": "hä",
@@ -13396,11 +14236,31 @@
 		"gsw": "han"
 	},
 	{
+		"de": "habe (ich)",
+		"gsw": "han"
+	},
+	{
+		"de": "habe (ich)",
+		"gsw": "han"
+	},
+	{
+		"de": "habe (ich)",
+		"gsw": "han"
+	},
+	{
+		"de": "habe (ich)",
+		"gsw": "han"
+	},
+	{
 		"de": "habe das (ich)",
 		"gsw": "hans"
 	},
 	{
 		"de": "habe das (ich)",
+		"gsw": "hans"
+	},
+	{
+		"de": "habe es (ich)",
 		"gsw": "hans"
 	},
 	{
@@ -13478,6 +14338,10 @@
 	{
 		"de": "habe ich",
 		"gsw": "han"
+	},
+	{
+		"de": "habe ich",
+		"gsw": "hani"
 	},
 	{
 		"de": "habe ich",
@@ -13525,6 +14389,10 @@
 	},
 	{
 		"de": "habe ich das",
+		"gsw": "hanis"
+	},
+	{
+		"de": "habe ich es",
 		"gsw": "hanis"
 	},
 	{
@@ -13590,6 +14458,34 @@
 	{
 		"de": "haben (wir)",
 		"gsw": "händ"
+	},
+	{
+		"de": "haben (wir)",
+		"gsw": "händ"
+	},
+	{
+		"de": "haben (wir)",
+		"gsw": "händ"
+	},
+	{
+		"de": "haben (wir)",
+		"gsw": "händ"
+	},
+	{
+		"de": "haben (wir)",
+		"gsw": "hend"
+	},
+	{
+		"de": "haben (wir)",
+		"gsw": "hend"
+	},
+	{
+		"de": "haben (wir)",
+		"gsw": "hend"
+	},
+	{
+		"de": "haben (wir)",
+		"gsw": "hend"
 	},
 	{
 		"de": "haben (wir)",
@@ -13717,6 +14613,10 @@
 	},
 	{
 		"de": "haben wir",
+		"gsw": "hämmer"
+	},
+	{
+		"de": "haben wir",
 		"gsw": "händ mir"
 	},
 	{
@@ -13750,6 +14650,18 @@
 	{
 		"de": "haben wir",
 		"gsw": "hemer"
+	},
+	{
+		"de": "haben wir",
+		"gsw": "hemmer"
+	},
+	{
+		"de": "haben wir",
+		"gsw": "hemmer"
+	},
+	{
+		"de": "haben wir",
+		"gsw": "hemmer"
 	},
 	{
 		"de": "haben wir",
@@ -13964,8 +14876,24 @@
 		"gsw": "halt"
 	},
 	{
+		"de": "halt",
+		"gsw": "halt"
+	},
+	{
+		"de": "halt",
+		"gsw": "halt"
+	},
+	{
+		"de": "haltbar",
+		"gsw": "haltbar"
+	},
+	{
 		"de": "halten",
 		"gsw": "hebe"
+	},
+	{
+		"de": "Hammer",
+		"gsw": "hammer"
 	},
 	{
 		"de": "Hand",
@@ -14020,6 +14948,18 @@
 		"gsw": "hesch"
 	},
 	{
+		"de": "hast (du)",
+		"gsw": "hesch"
+	},
+	{
+		"de": "hast du",
+		"gsw": "hesch"
+	},
+	{
+		"de": "hast du",
+		"gsw": "hesch"
+	},
+	{
 		"de": "hast du",
 		"gsw": "hesch"
 	},
@@ -14070,6 +15010,30 @@
 	{
 		"de": "hat (er/sie/es)",
 		"gsw": "hät"
+	},
+	{
+		"de": "hat (er/sie/es)",
+		"gsw": "hät"
+	},
+	{
+		"de": "hat (er/sie/es)",
+		"gsw": "hät"
+	},
+	{
+		"de": "hat (er/sie/es)",
+		"gsw": "het"
+	},
+	{
+		"de": "hat (er/sie/es)",
+		"gsw": "het"
+	},
+	{
+		"de": "hat (er/sie/es)",
+		"gsw": "het"
+	},
+	{
+		"de": "hat (er/sie/es)",
+		"gsw": "het"
 	},
 	{
 		"de": "hat (er/sie/es)",
@@ -14453,6 +15417,14 @@
 	},
 	{
 		"de": "hätte (ich)",
+		"gsw": "hett"
+	},
+	{
+		"de": "hätte (ich)",
+		"gsw": "hett"
+	},
+	{
+		"de": "hätte (ich)",
 		"gsw": "hetti"
 	},
 	{
@@ -14482,6 +15454,10 @@
 	{
 		"de": "hätten (wir)",
 		"gsw": "hetted"
+	},
+	{
+		"de": "hätten (wir)",
+		"gsw": "hettet"
 	},
 	{
 		"de": "hätten wir",
@@ -14562,6 +15538,10 @@
 	{
 		"de": "Held",
 		"gsw": "Held"
+	},
+	{
+		"de": "helfen",
+		"gsw": "helfe"
 	},
 	{
 		"de": "helfen",
@@ -14708,6 +15688,10 @@
 		"gsw": "hoch"
 	},
 	{
+		"de": "hoch",
+		"gsw": "hoch"
+	},
+	{
 		"de": "hockst (du)",
 		"gsw": "hocksch"
 	},
@@ -14774,6 +15758,14 @@
 	{
 		"de": "holen",
 		"gsw": "hole"
+	},
+	{
+		"de": "Hoppla",
+		"gsw": "hoppla"
+	},
+	{
+		"de": "Hoppla",
+		"gsw": "hoppla"
 	},
 	{
 		"de": "hör (du)",
@@ -16100,6 +17092,46 @@
 		"gsw": "ich"
 	},
 	{
+		"de": "ich",
+		"gsw": "ich"
+	},
+	{
+		"de": "ich",
+		"gsw": "ich"
+	},
+	{
+		"de": "ich",
+		"gsw": "ich"
+	},
+	{
+		"de": "ich",
+		"gsw": "ich"
+	},
+	{
+		"de": "ich",
+		"gsw": "ich"
+	},
+	{
+		"de": "ich",
+		"gsw": "ich"
+	},
+	{
+		"de": "ich",
+		"gsw": "ich"
+	},
+	{
+		"de": "ich",
+		"gsw": "ich"
+	},
+	{
+		"de": "ich",
+		"gsw": "ich"
+	},
+	{
+		"de": "",
+		"gsw": "ich"
+	},
+	{
 		"de": "ich es",
 		"gsw": "ichs"
 	},
@@ -16122,6 +17154,30 @@
 	{
 		"de": "ich finde",
 		"gsw": "find"
+	},
+	{
+		"de": "ich glaube",
+		"gsw": "glaub"
+	},
+	{
+		"de": "ich glaube",
+		"gsw": "glaub"
+	},
+	{
+		"de": "ich glaube",
+		"gsw": "glaub"
+	},
+	{
+		"de": "ich glaube",
+		"gsw": "glaub"
+	},
+	{
+		"de": "ich glaube",
+		"gsw": "glaub"
+	},
+	{
+		"de": "ich glaube",
+		"gsw": "glaub"
 	},
 	{
 		"de": "ich glaube",
@@ -16180,6 +17236,14 @@
 		"gsw": "hans"
 	},
 	{
+		"de": "ich habe es",
+		"gsw": "hans"
+	},
+	{
+		"de": "ich habe es",
+		"gsw": "hans"
+	},
+	{
 		"de": "ich komme",
 		"gsw": "chum"
 	},
@@ -16222,6 +17286,14 @@
 	{
 		"de": "ihm",
 		"gsw": "ihm"
+	},
+	{
+		"de": "ihm",
+		"gsw": "ihm"
+	},
+	{
+		"de": "ihn",
+		"gsw": "en"
 	},
 	{
 		"de": "ihn",
@@ -16472,6 +17544,34 @@
 		"gsw": "im"
 	},
 	{
+		"de": "im",
+		"gsw": "im"
+	},
+	{
+		"de": "im",
+		"gsw": "im"
+	},
+	{
+		"de": "im",
+		"gsw": "im"
+	},
+	{
+		"de": "im",
+		"gsw": "im"
+	},
+	{
+		"de": "im",
+		"gsw": "im"
+	},
+	{
+		"de": "immer",
+		"gsw": "immer"
+	},
+	{
+		"de": "immer",
+		"gsw": "immer"
+	},
+	{
 		"de": "immer",
 		"gsw": "immer"
 	},
@@ -16709,7 +17809,31 @@
 	},
 	{
 		"de": "in",
-		"gsw": "in"
+		"gsw": "i"
+	},
+	{
+		"de": "in",
+		"gsw": "i"
+	},
+	{
+		"de": "in",
+		"gsw": "i"
+	},
+	{
+		"de": "in",
+		"gsw": "i"
+	},
+	{
+		"de": "in",
+		"gsw": "i"
+	},
+	{
+		"de": "in",
+		"gsw": "i"
+	},
+	{
+		"de": "in",
+		"gsw": "i"
 	},
 	{
 		"de": "in",
@@ -16809,6 +17933,26 @@
 	},
 	{
 		"de": "in",
+		"gsw": "in"
+	},
+	{
+		"de": "in",
+		"gsw": "in"
+	},
+	{
+		"de": "in",
+		"gsw": "in"
+	},
+	{
+		"de": "in",
+		"gsw": "in"
+	},
+	{
+		"de": "in",
+		"gsw": "in"
+	},
+	{
+		"de": "",
 		"gsw": "in"
 	},
 	{
@@ -16834,6 +17978,10 @@
 	{
 		"de": "in der",
 		"gsw": "id"
+	},
+	{
+		"de": "in der",
+		"gsw": "ide"
 	},
 	{
 		"de": "in der",
@@ -16904,6 +18052,10 @@
 		"gsw": "inere"
 	},
 	{
+		"de": "in welcher",
+		"gsw": "wo"
+	},
+	{
 		"de": "indirekt",
 		"gsw": "indirekt"
 	},
@@ -16926,6 +18078,14 @@
 	{
 		"de": "ins",
 		"gsw": "is"
+	},
+	{
+		"de": "ins",
+		"gsw": "is"
+	},
+	{
+		"de": "Insulin",
+		"gsw": "Insulin"
 	},
 	{
 		"de": "integriert",
@@ -17012,12 +18172,20 @@
 		"gsw": "irgendwie"
 	},
 	{
+		"de": "irgendwie",
+		"gsw": "irgendwie"
+	},
+	{
 		"de": "irgendwo",
 		"gsw": "irgendwo"
 	},
 	{
 		"de": "irgendwo",
 		"gsw": "irgendwo"
+	},
+	{
+		"de": "isoliert",
+		"gsw": "isoliert"
 	},
 	{
 		"de": "isoliert",
@@ -17049,7 +18217,43 @@
 	},
 	{
 		"de": "ist (er/sie/es)",
-		"gsw": "ich"
+		"gsw": "isch"
+	},
+	{
+		"de": "ist (er/sie/es)",
+		"gsw": "isch"
+	},
+	{
+		"de": "ist (er/sie/es)",
+		"gsw": "isch"
+	},
+	{
+		"de": "ist (er/sie/es)",
+		"gsw": "isch"
+	},
+	{
+		"de": "ist (er/sie/es)",
+		"gsw": "isch"
+	},
+	{
+		"de": "ist (er/sie/es)",
+		"gsw": "isch"
+	},
+	{
+		"de": "ist (er/sie/es)",
+		"gsw": "isch"
+	},
+	{
+		"de": "ist (er/sie/es)",
+		"gsw": "isch"
+	},
+	{
+		"de": "ist (er/sie/es)",
+		"gsw": "isch"
+	},
+	{
+		"de": "ist (er/sie/es)",
+		"gsw": "isch"
 	},
 	{
 		"de": "ist (er/sie/es)",
@@ -17633,11 +18837,23 @@
 	},
 	{
 		"de": "ist es",
+		"gsw": "isch"
+	},
+	{
+		"de": "ist es",
 		"gsw": "isches"
 	},
 	{
 		"de": "ist es",
 		"gsw": "isches"
+	},
+	{
+		"de": "ist es",
+		"gsw": "ischs"
+	},
+	{
+		"de": "ist es",
+		"gsw": "ischs"
 	},
 	{
 		"de": "ist es",
@@ -17650,6 +18866,34 @@
 	{
 		"de": "Italien",
 		"gsw": "Italie"
+	},
+	{
+		"de": "ja",
+		"gsw": "ja"
+	},
+	{
+		"de": "ja",
+		"gsw": "ja"
+	},
+	{
+		"de": "ja",
+		"gsw": "ja"
+	},
+	{
+		"de": "ja",
+		"gsw": "ja"
+	},
+	{
+		"de": "ja",
+		"gsw": "ja"
+	},
+	{
+		"de": "ja",
+		"gsw": "ja"
+	},
+	{
+		"de": "ja",
+		"gsw": "ja"
 	},
 	{
 		"de": "ja",
@@ -18736,6 +19980,10 @@
 		"gsw": "jahr"
 	},
 	{
+		"de": "Jahr",
+		"gsw": "jahr"
+	},
+	{
 		"de": "jedem",
 		"gsw": "jedem"
 	},
@@ -19033,6 +20281,10 @@
 	},
 	{
 		"de": "jemand",
+		"gsw": "öpper"
+	},
+	{
+		"de": "jemand",
 		"gsw": "öppert"
 	},
 	{
@@ -19090,6 +20342,14 @@
 	{
 		"de": "jetzt",
 		"gsw": "ez"
+	},
+	{
+		"de": "jetzt",
+		"gsw": "jetzt"
+	},
+	{
+		"de": "jetzt",
+		"gsw": "jetzt"
 	},
 	{
 		"de": "jetzt",
@@ -19384,6 +20644,10 @@
 		"gsw": "chan"
 	},
 	{
+		"de": "kann (ich)",
+		"gsw": "chan"
+	},
+	{
 		"de": "kann es",
 		"gsw": "chans"
 	},
@@ -19416,6 +20680,10 @@
 		"gsw": "chasch"
 	},
 	{
+		"de": "Kapazität",
+		"gsw": "Kapazität"
+	},
+	{
 		"de": "Kapitel",
 		"gsw": "Kapital"
 	},
@@ -19442,6 +20710,14 @@
 	{
 		"de": "Kapitel",
 		"gsw": "kapitel"
+	},
+	{
+		"de": "Kapitel",
+		"gsw": "kapitel"
+	},
+	{
+		"de": "Kapitel",
+		"gsw": "Kapitel"
 	},
 	{
 		"de": "kein",
@@ -19596,6 +20872,10 @@
 		"gsw": "Chischte"
 	},
 	{
+		"de": "Klammeransatz",
+		"gsw": "klammerasatz"
+	},
+	{
 		"de": "klar",
 		"gsw": "klar"
 	},
@@ -19660,8 +20940,8 @@
 		"gsw": "Kombinatorik"
 	},
 	{
-		"de": "komme (ich)",
-		"gsw": "chum"
+		"de": "Kombinatorik",
+		"gsw": "Kombinatorik"
 	},
 	{
 		"de": "komme (ich)",
@@ -19678,6 +20958,14 @@
 	{
 		"de": "komme (ich)",
 		"gsw": "chum"
+	},
+	{
+		"de": "komme (ich)",
+		"gsw": "chum"
+	},
+	{
+		"de": "komme (ich)",
+		"gsw": "chume"
 	},
 	{
 		"de": "komme (ich)",
@@ -19769,6 +21057,22 @@
 	},
 	{
 		"de": "kommt (er/sie/es)",
+		"gsw": "chunnt"
+	},
+	{
+		"de": "kommt (er/sie/es)",
+		"gsw": "chunnt"
+	},
+	{
+		"de": "kommt (er/sie/es)",
+		"gsw": "chunnt"
+	},
+	{
+		"de": "kommt (er/sie/es)",
+		"gsw": "chunt"
+	},
+	{
+		"de": "kommt (er/sie/es)",
 		"gsw": "chunt"
 	},
 	{
@@ -19825,6 +21129,50 @@
 	},
 	{
 		"de": "können",
+		"gsw": "chöne"
+	},
+	{
+		"de": "können",
+		"gsw": "chöne"
+	},
+	{
+		"de": "können",
+		"gsw": "chöne"
+	},
+	{
+		"de": "können",
+		"gsw": "chöne"
+	},
+	{
+		"de": "können",
+		"gsw": "chöne"
+	},
+	{
+		"de": "können",
+		"gsw": "chönne"
+	},
+	{
+		"de": "können",
+		"gsw": "chönne"
+	},
+	{
+		"de": "können",
+		"gsw": "chönne"
+	},
+	{
+		"de": "können",
+		"gsw": "chönne"
+	},
+	{
+		"de": "können",
+		"gsw": "chönne"
+	},
+	{
+		"de": "können",
+		"gsw": "chönne"
+	},
+	{
+		"de": "können",
 		"gsw": "chönne"
 	},
 	{
@@ -19846,6 +21194,14 @@
 	{
 		"de": "können (wir)",
 		"gsw": "cha"
+	},
+	{
+		"de": "können (wir)",
+		"gsw": "chan"
+	},
+	{
+		"de": "können (wir)",
+		"gsw": "chan"
 	},
 	{
 		"de": "können (wir)",
@@ -19942,6 +21298,10 @@
 	{
 		"de": "könnte (er/sie/es)",
 		"gsw": "chönt"
+	},
+	{
+		"de": "könnte (er/sie/es)",
+		"gsw": "chönti"
 	},
 	{
 		"de": "könnte (ich)",
@@ -20042,6 +21402,10 @@
 	{
 		"de": "Konversationen",
 		"gsw": "Konversatione"
+	},
+	{
+		"de": "Konversationen",
+		"gsw": "konversatione"
 	},
 	{
 		"de": "Konzentration",
@@ -20176,6 +21540,10 @@
 		"gsw": "länger"
 	},
 	{
+		"de": "länger",
+		"gsw": "länger"
+	},
+	{
 		"de": "längerer",
 		"gsw": "längere"
 	},
@@ -20240,6 +21608,10 @@
 		"gsw": "Lebe"
 	},
 	{
+		"de": "Lebern",
+		"gsw": "lebere"
+	},
+	{
 		"de": "leer",
 		"gsw": "leer"
 	},
@@ -20254,6 +21626,10 @@
 	{
 		"de": "lege (ich)",
 		"gsw": "leg"
+	},
+	{
+		"de": "Lehrer",
+		"gsw": "lehrer"
 	},
 	{
 		"de": "Lehrern",
@@ -20338,6 +21714,14 @@
 	{
 		"de": "lerne (ich)",
 		"gsw": "lern"
+	},
+	{
+		"de": "lerne (ich)",
+		"gsw": "lern"
+	},
+	{
+		"de": "lernen",
+		"gsw": "lerne"
 	},
 	{
 		"de": "lernen",
@@ -20444,8 +21828,20 @@
 		"gsw": "lernziel"
 	},
 	{
+		"de": "Lernzielen",
+		"gsw": "Lernziel"
+	},
+	{
 		"de": "lese (ich)",
 		"gsw": "lis"
+	},
+	{
+		"de": "lesen",
+		"gsw": "lese"
+	},
+	{
+		"de": "lesen",
+		"gsw": "lese"
 	},
 	{
 		"de": "lesen",
@@ -20644,6 +22040,14 @@
 		"gsw": "löse"
 	},
 	{
+		"de": "lösen",
+		"gsw": "löse"
+	},
+	{
+		"de": "lösen",
+		"gsw": "löse"
+	},
+	{
 		"de": "lösen (wir)",
 		"gsw": "löst"
 	},
@@ -20682,6 +22086,10 @@
 	{
 		"de": "Lösungen",
 		"gsw": "Lösige"
+	},
+	{
+		"de": "Lösungen",
+		"gsw": "lösige"
 	},
 	{
 		"de": "Lösungen",
@@ -20816,6 +22224,10 @@
 		"gsw": "mache"
 	},
 	{
+		"de": "machen",
+		"gsw": "mache"
+	},
+	{
 		"de": "machen (wir)",
 		"gsw": "mache"
 	},
@@ -20858,6 +22270,18 @@
 	{
 		"de": "Magnesiumsulfat",
 		"gsw": "Magnesiumsulfat"
+	},
+	{
+		"de": "mal",
+		"gsw": "amel"
+	},
+	{
+		"de": "mal",
+		"gsw": "amel"
+	},
+	{
+		"de": "mal",
+		"gsw": "mal"
 	},
 	{
 		"de": "mal",
@@ -21036,8 +22460,20 @@
 		"gsw": "mall"
 	},
 	{
+		"de": "mal",
+		"gsw": "mol"
+	},
+	{
 		"de": "Maltose",
 		"gsw": "maltose"
+	},
+	{
+		"de": "man",
+		"gsw": "mer"
+	},
+	{
+		"de": "manchmal",
+		"gsw": "amigs"
 	},
 	{
 		"de": "manchmal",
@@ -21058,6 +22494,10 @@
 	{
 		"de": "manchmal",
 		"gsw": "mengmal"
+	},
+	{
+		"de": "Mann",
+		"gsw": "mann"
 	},
 	{
 		"de": "Mann",
@@ -21224,6 +22664,10 @@
 		"gsw": "meh"
 	},
 	{
+		"de": "mehr",
+		"gsw": "meh"
+	},
+	{
 		"de": "mehrere",
 		"gsw": "mehreri"
 	},
@@ -21248,12 +22692,28 @@
 		"gsw": "mehrsiitigs"
 	},
 	{
+		"de": "mein (M)",
+		"gsw": "min"
+	},
+	{
+		"de": "mein (M)",
+		"gsw": "min"
+	},
+	{
+		"de": "mein (M)",
+		"gsw": "min"
+	},
+	{
 		"de": "mein (N)",
 		"gsw": "mis"
 	},
 	{
 		"de": "mein (N)",
 		"gsw": "mis"
+	},
+	{
+		"de": "meine",
+		"gsw": "mini"
 	},
 	{
 		"de": "meine",
@@ -21278,6 +22738,10 @@
 	{
 		"de": "meine (ich)",
 		"gsw": "main"
+	},
+	{
+		"de": "meine (ich)",
+		"gsw": "mein"
 	},
 	{
 		"de": "meine (ich)",
@@ -21344,8 +22808,8 @@
 		"gsw": "Meter"
 	},
 	{
-		"de": "mich",
-		"gsw": "mich"
+		"de": "Meter",
+		"gsw": "meter"
 	},
 	{
 		"de": "mich",
@@ -21396,7 +22860,19 @@
 		"gsw": "mich"
 	},
 	{
-		"de": "micht",
+		"de": "mich",
+		"gsw": "mich"
+	},
+	{
+		"de": "mich",
+		"gsw": "mich"
+	},
+	{
+		"de": "mich",
+		"gsw": "mich"
+	},
+	{
+		"de": "mich",
 		"gsw": "mich"
 	},
 	{
@@ -21482,6 +22958,26 @@
 	{
 		"de": "mir",
 		"gsw": "mier"
+	},
+	{
+		"de": "mir",
+		"gsw": "mir"
+	},
+	{
+		"de": "mir",
+		"gsw": "mir"
+	},
+	{
+		"de": "mir",
+		"gsw": "mir"
+	},
+	{
+		"de": "mir",
+		"gsw": "mir"
+	},
+	{
+		"de": "mir",
+		"gsw": "mir"
 	},
 	{
 		"de": "mir",
@@ -21736,6 +23232,30 @@
 		"gsw": "mit"
 	},
 	{
+		"de": "mit",
+		"gsw": "mit"
+	},
+	{
+		"de": "mit",
+		"gsw": "mit"
+	},
+	{
+		"de": "mit",
+		"gsw": "mit"
+	},
+	{
+		"de": "mit",
+		"gsw": "mit"
+	},
+	{
+		"de": "mit",
+		"gsw": "mit"
+	},
+	{
+		"de": "mit einem",
+		"gsw": "miteme"
+	},
+	{
 		"de": "mit einem",
 		"gsw": "miteme"
 	},
@@ -21760,8 +23280,16 @@
 		"gsw": "mitneh"
 	},
 	{
-		"de": "Mittag",
-		"gsw": "Mittag"
+		"de": "mitnehmen",
+		"gsw": "mitneh"
+	},
+	{
+		"de": "mitnehmen",
+		"gsw": "mitneh"
+	},
+	{
+		"de": "mitnehmen",
+		"gsw": "mitneh"
 	},
 	{
 		"de": "Mittag",
@@ -21770,6 +23298,14 @@
 	{
 		"de": "Mittag",
 		"gsw": "Mittag"
+	},
+	{
+		"de": "Mittag",
+		"gsw": "Mittag"
+	},
+	{
+		"de": "Mitternachtsformeln",
+		"gsw": "mitternachtsformle"
 	},
 	{
 		"de": "mittleren",
@@ -21834,6 +23370,10 @@
 	{
 		"de": "Mittwoch",
 		"gsw": "Mittwuch"
+	},
+	{
+		"de": "Mittwoch",
+		"gsw": "mittwuch"
 	},
 	{
 		"de": "mitüberkommen",
@@ -21921,6 +23461,10 @@
 	},
 	{
 		"de": "Montag",
+		"gsw": "Mäntig"
+	},
+	{
+		"de": "Montag",
 		"gsw": "Montig"
 	},
 	{
@@ -21938,6 +23482,18 @@
 	{
 		"de": "Morgen",
 		"gsw": "Morge"
+	},
+	{
+		"de": "Morgen",
+		"gsw": "morge"
+	},
+	{
+		"de": "morgen",
+		"gsw": "morn"
+	},
+	{
+		"de": "morgen",
+		"gsw": "morn"
 	},
 	{
 		"de": "morgen",
@@ -22036,6 +23592,14 @@
 		"gsw": "Musig"
 	},
 	{
+		"de": "",
+		"gsw": "muss"
+	},
+	{
+		"de": "",
+		"gsw": "musst"
+	},
+	{
 		"de": "muss (er/sie/es)",
 		"gsw": "mues"
 	},
@@ -22076,10 +23640,6 @@
 		"gsw": "müssi"
 	},
 	{
-		"de": "müssem",
-		"gsw": "müsse"
-	},
-	{
 		"de": "müssen",
 		"gsw": "möse"
 	},
@@ -22100,6 +23660,14 @@
 		"gsw": "müesse"
 	},
 	{
+		"de": "müssen",
+		"gsw": "müsse"
+	},
+	{
+		"de": "müssen",
+		"gsw": "müsse"
+	},
+	{
 		"de": "müssen (sie)",
 		"gsw": "müend"
 	},
@@ -22110,6 +23678,10 @@
 	{
 		"de": "müssen (wir)",
 		"gsw": "mos"
+	},
+	{
+		"de": "müssen (wir)",
+		"gsw": "muen"
 	},
 	{
 		"de": "müssen (wir)",
@@ -22137,6 +23709,10 @@
 	},
 	{
 		"de": "müssen (wir)",
+		"gsw": "müent"
+	},
+	{
+		"de": "müssen (wir)",
 		"gsw": "mues"
 	},
 	{
@@ -22145,7 +23721,31 @@
 	},
 	{
 		"de": "müssen (wir)",
+		"gsw": "münd"
+	},
+	{
+		"de": "müssen (wir)",
 		"gsw": "müsst"
+	},
+	{
+		"de": "müssen wir",
+		"gsw": "memer"
+	},
+	{
+		"de": "müssen wir",
+		"gsw": "mömer"
+	},
+	{
+		"de": "müssen wir",
+		"gsw": "mömer"
+	},
+	{
+		"de": "müssen wir",
+		"gsw": "mömer"
+	},
+	{
+		"de": "müssen wir",
+		"gsw": "mömer"
 	},
 	{
 		"de": "müssen wir",
@@ -22161,6 +23761,22 @@
 	},
 	{
 		"de": "müssen wir",
+		"gsw": "muemer"
+	},
+	{
+		"de": "müssen wir",
+		"gsw": "müemer"
+	},
+	{
+		"de": "müssen wir",
+		"gsw": "müemer"
+	},
+	{
+		"de": "müssen wir",
+		"gsw": "müemer"
+	},
+	{
+		"de": "müssen wir",
 		"gsw": "müemer"
 	},
 	{
@@ -22178,6 +23794,30 @@
 	{
 		"de": "müssen wir",
 		"gsw": "müemer"
+	},
+	{
+		"de": "müssen wir",
+		"gsw": "müemer"
+	},
+	{
+		"de": "müssen wir",
+		"gsw": "müemer"
+	},
+	{
+		"de": "müssen wir",
+		"gsw": "müemer"
+	},
+	{
+		"de": "müssen wir",
+		"gsw": "müemer"
+	},
+	{
+		"de": "müssen wir",
+		"gsw": "müemmer"
+	},
+	{
+		"de": "müssen wir",
+		"gsw": "müemmer"
 	},
 	{
 		"de": "müssen wir",
@@ -22270,6 +23910,10 @@
 	{
 		"de": "müsste es",
 		"gsw": "müesstis"
+	},
+	{
+		"de": "müssten (wir)",
+		"gsw": "mösstet"
 	},
 	{
 		"de": "müssten (wir)",
@@ -22392,6 +24036,10 @@
 		"gsw": "Nachrichte"
 	},
 	{
+		"de": "Nachrichten",
+		"gsw": "nachrichte"
+	},
+	{
 		"de": "nachschauen",
 		"gsw": "nahluege"
 	},
@@ -22437,6 +24085,10 @@
 	},
 	{
 		"de": "nächstes",
+		"gsw": "nächscht"
+	},
+	{
+		"de": "nächstes",
 		"gsw": "nöchscht"
 	},
 	{
@@ -22460,8 +24112,16 @@
 		"gsw": "nämlich"
 	},
 	{
+		"de": "nano",
+		"gsw": "nano"
+	},
+	{
 		"de": "Nationalstaate",
 		"gsw": "Nationalstaate"
+	},
+	{
+		"de": "natürlich",
+		"gsw": "natürlich"
 	},
 	{
 		"de": "natürlich",
@@ -22605,6 +24265,118 @@
 	},
 	{
 		"de": "nein",
+		"gsw": "nei"
+	},
+	{
+		"de": "nein",
+		"gsw": "nei"
+	},
+	{
+		"de": "nein",
+		"gsw": "nei"
+	},
+	{
+		"de": "nein",
+		"gsw": "nei"
+	},
+	{
+		"de": "nein",
+		"gsw": "nei"
+	},
+	{
+		"de": "nein",
+		"gsw": "nei"
+	},
+	{
+		"de": "nein",
+		"gsw": "nei"
+	},
+	{
+		"de": "nein",
+		"gsw": "nei"
+	},
+	{
+		"de": "nein",
+		"gsw": "nei"
+	},
+	{
+		"de": "nein",
+		"gsw": "nei"
+	},
+	{
+		"de": "nein",
+		"gsw": "nei"
+	},
+	{
+		"de": "nein",
+		"gsw": "nei"
+	},
+	{
+		"de": "nein",
+		"gsw": "nei"
+	},
+	{
+		"de": "nein",
+		"gsw": "nei"
+	},
+	{
+		"de": "nein",
+		"gsw": "nei"
+	},
+	{
+		"de": "nein",
+		"gsw": "nei"
+	},
+	{
+		"de": "nein",
+		"gsw": "nei"
+	},
+	{
+		"de": "nein",
+		"gsw": "nei"
+	},
+	{
+		"de": "nein",
+		"gsw": "nei"
+	},
+	{
+		"de": "nein",
+		"gsw": "nei"
+	},
+	{
+		"de": "nein",
+		"gsw": "nei"
+	},
+	{
+		"de": "nein",
+		"gsw": "nei"
+	},
+	{
+		"de": "nein",
+		"gsw": "nei"
+	},
+	{
+		"de": "nein",
+		"gsw": "nei"
+	},
+	{
+		"de": "nein",
+		"gsw": "nei"
+	},
+	{
+		"de": "nein",
+		"gsw": "nei"
+	},
+	{
+		"de": "nein",
+		"gsw": "nei"
+	},
+	{
+		"de": "nein",
+		"gsw": "nei"
+	},
+	{
+		"de": "nein",
 		"gsw": "nein"
 	},
 	{
@@ -22628,8 +24400,16 @@
 		"gsw": "nenn"
 	},
 	{
+		"de": "nennt (er/sie/es)",
+		"gsw": "nennt"
+	},
+	{
 		"de": "neue",
 		"gsw": "neu"
+	},
+	{
+		"de": "neue",
+		"gsw": "neue"
 	},
 	{
 		"de": "neue",
@@ -22646,6 +24426,10 @@
 	{
 		"de": "neuen",
 		"gsw": "neue"
+	},
+	{
+		"de": "neuen",
+		"gsw": "noie"
 	},
 	{
 		"de": "neuen",
@@ -22678,6 +24462,14 @@
 	{
 		"de": "neues",
 		"gsw": "neus"
+	},
+	{
+		"de": "neues",
+		"gsw": "neus"
+	},
+	{
+		"de": "",
+		"gsw": "nicht"
 	},
 	{
 		"de": "neues",
@@ -22778,6 +24570,126 @@
 	{
 		"de": "nicht",
 		"gsw": "nid"
+	},
+	{
+		"de": "nicht",
+		"gsw": "nid"
+	},
+	{
+		"de": "nicht",
+		"gsw": "nid"
+	},
+	{
+		"de": "nicht",
+		"gsw": "nöd"
+	},
+	{
+		"de": "nicht",
+		"gsw": "nöd"
+	},
+	{
+		"de": "nicht",
+		"gsw": "nöd"
+	},
+	{
+		"de": "nicht",
+		"gsw": "nöd"
+	},
+	{
+		"de": "nicht",
+		"gsw": "nöd"
+	},
+	{
+		"de": "nicht",
+		"gsw": "nöd"
+	},
+	{
+		"de": "nicht",
+		"gsw": "nöd"
+	},
+	{
+		"de": "nicht",
+		"gsw": "nöd"
+	},
+	{
+		"de": "nicht",
+		"gsw": "nöd"
+	},
+	{
+		"de": "nicht",
+		"gsw": "nöd"
+	},
+	{
+		"de": "nicht",
+		"gsw": "nöd"
+	},
+	{
+		"de": "nicht",
+		"gsw": "nöd"
+	},
+	{
+		"de": "nicht",
+		"gsw": "nöd"
+	},
+	{
+		"de": "nicht",
+		"gsw": "nöd"
+	},
+	{
+		"de": "nicht",
+		"gsw": "nöd"
+	},
+	{
+		"de": "nicht",
+		"gsw": "nöd"
+	},
+	{
+		"de": "nicht",
+		"gsw": "nöd"
+	},
+	{
+		"de": "nicht",
+		"gsw": "nöd"
+	},
+	{
+		"de": "nicht",
+		"gsw": "nöd"
+	},
+	{
+		"de": "nicht",
+		"gsw": "nöd"
+	},
+	{
+		"de": "nicht",
+		"gsw": "nöd"
+	},
+	{
+		"de": "nicht",
+		"gsw": "nöd"
+	},
+	{
+		"de": "nicht",
+		"gsw": "nöd"
+	},
+	{
+		"de": "nicht",
+		"gsw": "nöd"
+	},
+	{
+		"de": "nicht",
+		"gsw": "nöd"
+	},
+	{
+		"de": "nicht",
+		"gsw": "nöd"
+	},
+	{
+		"de": "nicht",
+		"gsw": "nöd"
+	},
+	{
+		"de": "nicht",
+		"gsw": "nöd"
 	},
 	{
 		"de": "nicht",
@@ -23524,6 +25436,22 @@
 		"gsw": "nüt"
 	},
 	{
+		"de": "nichts",
+		"gsw": "nüt"
+	},
+	{
+		"de": "nichts",
+		"gsw": "nüt"
+	},
+	{
+		"de": "nie",
+		"gsw": "nie"
+	},
+	{
+		"de": "nie",
+		"gsw": "nie"
+	},
+	{
 		"de": "nie",
 		"gsw": "nie"
 	},
@@ -23568,6 +25496,10 @@
 		"gsw": "niemert"
 	},
 	{
+		"de": "nimm",
+		"gsw": "nimm"
+	},
+	{
 		"de": "nimmt (er/sie/es)",
 		"gsw": "nimmt"
 	},
@@ -23576,8 +25508,8 @@
 		"gsw": "nienets"
 	},
 	{
-		"de": "noch",
-		"gsw": "na"
+		"de": "nirgendwo",
+		"gsw": "nirgendwo"
 	},
 	{
 		"de": "noch",
@@ -23589,7 +25521,7 @@
 	},
 	{
 		"de": "noch",
-		"gsw": "no"
+		"gsw": "na"
 	},
 	{
 		"de": "noch",
@@ -23838,6 +25770,30 @@
 	{
 		"de": "noch",
 		"gsw": "no"
+	},
+	{
+		"de": "noch",
+		"gsw": "no"
+	},
+	{
+		"de": "noch",
+		"gsw": "no"
+	},
+	{
+		"de": "noch",
+		"gsw": "no"
+	},
+	{
+		"de": "noch",
+		"gsw": "no"
+	},
+	{
+		"de": "noch",
+		"gsw": "no"
+	},
+	{
+		"de": "noch nicht",
+		"gsw": "nonig"
 	},
 	{
 		"de": "noch nicht",
@@ -23878,6 +25834,14 @@
 	{
 		"de": "noch nichts",
 		"gsw": "nonig"
+	},
+	{
+		"de": "noch nichts",
+		"gsw": "nonig"
+	},
+	{
+		"de": "nochmal",
+		"gsw": "nomal"
 	},
 	{
 		"de": "nochmal",
@@ -23922,6 +25886,10 @@
 	{
 		"de": "Note",
 		"gsw": "Note"
+	},
+	{
+		"de": "Notendiktat",
+		"gsw": "notediktat"
 	},
 	{
 		"de": "Notfall",
@@ -23977,6 +25945,14 @@
 	},
 	{
 		"de": "nur",
+		"gsw": "nume"
+	},
+	{
+		"de": "nur",
+		"gsw": "nume"
+	},
+	{
+		"de": "nur",
 		"gsw": "nüme"
 	},
 	{
@@ -24005,7 +25981,7 @@
 	},
 	{
 		"de": "nur",
-		"gsw": "nur"
+		"gsw": "numme"
 	},
 	{
 		"de": "nur",
@@ -24077,6 +26053,50 @@
 	},
 	{
 		"de": "nur",
+		"gsw": "nur"
+	},
+	{
+		"de": "nur",
+		"gsw": "nur"
+	},
+	{
+		"de": "nur",
+		"gsw": "nur"
+	},
+	{
+		"de": "nur",
+		"gsw": "nur"
+	},
+	{
+		"de": "nur",
+		"gsw": "nur"
+	},
+	{
+		"de": "nur",
+		"gsw": "nur"
+	},
+	{
+		"de": "nur",
+		"gsw": "nur"
+	},
+	{
+		"de": "nur",
+		"gsw": "nur"
+	},
+	{
+		"de": "nur",
+		"gsw": "nur"
+	},
+	{
+		"de": "nur",
+		"gsw": "nur"
+	},
+	{
+		"de": "nur",
+		"gsw": "nur"
+	},
+	{
+		"de": "",
 		"gsw": "nur"
 	},
 	{
@@ -24125,6 +26145,10 @@
 	},
 	{
 		"de": "ob",
+		"gsw": "ob"
+	},
+	{
+		"de": "ob",
 		"gsw": "öb"
 	},
 	{
@@ -24162,6 +26186,62 @@
 	{
 		"de": "oben",
 		"gsw": "obe"
+	},
+	{
+		"de": "oder",
+		"gsw": "oder"
+	},
+	{
+		"de": "oder",
+		"gsw": "oder"
+	},
+	{
+		"de": "oder",
+		"gsw": "oder"
+	},
+	{
+		"de": "oder",
+		"gsw": "oder"
+	},
+	{
+		"de": "oder",
+		"gsw": "oder"
+	},
+	{
+		"de": "oder",
+		"gsw": "oder"
+	},
+	{
+		"de": "oder",
+		"gsw": "oder"
+	},
+	{
+		"de": "oder",
+		"gsw": "oder"
+	},
+	{
+		"de": "oder",
+		"gsw": "oder"
+	},
+	{
+		"de": "oder",
+		"gsw": "oder"
+	},
+	{
+		"de": "oder",
+		"gsw": "oder"
+	},
+	{
+		"de": "oder",
+		"gsw": "oder"
+	},
+	{
+		"de": "oder",
+		"gsw": "oder"
+	},
+	{
+		"de": "oder",
+		"gsw": "oder"
 	},
 	{
 		"de": "oder",
@@ -24673,6 +26753,10 @@
 	},
 	{
 		"de": "okay",
+		"gsw": "okay"
+	},
+	{
+		"de": "okay",
 		"gsw": "oke"
 	},
 	{
@@ -25132,16 +27216,24 @@
 		"gsw": "physik"
 	},
 	{
+		"de": "Physik",
+		"gsw": "Physik"
+	},
+	{
+		"de": "Physik",
+		"gsw": "physik"
+	},
+	{
+		"de": "Physik",
+		"gsw": "physik"
+	},
+	{
 		"de": "Physikprobleme",
 		"gsw": "physikproblem"
 	},
 	{
 		"de": "Physikzusammenfassung",
 		"gsw": "Physikzemefassig"
-	},
-	{
-		"de": "Physk",
-		"gsw": "Physik"
 	},
 	{
 		"de": "Pi",
@@ -25192,6 +27284,10 @@
 		"gsw": "Praktikum"
 	},
 	{
+		"de": "Praktikum",
+		"gsw": "praktikum"
+	},
+	{
 		"de": "Präsentation",
 		"gsw": "Präsentation"
 	},
@@ -25226,6 +27322,10 @@
 	{
 		"de": "Produkt",
 		"gsw": "Produkt"
+	},
+	{
+		"de": "Projekt",
+		"gsw": "projekt"
 	},
 	{
 		"de": "Pronomen",
@@ -25372,8 +27472,16 @@
 		"gsw": "quadriere"
 	},
 	{
+		"de": "",
+		"gsw": "Quarantäne"
+	},
+	{
 		"de": "Rand",
 		"gsw": "rand"
+	},
+	{
+		"de": "Rätsel",
+		"gsw": "Rätsel"
 	},
 	{
 		"de": "reagieren",
@@ -25496,12 +27604,20 @@
 		"gsw": "Repetition"
 	},
 	{
+		"de": "repetitiv",
+		"gsw": "repetitiv"
+	},
+	{
 		"de": "rethorische",
 		"gsw": "rethorischi"
 	},
 	{
 		"de": "Retikulum",
 		"gsw": "Retikulum"
+	},
+	{
+		"de": "rettet (er/sie/es)",
+		"gsw": "rettet"
 	},
 	{
 		"de": "Rezept",
@@ -25540,6 +27656,10 @@
 		"gsw": "römische"
 	},
 	{
+		"de": "rote",
+		"gsw": "roti"
+	},
+	{
 		"de": "ruhig",
 		"gsw": "ruhig"
 	},
@@ -25548,12 +27668,20 @@
 		"gsw": "abescrolle"
 	},
 	{
+		"de": "Russisch",
+		"gsw": "russisch"
+	},
+	{
 		"de": "Rutschbahn",
 		"gsw": "Rutschbahn"
 	},
 	{
 		"de": "safe",
 		"gsw": "safe"
+	},
+	{
+		"de": "sage (ich)",
+		"gsw": "säg"
 	},
 	{
 		"de": "sagen",
@@ -25618,6 +27746,10 @@
 	{
 		"de": "Satz",
 		"gsw": "Satz"
+	},
+	{
+		"de": "Sätze",
+		"gsw": "sätz"
 	},
 	{
 		"de": "Sätzen",
@@ -25904,6 +28036,10 @@
 		"gsw": "schiebed"
 	},
 	{
+		"de": "schieben (wir)",
+		"gsw": "schiebed"
+	},
+	{
 		"de": "schlafen",
 		"gsw": "schlafe"
 	},
@@ -25954,6 +28090,14 @@
 	{
 		"de": "Schnitt",
 		"gsw": "Schnitt"
+	},
+	{
+		"de": "schon",
+		"gsw": "scho"
+	},
+	{
+		"de": "schon",
+		"gsw": "scho"
 	},
 	{
 		"de": "schon",
@@ -26357,6 +28501,14 @@
 	},
 	{
 		"de": "Schule",
+		"gsw": "schuel"
+	},
+	{
+		"de": "Schule",
+		"gsw": "schuel"
+	},
+	{
+		"de": "Schule",
 		"gsw": "Schule"
 	},
 	{
@@ -26561,6 +28713,18 @@
 	},
 	{
 		"de": "Seite",
+		"gsw": "Siite"
+	},
+	{
+		"de": "Seite",
+		"gsw": "siite"
+	},
+	{
+		"de": "Seite",
+		"gsw": "siite"
+	},
+	{
+		"de": "Seite",
 		"gsw": "Site"
 	},
 	{
@@ -26644,6 +28808,10 @@
 		"gsw": "Semester"
 	},
 	{
+		"de": "Semester",
+		"gsw": "Semester"
+	},
+	{
 		"de": "senkrecht",
 		"gsw": "senkrecht"
 	},
@@ -26706,6 +28874,14 @@
 	{
 		"de": "sich",
 		"gsw": "sich"
+	},
+	{
+		"de": "sicher",
+		"gsw": "sicher"
+	},
+	{
+		"de": "sicher",
+		"gsw": "sicher"
 	},
 	{
 		"de": "sicher",
@@ -26873,7 +29049,27 @@
 	},
 	{
 		"de": "sie",
+		"gsw": "sie"
+	},
+	{
+		"de": "sie",
+		"gsw": "sie"
+	},
+	{
+		"de": "sie",
+		"gsw": "sie"
+	},
+	{
+		"de": "sie",
+		"gsw": "sie"
+	},
+	{
+		"de": "sie",
 		"gsw": "sii"
+	},
+	{
+		"de": "Siegelung",
+		"gsw": "Sieglig"
 	},
 	{
 		"de": "siehst (du)",
@@ -26882,6 +29078,10 @@
 	{
 		"de": "sieht (er/sie/es)",
 		"gsw": "gseht"
+	},
+	{
+		"de": "sieht aus (er/sie/es)",
+		"gsw": "usgseht"
 	},
 	{
 		"de": "sieht aus (er/sie/es)",
@@ -26964,6 +29164,22 @@
 		"gsw": "sind"
 	},
 	{
+		"de": "sind (sie)",
+		"gsw": "sind"
+	},
+	{
+		"de": "sind (wir)",
+		"gsw": "sind"
+	},
+	{
+		"de": "sind (wir)",
+		"gsw": "sind"
+	},
+	{
+		"de": "sind (wir)",
+		"gsw": "sind"
+	},
+	{
 		"de": "sind (wir)",
 		"gsw": "sind"
 	},
@@ -26986,6 +29202,10 @@
 	{
 		"de": "Sinn",
 		"gsw": "Sinn"
+	},
+	{
+		"de": "Sinn",
+		"gsw": "sinn"
 	},
 	{
 		"de": "Skilager",
@@ -27000,6 +29220,10 @@
 		"gsw": "Skizze"
 	},
 	{
+		"de": "Skizze",
+		"gsw": "skizze"
+	},
+	{
 		"de": "Skript",
 		"gsw": "Skribt"
 	},
@@ -27012,12 +29236,48 @@
 		"gsw": "Skript"
 	},
 	{
+		"de": "Skript",
+		"gsw": "skript"
+	},
+	{
+		"de": "Skript",
+		"gsw": "Skript"
+	},
+	{
 		"de": "so",
 		"gsw": "eso"
 	},
 	{
 		"de": "so",
 		"gsw": "eso"
+	},
+	{
+		"de": "so",
+		"gsw": "so"
+	},
+	{
+		"de": "so",
+		"gsw": "so"
+	},
+	{
+		"de": "so",
+		"gsw": "so"
+	},
+	{
+		"de": "so",
+		"gsw": "so"
+	},
+	{
+		"de": "so",
+		"gsw": "so"
+	},
+	{
+		"de": "so",
+		"gsw": "so"
+	},
+	{
+		"de": "so",
+		"gsw": "so"
 	},
 	{
 		"de": "so",
@@ -27288,6 +29548,14 @@
 		"gsw": "sött"
 	},
 	{
+		"de": "soll (er/sie/es)",
+		"gsw": "sött"
+	},
+	{
+		"de": "sollen",
+		"gsw": "sölle"
+	},
+	{
 		"de": "sollen",
 		"gsw": "sölle"
 	},
@@ -27448,6 +29716,10 @@
 		"gsw": "Spanisch"
 	},
 	{
+		"de": "Spass",
+		"gsw": "Spass"
+	},
+	{
 		"de": "spät",
 		"gsw": "spaat"
 	},
@@ -27510,6 +29782,10 @@
 	{
 		"de": "steht (er/sie/es)",
 		"gsw": "stah"
+	},
+	{
+		"de": "steht (er/sie/es)",
+		"gsw": "staht"
 	},
 	{
 		"de": "steht (er/sie/es)",
@@ -27628,6 +29904,18 @@
 		"gsw": "stimmt"
 	},
 	{
+		"de": "stimmt (er/sie/es)",
+		"gsw": "stimmt"
+	},
+	{
+		"de": "stimmt (er/sie/es)",
+		"gsw": "stimmt"
+	},
+	{
+		"de": "stimmt (er/sie/es)",
+		"gsw": "stimmt"
+	},
+	{
 		"de": "Stoff",
 		"gsw": "Stoff"
 	},
@@ -27650,6 +29938,10 @@
 	{
 		"de": "Stress",
 		"gsw": "Stress"
+	},
+	{
+		"de": "Struktur",
+		"gsw": "struktur"
 	},
 	{
 		"de": "Stunde",
@@ -27696,6 +29988,10 @@
 		"gsw": "super"
 	},
 	{
+		"de": "System",
+		"gsw": "system"
+	},
+	{
 		"de": "Tabelle",
 		"gsw": "Tabelle"
 	},
@@ -27736,6 +30032,22 @@
 		"gsw": "Tascherechner"
 	},
 	{
+		"de": "Taschenrechner",
+		"gsw": "tascherechner"
+	},
+	{
+		"de": "Taschenrechner",
+		"gsw": "tascherechner"
+	},
+	{
+		"de": "tatsächlich",
+		"gsw": "tatsächlich"
+	},
+	{
+		"de": "Teil",
+		"gsw": "teil"
+	},
+	{
 		"de": "Teile",
 		"gsw": "Teili"
 	},
@@ -27758,6 +30070,10 @@
 	{
 		"de": "Test",
 		"gsw": "Test"
+	},
+	{
+		"de": "",
+		"gsw": "test"
 	},
 	{
 		"de": "testen",
@@ -27830,6 +30146,10 @@
 	{
 		"de": "tiefer",
 		"gsw": "tüfer"
+	},
+	{
+		"de": "Tier",
+		"gsw": "tier"
 	},
 	{
 		"de": "Tierkopf",
@@ -27948,6 +30268,10 @@
 		"gsw": "übrigens"
 	},
 	{
+		"de": "übrigens",
+		"gsw": "übrigens"
+	},
+	{
 		"de": "Übungen",
 		"gsw": "Übungen"
 	},
@@ -27986,6 +30310,14 @@
 	{
 		"de": "Umgebung",
 		"gsw": "Umgebig"
+	},
+	{
+		"de": "umrechnen",
+		"gsw": "umrechne"
+	},
+	{
+		"de": "umrechnen",
+		"gsw": "umrechne"
 	},
 	{
 		"de": "umrechnen",
@@ -28540,6 +30872,30 @@
 		"gsw": "und"
 	},
 	{
+		"de": "und",
+		"gsw": "und"
+	},
+	{
+		"de": "und",
+		"gsw": "und"
+	},
+	{
+		"de": "und",
+		"gsw": "und"
+	},
+	{
+		"de": "und",
+		"gsw": "und"
+	},
+	{
+		"de": "und",
+		"gsw": "und"
+	},
+	{
+		"de": "und",
+		"gsw": "und"
+	},
+	{
 		"de": "unendlich",
 		"gsw": "unendlich"
 	},
@@ -28592,6 +30948,10 @@
 		"gsw": "üs"
 	},
 	{
+		"de": "uns",
+		"gsw": "üs"
+	},
+	{
 		"de": "unsere",
 		"gsw": "euse"
 	},
@@ -28602,6 +30962,10 @@
 	{
 		"de": "unsere",
 		"gsw": "oisi"
+	},
+	{
+		"de": "unten",
+		"gsw": "unde"
 	},
 	{
 		"de": "unten",
@@ -28634,6 +30998,10 @@
 	{
 		"de": "USA",
 		"gsw": "USA"
+	},
+	{
+		"de": "Vater",
+		"gsw": "Vater"
 	},
 	{
 		"de": "verantwortungsvoll",
@@ -28724,6 +31092,10 @@
 		"gsw": "verschiebt"
 	},
 	{
+		"de": "verschoben",
+		"gsw": "verschobe"
+	},
+	{
 		"de": "Version",
 		"gsw": "Version"
 	},
@@ -28734,6 +31106,10 @@
 	{
 		"de": "Verspätung",
 		"gsw": "Verspötig"
+	},
+	{
+		"de": "Verspätung",
+		"gsw": "verspötig"
 	},
 	{
 		"de": "versprochen",
@@ -28772,12 +31148,20 @@
 		"gsw": "verteilt"
 	},
 	{
+		"de": "Vertiefungswoche",
+		"gsw": "Vertüfigswuche"
+	},
+	{
 		"de": "vertippt",
 		"gsw": "vertippt"
 	},
 	{
 		"de": "Vertrauen",
 		"gsw": "Vertraue"
+	},
+	{
+		"de": "verwenden",
+		"gsw": "bruche"
 	},
 	{
 		"de": "verwirrend",
@@ -28853,7 +31237,7 @@
 	},
 	{
 		"de": "viel",
-		"gsw": "vill"
+		"gsw": "vil"
 	},
 	{
 		"de": "viel",
@@ -28866,6 +31250,22 @@
 	{
 		"de": "viel",
 		"gsw": "vill"
+	},
+	{
+		"de": "viel",
+		"gsw": "vill"
+	},
+	{
+		"de": "viel",
+		"gsw": "vill"
+	},
+	{
+		"de": "vielleicht",
+		"gsw": "viellicht"
+	},
+	{
+		"de": "vielleicht",
+		"gsw": "viellicht"
 	},
 	{
 		"de": "vielleicht",
@@ -28914,6 +31314,10 @@
 	{
 		"de": "vielmals",
 		"gsw": "vielmals"
+	},
+	{
+		"de": "vielmals",
+		"gsw": "vilmal"
 	},
 	{
 		"de": "vier",
@@ -28966,6 +31370,14 @@
 	{
 		"de": "Vokabeln",
 		"gsw": "voci"
+	},
+	{
+		"de": "Vokabeln",
+		"gsw": "voci"
+	},
+	{
+		"de": "Vokabeltest",
+		"gsw": "Vocitesch"
 	},
 	{
 		"de": "voll",
@@ -29022,6 +31434,14 @@
 	{
 		"de": "vom",
 		"gsw": "vo"
+	},
+	{
+		"de": "vom",
+		"gsw": "vom"
+	},
+	{
+		"de": "vom",
+		"gsw": "vom"
 	},
 	{
 		"de": "vom",
@@ -29317,6 +31737,10 @@
 	},
 	{
 		"de": "vor",
+		"gsw": "vo"
+	},
+	{
+		"de": "vor",
 		"gsw": "vor"
 	},
 	{
@@ -29380,6 +31804,10 @@
 		"gsw": "vortrag"
 	},
 	{
+		"de": "Vortrag",
+		"gsw": "Vortrag"
+	},
+	{
 		"de": "Vortritt",
 		"gsw": "Vortritt"
 	},
@@ -29414,6 +31842,14 @@
 	{
 		"de": "Wahrscheinlichkeit",
 		"gsw": "Wahrschindlichkeit"
+	},
+	{
+		"de": "Wahrscheinlichkeit",
+		"gsw": "Wahrschinlichkeit"
+	},
+	{
+		"de": "Wahrscheinlichkeit",
+		"gsw": "Wahrschinlichkeit"
 	},
 	{
 		"de": "Wandtafel",
@@ -29477,6 +31913,10 @@
 	},
 	{
 		"de": "wäre",
+		"gsw": "wär"
+	},
+	{
+		"de": "wäre (er/sie/es)",
 		"gsw": "wär"
 	},
 	{
@@ -29654,6 +32094,10 @@
 	{
 		"de": "warum",
 		"gsw": "warum"
+	},
+	{
+		"de": "was",
+		"gsw": "was"
 	},
 	{
 		"de": "was",
@@ -29929,6 +32373,18 @@
 	},
 	{
 		"de": "weil",
+		"gsw": "wil"
+	},
+	{
+		"de": "weil",
+		"gsw": "wil"
+	},
+	{
+		"de": "weil",
+		"gsw": "wil"
+	},
+	{
+		"de": "weil",
 		"gsw": "will"
 	},
 	{
@@ -30036,7 +32492,15 @@
 		"gsw": "wils"
 	},
 	{
+		"de": "weil es",
+		"gsw": "wils"
+	},
+	{
 		"de": "weiss",
+		"gsw": "weiss"
+	},
+	{
+		"de": "weiss (er/sie/es)",
 		"gsw": "weiss"
 	},
 	{
@@ -30160,6 +32624,10 @@
 		"gsw": "wiiter"
 	},
 	{
+		"de": "weiter",
+		"gsw": "witer"
+	},
+	{
 		"de": "welche",
 		"gsw": "Wele"
 	},
@@ -30244,6 +32712,14 @@
 		"gsw": "wenigstens"
 	},
 	{
+		"de": "wenigstens",
+		"gsw": "wenigstens"
+	},
+	{
+		"de": "wenn",
+		"gsw": "wänn"
+	},
+	{
 		"de": "wenn",
 		"gsw": "wänn"
 	},
@@ -30254,6 +32730,10 @@
 	{
 		"de": "wenn",
 		"gsw": "wänn"
+	},
+	{
+		"de": "wenn",
+		"gsw": "wenn"
 	},
 	{
 		"de": "wenn",
@@ -30428,6 +32908,10 @@
 		"gsw": "wos"
 	},
 	{
+		"de": "werde (ich)",
+		"gsw": "wird"
+	},
+	{
 		"de": "werden",
 		"gsw": "werde"
 	},
@@ -30492,6 +32976,10 @@
 		"gsw": "wichtig"
 	},
 	{
+		"de": "wichtig",
+		"gsw": "wichtig"
+	},
+	{
 		"de": "wichtige",
 		"gsw": "wichtigi"
 	},
@@ -30514,6 +33002,22 @@
 	{
 		"de": "wie",
 		"gsw": "wiä"
+	},
+	{
+		"de": "wie",
+		"gsw": "wiä"
+	},
+	{
+		"de": "wie",
+		"gsw": "wie"
+	},
+	{
+		"de": "wie",
+		"gsw": "wie"
+	},
+	{
+		"de": "wie",
+		"gsw": "wie"
 	},
 	{
 		"de": "wie",
@@ -30674,6 +33178,10 @@
 	{
 		"de": "wild",
 		"gsw": "wild"
+	},
+	{
+		"de": "wilden",
+		"gsw": "wilde"
 	},
 	{
 		"de": "will (er/sie/es)",
@@ -30889,7 +33397,35 @@
 	},
 	{
 		"de": "wir",
-		"gsw": "mier"
+		"gsw": "mer"
+	},
+	{
+		"de": "wir",
+		"gsw": "mer"
+	},
+	{
+		"de": "wir",
+		"gsw": "mer"
+	},
+	{
+		"de": "wir",
+		"gsw": "mer"
+	},
+	{
+		"de": "wir",
+		"gsw": "mer"
+	},
+	{
+		"de": "wir",
+		"gsw": "mer"
+	},
+	{
+		"de": "wir",
+		"gsw": "mer"
+	},
+	{
+		"de": "wir",
+		"gsw": "mer"
 	},
 	{
 		"de": "wir",
@@ -30905,7 +33441,7 @@
 	},
 	{
 		"de": "wir",
-		"gsw": "mir"
+		"gsw": "mier"
 	},
 	{
 		"de": "wir",
@@ -31122,6 +33658,54 @@
 	{
 		"de": "wir",
 		"gsw": "mir"
+	},
+	{
+		"de": "wir",
+		"gsw": "mir"
+	},
+	{
+		"de": "wir",
+		"gsw": "mir"
+	},
+	{
+		"de": "wir",
+		"gsw": "mir"
+	},
+	{
+		"de": "wir",
+		"gsw": "mir"
+	},
+	{
+		"de": "wir",
+		"gsw": "mir"
+	},
+	{
+		"de": "wir",
+		"gsw": "mir"
+	},
+	{
+		"de": "wir",
+		"gsw": "mir"
+	},
+	{
+		"de": "wir",
+		"gsw": "mir"
+	},
+	{
+		"de": "wir",
+		"gsw": "mir"
+	},
+	{
+		"de": "wir",
+		"gsw": "mir"
+	},
+	{
+		"de": "wir",
+		"gsw": "mir"
+	},
+	{
+		"de": "wir",
+		"gsw": "mr"
 	},
 	{
 		"de": "wir",
@@ -31204,7 +33788,7 @@
 		"gsw": "wird"
 	},
 	{
-		"de": "wird (ich)",
+		"de": "wird (es/sie/es)",
 		"gsw": "wird"
 	},
 	{
@@ -31248,6 +33832,14 @@
 		"gsw": "würklich"
 	},
 	{
+		"de": "Wirtschaft",
+		"gsw": "Wirtschaft"
+	},
+	{
+		"de": "wissen",
+		"gsw": "wüsse"
+	},
+	{
 		"de": "wissen",
 		"gsw": "wüsse"
 	},
@@ -31258,6 +33850,18 @@
 	{
 		"de": "wissen (wir)",
 		"gsw": "weiss"
+	},
+	{
+		"de": "wissen es (wir)",
+		"gsw": "wüsseds"
+	},
+	{
+		"de": "wo",
+		"gsw": "wo"
+	},
+	{
+		"de": "wo",
+		"gsw": "wo"
 	},
 	{
 		"de": "wo",
@@ -31372,8 +33976,16 @@
 		"gsw": "wuche"
 	},
 	{
+		"de": "Woche",
+		"gsw": "Wuche"
+	},
+	{
 		"de": "Wochen",
 		"gsw": "Wuche"
+	},
+	{
+		"de": "Wochen",
+		"gsw": "wuche"
 	},
 	{
 		"de": "Wochenende",
@@ -31402,6 +34014,10 @@
 	{
 		"de": "wollen (wir)",
 		"gsw": "wend"
+	},
+	{
+		"de": "wollen (wir)",
+		"gsw": "wet"
 	},
 	{
 		"de": "wollen wir",
@@ -31462,6 +34078,10 @@
 	{
 		"de": "würde (er/sie/es)",
 		"gsw": "würd"
+	},
+	{
+		"de": "würde (er/sie/es)",
+		"gsw": "würdi"
 	},
 	{
 		"de": "würde (ich)",
@@ -31564,6 +34184,10 @@
 		"gsw": "zelled"
 	},
 	{
+		"de": "Zahlenfolgen",
+		"gsw": "zahlefolge"
+	},
+	{
 		"de": "zählt (er/sie/es)",
 		"gsw": "zahlt"
 	},
@@ -31578,6 +34202,10 @@
 	{
 		"de": "zeichnen",
 		"gsw": "zeichne"
+	},
+	{
+		"de": "Zeichnungen",
+		"gsw": "zeichnige"
 	},
 	{
 		"de": "zeigen",
@@ -31724,6 +34352,10 @@
 		"gsw": "zu"
 	},
 	{
+		"de": "zu",
+		"gsw": "zu"
+	},
+	{
 		"de": "zu den",
 		"gsw": "zude"
 	},
@@ -31820,12 +34452,24 @@
 		"gsw": "Zug"
 	},
 	{
+		"de": "Zug",
+		"gsw": "zug"
+	},
+	{
 		"de": "Zugabe",
 		"gsw": "Zugabe"
 	},
 	{
 		"de": "zugemüllt (er/sie/es)",
 		"gsw": "zuemüllt"
+	},
+	{
+		"de": "zum",
+		"gsw": "zum"
+	},
+	{
+		"de": "zum",
+		"gsw": "zum"
 	},
 	{
 		"de": "zum",
@@ -31936,6 +34580,10 @@
 		"gsw": "Zemmefassig"
 	},
 	{
+		"de": "Zusammenfassung",
+		"gsw": "zemmefassig"
+	},
+	{
 		"de": "Zusammenfassungen",
 		"gsw": "Zämefassige"
 	},
@@ -31946,6 +34594,10 @@
 	{
 		"de": "Zusammenfassungen",
 		"gsw": "zemefassige"
+	},
+	{
+		"de": "Zusammenhang",
+		"gsw": "Zemmehang"
 	},
 	{
 		"de": "zusätzliche",
@@ -31974,6 +34626,10 @@
 	{
 		"de": "zwar",
 		"gsw": "zwar"
+	},
+	{
+		"de": "zwei",
+		"gsw": "zwei"
 	},
 	{
 		"de": "zwei",

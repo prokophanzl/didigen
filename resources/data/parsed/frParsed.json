@@ -1,0 +1,3675 @@
+[
+	{
+		"de": "abartiges",
+		"translations": [
+			{
+				"gsw": "appártege",
+				"count": 1
+			},
+			{
+				"gsw": "appartegs",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "aber",
+		"translations": [
+			{
+				"gsw": "aber",
+				"count": 3
+			}
+		]
+	},
+	{
+		"de": "Abgrenzung",
+		"translations": [
+			{
+				"gsw": "abgrenzeg",
+				"count": 2
+			}
+		]
+	},
+	{
+		"de": "Abländschen",
+		"translations": [
+			{
+				"gsw": "ààflensche",
+				"count": 1
+			},
+			{
+				"gsw": "òòflensche",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "alle",
+		"translations": [
+			{
+				"gsw": "aalì",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "allen",
+		"translations": [
+			{
+				"gsw": "aùne",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "als",
+		"translations": [
+			{
+				"gsw": "va",
+				"count": 2
+			}
+		]
+	},
+	{
+		"de": "alter",
+		"translations": [
+			{
+				"gsw": "aùter",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "an",
+		"translations": [
+			{
+				"gsw": "a",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "an welcher",
+		"translations": [
+			{
+				"gsw": "wa",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "anderen",
+		"translations": [
+			{
+				"gsw": "òndere",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "anderes",
+		"translations": [
+			{
+				"gsw": "òndersch",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "anders",
+		"translations": [
+			{
+				"gsw": "òndersch",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "angegeben",
+		"translations": [
+			{
+				"gsw": "òòggee",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "angepasst",
+		"translations": [
+			{
+				"gsw": "òòpasst",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "angeschrieben",
+		"translations": [
+			{
+				"gsw": "òògschrìbe",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "anstatt",
+		"translations": [
+			{
+				"gsw": "ànstatt",
+				"count": 1
+			},
+			{
+				"gsw": "ònstatt",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Arbeitsgemeinschaft",
+		"translations": [
+			{
+				"gsw": "arbìitsgmìinschaft",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Art",
+		"translations": [
+			{
+				"gsw": "art",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Artikel",
+		"translations": [
+			{
+				"gsw": "artikel",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "auch",
+		"translations": [
+			{
+				"gsw": "òò",
+				"count": 6
+			},
+			{
+				"gsw": "aù",
+				"count": 1
+			},
+			{
+				"gsw": "ò",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "auf",
+		"translations": [
+			{
+				"gsw": "ùff",
+				"count": 5
+			},
+			{
+				"gsw": "uff",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Auge",
+		"translations": [
+			{
+				"gsw": "ùug",
+				"count": 2
+			},
+			{
+				"gsw": "ùùg",
+				"count": 2
+			}
+		]
+	},
+	{
+		"de": "August",
+		"translations": [
+			{
+				"gsw": "ùugschte",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "aus dem",
+		"translations": [
+			{
+				"gsw": "ùsem",
+				"count": 2
+			}
+		]
+	},
+	{
+		"de": "ausgegeben",
+		"translations": [
+			{
+				"gsw": "usaggee",
+				"count": 3
+			}
+		]
+	},
+	{
+		"de": "ausgesprochen",
+		"translations": [
+			{
+				"gsw": "ussgspròche",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Auslaut",
+		"translations": [
+			{
+				"gsw": "ussluut",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Ausnahme",
+		"translations": [
+			{
+				"gsw": "ussnàm",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Bau",
+		"translations": [
+			{
+				"gsw": "buu",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "bauen",
+		"translations": [
+			{
+				"gsw": "buue",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Baum",
+		"translations": [
+			{
+				"gsw": "bǜüm",
+				"count": 2
+			},
+			{
+				"gsw": "bǜǜm",
+				"count": 2
+			}
+		]
+	},
+	{
+		"de": "behandelt",
+		"translations": [
+			{
+				"gsw": "behòndlet",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "bei",
+		"translations": [
+			{
+				"gsw": "bì",
+				"count": 3
+			}
+		]
+	},
+	{
+		"de": "beiden",
+		"translations": [
+			{
+				"gsw": "bìede",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "beim",
+		"translations": [
+			{
+				"gsw": "bìm",
+				"count": 2
+			}
+		]
+	},
+	{
+		"de": "Beispielwörter",
+		"translations": [
+			{
+				"gsw": "byyspìùwörter",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Berge",
+		"translations": [
+			{
+				"gsw": "bäärga",
+				"count": 2
+			},
+			{
+				"gsw": "bäärge",
+				"count": 1
+			},
+			{
+				"gsw": "bärg",
+				"count": 1
+			},
+			{
+				"gsw": "bärga",
+				"count": 1
+			},
+			{
+				"gsw": "bärge",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Bergen",
+		"translations": [
+			{
+				"gsw": "bäärga",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "berichtet",
+		"translations": [
+			{
+				"gsw": "prìchtet",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Bern",
+		"translations": [
+			{
+				"gsw": "bärn",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Berndeutschen",
+		"translations": [
+			{
+				"gsw": "bärntütsche",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Berner",
+		"translations": [
+			{
+				"gsw": "bärner",
+				"count": 3
+			},
+			{
+				"gsw": "berner",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Bernischen",
+		"translations": [
+			{
+				"gsw": "bäärnesche",
+				"count": 3
+			}
+		]
+	},
+	{
+		"de": "Beschreibung",
+		"translations": [
+			{
+				"gsw": "bschryybeg",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "beschrieben",
+		"translations": [
+			{
+				"gsw": "bìschrìbe",
+				"count": 1
+			},
+			{
+				"gsw": "bschrìbe",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Bindung",
+		"translations": [
+			{
+				"gsw": "bìndeg",
+				"count": 2
+			},
+			{
+				"gsw": "bindig",
+				"count": 1
+			},
+			{
+				"gsw": "bindung",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Blei",
+		"translations": [
+			{
+				"gsw": "blyy",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Brot",
+		"translations": [
+			{
+				"gsw": "broot",
+				"count": 1
+			},
+			{
+				"gsw": "bruet",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Buch",
+		"translations": [
+			{
+				"gsw": "buech",
+				"count": 2
+			},
+			{
+				"gsw": "bürgisser",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Bulle",
+		"translations": [
+			{
+				"gsw": "boù",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Butter",
+		"translations": [
+			{
+				"gsw": "òòche",
+				"count": 1
+			},
+			{
+				"gsw": "òòhe",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Bäckerei",
+		"translations": [
+			{
+				"gsw": "beckeryy",
+				"count": 1
+			},
+			{
+				"gsw": "belegort",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Bürokratie",
+		"translations": [
+			{
+				"gsw": "bürokratyy",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "dafür",
+		"translations": [
+			{
+				"gsw": "derfǜǜr",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "dagegen",
+		"translations": [
+			{
+				"gsw": "dergäge",
+				"count": 3
+			}
+		]
+	},
+	{
+		"de": "dann",
+		"translations": [
+			{
+				"gsw": "de",
+				"count": 2
+			}
+		]
+	},
+	{
+		"de": "darauf",
+		"translations": [
+			{
+				"gsw": "dròò",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "darüber",
+		"translations": [
+			{
+				"gsw": "drùber",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "das",
+		"translations": [
+			{
+				"gsw": "ds",
+				"count": 13
+			},
+			{
+				"gsw": "daas",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "davon",
+		"translations": [
+			{
+				"gsw": "dervòò",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "dazu",
+		"translations": [
+			{
+				"gsw": "derzue",
+				"count": 1
+			},
+			{
+				"gsw": "drzue",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "dem",
+		"translations": [
+			{
+				"gsw": "däm",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "den",
+		"translations": [
+			{
+				"gsw": "de",
+				"count": 3
+			},
+			{
+				"gsw": "dä",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "den (pl.)",
+		"translations": [
+			{
+				"gsw": "de",
+				"count": 6
+			}
+		]
+	},
+	{
+		"de": "der",
+		"translations": [
+			{
+				"gsw": "dr",
+				"count": 20
+			},
+			{
+				"gsw": "der",
+				"count": 2
+			},
+			{
+				"gsw": "de",
+				"count": 1
+			},
+			{
+				"gsw": "wa",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "der (F)",
+		"translations": [
+			{
+				"gsw": "de",
+				"count": 1
+			},
+			{
+				"gsw": "der",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "deutlich",
+		"translations": [
+			{
+				"gsw": "tütlech",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Deutschfreiburger",
+		"translations": [
+			{
+				"gsw": "tütschfrybùrger",
+				"count": 2
+			},
+			{
+				"gsw": "tüschfrybùrger",
+				"count": 1
+			},
+			{
+				"gsw": "tütschschwyz",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "deutschschweizer",
+		"translations": [
+			{
+				"gsw": "tütschschwyzer",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "deutschsprachige",
+		"translations": [
+			{
+				"gsw": "tütschspraachìgì",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "deutschsprachigen",
+		"translations": [
+			{
+				"gsw": "tütschspraaìg",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Dialekt",
+		"translations": [
+			{
+				"gsw": "dialäkt",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Dialektbeispiele",
+		"translations": [
+			{
+				"gsw": "dialäktbyyspìù",
+				"count": 1
+			},
+			{
+				"gsw": "die",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "die",
+		"translations": [
+			{
+				"gsw": "d",
+				"count": 20
+			},
+			{
+				"gsw": "dì",
+				"count": 9
+			},
+			{
+				"gsw": "wa",
+				"count": 3
+			},
+			{
+				"gsw": "di",
+				"count": 1
+			},
+			{
+				"gsw": "dia",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Diminutiv",
+		"translations": [
+			{
+				"gsw": "diminutiv",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Diphthongierung",
+		"translations": [
+			{
+				"gsw": "diphthongiereg",
+				"count": 2
+			}
+		]
+	},
+	{
+		"de": "Dissertation",
+		"translations": [
+			{
+				"gsw": "dissertation",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "drei",
+		"translations": [
+			{
+				"gsw": "drüü",
+				"count": 5
+			},
+			{
+				"gsw": "dryy",
+				"count": 2
+			}
+		]
+	},
+	{
+		"de": "durch",
+		"translations": [
+			{
+				"gsw": "durn",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Dörfern",
+		"translations": [
+			{
+				"gsw": "düerfer",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "eher",
+		"translations": [
+			{
+				"gsw": "iender",
+				"count": 2
+			}
+		]
+	},
+	{
+		"de": "eigenartige",
+		"translations": [
+			{
+				"gsw": "ìigenaarteg",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "eigenes",
+		"translations": [
+			{
+				"gsw": "ìigeds",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "ein",
+		"translations": [
+			{
+				"gsw": "a",
+				"count": 2
+			},
+			{
+				"gsw": "as",
+				"count": 1
+			},
+			{
+				"gsw": "z",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "ein (N)",
+		"translations": [
+			{
+				"gsw": "as",
+				"count": 2
+			}
+		]
+	},
+	{
+		"de": "eine",
+		"translations": [
+			{
+				"gsw": "a",
+				"count": 7
+			},
+			{
+				"gsw": "abchǜrzeg",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "einem",
+		"translations": [
+			{
+				"gsw": "a",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "einen",
+		"translations": [
+			{
+				"gsw": "a",
+				"count": 2
+			}
+		]
+	},
+	{
+		"de": "einer",
+		"translations": [
+			{
+				"gsw": "ana",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Einheitsform",
+		"translations": [
+			{
+				"gsw": "ìinhìitsform",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Einordnung",
+		"translations": [
+			{
+				"gsw": "yyuerneg",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "einzige",
+		"translations": [
+			{
+				"gsw": "enzìgì",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Endsilbevokal",
+		"translations": [
+			{
+				"gsw": "endsilbevokaù",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Endung",
+		"translations": [
+			{
+				"gsw": "endeg",
+				"count": 2
+			}
+		]
+	},
+	{
+		"de": "er",
+		"translations": [
+			{
+				"gsw": "är",
+				"count": 6
+			}
+		]
+	},
+	{
+		"de": "Erforschungsgeschichte",
+		"translations": [
+			{
+				"gsw": "erforschigsgschicht",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Erhalt",
+		"translations": [
+			{
+				"gsw": "erhaùt",
+				"count": 2
+			}
+		]
+	},
+	{
+		"de": "erhalten",
+		"translations": [
+			{
+				"gsw": "erhaùte",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "erste",
+		"translations": [
+			{
+				"gsw": "ierscht",
+				"count": 1
+			},
+			{
+				"gsw": "im",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "es",
+		"translations": [
+			{
+				"gsw": "as",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "etwa",
+		"translations": [
+			{
+				"gsw": "eppa",
+				"count": 2
+			}
+		]
+	},
+	{
+		"de": "etwas",
+		"translations": [
+			{
+				"gsw": "eppes",
+				"count": 2
+			}
+		]
+	},
+	{
+		"de": "Fang",
+		"translations": [
+			{
+				"gsw": "fàng",
+				"count": 1
+			},
+			{
+				"gsw": "fr",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "fast",
+		"translations": [
+			{
+				"gsw": "fascht",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "fehlende",
+		"translations": [
+			{
+				"gsw": "fielendì",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "fehlt (er/sie/es)",
+		"translations": [
+			{
+				"gsw": "fieùt",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Form",
+		"translations": [
+			{
+				"gsw": "form",
+				"count": 2
+			}
+		]
+	},
+	{
+		"de": "Formen",
+		"translations": [
+			{
+				"gsw": "forme",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Fotos",
+		"translations": [
+			{
+				"gsw": "foto",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Französisch",
+		"translations": [
+			{
+				"gsw": "französisch",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "französischen",
+		"translations": [
+			{
+				"gsw": "fronzüesìsche",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Freiburg",
+		"translations": [
+			{
+				"gsw": "frybùrg",
+				"count": 1
+			},
+			{
+				"gsw": "fryybùrg",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "früher",
+		"translations": [
+			{
+				"gsw": "früer",
+				"count": 2
+			}
+		]
+	},
+	{
+		"de": "Fuss",
+		"translations": [
+			{
+				"gsw": "fues",
+				"count": 1
+			},
+			{
+				"gsw": "gìtts",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "für",
+		"translations": [
+			{
+				"gsw": "fer",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Garn",
+		"translations": [
+			{
+				"gsw": "gaar",
+				"count": 1
+			},
+			{
+				"gsw": "gaare",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "gearbeitet",
+		"translations": [
+			{
+				"gsw": "gwärchet",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "geblieben",
+		"translations": [
+			{
+				"gsw": "blìben",
+				"count": 1
+			},
+			{
+				"gsw": "plìbe",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Gegensatz",
+		"translations": [
+			{
+				"gsw": "gägesatz",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "gehabt",
+		"translations": [
+			{
+				"gsw": "gchäbe",
+				"count": 1
+			},
+			{
+				"gsw": "ghääbe",
+				"count": 1
+			},
+			{
+				"gsw": "kòò",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "gehören (sie)",
+		"translations": [
+			{
+				"gsw": "küere",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "gehört (er/sie/es)",
+		"translations": [
+			{
+				"gsw": "gküert",
+				"count": 2
+			}
+		]
+	},
+	{
+		"de": "Gemeinde",
+		"translations": [
+			{
+				"gsw": "gmìi",
+				"count": 2
+			}
+		]
+	},
+	{
+		"de": "gerechnet",
+		"translations": [
+			{
+				"gsw": "grächnet",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "gerne",
+		"translations": [
+			{
+				"gsw": "gäär",
+				"count": 1
+			},
+			{
+				"gsw": "gääre",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Geschichte",
+		"translations": [
+			{
+				"gsw": "gschìcht",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Geschichten",
+		"translations": [
+			{
+				"gsw": "gschìchtlìnì",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "geschrieben",
+		"translations": [
+			{
+				"gsw": "gschrìbe",
+				"count": 3
+			}
+		]
+	},
+	{
+		"de": "gewesen",
+		"translations": [
+			{
+				"gsw": "gsy",
+				"count": 1
+			},
+			{
+				"gsw": "gsyy",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Glaube",
+		"translations": [
+			{
+				"gsw": "glùube",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "gleich",
+		"translations": [
+			{
+				"gsw": "glyych",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "gleiche",
+		"translations": [
+			{
+				"gsw": "glyych",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Greyerzbezirk",
+		"translations": [
+			{
+				"gsw": "grüerschbìzìrk",
+				"count": 2
+			}
+		]
+	},
+	{
+		"de": "Greyerzerland",
+		"translations": [
+			{
+				"gsw": "greyerzerland",
+				"count": 2
+			}
+		]
+	},
+	{
+		"de": "grosse",
+		"translations": [
+			{
+				"gsw": "groossi",
+				"count": 1
+			},
+			{
+				"gsw": "gruessì",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Grund",
+		"translations": [
+			{
+				"gsw": "grùnd",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "gültigen",
+		"translations": [
+			{
+				"gsw": "gǜùtege",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "hat (er/sie/es)",
+		"translations": [
+			{
+				"gsw": "hät",
+				"count": 9
+			},
+			{
+				"gsw": "hätt",
+				"count": 2
+			},
+			{
+				"gsw": "het",
+				"count": 1
+			},
+			{
+				"gsw": "hìi",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "hat es (er/sie/es)",
+		"translations": [
+			{
+				"gsw": "häts",
+				"count": 2
+			}
+		]
+	},
+	{
+		"de": "Haufen",
+		"translations": [
+			{
+				"gsw": "huufe",
+				"count": 2
+			}
+		]
+	},
+	{
+		"de": "herausgekommen",
+		"translations": [
+			{
+				"gsw": "usachua",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "heute",
+		"translations": [
+			{
+				"gsw": "hüt",
+				"count": 2
+			}
+		]
+	},
+	{
+		"de": "Hiatus",
+		"translations": [
+			{
+				"gsw": "hiatus",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Hilfsverb",
+		"translations": [
+			{
+				"gsw": "hǜufsverb",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Höchstalemmanischen",
+		"translations": [
+			{
+				"gsw": "höchstalemannische",
+				"count": 2
+			}
+		]
+	},
+	{
+		"de": "höhen",
+		"translations": [
+			{
+				"gsw": "hueje",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "hört man",
+		"translations": [
+			{
+				"gsw": "küerpmù",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "im",
+		"translations": [
+			{
+				"gsw": "ìm",
+				"count": 34
+			}
+		]
+	},
+	{
+		"de": "im Westen",
+		"translations": [
+			{
+				"gsw": "z desúús",
+				"count": 1
+			},
+			{
+				"gsw": "zämmefasseg",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "in",
+		"translations": [
+			{
+				"gsw": "ì",
+				"count": 9
+			},
+			{
+				"gsw": "z",
+				"count": 6
+			},
+			{
+				"gsw": "in",
+				"count": 4
+			},
+			{
+				"gsw": "i",
+				"count": 1
+			},
+			{
+				"gsw": "ìn",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "innerhalb",
+		"translations": [
+			{
+				"gsw": "ìnnerhaùb",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Intonation",
+		"translations": [
+			{
+				"gsw": "intonation",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "ironischen",
+		"translations": [
+			{
+				"gsw": "yròònìschìi",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Isolation",
+		"translations": [
+			{
+				"gsw": "isolation",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "ist",
+		"translations": [
+			{
+				"gsw": "ìsch",
+				"count": 23
+			}
+		]
+	},
+	{
+		"de": "Jahr",
+		"translations": [
+			{
+				"gsw": "jaar",
+				"count": 4
+			},
+			{
+				"gsw": "jaun",
+				"count": 1
+			},
+			{
+				"gsw": "jauner",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Jahre",
+		"translations": [
+			{
+				"gsw": "jaar",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Jaun",
+		"translations": [
+			{
+				"gsw": "jùu",
+				"count": 15
+			}
+		]
+	},
+	{
+		"de": "jaundeutsch",
+		"translations": [
+			{
+				"gsw": "jùutütsch",
+				"count": 12
+			}
+		]
+	},
+	{
+		"de": "Jaundeutsch",
+		"translations": [
+			{
+				"gsw": "jùutütsch",
+				"count": 8
+			},
+			{
+				"gsw": "jùuntütsch",
+				"count": 1
+			},
+			{
+				"gsw": "jùùntütsch",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "jaundeutsche",
+		"translations": [
+			{
+				"gsw": "jùutütschì",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Jaundeutsche",
+		"translations": [
+			{
+				"gsw": "jùutütsch",
+				"count": 5
+			}
+		]
+	},
+	{
+		"de": "Jaundeutschen",
+		"translations": [
+			{
+				"gsw": "jùutütsch",
+				"count": 4
+			},
+			{
+				"gsw": "jùutsch",
+				"count": 1
+			},
+			{
+				"gsw": "jùutüsch",
+				"count": 1
+			},
+			{
+				"gsw": "jùutüsche",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "jaundeutsches",
+		"translations": [
+			{
+				"gsw": "jùutütsch",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Jauner",
+		"translations": [
+			{
+				"gsw": "jauner",
+				"count": 1
+			},
+			{
+				"gsw": "jouner",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "kann (er/sie/es)",
+		"translations": [
+			{
+				"gsw": "cha",
+				"count": 1
+			},
+			{
+				"gsw": "chò",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Kanne",
+		"translations": [
+			{
+				"gsw": "channa",
+				"count": 1
+			},
+			{
+				"gsw": "chòna",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Kanton",
+		"translations": [
+			{
+				"gsw": "kanton",
+				"count": 2
+			},
+			{
+				"gsw": "kapitel",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "katholisch",
+		"translations": [
+			{
+				"gsw": "katòòlesch",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Kind",
+		"translations": [
+			{
+				"gsw": "chìnd",
+				"count": 3
+			},
+			{
+				"gsw": "chinn",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Kinder",
+		"translations": [
+			{
+				"gsw": "chin",
+				"count": 1
+			},
+			{
+				"gsw": "chind",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "klagen",
+		"translations": [
+			{
+				"gsw": "chlage",
+				"count": 2
+			},
+			{
+				"gsw": "chlaage",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "kleines Tal",
+		"translations": [
+			{
+				"gsw": "tältì",
+				"count": 1
+			},
+			{
+				"gsw": "täùti",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Kollektiv",
+		"translations": [
+			{
+				"gsw": "kollektiv",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "kommen",
+		"translations": [
+			{
+				"gsw": "cho",
+				"count": 1
+			},
+			{
+				"gsw": "chòò",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "kommt",
+		"translations": [
+			{
+				"gsw": "chùnt",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Kontakte",
+		"translations": [
+			{
+				"gsw": "kontäkt",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "kursiven",
+		"translations": [
+			{
+				"gsw": "kursive",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "kurz",
+		"translations": [
+			{
+				"gsw": "chùrz",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Kurzvokalen",
+		"translations": [
+			{
+				"gsw": "chùrzvokaù",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Käse",
+		"translations": [
+			{
+				"gsw": "chees",
+				"count": 1
+			},
+			{
+				"gsw": "chies",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Kürzung",
+		"translations": [
+			{
+				"gsw": "chǜrzeg",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Lage",
+		"translations": [
+			{
+				"gsw": "lag",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Land",
+		"translations": [
+			{
+				"gsw": "lann",
+				"count": 1
+			},
+			{
+				"gsw": "lònd",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "lang",
+		"translations": [
+			{
+				"gsw": "lengs",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "lange",
+		"translations": [
+			{
+				"gsw": "lengì",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "langem",
+		"translations": [
+			{
+				"gsw": "lengem",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Laut",
+		"translations": [
+			{
+				"gsw": "luut",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Lautung",
+		"translations": [
+			{
+				"gsw": "luuteg",
+				"count": 3
+			}
+		]
+	},
+	{
+		"de": "Lautverbindung",
+		"translations": [
+			{
+				"gsw": "luutverbìndeg",
+				"count": 2
+			}
+		]
+	},
+	{
+		"de": "leben",
+		"translations": [
+			{
+				"gsw": "lääbe",
+				"count": 1
+			},
+			{
+				"gsw": "läbe",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Leserbriefe",
+		"translations": [
+			{
+				"gsw": "läserbriefa",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Literatur",
+		"translations": [
+			{
+				"gsw": "literatur",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "lustig",
+		"translations": [
+			{
+				"gsw": "luschtig",
+				"count": 2
+			},
+			{
+				"gsw": "luschteg",
+				"count": 1
+			},
+			{
+				"gsw": "lùschteg",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Länge",
+		"translations": [
+			{
+				"gsw": "lengi",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Mal",
+		"translations": [
+			{
+				"gsw": "maù",
+				"count": 1
+			},
+			{
+				"gsw": "max",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "man",
+		"translations": [
+			{
+				"gsw": "mù",
+				"count": 2
+			}
+		]
+	},
+	{
+		"de": "Mann",
+		"translations": [
+			{
+				"gsw": "maa",
+				"count": 1
+			},
+			{
+				"gsw": "mòò",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Markenzeichen",
+		"translations": [
+			{
+				"gsw": "maarggezìiche",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Medien",
+		"translations": [
+			{
+				"gsw": "medie",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "mit",
+		"translations": [
+			{
+				"gsw": "mìt",
+				"count": 4
+			},
+			{
+				"gsw": "mit",
+				"count": 1
+			},
+			{
+				"gsw": "mundart",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "mit dem",
+		"translations": [
+			{
+				"gsw": "mitem",
+				"count": 2
+			},
+			{
+				"gsw": "mìtem",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "mit den",
+		"translations": [
+			{
+				"gsw": "mìtte",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Monophthongen",
+		"translations": [
+			{
+				"gsw": "monophthong",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "monophthongiert",
+		"translations": [
+			{
+				"gsw": "monophthongiert",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Monophthongierung",
+		"translations": [
+			{
+				"gsw": "monophthongiereg",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "morgen",
+		"translations": [
+			{
+				"gsw": "muer",
+				"count": 1
+			},
+			{
+				"gsw": "muere",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Mundart",
+		"translations": [
+			{
+				"gsw": "mùndart",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Mundarten",
+		"translations": [
+			{
+				"gsw": "mùndarte",
+				"count": 3
+			}
+		]
+	},
+	{
+		"de": "Mundartsprache",
+		"translations": [
+			{
+				"gsw": "mùndartspraach",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Mundartwörterbuch",
+		"translations": [
+			{
+				"gsw": "mundartwörterbuch",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Mädchen",
+		"translations": [
+			{
+				"gsw": "miitli",
+				"count": 2
+			},
+			{
+				"gsw": "meitli",
+				"count": 1
+			},
+			{
+				"gsw": "mìitlì",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "männlichen",
+		"translations": [
+			{
+				"gsw": "männleche",
+				"count": 1
+			},
+			{
+				"gsw": "männliche",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "nachgewiesen",
+		"translations": [
+			{
+				"gsw": "nahìgwìse",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "neben",
+		"translations": [
+			{
+				"gsw": "näbe",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "neu",
+		"translations": [
+			{
+				"gsw": "nüü",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "neuer",
+		"translations": [
+			{
+				"gsw": "nüüa",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "nicht",
+		"translations": [
+			{
+				"gsw": "nìt",
+				"count": 2
+			}
+		]
+	},
+	{
+		"de": "nichts",
+		"translations": [
+			{
+				"gsw": "nüüt",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "noch",
+		"translations": [
+			{
+				"gsw": "no",
+				"count": 4
+			},
+			{
+				"gsw": "nò",
+				"count": 2
+			}
+		]
+	},
+	{
+		"de": "Norden",
+		"translations": [
+			{
+				"gsw": "norde",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "nur",
+		"translations": [
+			{
+				"gsw": "nùmme",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Nüsse",
+		"translations": [
+			{
+				"gsw": "nǜss",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Oberland",
+		"translations": [
+			{
+				"gsw": "oberland",
+				"count": 2
+			},
+			{
+				"gsw": "oberlànd",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Oberländisch",
+		"translations": [
+			{
+				"gsw": "oberlendesch",
+				"count": 2
+			},
+			{
+				"gsw": "oberländisch",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "oder",
+		"translations": [
+			{
+				"gsw": "oder",
+				"count": 3
+			}
+		]
+	},
+	{
+		"de": "paar",
+		"translations": [
+			{
+				"gsw": "paar",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Passiv",
+		"translations": [
+			{
+				"gsw": "passiv",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Patois",
+		"translations": [
+			{
+				"gsw": "patois",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Pfanne",
+		"translations": [
+			{
+				"gsw": "pfana",
+				"count": 1
+			},
+			{
+				"gsw": "pfòna",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Plural",
+		"translations": [
+			{
+				"gsw": "plural",
+				"count": 2
+			}
+		]
+	},
+	{
+		"de": "Pluralendug",
+		"translations": [
+			{
+				"gsw": "pluralendeg",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Publikation",
+		"translations": [
+			{
+				"gsw": "publikation",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "rar",
+		"translations": [
+			{
+				"gsw": "raar",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "redet (er/sie/es)",
+		"translations": [
+			{
+				"gsw": "red",
+				"count": 2
+			}
+		]
+	},
+	{
+		"de": "Redewendung",
+		"translations": [
+			{
+				"gsw": "redewendung",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Rundung",
+		"translations": [
+			{
+				"gsw": "rùndeg",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Saanen",
+		"translations": [
+			{
+				"gsw": "saane",
+				"count": 2
+			}
+		]
+	},
+	{
+		"de": "Sack",
+		"translations": [
+			{
+				"gsw": "saketa",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "sagen",
+		"translations": [
+			{
+				"gsw": "sääge",
+				"count": 1
+			},
+			{
+				"gsw": "säge",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "sagt (er/sie/es)",
+		"translations": [
+			{
+				"gsw": "sìit",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Satz",
+		"translations": [
+			{
+				"gsw": "satz",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Schnee",
+		"translations": [
+			{
+				"gsw": "schnee",
+				"count": 1
+			},
+			{
+				"gsw": "schnia",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "schneien",
+		"translations": [
+			{
+				"gsw": "schnie",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Schreib-Richtlinie",
+		"translations": [
+			{
+				"gsw": "schryyb-rìchtlinie",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "schreiben",
+		"translations": [
+			{
+				"gsw": "schrybe",
+				"count": 1
+			},
+			{
+				"gsw": "schryybe",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "schreibt (er/sie/es)",
+		"translations": [
+			{
+				"gsw": "schrybt",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Schreibung",
+		"translations": [
+			{
+				"gsw": "schrybeg",
+				"count": 2
+			}
+		]
+	},
+	{
+		"de": "Schriften",
+		"translations": [
+			{
+				"gsw": "gschrìftì",
+				"count": 2
+			}
+		]
+	},
+	{
+		"de": "schön",
+		"translations": [
+			{
+				"gsw": "schöön",
+				"count": 1
+			},
+			{
+				"gsw": "schüen",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "sechs",
+		"translations": [
+			{
+				"gsw": "sächs",
+				"count": 2
+			},
+			{
+				"gsw": "säks",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Seebezirk",
+		"translations": [
+			{
+				"gsw": "seebezirk",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "seiner",
+		"translations": [
+			{
+				"gsw": "synere",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "seit",
+		"translations": [
+			{
+				"gsw": "syt",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Seiten",
+		"translations": [
+			{
+				"gsw": "sytì",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "seltener",
+		"translations": [
+			{
+				"gsw": "säùtener",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Sendung",
+		"translations": [
+			{
+				"gsw": "sendig",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Sensebezirk",
+		"translations": [
+			{
+				"gsw": "sensebìzìrk",
+				"count": 3
+			},
+			{
+				"gsw": "sensebezìrk",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "senslerdeutsch",
+		"translations": [
+			{
+				"gsw": "senslertütsch",
+				"count": 11
+			}
+		]
+	},
+	{
+		"de": "Senslerdeutsch",
+		"translations": [
+			{
+				"gsw": "senslertütsch",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Senslerdeutsche",
+		"translations": [
+			{
+				"gsw": "senslertütsch",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "senslerdeutschen",
+		"translations": [
+			{
+				"gsw": "senslertütsch",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Senslerdeutschen",
+		"translations": [
+			{
+				"gsw": "senslertütsch",
+				"count": 3
+			},
+			{
+				"gsw": "senslertütsche",
+				"count": 2
+			}
+		]
+	},
+	{
+		"de": "Serie",
+		"translations": [
+			{
+				"gsw": "seryy",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "sich",
+		"translations": [
+			{
+				"gsw": "sìch",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Siebenthal",
+		"translations": [
+			{
+				"gsw": "sìbetaù",
+				"count": 2
+			}
+		]
+	},
+	{
+		"de": "Silbe",
+		"translations": [
+			{
+				"gsw": "sǜube",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Silben",
+		"translations": [
+			{
+				"gsw": "sìùbe",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Simmental",
+		"translations": [
+			{
+				"gsw": "sǜbetaù",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "sind (sie)",
+		"translations": [
+			{
+				"gsw": "sy",
+				"count": 7
+			},
+			{
+				"gsw": "sì",
+				"count": 1
+			},
+			{
+				"gsw": "syy",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "singen",
+		"translations": [
+			{
+				"gsw": "sìnge",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Singular",
+		"translations": [
+			{
+				"gsw": "singular",
+				"count": 2
+			}
+		]
+	},
+	{
+		"de": "so",
+		"translations": [
+			{
+				"gsw": "a sua",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Spezialitäten",
+		"translations": [
+			{
+				"gsw": "spezialitäte",
+				"count": 1
+			},
+			{
+				"gsw": "spraachatlas",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Sprachgrenze",
+		"translations": [
+			{
+				"gsw": "spraachgrenza",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "sprachliche",
+		"translations": [
+			{
+				"gsw": "spraachlìchì",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Sprachmelodie",
+		"translations": [
+			{
+				"gsw": "spraachmelodyy",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "später",
+		"translations": [
+			{
+				"gsw": "druuf",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "statt",
+		"translations": [
+			{
+				"gsw": "statt",
+				"count": 15
+			}
+		]
+	},
+	{
+		"de": "Stichwörter",
+		"translations": [
+			{
+				"gsw": "stìchwörter",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Substantiven",
+		"translations": [
+			{
+				"gsw": "substantiv",
+				"count": 3
+			}
+		]
+	},
+	{
+		"de": "Tafel",
+		"translations": [
+			{
+				"gsw": "taafla",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Tag",
+		"translations": [
+			{
+				"gsw": "taag",
+				"count": 2
+			}
+		]
+	},
+	{
+		"de": "Tage",
+		"translations": [
+			{
+				"gsw": "taga",
+				"count": 2
+			},
+			{
+				"gsw": "taage",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Tanne",
+		"translations": [
+			{
+				"gsw": "tòòna",
+				"count": 2
+			},
+			{
+				"gsw": "tana",
+				"count": 1
+			},
+			{
+				"gsw": "tane",
+				"count": 1
+			},
+			{
+				"gsw": "tòònì",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Tannen",
+		"translations": [
+			{
+				"gsw": "tòònì",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Tisch",
+		"translations": [
+			{
+				"gsw": "tììsch",
+				"count": 1
+			},
+			{
+				"gsw": "tǜsch",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "trinken",
+		"translations": [
+			{
+				"gsw": "triiche",
+				"count": 1
+			},
+			{
+				"gsw": "triihe",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "tun (sie)",
+		"translations": [
+			{
+				"gsw": "tü",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Umfang",
+		"translations": [
+			{
+				"gsw": "umfang",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "unbetonten",
+		"translations": [
+			{
+				"gsw": "ùnbetuente",
+				"count": 1
+			},
+			{
+				"gsw": "ùnbìtuonte",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "und",
+		"translations": [
+			{
+				"gsw": "ù",
+				"count": 20
+			},
+			{
+				"gsw": "ùn",
+				"count": 8
+			},
+			{
+				"gsw": "ún",
+				"count": 1
+			},
+			{
+				"gsw": "und",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "und eine",
+		"translations": [
+			{
+				"gsw": "ùna",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "unterscheidet",
+		"translations": [
+			{
+				"gsw": "unterschìidet",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Unterscheidung",
+		"translations": [
+			{
+				"gsw": "unterschìideg",
+				"count": 1
+			},
+			{
+				"gsw": "ùnterschìideg",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "uvular",
+		"translations": [
+			{
+				"gsw": "uvular",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "veralteten",
+		"translations": [
+			{
+				"gsw": "veraùtete",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "verbreiteter",
+		"translations": [
+			{
+				"gsw": "verbrìiteter",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "vereinfacht",
+		"translations": [
+			{
+				"gsw": "verìifacht",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "verglichen",
+		"translations": [
+			{
+				"gsw": "verglìiche",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "verlar",
+		"translations": [
+			{
+				"gsw": "velar",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Vernissage",
+		"translations": [
+			{
+				"gsw": "vernissage",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Verschiebung",
+		"translations": [
+			{
+				"gsw": "verschiebeg",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "verschiedenen",
+		"translations": [
+			{
+				"gsw": "verschìdene",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "versperrt",
+		"translations": [
+			{
+				"gsw": "versperrta",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "verwandt",
+		"translations": [
+			{
+				"gsw": "verwònt",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "verwendet",
+		"translations": [
+			{
+				"gsw": "pruucht",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Verzeichnis",
+		"translations": [
+			{
+				"gsw": "verzìichiiss",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "vier",
+		"translations": [
+			{
+				"gsw": "vier",
+				"count": 2
+			}
+		]
+	},
+	{
+		"de": "Vokal",
+		"translations": [
+			{
+				"gsw": "vokaù",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Vokalen",
+		"translations": [
+			{
+				"gsw": "vokaù",
+				"count": 2
+			}
+		]
+	},
+	{
+		"de": "von",
+		"translations": [
+			{
+				"gsw": "va",
+				"count": 25
+			},
+			{
+				"gsw": "vam",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "von dem",
+		"translations": [
+			{
+				"gsw": "vam",
+				"count": 4
+			}
+		]
+	},
+	{
+		"de": "von einer",
+		"translations": [
+			{
+				"gsw": "vùrnera",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "vor",
+		"translations": [
+			{
+				"gsw": "vor",
+				"count": 1
+			},
+			{
+				"gsw": "vùr",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "wachsen",
+		"translations": [
+			{
+				"gsw": "wachse",
+				"count": 1
+			},
+			{
+				"gsw": "wakse",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Wanderung",
+		"translations": [
+			{
+				"gsw": "wòndereg",
+				"count": 2
+			},
+			{
+				"gsw": "wanderig",
+				"count": 1
+			},
+			{
+				"gsw": "wanderung",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Weg",
+		"translations": [
+			{
+				"gsw": "wääg",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "weiblichen",
+		"translations": [
+			{
+				"gsw": "wyybleche",
+				"count": 2
+			}
+		]
+	},
+	{
+		"de": "weiterem",
+		"translations": [
+			{
+				"gsw": "wyterem",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "welcher",
+		"translations": [
+			{
+				"gsw": "wa",
+				"count": 2
+			}
+		]
+	},
+	{
+		"de": "welches",
+		"translations": [
+			{
+				"gsw": "wa",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Welschen",
+		"translations": [
+			{
+				"gsw": "wäùtsche",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Wenn",
+		"translations": [
+			{
+				"gsw": "wì",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "werden",
+		"translations": [
+			{
+				"gsw": "werde",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "werden (sie)",
+		"translations": [
+			{
+				"gsw": "chäme",
+				"count": 1
+			},
+			{
+				"gsw": "chùnd",
+				"count": 1
+			},
+			{
+				"gsw": "wärde",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Westalemannischen",
+		"translations": [
+			{
+				"gsw": "westalemannische",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Westen",
+		"translations": [
+			{
+				"gsw": "weschte",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "wie",
+		"translations": [
+			{
+				"gsw": "wì",
+				"count": 5
+			},
+			{
+				"gsw": "wà",
+				"count": 1
+			},
+			{
+				"gsw": "wi",
+				"count": 1
+			},
+			{
+				"gsw": "wie",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "wie man",
+		"translations": [
+			{
+				"gsw": "wìmù",
+				"count": 2
+			}
+		]
+	},
+	{
+		"de": "wird (er/sie/es)",
+		"translations": [
+			{
+				"gsw": "wird",
+				"count": 2
+			},
+			{
+				"gsw": "wìrd",
+				"count": 2
+			},
+			{
+				"gsw": "chunt",
+				"count": 1
+			},
+			{
+				"gsw": "chùnt",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "wissenschaftlich",
+		"translations": [
+			{
+				"gsw": "wǜsseschaftlech",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "wo",
+		"translations": [
+			{
+				"gsw": "wa",
+				"count": 2
+			}
+		]
+	},
+	{
+		"de": "worden",
+		"translations": [
+			{
+				"gsw": "chua",
+				"count": 3
+			}
+		]
+	},
+	{
+		"de": "während",
+		"translations": [
+			{
+				"gsw": "wärde",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Wörterbuch",
+		"translations": [
+			{
+				"gsw": "wörterbuech",
+				"count": 4
+			}
+		]
+	},
+	{
+		"de": "Wörtern",
+		"translations": [
+			{
+				"gsw": "wörter",
+				"count": 2
+			},
+			{
+				"gsw": "wörtlene",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Zahlwort",
+		"translations": [
+			{
+				"gsw": "zaalwort",
+				"count": 2
+			}
+		]
+	},
+	{
+		"de": "Zeit",
+		"translations": [
+			{
+				"gsw": "zyt",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Zeitung",
+		"translations": [
+			{
+				"gsw": "zytùng",
+				"count": 1
+			},
+			{
+				"gsw": "zytùnge",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Zu",
+		"translations": [
+			{
+				"gsw": "zun",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "zu",
+		"translations": [
+			{
+				"gsw": "zù",
+				"count": 3
+			},
+			{
+				"gsw": "ds",
+				"count": 1
+			},
+			{
+				"gsw": "zu",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "zum",
+		"translations": [
+			{
+				"gsw": "zum",
+				"count": 4
+			},
+			{
+				"gsw": "zùm",
+				"count": 4
+			}
+		]
+	},
+	{
+		"de": "Zunge",
+		"translations": [
+			{
+				"gsw": "zunga",
+				"count": 1
+			},
+			{
+				"gsw": "zunge",
+				"count": 1
+			},
+			{
+				"gsw": "zùngi",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "Zungen",
+		"translations": [
+			{
+				"gsw": "zungì",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "zwei",
+		"translations": [
+			{
+				"gsw": "zwìi",
+				"count": 1
+			},
+			{
+				"gsw": "zwǜǜ",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "ältesten",
+		"translations": [
+			{
+				"gsw": "öuteschte",
+				"count": 1
+			}
+		]
+	},
+	{
+		"de": "über",
+		"translations": [
+			{
+				"gsw": "ùber",
+				"count": 4
+			}
+		]
+	}
+]
