@@ -86,9 +86,11 @@ function exportJson(obj, name) {
 	downloadAnchorNode.remove();
 }
 
-// run exportJson function for each parsed data array
-exportJson(allParsed, "allParsed");
-exportJson(aiParsed, "aiParsed");
-exportJson(xxParsed, "xxParsed");
-exportJson(zhParsed, "zhParsed");
-exportJson(frParsed, "frParsed");
+// when #button is clicked, run exportJson function for each parsed data array
+document.getElementById("download").addEventListener("click", () => {
+	exportJson(allParsed, "all");
+	exportJson(aiParsed, "ai");
+	exportJson(xxParsed, "xx");
+	exportJson(zhParsed, "zh");
+	exportJson(frParsed, "fr");
+});
