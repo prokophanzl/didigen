@@ -150,13 +150,17 @@ button {
 
 a[href],
 .link {
-	transition: color 0.2s ease;
-	color: var(--accent);
 	text-decoration: none;
 	cursor: pointer;
 }
 
-a[href]:hover,
+a[href]:not(.logo-div),
+.link {
+	transition: color 0.2s ease;
+	color: var(--accent);
+}
+
+a[href]:not(.logo-div):hover,
 .link:hover {
 	color: var(--accent-secondary);
 }
