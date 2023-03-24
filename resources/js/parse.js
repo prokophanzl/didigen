@@ -54,7 +54,7 @@ const cantons = [
 	"ai",
 	// "bl",
 	// "bs",
-	// "be",
+	"be",
 	"fr",
 	// "ge",
 	// "gl",
