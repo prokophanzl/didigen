@@ -163,9 +163,8 @@ async function loadAllJsonFiles() {
 	document.querySelector("#search-results-info-gsw").innerHTML = dataParsed.reduce((acc, obj) => acc + obj.count, 0);
 }
 
-loadAllJsonFiles();
-
 if (urlParams.get("word")) {
+	loadAllJsonFiles();
 	const cantonsUsed = cantons.filter((canton) => urlParams.get(canton) === "on");
 	let joinCantons;
 	if (cantonsUsed.length === 1) {
