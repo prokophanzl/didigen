@@ -1,4 +1,7 @@
 de,gsw
+November,November
+ab,ab
+ab,ab
 ab,ab
 ab,ab
 ab,ab
@@ -14,6 +17,17 @@ Abend,Abig
 Abend,Abig
 Abend,Abig
 Abend,Abig
+Abend,abig
+aber,aber
+aber,aber
+aber,aber
+aber,aber
+aber,aber
+aber,aber
+aber,aber
+aber,aber
+aber,aber
+aber,aber
 aber,aber
 aber,aber
 aber,aber
@@ -120,6 +134,9 @@ aber,aber
 aber,aber
 aber,aber
 aber,abr
+aber,abr
+Abfallkübel,abfallchübel
+abfragt,abfregt
 Abgabe,Abgab
 Abgaben,Abgabe
 abgeben,abgeh
@@ -130,8 +147,11 @@ abgeschrieben,abgeschriebe
 abgeschrieben,abgschribe
 abgeschrieben,abgschriebe
 abgeschrieben,abgschriebe
+abgestimmt,abgstumme
+abgewiesen,abgwiese
 abgewiesen,abgwiese
 abhängig,abhängig
+abkühlt (er/sie/es),abküehlt
 abläuft,ablauft
 Ableitung,Ableitig
 ablesen,ablese
@@ -139,9 +159,11 @@ abnormal,abnormal
 abschreiben,abschriibe
 Abstand,Abstand
 Abtrennung,Abtrennig
+abwechslungsreichen (M),abwechsligsriche
 ach so,achso
 Adresse,Adresse
 Adresse,Adresse
+ähnlich,ählich
 ähnlich,ähnlich
 Ahnung,Ahnig
 Ahnung,Ahnig
@@ -169,6 +191,12 @@ alle,alli
 alle,alli
 alle,alli
 alle,alli
+alle,alli
+alle,alli
+alle,alli
+alle,alli
+alle,alli
+alle,alli
 allen,all
 allen,allne
 allen,allne
@@ -176,6 +204,9 @@ allen,allne
 allen,allne
 allen,allne
 allen,allne
+allen,allne
+allen,allne
+allen,allne
 alles,all
 alles,all
 alles,alles
@@ -196,10 +227,24 @@ alles,alles
 alles,alles
 alles,alles
 alles,alles
+alles,alles
+alles,alles
+alles,alles
+alles,alles
+alles,alles
+alles,alles
+alles,alles
+alles,alles
+allgemein,allgemein
 allgemein,allgemein
 allgemein,allgemein
 allgemeine,allgemeini
 Alpha,alpha
+als,als
+als,als
+als,als
+als,als
+als,als
 als,als
 als,als
 als,als
@@ -272,6 +317,11 @@ also,also
 also,also
 also,Also
 also,also
+also,also
+also,also
+also,also
+also,also
+also,also
 also,aso
 also,aso
 also,aso
@@ -359,7 +409,18 @@ am,am
 am,am
 am,am
 am,am
+am,am
+am,m
+Aminosäuren,Aminosäure
 Aminosäuren,aminosüre
+Amylase,amylase
+an,a
+an,a
+an,a
+an,a
+an,a
+an,a
+an,a
 an,a
 an,a
 an,a
@@ -368,13 +429,18 @@ an,a
 an,a
 an,aa
 an,aa
+an,ah
 an,ah
 an,ah
 an,ah
 an,ah
 an,an
+an der,ad
 an der,ade
 an einem,amne
+an einer,ane
+anbraten,brötle
+andere,ander
 andere,ander
 andere,ander
 andere,ander
@@ -390,6 +456,8 @@ anderen,andere
 anderen,andere
 anderen,andere
 anderen,andere
+anderen,andere
+anderen,anderem
 anderen,anderne
 ändern,ändere
 ändern,ändere
@@ -403,27 +471,41 @@ angebracht,anbracht
 angefangen,ahgfange
 angekommen,acho
 angepisst,apisst
+angeschaut,agluegt
 angeschaut,ahgluegt
 angeschaut,gluegt
+angeschrieben,anegschriebe
 angestrebt,agstrebt
 angetan,anetue
 ankommt (er/sie/es),achunt
 Anmeldeschluss,Ameldeschluss
+Anmerkung,ahmerkig
+Ansammlung,asammlig
 anschauen,ahluege
 anschauen,aluege
+anscheinend,anschiinend
 anstatt,anstatt
 anstatt,anstatt
+Antagonismus,Antagonismus
 Anteil,ateil
 Antwort,Antwort
 Antwort,antwort
 anwenden,aawende
 anwenden,awende
 App,App
+Arbeit,arbeit
+Arbeit,arbeit
 arbeiten,schaffe
+arbeiten,schaffet
 Arbeitsblatt,Arbeitsblatt
+Arbeitskräfte,arbeitschräft
+Arbeitslose,arbeitslosi
+Arbeitslose,arbeitslosi
+Arbeitslosigkeit,Arbeitslosigkeit
 Arsch,Arsch
 Art,Art
 Art,Art
+Art,art
 Artikel,artikel
 Astronomie,Astronomie
 Astronomie,Astronomie
@@ -432,6 +514,35 @@ Atom,Atom
 Atom,Atom
 Atom,Atom
 Atom,Atom
+auch,au
+auch,au
+auch,au
+auch,au
+auch,au
+auch,au
+auch,au
+auch,au
+auch,au
+auch,au
+auch,au
+auch,au
+auch,au
+auch,au
+auch,au
+auch,au
+auch,au
+auch,au
+auch,au
+auch,au
+auch,au
+auch,au
+auch,au
+auch,au
+auch,au
+auch,au
+auch,au
+auch,au
+auch,au
 auch,au
 auch,au
 auch,au
@@ -676,12 +787,35 @@ auf,uf
 auf,uf
 auf,uf
 auf,uf
+auf,uf
+auf,uf
+auf,uf
+auf,uf
+auf,uf
+auf,uf
+auf,uf
+auf,uf
+auf,uf
+auf,uf
+auf,uf
+auf,uf
+auf,uf
+auf,uf
+auf,uf
+auf,uf
+auf,uf
+auf,uf
+auf,uf
+auf dem,ufem
 auf den,uf dene
 auf der,uf dere
 auf ein (N),ufes
 auf einem,ufemne
+aufeinander,ufenand
 Aufgabe,Ufgab
 Aufgabe,Ufgab
+Aufgabe,Ufgab
+Aufgabe,ufgab
 Aufgabe,Ufgab
 Aufgabe,ufgab
 Aufgabe,ufgabe
@@ -692,12 +826,16 @@ Aufgabe,Ufgabe
 Aufgabe,Uufgaab
 Aufgabe,Uufgab
 Aufgabe,Uufgab
+Aufgabe,uufgab
+Aufgabe,uufgab
 Aufgaben,Ufgabe
 Aufgaben,Ufgabe
 Aufgaben,Ufgabe
 Aufgaben,Ufgabe
 Aufgaben,Ufgabe
 Aufgaben,ufgabe
+Aufgaben,ufgabe
+Aufgaben,Ufgabe
 Aufgaben,ufgabe
 Aufgaben,uufgabe
 aufgeschrieben,ufgschribe
@@ -711,8 +849,10 @@ aufgestellt,ufegstellt
 aufgezeichnet,ufzeichnet
 auflösen,uflöse
 auflösen,Uflöst
+auflöst (er/sie/es),uuflöst
 aufmachen,ufmache
 aufnehmen,ufneh
+aufnimmst (du),ufnimsch
 aufräumen,uufruume
 aufs,ufs
 Aufsatz,Ufsatz
@@ -720,16 +860,14 @@ Aufsatz,Ufsatz
 Aufsatz,Ufsatz
 Aufsatzbesprechung,Ufsatzbesprechig
 Aufsatzbesprechung,Ufsatzbesprechig
+Aufsätzen,uufsätz
+aufschieben,Ufschiebe
 Auftrag,Uftrag
 Auftrag,Uftrag
 Auftrag,Uftrag
 Auftrag,Uftrag
+Auftrag,uftrag
 aufzählen,ufzelle
-Aufzüge,Uftzgi
-Aufzüge,Ufzgi
-Aufzüge,ufzgi
-Aufzüge,ufzgi
-Aufzüge,ufzgi
 aus,aus
 aus,us
 aus,us
@@ -740,6 +878,9 @@ aus,us
 aus,us
 aus,us
 aus,us
+aus,us
+aus,us
+aus,uus
 aus,uus
 aus,uus
 aus dem,usem
@@ -751,8 +892,10 @@ ausfallende,usfallendi
 ausfällt (er/sie/es),usfallt
 ausfüllen,usfülle
 ausgedrückt,usdruckt
+ausgedruckten,usdruckte
 ausgefallen,usgfalle
 ausgenommen,usgno
+ausgleichen,uusgliche
 auslassen,usla
 ausschlafen,usschlaffe
 ausschlafen,uusschlafe
@@ -766,10 +909,12 @@ automatisch,automatisch
 automatisch,automatisch
 bald,bald
 bald,bald
+Base,base
 Bäumchen,Bäumli
 beantworten,beantworte
 beantworten,beantworte
 bedankt,bedankt
+bedeutet (er/sie/es),bedüted
 Bedeutung,Bedütig
 Bedeutung,Bedütig
 begreife,begriif
@@ -777,6 +922,18 @@ Begründung,Begründig
 behalten,phalte
 behandeln,behandle
 behandelt (er/sie/es),behandlet
+bei,bi
+bei,bi
+bei,bi
+bei,bi
+bei,bi
+bei,bi
+bei,bi
+bei,bi
+bei,bi
+bei,bi
+bei,bi
+bei,bi
 bei,bi
 bei,bi
 bei,bi
@@ -833,6 +990,8 @@ beide,beidi
 beide,beidi
 beiden,beide
 beiden,beidne
+beiden,beidne
+beides,beides
 beides,beides
 beides,beides
 beigelegt,beigelegt
@@ -841,9 +1000,16 @@ beim,bim
 beim,bim
 beim,bim
 beim,bim
+beim,bim
+beim,bim
+beim,bim
+beim,bim
+beim,bim
+Beispiel,bsp
 Beispiele,Biispiel
 beispielsweise,bispielswiis
 bekomme (ich),bechume
+bekommen,becho
 bekommen,becho
 bekommen,becho
 bekommen,becho
@@ -865,10 +1031,14 @@ bekommst,bechunsch
 bekommst (du),bechunsch
 bekommt (er/sie/es),bechunt
 bekommt (ihr),bechömed
+bekommt (ihr),bechömed
+beleidigt,beleidigt
 benennen,benenne
 benutzen,benutze
 benutzen,benutze
+benutzen,benutze
 benutzen (wir),benutzed
+benutzt (er/sie/es),benutzt
 Beobachtungen,Beobachtige
 beschlossen,beschlosse
 beschriften,beschrifte
@@ -894,6 +1064,7 @@ besseren,bessere
 besseres,besseres
 Besserung,Besserig
 Besserung,Besserig
+Besserung,Besserig
 bestätigen,bestätige
 bestehen (sie),bestönd
 besten,beste
@@ -905,12 +1076,17 @@ Bett,Bett
 bevor,bevor
 bevor,bevor
 bewusst,bewusst
+bewusst,bewusst
+bezahlen,bezahle
 bezweifle (ich),bezwifle
 Bild,Bild
 Bild,Bild
 Bild,Bild
 Bild,Bild
+Bild,bilder
 bildet (er/sie/es),bildet
+bin,bin
+bin,bin
 bin,bin
 bin,bin
 bin,bin
@@ -949,6 +1125,7 @@ bin ich,bini
 bin ich,bini
 bin ich,bini
 Bindungen,Bindige
+Binomialkoeffizienten,Binomialkoeffiziente
 Bio,Bio
 Bio,Bio
 Bio,Bio
@@ -961,6 +1138,9 @@ Bio,Bio
 Bio,Bio
 Bio,Bio
 Bio,Bio
+Bio,bio
+Bio,bio
+Bio,bio
 Biobuch,Biobuech
 Biologie,Bio
 Biostunde,Biostund
@@ -982,6 +1162,11 @@ bis,bis
 bis,bis
 bis,bis
 bis,bis
+bis,bis
+bis,bis
+bis,bis
+bis,bis
+bis,bis
 bist (du),bisch
 bist (du),bisch
 bist (du),bisch
@@ -1036,11 +1221,16 @@ bitte,bitte
 bitte,bitte
 bitte,bitte
 bitte,bitte
+Blankoscheck,Blankoscheck
 Blatt,Blatt
 Blatt,Blatt
 Blatt,Blatt
 Blatt,Blatt
 Blatt,Blatt
+Blatt,blatt
+Blatt,blatt
+Blatt,blatt
+Blatt,blatt
 Blatt,blatt
 Blätter,Blätter
 Blätter,Blätter
@@ -1048,7 +1238,9 @@ Blätter,Blätter
 Blätter,Blätter
 Blätter,Blätter
 Blätter,Blätter
+Blätter,Blätter
 Blätter,Bletter
+Blätter,bletter
 Blättern,Blätter
 Blättern,Blätter
 bleiben,bliibe
@@ -1059,11 +1251,16 @@ blöd,blöd
 blöd,blöd
 blöd,blööd
 Blut,Bluet
+Blut,bluet
 Blutkörper,blutkörper
 Bock,Bock
 Bombe,Bombe
 Bonuspunkte,Bonuspünkt
 Bonuspunkte,Bonuspünkt
+Boss,boss
+Bote,Bote
+Boten,bote
+Botenbrief,botenbrief
 brauche ich,bruchi
 brauchen,bruche
 brauchen,bruche
@@ -1073,6 +1270,7 @@ brauchen (wir),brucht
 brauchen (wir),brucht
 brauchen wir,bruchemer
 brauchst (du),bruchsch
+braucht (er/sie/es),brucht
 braucht (er/sie/es),brucht
 braucht es,bruuchts
 bräuchte es (ich),brüchts
@@ -1087,7 +1285,9 @@ bringt (er/sie/es),bringt
 bringt (er/sie/es),bringt
 bringt (er/sie/es),bringt
 bringt (er/sie/es),bringt
+bringt (er/sie/es),bringt
 bringt es,bringts
+Bruder,brüeder
 Buch,Buech
 Buch,Buech
 Buch,Buech
@@ -1101,8 +1301,12 @@ Buch,Buech
 Buch,buech
 Buch,buech
 Buch,buech
+Buch,buech
+Buch,buech
+Buch,Buech
 Buchseite,Buechsite
 Buchstaben,Buechstabe
+Bündnis,Bündniss
 Bus,Bus
 Bus,Bus
 Bus,Bus
@@ -1114,11 +1318,16 @@ Chance,Chance
 charakteristische,charackteristischi
 Chat,Chat
 Chat,Chat
+Chat,chat
+Chat,chat
+Chat,chat
+Chat,chat
 Chatteilnehmer,Chatteilnehmer
 checke (ich),check
 checke (ich),check
 checke (ich),check
 checke (ich),tschegg
+checke (ich),tscheggs
 checke es (ich),checks
 checke es (ich),checks
 checke es (ich),checks
@@ -1149,7 +1358,14 @@ Chemie,Chemie
 Chemie,Chemie
 Chemie,Chemie
 Chemie,chemie
+Chemie,chemie
+Chemie,chemie
+Chemie,chemie
+Chemie,chemie
+Chemie,chemie
+Chemie,chemie
 Chemie,Physik
+Chemieleitprogramm,chemieleitprogramm
 Chemielernziel,chemielernziel
 chemische,chemische
 cool,cool
@@ -1157,6 +1373,11 @@ coole,cooli
 Corona,Corona
 Corona,Corona
 Corona-Test,Corona-Test
+Cumulonimbus,cumolonimbus
+da,da
+da,da
+da,da
+da,da
 da,da
 da,da
 da,da
@@ -1211,6 +1432,7 @@ damit,demit
 damit,demit
 damit es,damits
 dankbar,dankbar
+danke,dank
 danke,dankä
 danke,dankä
 danke,dankä
@@ -1353,6 +1575,20 @@ danke,danke
 danke,danke
 danke,danke
 danke,danke
+danke,danke
+danke,danke
+danke,danke
+danke,danke
+danke,danke
+danke,danke
+danke,danke
+danke,danke
+danke,danke
+danke,danke
+danke,danke
+danke,danke
+danke,Danke
+danke,dankeee
 danke,merci
 danke,merci
 danke,merci
@@ -1377,6 +1613,10 @@ danke,merci
 danke,merci
 danke,merci
 danke,merci
+danke,merci
+dann,dänn
+dann,dänn
+dann,dänn
 dann,dänn
 dann,dänn
 dann,dänn
@@ -1428,7 +1668,21 @@ dann,denn
 dann,denn
 dann,denn
 dann,denn
+dann,denn
+dann,denn
+dann,denn
+dann,denn
+dann,denn
+dann,denn
+dann,denn
+dann,denn
+dann,denn
+dann,denn
+dann,denn
+dann,denn
 dänn,dann
+daran,dra
+darauf,druf
 darauf,druf
 daraufgestossen,drufgstosse
 daraus,drus
@@ -1436,10 +1690,15 @@ darf (er/sie/es),därf
 darf es,derfs
 darfst (du),derfsch
 darfst du,dörfsch
+dargestellt,dargstellt
+Darstellungen,Darstellige
 darum,darum
 darum,darum
 darum,darum
 darum,darum
+darum,darum
+darum,darum
+darum,drum
 darum,drum
 darum,drum
 darum,drum
@@ -1608,6 +1867,39 @@ das,Das
 das,das
 das,das
 das,das
+das,das
+das,das
+das,das
+das,das
+das,das
+das,das
+das,das
+das,das
+das,das
+das,das
+das,das
+das,das
+das,das
+das,das
+das,das
+das,das
+das,das
+das,das
+das,das
+das,das
+das,das
+das,das
+das,das
+das,das
+das,das
+das,das
+das,das
+das,das
+das,das
+das,das
+das,das
+das,das
+das,das
 das,dass
 das,es
 das,es
@@ -1616,6 +1908,19 @@ das,es
 das,es
 das,es
 das,es
+das,s
+das,s
+das,s
+das,s
+das,s
+das,s
+das,s
+das,s
+das,s
+das,s
+das,s
+das,s
+das,s
 das,s
 das,s
 das,s
@@ -1665,6 +1970,7 @@ das chemische,s‘chemische
 das Fazit,sfazit
 das ganze,s’ganze
 das Gefühl,sgfühl
+das gleiche,s‘gliche
 das Gleiche,sgliche
 das Gleiche,sgliche
 das Gleiche,sgliche
@@ -1673,6 +1979,8 @@ das Massenwirkungsgesetz,s‘Massewürkigsgsetz
 das Merkblatt,smerkblatt
 das Projekt,sProjekt
 das Silberblech,sSilberblech
+das Thema,sthema
+das Unternehmen,s‘unternehme
 das wievielte,s‘wievielte
 dass,das
 dass,das
@@ -1690,6 +1998,18 @@ dass,das
 dass,das
 dass,das
 dass,das
+dass,das
+dass,das
+dass,das
+dass,dass
+dass,dass
+dass,dass
+dass,dass
+dass,dass
+dass,dass
+dass,dass
+dass,dass
+dass,dass
 dass,dass
 dass,dass
 dass,dass
@@ -1735,9 +2055,11 @@ dass,dass
 dass,des
 dass,dess
 dass,dess
+Daten,date
 Datenschutz,Dateschutz
 Datenschutz,Dateschutz
 Datenschutz,Dateschutz
+Datum,Datum
 dazu,dazue
 dazu,dazue
 dazu,dezue
@@ -1746,6 +2068,7 @@ dazu,dezue
 dazunehmen,dezueneh
 definitiv,definitiv
 deine,dini
+deine (pl.),dini
 dem,de
 dem,de
 dem,de
@@ -1767,6 +2090,16 @@ dem,dem
 dem,dem
 dem,dem
 dem,dem
+dem,dem
+dem,dem
+dem,dem
+dem,dem
+dem,dem
+dem,dem
+dem,dem
+dem,dem
+dem,em
+dem,em
 dem,em
 dem,em
 dem,em
@@ -1829,30 +2162,55 @@ den,de
 den,de
 den,de
 den,de
+den,de
 den,wo
 den,wo
 den,wo
 den (M),de
+den (M),de
+den (M),de
+den (M),de
+den (M),de
+den (M),de
+den (M),de
+den (M),de
+den (M),de
+den (M),de
+den (M),de
+den (M),de
+den (M),de
+den (pl.),de
+den (pl.),de
+den (pl.),de
 den (pl.),dene
 den (pl.),dene
 den (pl.),dene
 den (pl.),dene
 den (pl.),dene
 den (pl.),dene
+denen,dene
 denke (ich),denk
 denke (ich),denk
 denke (ich),denk
 denke (ich),denk
 denke (ich),denk
+denken (wir),denked
 denn,denn
 denn,denn
 denn,denn
 denn,denn
+denn,denn
 der,dä
 der,dä
 der,dä
 der,dä
 der,dä
+der,de
+der,de
+der,de
+der,de
+der,de
+der,de
 der,de
 der,de
 der,de
@@ -1932,15 +2290,38 @@ der,der
 der,der
 der,der
 der,der
-der (F),dere
-der (F),dere
 der,wo
 der,wo
 der (F),de
 der (F),de
 der (F),de
 der (F),de
+der (F),de
+der (F),de
+der (F),de
+der (F),de
+der (F),de
+der (F),de
+der (F),de
+der (F),de
+der (F),de
+der (F),de
+der (F),de
+der (F),de
+der (F),dere
+der (F),dere
+der (M),de
+der (M),de
+der (M),de
+der (M),de
+der (M),de
+der (M),de
+der (M),de
+der (M),de
+der (M),de
+der (M),de
 deswegen,wege dem
+detaillierter,detaillierter
 Deutsch,Dütsch
 Deutsch,Dütsch
 Deutsch,Dütsch
@@ -1957,6 +2338,7 @@ Deutsch,Dütsch
 Deutsch,Dütsch
 Deutsch,Dütsch
 Deutsch,Dütsch
+Deutschland,Dütschland
 Dezember,Dezember
 Dezimalzahl,Dezimalzahl
 dialektisch,dialektisch
@@ -2018,6 +2400,7 @@ die,d
 die,d
 die,d
 die,d
+die,d
 die,de
 die,de
 die,de
@@ -2032,12 +2415,17 @@ die,di
 die,di
 die,di
 die,di
+die,di
 die,diä
 die,diä
 die,diä
 die,diä
 die,diä
 die,diä
+die,die
+die,die
+die,die
+die,die
 die,die
 die,die
 die,die
@@ -2123,6 +2511,29 @@ die,wo
 die,wo
 die,wo
 die,wo
+die,wo
+die,wo
+die,wo
+die,wo
+die,wo
+die (F),d
+die (F),d
+die (F),d
+die (F),d
+die (F),d
+die (F),d
+die (F),d
+die (F),d
+die (F),d
+die (F),die
+die (F),die
+die (F),die
+die (F),t
+die (pl.),d
+die (pl.),diä
+die (pl.),Diä
+die (pl.),diä
+die (pl.),diä
 die (pl.),die
 die (pl.),die
 die (pl.),die
@@ -2133,6 +2544,11 @@ die (pl.),die
 die (pl.),die
 die (pl.),die
 die (pl.),die
+die (pl.),Die
+die (pl.),die
+die (pl.),die
+die (pl.),die
+die (pl.),t
 die Abwehr,d'abwehr
 die Abwehr,d'abwehr
 die Aufgabe,d’Ufgabe
@@ -2146,12 +2562,15 @@ die Prüfung,dprüefig
 die Sätze,dsätz
 die Schale,dschale
 die Schule,dschuel
+die Seite,dsiite
 die Seite,dsite
+die Stelle,d‘stell
 die Strukturen,dstrukture
 die Vase,dvase
 die Verdauung,dverdauung
 die Wörter,dwörter
 Dienstag,zistig
+dir,der
 dir,der
 dir,der
 dir,dir
@@ -2162,7 +2581,12 @@ dir,dir
 direkt,direkt
 Disaccharidase,Disaccharidase
 Disaccharidase,disaccharidase
+Disaccharide,disaccharid
 doch,do
+doch,doch
+doch,doch
+doch,doch
+doch,doch
 doch,doch
 doch,doch
 doch,doch
@@ -2198,6 +2622,7 @@ Donnerstag,Dunnschtig
 Donnerstag,Dunnstig
 Donnerstag,Dunnstig
 Donnerstag,Dunnstig
+Donnerstag,Dunnstig
 Donnerstag,Dunschtig
 Donnerstag,Dunschtig
 Donnerstag,Dunstig
@@ -2208,20 +2633,27 @@ Dorf,Dorf
 dort,det
 dort,det
 dort,det
+dort,det
+dort,dete
 dort,dete
 dort,dete
 dort,dete
 dort,döt
 dort,döt
 dort,döt
+dort,döt
+dort,dötte
 Dossier,Dossier
 Dossier,Dossier
 Dossier,Dossier
 Dossier,dossier
 Dossier,Dossier
 Dossier,dossier
+dran,dra
 dran,drah
 draussen,drüse
+drei,drüü
+Dreibund,Dreibund
 dreifach,drüfach
 drinnen,drinne
 drücken,drucke
@@ -2266,19 +2698,31 @@ du,du
 du,du
 du,du
 du,du
+du,du
+du,du
+du,du
+du,du
+du,du
 du es,dus
 du kannst,chasch
+du musst,muesch
+du willst,wetsch
 dümmer,dümmer
 dunklen,dunkle
 dunklen,dunkle
+durch,dur
+durch,durch
+durch,durch
 durch,durch
 durch,dure
 durch,dure
 durch,dure
 durchlesen,durelese
+Durchmesser,durchmesser
 durchzulesen,durezläse
 durchzuziehen,durezzieh
 dürfen (wir),def
+dürfen (wir),derf
 dürfen (wir),derf
 dürfen (wir),derf
 dürfen (wir),derfed
@@ -2304,6 +2748,11 @@ eben,ebe
 eben,ebe
 eben,ebe
 eben,ebe
+eben,ebe
+eben,ebe
+eben,ebe
+eben,ebe
+ebenfalls,ebefalls
 echt,ächt
 echt,echt
 echt,echt
@@ -2317,6 +2766,7 @@ echt,echt
 echt,echt
 echt,echt
 echt,echt
+echten,echte
 echten,echte
 Edukt,Edukt
 egal,egal
@@ -2337,12 +2787,19 @@ eher,eher
 eher,eher
 eher,eher
 eher,eher
+eher,eher
+ehrlich,ehrlich
 Eier,Eier
 eigene,eigeni
 eigentlich,eig
 eigentlich,eig
 eigentlich,eig
 eigentlich,eig
+eigentlich,eig
+eigentlich,eig
+eigentlich,eig
+eigentlich,eig
+eigentlich,eigentlich
 eigentlich,eigentlich
 eigentlich,eigentlich
 eigentlich,eigentlich
@@ -2376,7 +2833,10 @@ ein,es
 ein,es
 ein,es
 ein,es
+ein,es
 ein,s
+ein (M),en
+ein (M),en
 ein (M),en
 ein (M),en
 ein (N),äs
@@ -2391,6 +2851,7 @@ ein (N),es
 ein (N),es
 ein (N),es
 ein (N),es
+ein (N),es
 ein (N),s
 ein (N),s
 ein Bisschen,chli
@@ -2403,6 +2864,8 @@ ein Bisschen,chli
 ein Bisschen,chli
 ein Bisschen,chli
 ein Bisschen,chli
+ein Bisschen,chli
+ein Bisschen,chlin
 ein Bisschen,e chli
 ein Bisschen,echli
 ein Bisschen,echli
@@ -2446,6 +2909,20 @@ eine,e
 eine,e
 eine,e
 eine,e
+eine,e
+eine,e
+eine,e
+eine,e
+eine,e
+eine,e
+eine,e
+eine,e
+eine,e
+eine,e
+eine,e
+eine,e
+eine,ei
+eine,ei
 eine,ei
 eine,ei
 eine,eine
@@ -2455,8 +2932,10 @@ eine,eini
 eine,eini
 eine (das),einte
 eine (der),einte
+einem,emene
 einem,ne
 einen,än
+einen,eine
 einen,einte
 einen,einte
 einen,en
@@ -2473,9 +2952,15 @@ einen,en
 einen,en
 einen,en
 einen,en
+einen,en
+einen,en
+einer,e
+einer,e
+einer,eine
 einer,eine
 einer,einere
 einer,ere
+einer (F),ei
 einfach,efach
 einfach,efach
 einfach,efach
@@ -2484,6 +2969,7 @@ einfach,efach
 einfach,eif
 einfach,eif
 einfach,eif
+einfach,eif
 einfach,eifach
 einfach,eifach
 einfach,eifach
@@ -2513,8 +2999,13 @@ einfach,eifach
 einfach,eifach
 einfach,eifach
 einfach,eifach
+einfach,eifach
+einfach,eifach
+einfacher,eifacher
 Einfürung,Ifüerig
 eingebeh,iigeh
+eingeben,igeh
+eingegeben,iigeh
 Einheit,einheit
 einmal,eimal
 einschreiben,iischribe
@@ -2527,8 +3018,11 @@ einzige,einzig
 einzige,einzige
 einzige,einzigi
 Eisen,Ise
+Eiweiss,eiweiss
 Eiweiss,Eiwiis
 Eiweiss,Eiwiss
+Eiweiss,eiwiss
+Eiweisse,eiwiis
 Elektriker,elektriker
 elektrischen,elektrisches
 elektrisches,elektrisches
@@ -2548,7 +3042,10 @@ Email,Mail
 Email,Mail
 Email,Mail
 Email,Mail
+Email,mail
+Email,mail
 Emails,Mails
+endoplasmatischen,endoplasmatische
 endoplasmatischen,endoplasmatische
 engagiert,engagiert
 engagiert,engagiert
@@ -2564,9 +3061,14 @@ Englisch,Englisch
 Englisch,Englisch
 Englisch,Englisch
 Englisch,Englisch
+Englisch,englisch
+Englisch,englisch
+Englisch,Englisch
 englischen,englisch
 entleeren,entleere
 entspringen (sie),entspringed
+entstehen (sie),entstönd
+entstehen (sie),entstönd
 entstehen (sie),entstönd
 entsteht (er/sie/es),entstaht
 entsteht (er/sie/es),entstaht
@@ -2575,7 +3077,17 @@ entweder,entweder
 entweder,entweder
 Enzym,enzym
 Enzym,Enzym
+Enzym,enzym
+Enzym,enzym
+Enzyme,enzym
+Enzyme,enzym
+Enzyme,enzym
 Enzyme,Enzyme
+Enzymen,enzym
+Epithel,epithel
+er,er
+er,er
+er,er
 er,er
 er,er
 er,er
@@ -2608,11 +3120,15 @@ er,er
 er,er
 er es,ers
 Erde,Erde
+Erde,erde
+Erdmagnetfeld,erdmagnetfeld
 Erdmagnetfeld,erdmagnetfeld
 Ergebnis,Ergebnis
 Ergebnis,ergebniss
 ergibt (er/sie/es),ergitt
+erholt (ihr),erholed
 Erkältung,Erchältig
+erkennen,erchänne
 erklären,echläre
 erklären,erchläre
 erklären,erchläre
@@ -2627,6 +3143,7 @@ Erörterung,Erörterig
 erst,ersch
 erst,ersch
 erst,ersch
+erst,ersch
 erst,erscht
 erst,erscht
 erst,erscht
@@ -2638,6 +3155,7 @@ erste,erste
 ersten,erschte
 ersten,erschte
 ersten,erschte
+ersten (pl.),erschte
 erster,erschts
 Erwartungswert,Erwartigswert
 Erythrozyte,Erythrozyte
@@ -2713,10 +3231,21 @@ es,es
 es,es
 es,es
 es,es
+es,es
+es,es
+es,es
+es,es
+es,Es
+es,es
+es,es
+es,es
 es,s
 es,s
 es,s
 es,s
+es dort,sdete
+es ist,isch
+eskaliert es,eskalierts
 esse (ich),esse
 etwas,öbis
 etwas,öbis
@@ -2725,6 +3254,10 @@ etwas,öbis
 etwas,öbis
 etwas,öbis
 etwas,öbis
+etwas,öbis
+etwas,öpis
+etwas,öppis
+etwas,öppis
 etwas,öppis
 etwas,öppis
 etwas,öppis
@@ -2742,6 +3275,10 @@ euch,eu
 euch,eu
 euch,eu
 euch,eu
+euch,eu
+euch,eu
+euch,eu
+euch,oi
 euch,oi
 euer,oie
 eures,oies
@@ -2763,6 +3300,7 @@ fällt (er/sie/es),fallt
 fällt (er/sie/es),fallt
 fällt (er/sie/es),fallt
 fällt (er/sie/es),fallt
+fällt (er/sie/es),fallt
 falsch,falsch
 falsch,falsch
 falsch,falsch
@@ -2771,6 +3309,11 @@ falsch,falsch
 falsch,falsch
 falsch,falsch
 falsch,falsch
+falsch,falsch
+falsch,falsch
+falsch,falsch
+falscher (M),falsche
+Fan,Fan
 fände (ich),fänd
 fände es,fänds
 fände es,fänds
@@ -2784,6 +3327,9 @@ fände ich,fändi
 fände ich,fändi
 fände ich,fändi
 fändet ihr,findeder
+fängt (er/sie/es),fangt
+fängt (er/sie/es),fangt
+fängt es,fangts
 fast,fascht
 fast,fascht
 Fehler,fähler
@@ -2794,6 +3340,7 @@ fehlt (er/sie/es),fehlt
 Feld,Feld
 Feld,Feld
 Ferien,Ferie
+Ferien,ferie
 fertig,fertig
 fertig,fertig
 fertig,fertig
@@ -2805,6 +3352,7 @@ Feuchtigkeit,füechtigkeit
 Feuerwehr,fürwehr
 Fieber,Fieber
 Film,Film
+Film,filme
 finde,find
 finde,find
 finde (ich),find
@@ -2815,6 +3363,7 @@ finde es (ich),finds
 finde es (ich),finds
 finde es (ich),finds
 finde es (ich),finds
+finde es (ich),finds
 finde ich,findi
 finde ich,findi
 finde ich,findi
@@ -2822,25 +3371,31 @@ finde ich,findi
 finde ich,findi
 finde ich,findi
 finde ich,findi
+finden,finde
 finden (sie),findet
 finden (wir),findet
 Firmung,Firmig
 Firmung,Firmig
 Fläche,Flächi
 Fläche,Flächi
+Flächeberechnung,flöcheberechnig
+flussdichten (pl.),flussdichti
 fördert (er/sie/es),förderet
 Form,Form
 Form,Form
+Form,form
 Formel,Formel
 Formel,Formel
 Formel,Formle
 Formel,Formle
+Formel,formle
 Formelbüchlein,Formelbüechli
 Formeln,Formle
 Formeln,formle
 Formeln,formle
 Formeln,formle
 Formelsammlung,Formelsammlig
+Formelsammlung,formelsammlig
 formuliert,formuliert
 Foto,Foti
 fotografisches,fotografischs
@@ -2856,10 +3411,12 @@ Fragen,Frage
 Fragen,Frage
 Fragen,fröge
 fragen,fröge
+fragen,fröge
 fragst (du),frögsch
 fragst (du),frögt
 Franken,Franke
 Franken,Franke
+Frankreich,Frankrich
 Frankreich,Frankrich
 Franz,franz
 Franzbuch,Franzbuech
@@ -2870,6 +3427,14 @@ Französisch,Franz
 Französisch,Franz
 Französisch,franz
 Französisch,Franz
+französisch,franz
+französisch,franz
+französisch,franz
+französisch,franz
+französisch,Franz
+französisch,französisch
+französischen,französich
+Französischtest,Franztescht
 Frau,Frau
 Frau,Frau
 Frau,Frau
@@ -2885,11 +3450,14 @@ freie,frei
 freien,freie
 Freifach,Freifach
 Freifach,Freifach
+Freifach,freifach
 Freistunde,Freistund
 Freitag,Friitig
 Freitag,Friitig
 Freitag,Friitig
 Freitag,Friitig
+Freitag,friitig
+Freitag,friitig
 Freitag,Fritig
 Freitag,Fritig
 Freitag,Fritig
@@ -2908,6 +3476,8 @@ freuen,freue
 freut (er/sie/es),freut
 frog,frooh
 froh,froh
+froh,froh
+froh,froh
 frohe,frohi
 frohe,frohi
 früher,früehner
@@ -2922,8 +3492,11 @@ fühle es (ich),fühls
 fühlen,fühle
 führen,führe
 Funktion,Funktion
+Funktionen,funktion
 Funktionen,Funktione
 funktionieren,funktioniere
+funktioniert (er/sie/es),funktioniert
+funktioniert (er/sie/es),funktioniert
 funktioniert (er/sie/es),funktioniert
 für,für
 für,für
@@ -2968,12 +3541,32 @@ für,für
 für,für
 für,für
 für,für
+für,für
+für,für
+für,für
+für,für
+für,für
+für,für
+für,für
+für,für
+für,für
+für,für
+für,für
+für,für
+für,für
+für,für
+für,für
+für,für
+für die,fürd
 für die,fürd
 fürs,fürs
 fürs,fürs
 Gabeln,Gable
+Galactose,galactose
 Galerie,Galerie
 Galerie,Galerie
+ganz,ganz
+ganz,ganz
 ganz,ganz
 ganz,ganz
 ganz,ganz
@@ -3008,6 +3601,7 @@ gar,gar
 gar,gar
 gar,gar
 gar,gar
+gar nicht,garnöd
 gat,gar
 gebe (ich),gib
 geben,geh
@@ -3015,12 +3609,18 @@ geben,geh
 geben,geh
 Gebiet,Gebiet
 Gebieten,Gebiete
+gebracht,bracht
+gebracht,bracht
 gebraucht,gbrucht
+gecheckt,checkt
+gecheckt,checkt
 gecheckt,checkt
 gedacht,dacht
 gedacht,denkt
 gedacht,denkt
+gedacht,denkt
 Gedächtnis,Gedächtnis
+geerdet,geerdet
 gefacht,gdacht
 gefährden,gfährde
 gefragt,gefrögt
@@ -3054,6 +3654,8 @@ gegangen,gange
 gegangen,go
 gegangen,go
 gegeben,geh
+gegeben,geh
+gegeben,geh
 gegen,geg
 gegen,gege
 Gegensatz,Gegesatz
@@ -3070,7 +3672,10 @@ gehabt,gha
 gehabt,gha
 gehabt,gha
 gehabt,gha
+gehabt,gha
 gehackt,ghackt
+Gehalt,ghalt
+gehen,gah
 gehen,gah
 gehen,gah
 gehen,gah
@@ -3078,11 +3683,18 @@ gehen,gah
 gehen,go
 gehen,go
 gehen,go
+gehört,ghört
 gehört,köhrt
 gehst (du),gahsch
 geht (er/sie/es),gaat
 geht (er/sie/es),gaat
 geht (er/sie/es),gaat
+geht (er/sie/es),gaht
+geht (er/sie/es),gaht
+geht (er/sie/es),gaht
+geht (er/sie/es),gaht
+geht (er/sie/es),gaht
+geht (er/sie/es),gaht
 geht (er/sie/es),gaht
 geht (er/sie/es),gaht
 geht (er/sie/es),gaht
@@ -3108,15 +3720,19 @@ gekocht,kocht
 gekommen,cho
 gekommen,cho
 gekommen,cho
+gekostet,koschtet
 geladen,glade
 geladen,glade
 geladen,glade
 geladen,glade
+geladenes,gladens
 gelb,gel
+Geld,geld
 gelernt,glernt
 gelernt,glernt
 gelernt,glernt
 gelernt,glernt
+gelesen,glese
 gelesen,glese
 gelesen,glese
 gelesen,glese
@@ -3132,6 +3748,10 @@ gelöst,glöst
 gelöst,glöst
 gelöst,glöst
 gelöst,glöst
+gelöst,glöst
+gemacht,gmacht
+gemacht,gmacht
+gemacht,gmacht
 gemacht,gmacht
 gemacht,gmacht
 gemacht,gmacht
@@ -3168,6 +3788,12 @@ genau,genau
 genau,genau
 genau,genau
 genau,genau
+genau,genau
+genau,genau
+genau,genau
+genau,genau
+genau,genau
+genau,gnau
 genau,gnau
 genau,gnau
 genaue,genaui
@@ -3201,6 +3827,7 @@ gerne,gern
 gerne,gern
 gerne,gern
 gerne,gern
+gerne,gern
 gerne,gerne
 gesagt,gseit
 gesagt,gseit
@@ -3225,14 +3852,23 @@ gesagt,gseit
 gesagt,gseit
 gesagt,gseit
 gesagt,gseit
+gesagt,gseit
+gesagt,gseit
+gesagt,gseit
+geschaut,gleugt
 geschaut,gluegt
 geschaut,gluegt
+Geschenkchen,Gschänkli
 Geschichte,Geschichte
 Geschichte,Gschicht
 Geschichte,Gschicht
 Geschichte,gschicht
 Geschichte,gschicht
 Geschichte,gschicht
+Geschichte,gschicht
+Geschichte,Gschicht
+Geschichtsprüfung,gschichtsprüefig
+geschickt,gschickt
 geschickt,gschickt
 geschickt,gschickt
 geschickt,gschickt
@@ -3242,6 +3878,7 @@ geschickt,gschickt
 geschickt,gschickt
 geschickt,gschickte
 geschlossene,gschlossnigi
+geschoben,gschobe
 geschossen,gschosse
 geschrieben,gschribe
 geschrieben,gschribe
@@ -3255,6 +3892,7 @@ gesehen,gseh
 gesehen,gseh
 gesehen,gseh
 gestellt,gstellt
+gestern,gester
 gestern,gester
 gestrichen,gschtriche
 gestrichen,gstriche
@@ -3272,13 +3910,20 @@ gewesen,gsi
 gewesen,gsi
 gewesen,gsi
 gewesen,gsi
+gewesen,gsi
+gewesen,gsi
+gewesen,gsi
 gewesen,gsie
 gewesen,gsii
 gewesen,gsii
+gewichtelt,gwichtlet
 Gewichtskraft,Gwichtschraft
 gewisser,gwüsse
 Gewitter,Gwitte
 Gewitterwolken,Gwitterwulche
+gewonnen,gwunne
+gewusst,gwüsst
+gewusst,gwüsst
 gewusst,gwüsst
 gibt (er/sie/es),git
 gibt (er/sie/es),git
@@ -3292,7 +3937,11 @@ gibt es,gits
 gibt es,gits
 gibt es,gits
 gibt es,gits
+gibt es,gits
+gibt es,gits
 gilt (er/sie/es),gilt
+glaube (ich),glaub
+glaube (ich),glaub
 glaube (ich),glaub
 glaube (ich),glaub
 glaube (ich),glaub
@@ -3371,8 +4020,13 @@ glaube ich,glaub
 glaube ich,glaub
 glaube ich,glaub
 glaube ich,glaub
+glaube ich,glaub
+glaube ich,glaub
+glaube ich,glaub
 glaube ich,glaubi
 glaube ich,glaubi
+glaube ich,glaubs
+glaube ich,glaubs
 glaube ich,glaubs
 glaube ich,glaubs
 glaube ich,glaubs
@@ -3388,6 +4042,7 @@ gleich,glich
 gleich,glich
 gleich,glich
 gleiche,glich
+gleiche,gliche
 gleiche,gliche
 gleiche,gliich
 gleiche,gliich
@@ -3409,15 +4064,20 @@ Gleichgewicht,Gliichgwicht
 Gleichgewicht,gliichgwicht
 Gleichungen,Gliichige
 Gleichungssystem,Glichigssystem
+Gleichungssystem,gliichigssystem
 Glimmlampe,Glimmlampe
+Glimmlampe,glimmlampe
 Glück,Glück
+Glucose,Glucose
 Glucose,Glucose
 Glukagon,Glukagon
 Glykogen,glykogen
+gönne (ich),gönn
 Grad,Grad
 Grammatik,Grammatik
 Grammatik,Grammatik
 gröber,gröber
+gross,gross
 gross,gross
 grossen,grosse
 grosser,grosse
@@ -3439,6 +4099,9 @@ Gruppe,Gruppe
 Gruppenchat,Gruppechat
 Gruppenthemen,gruppethemene
 gültig,gültig
+günstiger,günstiger
+gut,guet
+gut,guet
 gut,guet
 gut,guet
 gut,guet
@@ -3479,6 +4142,8 @@ gute,gueti
 gute,gueti
 gute,gueti
 gute,gueti
+gute (F),guete
+gute (F),gueti
 gutes,guets
 gutes,guets
 gutes,guets
@@ -3509,6 +4174,14 @@ habe (ich),ha
 habe (ich),ha
 habe (ich),ha
 habe (ich),ha
+habe (ich),ha
+habe (ich),han
+habe (ich),han
+habe (ich),han
+habe (ich),han
+habe (ich),han
+habe (ich),han
+habe (ich),han
 habe (ich),han
 habe (ich),han
 habe (ich),han
@@ -3577,11 +4250,15 @@ habe es (ich),hans
 habe es (ich),hans
 habe es (ich),hans
 habe es (ich),hans
+habe es (ich),hans
 habe es (ich),has
 habe es (ich),has
 habe es (ich),has
 habe ich,han
 habe ich,han
+habe ich,hani
+habe ich,hani
+habe ich,hani
 habe ich,hani
 habe ich,hani
 habe ich,hani
@@ -3601,6 +4278,13 @@ haben,ha
 haben,haa
 haben (sie),hand
 haben (sie),händ
+haben (sie),händ
+haben (sie),händ
+haben (sie),hend
+haben (sie),hend
+haben (sie),hend
+haben (sie),hend
+haben (sie),hend
 haben (sie),hend
 haben (sie),hend
 haben (sie),hend
@@ -3615,6 +4299,7 @@ haben (wir),händ
 haben (wir),händ
 haben (wir),händ
 haben (wir),händ
+haben (wir),hend
 haben (wir),hend
 haben (wir),hend
 haben (wir),hend
@@ -3686,6 +4371,14 @@ haben wir,hemmer
 haben wir,hemmer
 haben wir,hemmer
 haben wir,hemmer
+haben wir,hemmer
+haben wir,hemmer
+haben wir,hemmer
+haben wir,hemmer
+haben wir,hemmer
+haben wir,hemmer
+haben wir,hemmer
+haben wir,hemmr
 haben wir,hemmr
 haben wir,hemmr
 haben wir,hemmr
@@ -3694,8 +4387,12 @@ habt (ihr),hend
 habt (ihr),hend
 habt (ihr),hend
 habt (ihr),hend
+habt (ihr),hend
+habt (ihr),hend
+habt ihr,hender
 habt ihr,hender
 halb,halb
+halb,halbi
 Hälfte,Helfti
 halt,halt
 halt,halt
@@ -3718,14 +4415,20 @@ halt,halt
 halt,halt
 halt,halt
 halt,halt
+halt,halt
+halt,halt
+halt,halt
+halt so,haltso
 haltbar,haltbar
 halten,hebe
 Hammer,hammer
 Hand,Hand
+Hand,hand
 handgeschrieben,handgschriebe
 hasse (ich),hasse
 hässig,hässig
 hast (du),häsch
+hast (du),hesch
 hast (du),hesch
 hast (du),hesch
 hast (du),hesch
@@ -3837,6 +4540,17 @@ hat (er/sie/es),het
 hat (er/sie/es),het
 hat (er/sie/es),het
 hat (er/sie/es),het
+hat (er/sie/es),het
+hat (er/sie/es),het
+hat (er/sie/es),het
+hat (er/sie/es),het
+hat (er/sie/es),het
+hat (er/sie/es),het
+hat (er/sie/es),het
+hat (er/sie/es),het
+hat (er/sie/es),het
+hat (er/sie/es),het
+hat (er/sie/es),het
 hat (er/sie/es),hett
 hat (er/sie/es),hett
 hat (er/sie/es),hett
@@ -3844,11 +4558,16 @@ hat (er/sie/es),hett
 hat (er/sie/es),hett
 hat es,hets
 hat es,hets
-hat es (er),hets
+hat es (er/sie/es),hets
+hat es (er/sie/es),hets
+hat es (er/sie/es),Hets
+hätte (er/sie/es),het
+hätte (er/sie/es),hette
 hätte (er/sie/es),hetti
 hätte (ich),het
 hätte (ich),het
 hätte (ich),het
+hätte (ich),hett
 hätte (ich),hett
 hätte (ich),hett
 hätte (ich),hett
@@ -3868,9 +4587,18 @@ hätten wir,hettemer
 hättest (du),hetsch
 hättest (du),hetsch
 hättest (du),hettisch
+Hausaufgaben,Uftzgi
+Hausaufgaben,Ufzgi
+Hausaufgaben,ufzgi
+Hausaufgaben,ufzgi
+Hausaufgaben,ufzgi
+Hausaufgaben,ufzgi
+Hausaufgaben,ufzgi
 Haut,Hut
+Heft,heft
 heikel,heikel
 heissen,heisse
+heisst (er/sie/es),heisst
 heisst (er/sie/es),heisst
 heisst (er/sie/es),heisst
 heisst (er/sie/es),heisst
@@ -3881,6 +4609,7 @@ heisst du,heissisch
 heisst es,heissts
 heisst es,heissts
 heisst es,heissts
+heisst es,heissts
 Held,Held
 helfen,helfe
 helfen,helfe
@@ -3888,7 +4617,11 @@ helfen,helfe
 her,her
 her,her
 heraus,use
+herausfinden,usefinde
+herausfinden,usefinde
+herausgefunden,usegfunde
 herein,ine
+hergestellt,hergstellt
 hergestellt,hergstellt
 hergestellt,hergstellt
 Herr,Herr
@@ -3899,6 +4632,8 @@ Herrn,Herr
 Herrn,Herr
 herzerwärmend,herzerwärmend
 heute,hut
+heute,hüt
+heute,hüt
 heute,hüt
 heute,hüt
 heute,hüt
@@ -3920,11 +4655,14 @@ hoch,hoch
 hoch,hoch
 hoch,hoch
 hoch,hoch
+hoch,hoch
+hoch,höch
 hockst (du),hocksch
 hockt (er/sie/es),hockt
 hockt (er/sie/es),hockt
 hoffe,hoffe
 hoffe,hoffe
+hoffe (ich),hoff
 hoffe (ich),hoff
 hoffe (ich),hoff
 hoffe (ich),hoffe
@@ -3933,10 +4671,12 @@ hoffen wir,hoffemer
 hoffentlich,hoffentlich
 hoffentlich,hoffentlich
 hohe,höchi
+hohe,höchi
 hohe,höhi
 Höhe,Höhi
 höher,höher
 holen,hole
+Holzplatte,holzplatte
 Hoppla,hoppla
 Hoppla,hoppla
 hör (du),hör
@@ -4279,6 +5019,35 @@ ich,ich
 ich,ich
 ich,ich
 ich,ich
+ich,ich
+ich,ich
+ich,ich
+ich,ich
+ich,ich
+ich,ich
+ich,ich
+ich,ich
+ich,ich
+ich,ich
+ich,ich
+ich,ich
+ich,ich
+ich,ich
+ich,ich
+ich,ich
+ich,ich
+ich,ich
+ich,ich
+ich,Ich
+ich,ich
+ich,Ich
+ich,ich
+ich,ich
+ich,ich
+ich,ich
+ich es,ichs
+ich es,ichs
+ich es,ichs
 ich es,ichs
 ich es,ichs
 ich es,ichs
@@ -4296,6 +5065,9 @@ ich glaube,glaub
 ich glaube,glaub
 ich glaube,glaub
 ich glaube,glaub
+ich glaube,glaube
+ich habe,ha
+ich habe,ha
 ich habe,ha
 ich habe,hab
 ich habe,han
@@ -4303,16 +5075,23 @@ ich habe,han
 ich habe,han
 ich habe,han
 ich habe,han
+ich habe,han
+ich habe,Han
 ich habe es,hans
 ich habe es,hans
 ich habe es,hans
 ich habe es,hans
 ich komme,chum
 ich komme,chume
+ich wäre,wär
+ich wäre,wär
 ich weiss,weiss
 ich weiss,weiss
+ich will,wett
 Idee,Idee
 Idee,Idee
+ihm,ihm
+ihm,ihm
 ihm,ihm
 ihm,ihm
 ihm,ihm
@@ -4327,6 +5106,8 @@ ihn,ihn
 ihn,ihn
 ihnen,ihne
 ihnen,ihne
+ihr,ier
+ihr,ier
 ihr,ier
 ihr,ier
 ihr,ihr
@@ -4349,11 +5130,20 @@ ihr,ihr
 ihr,ihr
 ihr,ihr
 ihr,ihr
+ihr (F),ihre
 ihr (F),ihre
 ihr (F),ihre
 ihr (pl.),ihr
+ihr (pl.),ihr
+ihr (pl.),ihr
+ihr (pl.),ihr
+ihr (pl.),ihr
+ihr (pl.),ihr
 ihr (sie),ihre
 ihren,ihre
+ihren,ihre
+ihren (F),ihrene
+ihren (pl.),ihrerer
 im,im
 im,im
 im,im
@@ -4387,6 +5177,13 @@ im,im
 im,im
 im,im
 im,im
+im,im
+im,im
+im,im
+im,im
+im,im
+im,im
+immer,immer
 immer,immer
 immer,immer
 immer,immer
@@ -4455,6 +5252,19 @@ in,i
 in,i
 in,i
 in,i
+in,i
+in,i
+in,i
+in,i
+in,i
+in,i
+in,in
+in,in
+in,in
+in,in
+in,in
+in,in
+in,in
 in,in
 in,in
 in,in
@@ -4486,6 +5296,7 @@ in,in
 in,in
 in dem Fall,demfall
 in den,i dene
+in den (pl.),ide
 in der,i de
 in der,i dere
 in der,i dere
@@ -4509,6 +5320,7 @@ in eine,ine
 in einem,immene
 in einer,inere
 in welcher,wo
+inaktiv,inaktiv
 indirekt,indirekt
 Influenz,Influenz
 Influenz,Influenz
@@ -4516,7 +5328,9 @@ informieren,informiere
 ins,is
 ins,is
 ins,is
+ins,is
 Insulin,Insulin
+Insulin,insulin
 integriert,integriert
 Internet,Internet
 Internet,internet
@@ -4539,16 +5353,57 @@ irgendwie,irgendwie
 irgendwie,irgendwie
 irgendwie,irgendwie
 irgendwie,irgendwie
+irgendwie,irgendwie
 irgendwo,irgendwo
 irgendwo,irgendwo
+Ironie,ironie
 isoliert,isoliert
 isoliert,isoliert
 isoliert,isoliert
-ist,isch
-ist,isch
-ist,isch
-ist,isch
-ist,isch
+ist (er/sie/es),isch
+ist (er/sie/es),isch
+ist (er/sie/es),isch
+ist (er/sie/es),isch
+ist (er/sie/es),isch
+ist (er/sie/es),isch
+ist (er/sie/es),isch
+ist (er/sie/es),isch
+ist (er/sie/es),isch
+ist (er/sie/es),isch
+ist (er/sie/es),isch
+ist (er/sie/es),isch
+ist (er/sie/es),isch
+ist (er/sie/es),isch
+ist (er/sie/es),isch
+ist (er/sie/es),isch
+ist (er/sie/es),isch
+ist (er/sie/es),isch
+ist (er/sie/es),isch
+ist (er/sie/es),isch
+ist (er/sie/es),isch
+ist (er/sie/es),isch
+ist (er/sie/es),isch
+ist (er/sie/es),isch
+ist (er/sie/es),isch
+ist (er/sie/es),isch
+ist (er/sie/es),isch
+ist (er/sie/es),isch
+ist (er/sie/es),isch
+ist (er/sie/es),isch
+ist (er/sie/es),isch
+ist (er/sie/es),isch
+ist (er/sie/es),isch
+ist (er/sie/es),isch
+ist (er/sie/es),isch
+ist (er/sie/es),isch
+ist (er/sie/es),isch
+ist (er/sie/es),isch
+ist (er/sie/es),isch
+ist (er/sie/es),isch
+ist (er/sie/es),isch
+ist (er/sie/es),isch
+ist (er/sie/es),isch
+ist (er/sie/es),isch
 ist (er/sie/es),isch
 ist (er/sie/es),isch
 ist (er/sie/es),isch
@@ -4707,11 +5562,36 @@ ist das (er/sie/es),ischs
 ist es,isch
 ist es,isches
 ist es,isches
+ist es,isches
+ist es,isches
 ist es,ischs
 ist es,ischs
 ist es,ischs
 ist es,ischs
 Italien,Italie
+Italien,Italie
+ja,ja
+ja,ja
+ja,ja
+ja,ja
+ja,ja
+ja,ja
+ja,ja
+ja,ja
+ja,ja
+ja,ja
+ja,ja
+ja,ja
+ja,ja
+ja,ja
+ja,ja
+ja,ja
+ja,ja
+ja,ja
+ja,ja
+ja,ja
+ja,ja
+ja,ja
 ja,ja
 ja,ja
 ja,ja
@@ -4991,10 +5871,16 @@ Jahr,Jahr
 Jahr,Jahr
 Jahr,jahr
 Jahr,jahr
+Jahr,jahr
+Jahr,Jahr
+Jahr,jahr
+Jahr,jahr
+Jahr,jahr
 jedem,jedem
 jeder,jedere
 jedes,jedes
 jedes,jedes
+jedoch,jedoch
 jemand,äber
 jemand,öbber
 jemand,öbber
@@ -5023,6 +5909,8 @@ jemand,öber
 jemand,öber
 jemand,öber
 jemand,öber
+jemand,öber
+jemand,öber
 jemand,öper
 jemand,öper
 jemand,öper
@@ -5032,6 +5920,11 @@ jemand,öper
 jemand,öper
 jemand,öper
 jemand,öper
+jemand,öpper
+jemand,öpper
+jemand,öpper
+jemand,öpper
+jemand,öpper
 jemand,öpper
 jemand,öpper
 jemand,öpper
@@ -5081,6 +5974,9 @@ jetzt,ez
 jetzt,ez
 jetzt,ez
 jetzt,ez
+jetzt,ez
+jetzt,ez
+jetzt,ez
 jetzt,jetzt
 jetzt,jetzt
 jetzt,jetzt
@@ -5101,7 +5997,15 @@ jetzt,jetzt
 jetzt,jetzt
 jetzt,jetzt
 jetzt,jetzt
-ka,ja
+jetzt,jetzt
+jetzt,jetzt
+jetzt,jetzt
+jetzt,jetzt
+jetzt,jetzt
+jetzt,jetzt
+Job,job
+Jokertage,jokertäg
+Jokertage,jokertäg
 kalte,chalti
 kalte,chalti
 kann (er/sie/es),cha
@@ -5145,6 +6049,9 @@ kann (er/sie/es),chan
 kann (er/sie/es),chan
 kann (er/sie/es),Chan
 kann (er/sie/es),chan
+kann (er/sie/es),chan
+kann (er/sie/es),chan
+kann (er/sie/es),chan
 kann (ich),cha
 kann (ich),cha
 kann (ich),cha
@@ -5175,9 +6082,13 @@ Kapitel,kapitel
 Kapitel,kapitel
 Kapitel,kapitel
 Kapitel,Kapitel
+Kapitel,Kapitel
+Kapitel,kapitel
+Katalysator,Katalysator
 kein,kein
 kein,kes
 kein (M),kei
+kein (M),kein
 kein (M),kein
 kein (N),kei
 kein (N),kein
@@ -5207,6 +6118,10 @@ keine,kei
 keine,kei
 keine,kei
 keine,keini
+keine (F),kei
+keine (F),kei
+keinen,kei
+keinen,kein
 keinen,kein
 keinen,kein
 keins,keis
@@ -5229,8 +6144,11 @@ Klassengeist,Klassegeist
 Klasseninfos,Klasseinfos
 kleine,chline
 kleistern,kleistere
+klingt (er/sie/es),tönt
+knapp,knapp
 Kombinatorik,Kombinatorik
 Kombinatorik,Kombinatorik
+komme (ich),chum
 komme (ich),chum
 komme (ich),chum
 komme (ich),chum
@@ -5246,11 +6164,14 @@ kommen,cho
 kommen,cho
 kommen,cho
 kommen,cho
+kommen,cho
 kommen (sie),chunt
 kommen (sie),chunt
 kommen (sie),chunt
 kommen (wir),chömed
+kommen (wir),chömed
 kommen es (sie),chömeds
+Kommentare,kommentär
 kommst (du),chunsch
 kommst (du),chunsch
 kommt,chunt
@@ -5262,15 +6183,24 @@ kommt (er/sie/es),chunnt
 kommt (er/sie/es),chunnt
 kommt (er/sie/es),chunnt
 kommt (er/sie/es),chunnt
+kommt (er/sie/es),chunnt
+kommt (er/sie/es),chunnt
+kommt (er/sie/es),chunnt
+kommt (er/sie/es),chunt
+kommt (er/sie/es),chunt
+kommt (er/sie/es),chunt
+kommt (er/sie/es),chunt
 kommt (er/sie/es),chunt
 kommt (er/sie/es),chunt
 kommt (er/sie/es),chunt
 kommt (er/sie/es),chunt
 kommt es,chumts
 kommt es,chunnts
+kommt es,chunnts
 komplett,komplett
 kompliziert,kompliziert
 Kondensatoren,Kondensatoren
+kondensierten,kondensierte
 können,chöne
 können,chöne
 können,chöne
@@ -5282,6 +6212,15 @@ können,chöne
 können,chöne
 können,chöne
 können,chöne
+können,chöne
+können,chöne
+können,chöne
+können,chöne
+können,chöne
+können,chönne
+können,chönne
+können,chönne
+können,chönne
 können,chönne
 können,chönne
 können,chönne
@@ -5292,11 +6231,13 @@ können,chönne
 können,chönne
 können,chönne
 können (sie),chönnt
+können (sie),chönt
 können (wir),cha
 können (wir),cha
 können (wir),chan
 können (wir),chan
 können (wir),chan
+können (wir),chönd
 können (wir),chönd
 können (wir),chönd
 können (wir),chönd
@@ -5314,11 +6255,13 @@ können wir,chömmer
 können wir,chömmer
 können wir,chömmer
 können wir,chömmer
+können wir,chömmer
 können wir,chömr
 können wir es,chömers
 könnt (ihr),chönnted
 könnt ihr,chönder
 könnt ihr,chönder
+könnte (er/sie/es),chönt
 könnte (er/sie/es),chönt
 könnte (er/sie/es),chönti
 könnte (ich),chönnt
@@ -5339,7 +6282,10 @@ könnten (wir),chönted
 könnten es (wir),chönds
 könnten wir,chöntemer
 könnten wir,chöntemer
+könnten wir,chöntemer
 könntest (du),chöntisch
+könntest (du),chöntisch
+Konter,konter
 Kontodaten,Kontodate
 kontrollieren,kontrolliere
 kontrollieren,kontrolliere
@@ -5347,14 +6293,17 @@ Konvektion,Konvektion
 konvergiert,konvergiert
 Konversationen,Konversatione
 Konversationen,konversatione
+Konversationen,Konversatione
 Konzentration,Konzentration
 Kopf,Chopf
 Kopf,Chopf
 Kopf,Chopf
 kopiere (ich),kopier
 Kopiergeld,Kopiergeld
+korrigieren,korrigiere
 korrigieren es (wir),korrigierets
 Kraft,Chraft
+Kräfte,chräft
 krank,chrank
 krank,chrank
 krank,chrank
@@ -5370,7 +6319,9 @@ kurz,churz
 kurz,churz
 kurz,kurz
 kurze,churzi
+kurze (F),churzi
 Kurzprüfung,Kurzprüefig
+Lachen,lache
 lade (ich),lad
 Lager,Lager
 lang,lang
@@ -5381,6 +6332,7 @@ Länge,Längi
 länger,länger
 länger,länger
 länger,länger
+länger,meh
 längerer,längere
 langsam,langsam
 lasse (ich),lahn
@@ -5389,12 +6341,15 @@ lassen,lah
 lassen,lah
 lassen es (wir),lönds
 lassen wir,lömmr
+lassen wir es,lömmers
 lassen wir es,lömmrs
 Latein,Latiin
 Latein,latin
 Latin,Latin
 Latinprüfung,Latinprüefig
 läuft (er/sie/es),lauft
+Laune,luunä
+Leben,Lebe
 Leben,Lebe
 Leben,Lebe
 Lebern,lebere
@@ -5404,6 +6359,7 @@ legal,legal
 lege (ich),leg
 Lehrer,lehrer
 Lehrern,Lehrer
+leichter,liechter
 leider,leider
 leider,leider
 Leitprogramm,Leitprogram
@@ -5417,6 +6373,8 @@ Lektion,Lektion
 Lektion,Lektion
 Lektion,lektion
 Lektion,Lektion
+Lektion,lektion
+Lektion,lektion
 Lektionen,Lektione
 Lektionen,Lektione
 Lektionen,Lektione
@@ -5425,6 +6383,7 @@ lerne (ich),lern
 lerne (ich),lern
 lerne (ich),lern
 lerne (ich),lern
+lerne (ich),lern
 lernen,lerne
 lernen,lerne
 lernen,lerne
@@ -5437,6 +6396,9 @@ lernen,lerne
 lernen,lerne
 lernen,lerne
 lernen,lerne
+lernen,lerne
+lernen,lerne
+lernt (ihr),lerned
 lernt (ihr),lerned
 lernt (ihr),lerned
 lernt (ihr),lerned
@@ -5452,8 +6414,13 @@ Lernziel,Lernziel
 Lernziel,Lernziel
 Lernziel,Lernziel
 Lernziel,lernziel
+Lernziel,Lernziel
+Lernziel,lernziel
+Lernzielblatt,lernzielblatt
 Lernzielen,Lernziel
 lese (ich),lis
+lesen,lese
+lesen,lese
 lesen,lese
 lesen,lese
 lesen,lese
@@ -5483,7 +6450,9 @@ letzten,letschte
 letzten,letschte
 letzten,letschte
 letzten,letschte
+letzten,letschte
 Leute,Leute
+Leute,lüt
 Leute,Lüüt
 liebe,liebi
 lieber,lieber
@@ -5491,6 +6460,7 @@ line,linki
 lineare,lineari
 lineare,lineari
 lineare,lineari
+linken,linke
 links,links
 links,links
 links,links
@@ -5499,6 +6469,7 @@ Liste,Liste
 Liste,Liste
 Literatur,Literatur
 lösch (du),lösch
+lösen,löse
 lösen,löse
 lösen,löse
 lösen,löse
@@ -5524,6 +6495,8 @@ Lösungsweg,Lösigsweg
 Lücken,Lücke
 Luft,Luft
 Luft,Luft
+Luft,luft
+Luft,luft
 Lust,Luscht
 Lust,Luscht
 lustig,luschtig
@@ -5552,6 +6525,13 @@ machen,mache
 machen,mache
 machen,mache
 machen,mache
+machen,mache
+machen,mache
+machen,mache
+machen,mache
+machen,mache
+machen,mache
+machen,mache
 machen (wir),mache
 machen es (wir),macheds
 machen wir,machemer
@@ -5561,10 +6541,23 @@ macht,macht
 macht,macht
 macht (er/sie/es),macht
 macht (er/sie/es),macht
+macht (er/sie/es),macht
+macht (ihr),mached
+macht es,machts
 Magnesium,Magnesium
 Magnesiumsulfat,Magnesiumsulfat
+magnetisch,magnetisch
+magnetische,magnetischi
 mal,amel
 mal,amel
+mal,emal
+mal,mal
+mal,mal
+mal,mal
+mal,mal
+mal,mal
+mal,mal
+mal,mal
 mal,mal
 mal,mal
 mal,mal
@@ -5611,8 +6604,23 @@ mal,mal
 mal,mal
 mal,mall
 mal,mol
+Malediven,Maledive
 Maltose,maltose
 man,mer
+man,mer
+man,mer
+man,mer
+man,mer
+man,mer
+man,mer
+man,mer
+man,mer
+man,mer
+man,mer
+man,mer
+man,mr
+man es,mers
+man es,mers
 manchmal,amigs
 manchmal,amigs
 manchmal,amigs
@@ -5645,6 +6653,9 @@ Mathe,Mathe
 Mathe,Mathe
 Mathe,Mathe
 Mathe,mathe
+Mathe,mathe
+Mathe,mathe
+Maturlehrer,maturlehrer
 mega,mega
 mega,mega
 mehr,me
@@ -5664,10 +6675,12 @@ mehr,meh
 mehr,meh
 mehrere,mehreri
 mehreren,mehrere
+mehrfach,mehrfach
 mehrfachen,mehrfach
 Mehrheir,Mehrheit
 Mehrheit,Mehrheit
 mehrseitiges,mehrsiitigs
+mein (M),miin
 mein (M),min
 mein (M),min
 mein (M),min
@@ -5691,6 +6704,7 @@ meinst du,meinsch
 meinst du,meinsch
 meint (er/sie/es),meint
 meint (er/sie/es),meint
+meistens,meistens
 Mensch,Mensch
 Menschheit,Menschheit
 merken,merke
@@ -5698,6 +6712,8 @@ Metall,Metall
 Meteorologie,meteorologie
 Meter,Meter
 Meter,meter
+mich,mi
+mich,mich
 mich,mich
 mich,mich
 mich,mich
@@ -5716,7 +6732,10 @@ mich,mich
 mich,mich
 mier,mier
 Millimeter,Milimeter
+mindestens,mindestens
 minus,minus
+Minute,minute
+mir,mer
 mir,mer
 mir,mer
 mir,mer
@@ -5735,6 +6754,11 @@ mir,mer
 mir,mer
 mir,mer
 mir,mier
+mir,mir
+mir,mir
+mir,mir
+mir,mir
+mir,mir
 mir,mir
 mir,mir
 mir,mir
@@ -5808,12 +6832,33 @@ mit,mit
 mit,mit
 mit,mit
 mit,mit
+mit,mit
+mit,mit
+mit,mit
+mit,mit
+mit,mit
+mit,mit
+mit,mit
+mit,mit
+mit,mit
+mit,mit
+mit,mit
+mit,mit
+mit,mit
+mit,mit
+mit,mit
+mit dem,mitem
+mit einem,miteme
 mit einem,miteme
 mit einem,miteme
 mit einer,mitere
+mit einer,mitere
+mitbekommen,übercho
 mitgemacht,mitgemacht
 mitgenommen,mitgno
 mitmachen,mitmache
+mitnehmen,mitne
+mitnehmen,mitneh
 mitnehmen,mitneh
 mitnehmen,mitneh
 mitnehmen,mitneh
@@ -5839,6 +6884,8 @@ Mittwoch,Mittwuch
 Mittwoch,mittwuch
 Mittwoch,Mittwuch
 Mittwoch,mittwuch
+Mittwoch,mittwuch
+Mittwoch,Mittwuch
 mitüberkommen,mitübercho
 möglich,möglich
 möglichst,möglichscht
@@ -5847,6 +6894,8 @@ Molekül,Molekül
 Molekül,Molekül
 Moleküle,Molekül
 Moment,Moment
+Monarchie,Monarchie
+Monopole,monopol
 Montag,Mäntig
 Montag,Mäntig
 Montag,Mäntig
@@ -5861,6 +6910,8 @@ Montag,Mäntig
 Montag,Mäntig
 Montag,Mäntig
 Montag,Mäntig
+Montag,mäntig
+Montag,mäntig
 Montag,Montig
 Morgen,Morge
 morgen,morge
@@ -5890,26 +6941,46 @@ morgen,morn
 morgen,morn
 morgen,morn
 morgen,morn
+morgen,morn
+morgen,morn
+morgen,morn
+morgen,morn
+morgen,morn
+morgen,morn
+morgen,morn
+morgen,morn
 mündliche,mündlich
 mündliche,mündlichi
 Musik,Musig
+Musik,musik
+Musik,musik
+Musikleute,musiklüüt
+muss (er/sie/es),muen
+muss (er/sie/es),muen
 muss (er/sie/es),mues
 muss (er/sie/es),mues
+muss (er/sie/es),muess
+muss (er/sie/es),muess
+muss (er/sie/es),muess
 muss (er/sie/es),muess
 muss (er/sie/es),muess
 muss (ich),muen
 muss (ich),muess
 muss (ich),muess
 muss (ich),muess
+muss (ich),muess
 muss ich,mueni
 müsse (er/sie/es),müssi
+müssen,möse
 müssen,möse
 müssen,müesse
 müssen,müesse
 müssen,müesse
 müssen,müesse
+müssen,müesse
 müssen,müsse
 müssen,müsse
+müssen (sie),müend
 müssen (sie),müend
 müssen (wir),mönd
 müssen (wir),mos
@@ -5920,12 +6991,18 @@ müssen (wir),müend
 müssen (wir),müend
 müssen (wir),müend
 müssen (wir),müend
+müssen (wir),müend
+müssen (wir),müend
+müssen (wir),müend
+müssen (wir),müend
 müssen (wir),müent
 müssen (wir),mues
 müssen (wir),muess
 müssen (wir),münd
+müssen (wir),mus
 müssen (wir),müsst
 müssen wir,memer
+müssen wir,momer
 müssen wir,mömer
 müssen wir,mömer
 müssen wir,mömer
@@ -5946,12 +7023,26 @@ müssen wir,müemer
 müssen wir,müemer
 müssen wir,müemer
 müssen wir,müemer
+müssen wir,müemer
+müssen wir,müemer
+müssen wir,müemer
+müssen wir,müemer
+müssen wir,müemer
+müssen wir,müemer
+müssen wir,müemer
+müssen wir,müemer
 müssen wir,müemmer
 müssen wir,müemmer
 müssen wir,müemmer
+müssen wir,müemmer
+müssen wir,müemmer
+müssen wir,müemmer
+müssen wir,müemr
 müssen wir,müemr
 müssen wir,müemr
 müssen wir,mümer
+müssen wir,mümmer
+müssen wir,mümmer
 müssen wir,mümmer
 musst,muesch
 musst (du),muesch
@@ -5968,6 +7059,8 @@ musst (er/sie/es),muesch
 musst (ihr),müend
 müsst (ihr),müend
 musst du,muesch
+musst du,muesch
+müsste (er/sie/es),müesst
 müsste (ich),müesst
 müsste es,müesstis
 müsste es,müesstis
@@ -5985,9 +7078,12 @@ nach,nach
 nach,nach
 nach,nach
 nach,nach
+nach,nach
+nach,nach
 nach,nah
 nach Hause,hei
 nach Hause,hei
+nachdem,nachdem
 nachdem,nachdem
 nachher,nacher
 nachher,nacher
@@ -6003,6 +7099,7 @@ Nachrichten,Nachrichte
 Nachrichten,Nachrichte
 Nachrichten,Nachrichte
 Nachrichten,nachrichte
+Nachrichten,Nachrichte
 nachschauen,nahluege
 nachschauen,naluege
 nächste,nächscht
@@ -6010,16 +7107,25 @@ nächste,negst
 nächste,negst
 nächste,negst
 nächste,nöchst
+nächste (F),nächscht
+nächste (F),nächst
+nächste (F),nöchscht
 nächsten,nöchscht
 nächsten,nöchscht
 nächsten,nöchschte
 nächsten,nöchschte
+nächsten,nöchschte
+nächsten (M),nechscht
 nächstes,nächscht
 nächstes,nöchscht
+nächstes,nöchschts
 Name,Name
 Namen,Name
 Namen,Name
 Namen,Näme
+Namen,näme
+nämlich,nämlich
+nämlich,nämlich
 nämlich,nämlich
 nano,nano
 Nationalstaate,Nationalstaate
@@ -6029,6 +7135,8 @@ negativ,negativ
 nehme (ich),nimm
 nehme (ich),nimm
 nehmen,neh
+nehmen (sie),nehmet
+nehmt (ihr),nehmet
 nehmt (ihr),nemed
 nein,ne
 nein,ne
@@ -6094,10 +7202,15 @@ nein,nö
 nein,nö
 nenne (ich),nenn
 nennt (er/sie/es),nennt
+nett,nett
 neue,neu
+neue,neue
+neue,neue
 neue,neue
 neue,neui
 neue,noie
+neue (F),neui
+neue (pl.),neui
 neuen,neu
 neuen,neue
 neuen,noie
@@ -6108,6 +7221,8 @@ neues,neus
 neues,neus
 neues,neus
 neues,Neus
+neues,neus
+neues,neus
 neues,neus
 neues,neus
 neues,nois
@@ -6137,6 +7252,35 @@ nicht,nid
 nicht,nid
 nicht,nid
 nicht,nid
+nicht,nid
+nicht,nid
+nicht,nid
+nicht,nid
+nicht,nid
+nicht,nöd
+nicht,nöd
+nicht,nöd
+nicht,nöd
+nicht,nöd
+nicht,nöd
+nicht,nöd
+nicht,nöd
+nicht,nöd
+nicht,nöd
+nicht,nöd
+nicht,nöd
+nicht,nöd
+nicht,nöd
+nicht,nöd
+nicht,nöd
+nicht,nöd
+nicht,nöd
+nicht,nöd
+nicht,nöd
+nicht,nöd
+nicht,nöd
+nicht,nöd
+nicht,nöd
 nicht,nöd
 nicht,nöd
 nicht,nöd
@@ -6329,6 +7473,8 @@ nicht,nöt
 nicht,nöt
 nicht,nöt
 nicht,nöt
+nicht,nöt
+nicht,nöt
 nicht,nüt
 nicht,nüt
 nicht,nüt
@@ -6353,6 +7499,8 @@ nichts,nüt
 nichts,nüt
 nichts,nüt
 nichts,nüt
+nichts,nüt
+nichts,nüt
 nie,nie
 nie,nie
 nie,nie
@@ -6360,6 +7508,9 @@ nie,nie
 nie,nie
 nie,nie
 nie,nie
+nie,nie
+nie,nie
+Niederschlag,niederschlag
 niemand,niemer
 niemand,niemer
 niemand,niemert
@@ -6373,6 +7524,8 @@ nirgendwo,nirgendwo
 noch,na
 noch,na
 noch,na
+noch,na
+noch,na
 noch,no
 noch,no
 noch,no
@@ -6440,6 +7593,19 @@ noch,no
 noch,no
 noch,no
 noch,no
+noch,no
+noch,no
+noch,no
+noch,no
+noch,no
+noch,no
+noch,no
+noch,no
+noch,no
+noch,no
+noch,no
+noch nicht,nonig
+noch nicht,nonig
 noch nicht,nonig
 noch nicht,nonig
 noch nicht,nonig
@@ -6457,8 +7623,10 @@ nochmal,nomal
 nochmal,nomal
 nochmal,nomal
 nochmal,nomal
+nochmal,nomal
 Nomen,Nome
 Nomen,Nome
+Nordpol,nordpol
 normal,normal
 normalerweise,normalerwiis
 Note,Note
@@ -6469,9 +7637,11 @@ Notfall,Notfall
 notiert,notiert
 notiert,notiert
 notiert,notiert
+notiert,notiert
 Notizblatt,notitzblatt
 nüchtern,nüechtern
 Nummern,Nummere
+nur,nüm
 nur,nüm
 nur,nume
 nur,nume
@@ -6488,6 +7658,10 @@ nur,numme
 nur,numme
 nur,numme
 nur,numme
+nur,numme
+nur,nur
+nur,nur
+nur,nur
 nur,nur
 nur,nur
 nur,nur
@@ -6528,16 +7702,35 @@ ob,ob
 ob,ob
 ob,ob
 ob,ob
+ob,ob
+ob,ob
+ob,ob
+ob,öb
 ob,öb
 ob,öb
 ob es,obs
 ob es,obs
 ob es,öbs
 ob es,öbs
+ob es,öbs
+ob es,öbs
+ob ich,öbi
 oben,obe
 oben,obe
 oben,obe
 oben,obe
+oder,oder
+oder,oder
+oder,oder
+oder,oder
+oder,oder
+oder,oder
+oder,oder
+oder,oder
+oder,oder
+oder,oder
+oder,oder
+oder,oder
 oder,oder
 oder,oder
 oder,oder
@@ -6616,13 +7809,12 @@ Ohmsche,Ohmsche
 ohne,ohni
 ohne,ohni
 ohne,ohni
-okay,ka
-okay,ka
-okay,ka
-okay,ka
-okay,ka
-okay,ka
-okay,ka
+ohne,ohni
+okay,ok
+okay,ok
+okay,ok
+okay,ok
+okay,ok
 okay,ok
 okay,ok
 okay,ok
@@ -6680,6 +7872,12 @@ okay,okay
 okay,okay
 okay,okay
 okay,okay
+okay,okay
+okay,okay
+okay,oke
+okay,oke
+okay,oke
+okay,oke
 okay,oke
 okay,oke
 okay,oke
@@ -6718,6 +7916,11 @@ okay,okee
 okay,okee
 okay,okee
 okay,okee
+okay,okee
+okay,okeee
+okay,okey
+okay,okey
+okay,okey
 okay,okey
 okay,okey
 okay,okey
@@ -6755,21 +7958,41 @@ okay,okeyy
 okay,okeyy
 okay,okeyy
 okay,okeyy
+okay,okeyy
+okay,okeyy
+okay,okeyyy
 opfern,opfere
 Organisationsskills,Organisationsskills
+Ort,Ort
+Österreich,Österreich
+Österreich,österreich
 Österreich,Österreich
 Österreich,Österrich
 oxidieren,oxidiere
 paar,paar
+paar,paar
+Papier,papier
 parallelen,parallele
+Parallelschaltung,Parallelschaltig
+Parallelschaltung,Parallelschaltig
 Partner,Partner
+passiert,passiert
+passiert,passiert
+passt (er/sie/es),passt
 passt (er/sie/es),passt
 passt (er/sie/es),passt
 passt (er/sie/es),passt
 Pause,Pause
 Pause,Pause
+Pepsin,pepsin
+Peptidase,peptidase
+Peptidase,peptidase
 per,per
 per,per
+Perchlorsäure,perchlorsäure
+perfekt,perfekt
+perfekt,perfekt
+perfekt,perfekt
 perfekt,perfekt
 perfekt,perfekt
 perfekt,perfekt
@@ -6798,34 +8021,55 @@ Physik,physik
 Physik,Physik
 Physik,physik
 Physik,physik
+Physik,physik
+Physik,physik
+Physik,Physik
 Physikprobleme,physikproblem
 Physikzusammenfassung,Physikzemefassig
 Pi,Pi
 Plan,Plan
 Plan,Plan
+platt,platt
 Platten,Platte
+Plattenkondensator,plattekondensator
 plötzlich,plötzlich
 plus,plus
+plus,plus
+plus,plus
+Polarisation,polarisation
 Polemik,Polemik
+Polysaccharide,polysaccharid
 positiv,positiv
 positiv,positiv
 positiv,positiv
 positiv,positiv
+positiv,positiv
+Potenzial,potenzial
 Praktikum,Praktikum
 Praktikum,praktikum
+praktisch,praktisch
 Präsentation,Präsentation
 Priorität,Priorität
 privat,privat
+pro,pro
+pro,pro
+probieren,probiere
 Problem,Problem
 Problem,Problem
 Problem,Problem
 Problem,problem
 Problem,problem
+Problem,Problem
 Produkt,Produkt
+Produktseite,produktsiite
 Projekt,projekt
 Pronomen,Pronome
 Pronomen,Pronome
 Protein,Protein
+Protein,protein
+Protein,protein
+Proteine,protein
+Proteine,protein
 provoziert (er/sie/es),provoziert
 Prozent,Prozent
 Prozent,prozent
@@ -6845,22 +8089,34 @@ Prüfung,Prüefig
 Prüfung,Prüefig
 Prüfung,Prüefig
 Prüfung,prüefig
+Prüfung,prüefig
+Prüfung,prüefig
+Prüfung,prüefig
+Prüfung,prüefig
+Prüfung,prüefig
 Prüfungen,Prüefige
 Prüfungen,Prüefige
 Prüfungen,Prüefige
 Prüfungen,Prüefige
 Prüfungen,Prüefige
+Prüfungen,prüefige
 Prüfungsfragen,Prüefigsfrage
+Punkt,punkt
+Punkt,punkt
 Punkte,Pünkt
 pünktlich,pünklich
 pünktlich,pünktlich
 putzt,putzt
 Puzzle,Puzzle
 Quadrat,Quadrat
+Quadrat,quadrat
 quadratische,quadratischi
 quadrieren,quadriere
+Radius,radius
 Rand,rand
 Rätsel,Rätsel
+Raucherecke,raucherecke
+raus,usse
 reagieren,reagiere
 Reaktion,Reaktion
 Reaktionspartner,Reaktionspartner
@@ -6869,6 +8125,7 @@ rechnen,rechne
 rechnen,rechne
 recht,recht
 Recht,recht
+recht,recht
 rechts,recht
 rechts,rechts
 rechts,rechts
@@ -6878,24 +8135,34 @@ reden,rede
 Redox,Redox
 Redox,redox
 reduziert,reduziert
+Regel,regel
 Regel,Regle
 reicht (er/sie/es),langet
 Reihe,Reihe
 Reihe,Reihe
 Reihe,reihe
+Reihe,reihe
+rein,ine
 rein,ine
 Reisebericht,Reisebricht
 Reissverschluss,Rissverschluss
 Reissverschlusspulli,Rissverschlusspulli
 relativ,relativ
 relativ,relativ
+rennen,renne
 rennst (du),rennsch
 Repetition,Repetition
 repetitiv,repetitiv
+Rest,rescht
+Resultat,Resultat
+Resultat,Resultat
 rethorische,rethorischi
 Retikulum,Retikulum
 rettet (er/sie/es),rettet
 Rezept,Rezept
+richtig,richtig
+richtig,richtig
+richtig,richtig
 richtig,richtig
 richtig,richtig
 richtige,richtig
@@ -6903,6 +8170,7 @@ richtige,richtig
 richtige,richtigi
 richtige,richtigi
 riesen,rise
+RIsiko,Risiko
 römischen,römische
 rote,roti
 ruhig,ruhig
@@ -6919,23 +8187,33 @@ sagen,sege
 sagen,sege
 sagen,sege
 sagen,sege
+sagen,sege
+sagen,sege
 sagen (wir),sägäd
 sagt (er/sie/es),seit
 Salz,Salz
 Salz,Salz
+Sattelpunkt,sattelpunkt
 Satz,Satz
 Satz,Satz
 Satz,Satz
 Satz,Satz
 Sätze,sätz
+Sätze,Sätz
 Sätzen,sätz
+Säure,säure
 Säuren,Süre
 schaffe es (ich),schaffs
+schaffe ich es,schaffis
+Schaltung,Schaltig
 schau (du),lueg
 schau (du),lueg
+schaue (ich),lueg
 schaue (ich),lueg
 schaue (ich),lueg
 schaue es (ich),luegs
+schauen,luege
+schauen,luege
 schauen,luege
 schauen,luege
 schauen,luege
@@ -6980,6 +8258,9 @@ schicken,schicke
 schicken,schicke
 schicken,schicke
 schicken,schicke
+schicken,schicke
+schicken,schicke
+schicken,schicke
 schickt (er/sie/es),schickt
 schickt (er/sie/es),schickt
 schieben,scheieb
@@ -6997,16 +8278,22 @@ schieben,schiebe
 schieben,schiebe
 schieben,schiebe
 schieben,schiebe
+schieben,schiebe
+schieben,schiebe
+schieben,schiebe
 schieben,schiebed
 schieben (wir),schiebed
 schieben (wir),schiebed
+schieben (wir),schiebet
 schlafen,schlafe
 schlafen,schlafe
+schlecht,schlecht
 schlecht,schlecht
 schlecht,schlecht
 Schluss,Schluss
 Schluss,Schluss
 Schluss,schluss
+Schluss,Schluss
 schnell,schnell
 schnell,schnell
 schnell,schnell
@@ -7071,7 +8358,17 @@ schon,scho
 schon,scho
 schon,scho
 schon,scho
+schon,scho
+schon,scho
+schon,scho
+schon,scho
+schon,scho
+schon,scho
+schon,scho
+schon,scho
 schön,schön
+schön,schön
+schon noch,schono
 schöne,schöni
 schöne,schöni
 schöne,schöni
@@ -7079,7 +8376,11 @@ schöne,schöni
 schöne,schöni
 schöne,schöni
 schöne,schöni
+schöne (pl.),schöni
+schöne (pl.),schöni
 schönen,schöne
+schönes,schöns
+schreib (du),schrieb
 schreibe (ich),schrieb
 schreibe (ich),schriib
 schreibe (ich),schriib
@@ -7094,10 +8395,14 @@ schreiben,schriibe
 schreiben,schriibe
 schreiben,schriibe
 schreiben,schriibe
+schreiben,schriibe
 schreiben (wir),schribed
 schreiben (wir),schriebed
 schreibst (du),schriebsch
+schreibt (er/sie/es),schriibt
 Schreibzeug,schribzüüg
+Schreibzeug,schriebzüüg
+Schreibzeug,schriibzüüg
 Schreibzeugs,schribzüügs
 schriftlichen,schriftliche
 Schritt,schritt
@@ -7117,6 +8422,9 @@ Schule,schuel
 Schule,Schuel
 Schule,schuel
 Schule,schuel
+Schule,schuel
+Schule,schuel
+Schule,schuel
 Schule,Schule
 Schulemail,Schuelmail
 schulischer,schuelische
@@ -7130,6 +8438,8 @@ sehr,huere
 sehr,sehr
 sehr,sehr
 sehr,sehr
+sehr,sehr
+sehr,sehr
 sei (er/sie/es),seg
 seid (ihr),sind
 seid (ihr),sind
@@ -7139,8 +8449,14 @@ sein,si
 sein,si
 sein,si
 sein,si
+sein,si
+sein,si
+sein,si
+sein,si
+sein,si
 sein,sie
 sein,sie
+sein,sii
 sein,sii
 sein,sii
 sein,sii
@@ -7150,8 +8466,10 @@ sein (M),si
 seine,sini
 seine,sini
 seine,sini
+seine (F),sini
 seinen,sin
 seinen,sini
+seinen (pl.),sine
 seiner,sinerer
 Seite,Siite
 Seite,Siite
@@ -7171,6 +8489,9 @@ Seite,Siite
 Seite,Siite
 Seite,siite
 Seite,siite
+Seite,siite
+Seite,siite
+Seite,siite
 Seite,Site
 Seite,Site
 Seite,Site
@@ -7181,6 +8502,7 @@ Seite,Site
 Seite,Sitte
 Seite,Sitte
 Seiten,Siite
+Seiten,siite
 Seiten,siite
 selber,selber
 selber,selber
@@ -7193,7 +8515,11 @@ selber,selber
 selbstlöschenden,selbstlöschende
 Semester,Semester
 Semester,Semester
+Semester,semester
+Semester,semester
 senkrecht,senkrecht
+Serie,Serie
+Serienschaltung,Serieschaltig
 sich,sich
 sich,sich
 sich,sich
@@ -7209,6 +8535,12 @@ sich,sich
 sich,sich
 sich,sich
 sich,sich
+sich,sich
+sich,sich
+sich,sich
+sich,sich
+sicher,sicher
+sicher,sicher
 sicher,sicher
 sicher,sicher
 sicher,sicher
@@ -7256,7 +8588,15 @@ sie,sie
 sie,sie
 sie,sie
 sie,sie
+sie,sie
+sie,sie
+sie,Sie
+sie,sie
+sie,sie
 sie,sii
+sie (F),si
+sie es,sies
+Siedlung,siedlig
 Siegelung,Sieglig
 siehst (du),gsesch
 sieht (er/sie/es),gseht
@@ -7282,11 +8622,25 @@ sind (sie),sind
 sind (sie),sind
 sind (sie),sind
 sind (sie),sind
+sind (sie),sind
+sind (sie),sind
+sind (sie),sind
+sind (sie),sind
+sind (sie),sind
+sind (sie),sind
+sind (sie),sind
+sind (sie),sind
+sind (sie),sind
+sind (sie),sind
+sind (sie),sind
 sind (wir),sind
 sind (wir),sind
 sind (wir),sind
 sind (wir),sind
 sind (wir),sind
+sind (wir),sind
+sind sie,sinds
+sind wir,simmer
 Sinn,Sinn
 Sinn,Sinn
 Sinn,Sinn
@@ -7295,6 +8649,8 @@ Sinn,sinn
 Skilager,Skilager
 Skizze,Skizze
 Skizze,Skizze
+Skizze,skizze
+Skizze,skizze
 Skizze,skizze
 Skript,Skribt
 Skript,Skript
@@ -7369,20 +8725,40 @@ so,so
 so,so
 so,so
 so,so
+so,so
+so,so
+so,so
+so,so
+so,so
+so,so
+so,so
+so,so
+so,so
+so,so
+so,so
+so,so
+so,so
+so,so
+so,so
+so,so
 so ein (M),sonen
 so einem,som ne
 so viel,soviel
 so zu sagen,sozege
 sogar,sogar
 solche,söttig
+solche,söttig
+soll (er/sie/es),sett
 soll (er/sie/es),söt
 soll (er/sie/es),sött
 soll (er/sie/es),sött
+soll (ich),sett
+soll (ich),söt
+soll ich,sölli
 sollen,sölle
 sollen,sölle
 sollen (wir),sötted
 sollst (du),sötsch
-sollte (er/sie/es),sett
 sollte (er/sie/es),sötti
 somit,somit
 sondern,sonder
@@ -7400,6 +8776,8 @@ sonst,susch
 sonst,susch
 sonst,susch
 sonst,susch
+sonst,susch
+sonst,susch
 sonst,süsch
 sonst,süsch
 sonst,suscht
@@ -7411,31 +8789,55 @@ sonst,suscht
 sonst,suscht
 sonst,suscht
 sonst,suscht
+sonst,suscht
+sonst,suscht
+sonst,sust
 sorgt (er/sie/es),sorgt
 sorry,sori
+sorry,sori
 sorry,sorry
+sorry,sorry
+soweit,sowiit
 sowieso,sowiso
 Spalte,Spalte
 Spalte,Spalte
+spalten (sie),spaltet
+spaltet (er/sie/es),spaltet
 Spanisch,Spanisch
 Spanisch,Spanisch
+Spannung,spannig
+Spannungsabfälle,Spannigsabfälle
 Spass,Spass
 spät,spaat
+später,spöter
 spätestens,spötischtens
 speichern,speichere
 speichern,speichere
+Speicherplatz,Speicherplatz
+Speicherplatz,Speicherplatz
+speicherst (du),speicherisch
 spezifische,spezifischi
+spezifisches,spezifischs
 Spind,Spind
 Sport,Sport
 Sport,Sport
 Sport,Sport
+Sport,sport
 Stadt,Stadt
 Standort,Standort
 starke,starchi
 stehen (sie),stönd
 stehen (sie),stönd
 stehen (sie),stönd
+steht (er/sie/es),staat
 steht (er/sie/es),stah
+steht (er/sie/es),staht
+steht (er/sie/es),staht
+steht (er/sie/es),staht
+steht (er/sie/es),staht
+steht (er/sie/es),staht
+steht (er/sie/es),staht
+steht (er/sie/es),staht
 steht (er/sie/es),staht
 steht (er/sie/es),staht
 steht (er/sie/es),staht
@@ -7446,10 +8848,17 @@ steht (er/sie/es),staht
 steht (er/sie/es),stat
 steigt,stiigt
 steigt (er/sie/es),stiigt
+steigt (er/sie/es),stiigt
+Steigung,stiigig
 steile,steili
+Stelle,stell
 Stellung,stellig
 Stellung,Stellig
 Stellung,Stellig
+Stellung,stellig
+Stift,stift
+stimmt (er/sie/es),stimmt
+stimmt (er/sie/es),stimmt
 stimmt (er/sie/es),stimmt
 stimmt (er/sie/es),stimmt
 stimmt (er/sie/es),stimmt
@@ -7471,16 +8880,27 @@ stimmt (er/sie/es),stimmt
 stimmt (er/sie/es),stimmt
 Stoff,Stoff
 Stoff,Stoff
+Stoffgleichung,stoffgleichung
 stört es,störts
 Strecke,Strecki
+streichen,striiche
 streng,streng
 Stress,Stress
+Stromkreislauf,stromkreislauf
+Struktur,struktur
+Struktur,struktur
 Struktur,struktur
 Stunde,Stund
 Stunde,Stund
 Stunde,Stund
 Stundenplan,Stundeplan
 suchen,sueche
+suchen,sueche
+suchen,suechet
+suchen (sie),suechet
+suchen (wir),suecht
+Südpol,südpol
+super,super
 super,super
 super,super
 super,super
@@ -7489,25 +8909,37 @@ super,super
 super,super
 System,system
 Tabelle,Tabelle
+Tabelle,tabelle
 Tafel,Tafle
 Tag,Tag
 Tag,Tag
 Tag,Tag
 Tag,Tag
+Tage,täg
 Täge,täg
 Tagen,Täg
+Tankstelle,tankstell
 Taschenrechner,Tascherechner
 Taschenrechner,Tascherechner
 Taschenrechner,tascherechner
 Taschenrechner,tascherechner
+Taschenrechner,tascherechner
+Taschenrechner,Tascherechner
+Taste,Taschte
 tatsächlich,tatsächlich
+Taupunkt,taupunkt
 Teil,teil
 Teile,Teili
+teilen,teile
 Temperatur,Temeperatur
+Temperatur,temperatur
+Test,Tescht
+Test,Tescht
 Test,Tescht
 Test,Tescht
 Test,Test
 Test,Test
+Test,testc
 testen,teste
 Thema,Thema
 Thema,Thema
@@ -7515,6 +8947,9 @@ Thema,Thema
 Thema,Thema
 Thema,Thema
 Thema,thema
+Thema,thema
+Thema,thema
+Thema,Thema
 Themen,Theme
 theoretisch,theoretisch
 theoretisch,theoretisch
@@ -7522,23 +8957,32 @@ theoretisch,theoretisch
 Theorie,Theorie
 Theorie,Theorie
 Theorie,Theorie
+Theorie,Theorie
 tief,tüüf
 tief,tüüf
 tiefbeschneit,tüüfgschneit
+Tiefdruckgebiet,tüüfdruckgebiet
 tiefer,tüfer
 Tier,tier
 Tierkopf,Tierkopf
+Tierkopf,tierkopf
 treffen,treffe
 trinke (ich),trink
 trotzdem,trotzdem
+trotzdem,trotzdem
+trotzdem,trz
 trotzdem,trz
 tue (ich),tuen
 tue (ich),tuen
 tue es (ich),tuens
 tun,tue
+tun wir,tüemer
 tun wir,tüemr
+Turm,Turm
+tust (du),tuesch
 tust (du),tuesch
 tut (er/sie/es),tuet
+tut (ihr),tüend
 twinten,twinte
 üben,üebe
 über,öbbe
@@ -7546,17 +8990,27 @@ twinten,twinte
 über,über
 über,über
 über,über
+über,über
+über,über
+überall,überall
 Überbegriff,Überbegriff
+Überbegriff,überbegriff
 überein,überein
 übereinander,überenand
 überhaupt,überhaupt
 überhaupt,überhaupt
 überhaupt,überhaupt
 überhaupt,überhaupt
+überhaupt,überhaupt
+überhaupt,überhaupt
+überhaupt,überhaupt
 überkommen,übercho
+überlegen,überlege
 übersetzen,übersetze
+überzeugen,überzüge
 übrigens,übrigens
 übrigens,übrigens
+übt (ihr),üebed
 Übungen,Übungen
 Übungen,Üebige
 Übungen,Üebige
@@ -7566,7 +9020,9 @@ um das,ums
 um das,ums
 um es zu,zums
 um es zu,zums
+umdreht (er/sie/es),umedreiht
 Umgebung,Umgebig
+umrechnen,umrechne
 umrechnen,umrechne
 umrechnen,umrechne
 umrechnen,umrechne
@@ -7713,10 +9169,69 @@ und,und
 und,und
 und,und
 und,und
+und,und
+und,und
+und,und
+und,und
+und,und
+und,und
+und,und
+und,und
+und,und
+und,und
+und,und
+und,und
+und,und
+und,und
+und,und
+und,und
+und,und
+und,und
+und,und
+und,und
+und,und
+und,und
+und,und
+und,und
+und,und
+und,und
+und,und
+und,und
+und,und
+und,und
+und,und
+und,und
+und,und
+und,und
+und,und
+und,und
+und,und
+und,und
+und,und
+und,und
+und,und
+und,und
+und,und
+und,und
+und,und
+und,und
+und,und
+und,und
+und,Und
+und,und
+und,und
+und,und
+und,und
+und,und
 unendlich,unendlich
 unendlich,unendlich
 Ungarn,Ungarn
+Ungarn,Ungarn
+Ungarn,Ungarn
 ungefähr,ungefähr
+ungefähr,ungefähr
+uns,eus
+uns,eus
 uns,eus
 uns,eus
 uns,ois
@@ -7727,21 +9242,40 @@ uns,uns
 uns,üs
 uns,üs
 uns,üs
+uns,üs
+unsere,euse
 unsere,euse
 unsere,eusi
 unsere,oisi
+unsere (pl.),eusi
+unseren (pl.),eusene
 unten,unde
 unten,une
 unten,une
 unten,une
+unten,une
+unten,une
+unten,unne
 unten,unten
+unter,unter
+Unternehmen,unternehme
+Unternehmen,unternehme
+Unternehmen,Unternehmen
 unternimmt (er/sie/es),unternimmt
 Unterricht,Unterricht
+unterscheiden (sie),unterscheidet
+Unterschied,unterschied
 unterste,unterst
+ups,ups
+ups,ups
+ups,ups
+ups,upsi
 USA,USA
+Vase,vase
 Vater,Vater
 verantwortungsvoll,verantwortigsvoll
 Verb,Verb
+verbunden,verbunde
 Verdachtsfall,Verdachtsfall
 verewigt,verewigt
 verfärbt,verfärbt
@@ -7751,8 +9285,10 @@ vergessen,vergesse
 vergisst (ihr),vergessed
 vergleichen,vergliche
 verpackt,verpackt
+verpackt,verpackt
 verpasst,verpasst
 verpasst,verpasst
+verrechnet,verrechnet
 Versammlungen,Versammlige
 verschieben,verschiebe
 verschieben,verschiebe
@@ -7770,15 +9306,21 @@ Verspätung,verspötig
 versprochen,versproche
 verstanden,verstande
 verstanden,verstande
+verstehe (ich),verstahn
 verstehe es (ich),verstehs
 verstehen es (wir),verstahts
 verstehst du,verstasch
+versteht (er/sie/es),verstaht
+versteht (er/sie/es),verstaht
+versteht (er/sie/es),verstaht
+verteilt,verteilt
 verteilt,verteilt
 verteilt,verteilt
 verteilt,verteilt
 Vertiefungswoche,Vertüfigswuche
 vertippt,vertippt
 Vertrauen,Vertraue
+verwechselt,verwechslet
 verwenden,bruche
 verwirrend,verwirrend
 verwirrt,verwirrt
@@ -7787,6 +9329,10 @@ verwirrt,verwirrt
 Video,Video
 Video,video
 Videos,Videos
+Videos,videos
+viel,viel
+viel,viel
+viel,viel
 viel,viel
 viel,viel
 viel,viel
@@ -7804,10 +9350,12 @@ viel,vill
 viel,vill
 viel,vill
 viel,vill
+viel,vill
 vielleicht,viellicht
 vielleicht,viellicht
 vielleicht,viellicht
 vielleicht,viellicht
+vielleicht,viellicht
 vielleicht,vilicht
 vielleicht,vilicht
 vielleicht,vilicht
@@ -7815,14 +9363,21 @@ vielleicht,vilicht
 vielleicht,vilicht
 vielleicht,vilicht
 vielleicht,vilicht
+vielleicht,vilicht
+vielleicht,vilicht
+vielleicht,villicht
+vielleicht,vlt
 vielmals,vielmal
 vielmals,vielmals
 vielmals,vielmals
+vielmals,vil mal
+vielmals,vill mal
 vielmals,vilmal
 vier,vier
 Viereck,Viereck
 Viereck,Vierreck
 Vierecken,Vierecke
+Villa,Villa
 Vokabeln,Voci
 Vokabeln,Voci
 Vokabeln,Voci
@@ -7831,9 +9386,13 @@ Vokabeln,Voci
 Vokabeln,Voci
 Vokabeln,Voci
 Vokabeln,Voci
+Vokabeln,voci
+Vokabeln,voci
 Vokabeln,voci
 Vokabeln,voci
 Vokabeltest,Vocitesch
+voll,voll
+voll,voll
 voll,voll
 voll,voll
 voll,voll
@@ -7865,6 +9424,28 @@ vom,vom
 vom,vom
 vom,vom
 vom,vom
+vom,vom
+vom,vom
+vom,vom
+vom,vom
+vom,vom
+von,vo
+von,vo
+von,vo
+von,vo
+von,vo
+von,vo
+von,vo
+von,vo
+von,vo
+von,vo
+von,vo
+von,vo
+von,vo
+von,vo
+von,vo
+von,vo
+von,vo
 von,vo
 von,vo
 von,vo
@@ -7927,32 +9508,56 @@ vor,vo
 vor,vor
 vor,vor
 vor,vor
+vor,vor
 vor allem,vorallem
 vor allem,vorallem
 Voraus,Vorus
+Voraus,vorus
 vorbei,ume
 vorbildlich,vorbildlich
+Vorderseite,vordersite
 vorgegeben,vorgeh
+vorgeschoben,füregschobe
+vorher,vorher
+vorher,vorher
+vorher,vorher
 vorher,vorher
 Vorlage,Vorlag
 Vormittag,Vormittag
 Vorschlag,Vorschlag
+Vorschläge,vorschläg
 vorsichtig,vorsichtig
 Vorspeise,Vorspies
+Vorstellung,Vorstellig
 Vortrag,vortrag
 Vortrag,Vortrag
 Vortritt,Vortritt
 wachsen (sie),wachset
+wagst du,wagsch
 wählst (du),wählsch
 während,während
 während,während
+während,während
 während,wärend
+wahrscheinlich,wahrschinlich
 wahrscheinlich,wahrschinlich
 Wahrscheinlichkeit,Wahrschindlichkeit
 Wahrscheinlichkeit,Wahrschindlichkeit
 Wahrscheinlichkeit,Wahrschinlichkeit
 Wahrscheinlichkeit,Wahrschinlichkeit
+Wahrscheinlichkeit,Wahrschinlichkeit
+Wahrscheinlichkeit,wahrschinlichkeit
 Wandtafel,Wandtafle
+wann,wänn
+wann,wänn
+wann,wänn
+wann,wenn
+wann,wenn
+wann,wenn
+wann,wenn
+wann,wenn
+wann,wenn
+wann,wenn
 wann,wenn
 wann,wenn
 wann,wenn
@@ -7993,23 +9598,33 @@ wäre (er/sie/es),wär
 wäre (er/sie/es),wär
 wäre (er/sie/es),wäri
 wäre (er/sie/es),wäri
+wäre (er/sie/es),wäri
 wäre (er/sie/es),wer
 wäre (er/sie/es),wer
+wäre (es/sie/es),wär
+wäre (es/sie/es),wär
+wäre (es/sie/es),wär
 wäre (ich),wär
 wäre (ich),wär
 wäre (ich),wär
 wäre (ich),wär
 wäre (ich),wär
 wäre (ich),wär
+wäre es,wärs
 wäre es,wärs
 wäre es,wärs
 wäre es,wärs
 wäre es,wers
 warme,warmi
 warme,warmi
+warme (F),warm
 wärt (ihr),wäred
 warte (du),wart
 warte (du),warte
+warten,warte
+warum,warum
+warum,warum
+warum,warum
 warum,warum
 warum,warum
 warum,warum
@@ -8036,14 +9651,63 @@ was,was
 was,was
 was,was
 was,was
+was,was
+was,was
+was,was
+was,was
+was,was
+was,was
+was,was
+was,was
+was,was
+was,was
+was,was
+was,was
+was,was
+was,was
+was,was
+was,was
+was,was
+was,was
+was,was
+was,was
+was,was
+was,was
+was,was
+was,was
+was,was
+was,was
+was,was
+was,was
+was,was
+was,was
+was,was
+was,was
+was,was
+was,was
+was,was
+was,was
+was,was
+was,was
+was,was
+was,was
+was,was
+was,was
+was,was
+was,was
+was,was
+was,was
+was,wass
 was,wo
 was,wo
 was,wo
 was,wo
 was,wo
+was für einen,was en
 was ich,wasi
 was wir,womer
 was wir,wommer
+Wasserdampf,wasserdampf
 Webseite,Websiite
 Wechselstrom,Wechselstrom
 weg,wäg
@@ -8052,10 +9716,13 @@ wegen,wege
 wegen,wege
 wegen,wege
 wegen,wege
+wegen,wege
+wegen,wege
 wegen dem,wegem
 weggeht (er/sie/es),weggaht
 weggelassen,wegla
 weigere (ich),weigere
+Weihnachten,Wiehnacht
 Weihnachten,Wiehnachte
 Weihnachten,Wiehnachte
 Weihnachten,Wiehnachte
@@ -8069,6 +9736,7 @@ weil,well
 weil,well
 weil,well
 weil,well
+weil,well
 weil,wil
 weil,wil
 weil,wil
@@ -8085,6 +9753,23 @@ weil,wil
 weil,wil
 weil,wil
 weil,wil
+weil,wil
+weil,wil
+weil,wil
+weil,will
+weil,will
+weil,will
+weil,will
+weil,will
+weil,will
+weil,will
+weil,will
+weil,will
+weil,will
+weil,will
+weil,will
+weil,will
+weil,will
 weil,will
 weil,will
 weil,will
@@ -8116,6 +9801,12 @@ weil es,wils
 weiss,weiss
 weiss (er/sie/es),weiss
 weiss (er/sie/es),weiss
+weiss (er/sie/es),weiss
+weiss (er/sie/es),weiss
+weiss (er/sie/es),weiss
+weiss (ich),weiss
+weiss (ich),weiss
+weiss (ich),weiss
 weiss (ich),weiss
 weiss (ich),weiss
 weiss (ich),weiss
@@ -8135,13 +9826,22 @@ weiss (ich),weiss
 weiss (ich),weiss
 weiss (ich),weiss
 weiss (ichú,weiss
+weiss ich,weiss
+weiss ich,weiss
+weiss ich,weiss
+weiss ich,weiss
+weiss ich,weiss
+weiss ich,weiss
 weiss ich,weissi
 weiss ich,weissi
 weissen,weisse
 weisst (du),weisch
 weisst (du),weisch
+weisst (du),weisch
 weit,wiit
 weit,wiit
+weit,wit
+weit,wit
 weiter,wiiter
 weiter,wiiter
 weiter,wiiter
@@ -8149,20 +9849,37 @@ weiter,witer
 welche,Wele
 welche,weli
 welche,weli
+welche,weli
 welche,welle
 welche,welli
 welche,welli
 welche,welli
 welche,welli
+welche,welli
+welche,welli
+welchem,welem
+welchem,wellem
 welchen,wo
+welcher,wo
+welches,welles
+welches,welles
+welches,welles
 welches,welles
 welches,welles
 welches,welles
 welches,welles
 welches,welles
 welches,wo
+welches,wo
+welches,wo
+welches,wo
+welches,wo
 Weltkrieg,Weltkrieg
+Weltraum,weltruum
 Weltreise,Weltreis
+Wendepunkt,wendepunkt
+wenig,wenig
+wenig,wenig
 weniger,weniger
 weniger,weniger
 wenigstens,wenigstens
@@ -8172,6 +9889,12 @@ wenn,wänn
 wenn,wänn
 wenn,wänn
 wenn,wänn
+wenn,wenn
+wenn,wenn
+wenn,wenn
+wenn,wenn
+wenn,wenn
+wenn,wenn
 wenn,wenn
 wenn,wenn
 wenn,wenn
@@ -8209,15 +9932,23 @@ wenn es,wenns
 wenn es,wenns
 wenn es,wennt
 wenn ich,wenni
+wenn ich,wenni
 wenn ihr,wender
+wenn man,wemer
 wenn wir,wemmer
 wer,wär
+wer,wer
+wer,wer
+wer,wer
+wer,wer
 wer,wer
 wer,wer
 wer die,wod
 wer es,wos
 werde (ich),wird
 werden,werde
+werden (sie),werded
+werden (sie),werded
 werden (sie),werded
 werden (sie),werdet
 werden (sie),werdet
@@ -8232,15 +9963,39 @@ wichteln,wichtle
 wichteln,wichtle
 wichteln,wichtle
 wichteln,wichtle
+wichteln,wichtle
+wichtig,wichtig
+wichtig,wichtig
 wichtig,wichtig
 wichtig,wichtig
 wichtige,wichtigi
+wichtigen (pl.),wichtige
 Widerstand,Widerstand
 Widerstände,Widerständ
 Widerstände,Widerständ
+wie,mir
 wie,wiä
 wie,wiä
 wie,wiä
+wie,wiä
+wie,wiä
+wie,wie
+wie,wie
+wie,wie
+wie,wie
+wie,wie
+wie,wie
+wie,wie
+wie,wie
+wie,wie
+wie,wie
+wie,wie
+wie,wie
+wie,wie
+wie,wie
+wie,wie
+wie,wie
+wie,wie
 wie,wie
 wie,wie
 wie,wie
@@ -8266,6 +10021,9 @@ wie,wie
 wie,wie
 wie,wie
 wie es,wies
+wie viel,wieviel
+wieder,wieder
+wieder,wieder
 wieder,wieder
 wieder,wieder
 wieder,wieder
@@ -8273,6 +10031,8 @@ wieder,wieder
 wieder,wieder
 wieder,wieder
 wieder,wiedr
+wieso,wieso
+wieso,wieso
 wieso,wieso
 wieso,wieso
 wieso,wieso
@@ -8288,6 +10048,7 @@ wilden,wilde
 will (er/sie/es),wet
 will (er/sie/es),wet
 will (er/sie/es),will
+will (er/sie/es),Will
 will (er/sie/es),wöt
 will (er/sie/es),wott
 will (er/sie/es),wött
@@ -8295,6 +10056,7 @@ will (ich),wet
 will (ich),wett
 Willen,Wille
 willst (du),wetsch
+willst (du),wotsch
 willst du,wetsch
 willst du es,wetschs
 Winkel,Winkel
@@ -8346,6 +10108,11 @@ wir,mer
 wir,mer
 wir,mer
 wir,mer
+wir,mer
+wir,mer
+wir,mer
+wir,mer
+wir,mer
 wir,mier
 wir,mier
 wir,mier
@@ -8415,6 +10182,12 @@ wir,mir
 wir,mir
 wir,mir
 wir,mir
+wir,mir
+wir,mir
+wir,mir
+wir,mir
+wir,mr
+wir,mr
 wir,mr
 wir,mr
 wir,mr
@@ -8436,7 +10209,10 @@ wird (er/sie/es),wird
 wird (er/sie/es),wird
 wird (er/sie/es),wird
 wird (er/sie/es),wird
-wird (es/sie/es),wird
+wird (er/sie/es),wird
+wird (er/sie/es),wird
+wird (er/sie/es),wird
+wird (er/sie/es),wird
 wird es,wird’s
 wird es,wirds
 wirklich,wükli
@@ -8448,6 +10224,9 @@ wirklich,würklich
 wirklich,würklich
 wirklich,würklich
 Wirtschaft,Wirtschaft
+Wirtschaft,Wirtschafts
+wissen,wüsse
+wissen,wüsse
 wissen,wüsse
 wissen,wüsse
 wissen (wir),weiss
@@ -8469,6 +10248,21 @@ wo,wo
 wo,wo
 wo,wo
 wo,wo
+wo,wo
+wo,wo
+wo,wo
+wo,wo
+wo,wo
+wo,wo
+wo,wo
+wo,wo
+wo,wo
+wo,wo
+wo,wo
+wo,wo
+wo,wo
+wo,wo
+wobei,wobi
 Woche,Wuche
 Woche,Wuche
 Woche,Wuche
@@ -8484,28 +10278,41 @@ Woche,Wuche
 Woche,Wuche
 Woche,wuche
 Woche,Wuche
+Woche,wuche
+Woche,wuche
+Woche,Wuche
+Woche,Wuche
+Woche,wuche
 Wochen,Wuche
 Wochen,wuche
 Wochenende,Wuchenend
 Wohl,Wohl
 Wolke,wulche
+Wolken,wolken
 Wolken,Wulche
 wollen,welle
+wollen,welle
+wollen (sie),wend
 wollen (sie),wend
 wollen (wir),wend
 wollen (wir),wet
+wollen wir,wämmer
 wollen wir,wemmer
 wollt (ihr),wönd
 worden,worde
 worden,worde
+worden,worde
 Wort,wort
 Wörter,Wörter
+Wörter,Wörter
+wünsche (ich),wünsch
 wünsche (ich),wünsch
 wünsche (ich),wünsch
 wünsche (ich),wünsche
 wünschen (wir),wünsched
 wünscht (ihr),wünschet
 würde,wür
+würde (er/sie/es),wür
 würde (er/sie/es),wür
 würde (er/sie/es),wür
 würde (er/sie/es),würd
@@ -8527,16 +10334,21 @@ würde ich,würi
 würden (sie),würded
 würden (sie),würded
 würden (sie),würded
+würden (sie),würet
 würden (wir),würed
 Wurzel,Wurzel
+Wurzel,Wurzle
 Wurzeln,Wurzle
 wurzeln,wurzle
 wüsste (ich),wüsst
 wüsste (ich),wüsst
 zahlen,zahle
+Zahlen,zahle
+zahlen,zahle
 zählen (sie),zelled
 Zahlenfolgen,zahlefolge
 zählt (er/sie/es),zahlt
+zählt (er/sie/es),zählt
 zählt (er/sie/es),zellt
 zählt (er/sie/es),zellt
 zeichnen,zeichne
@@ -8549,6 +10361,8 @@ Zeit,Ziit
 Zeit,Ziit
 Zeit,Ziit
 Zeit,Ziit
+Zeit,Ziit
+Zeit,ziit
 Zeit,Zit
 Zeit,Zit
 Zeit,zit
@@ -8567,6 +10381,7 @@ zu,z
 zu,z
 zu,z
 zu,z
+zu,z
 zu,zu
 zu,zu
 zu,zu
@@ -8578,33 +10393,52 @@ zu,zu
 zu,zu
 zu,zu
 zu,zu
+zu,zu
+zu,zu
+zu,zu
+zu,zu
+zu,zu
+zu bekommen,z‘becho
 zu den,zude
+zu einem,zuneme
+zu lernen,zlerne
 zu machen,zmache
+zu spät,zspaat
 zu spät,zspaat
 zu spät,zspaat
 zu spät,zspat
 zu tun,ztue
 zu verschieben,sverschiebe
 zu verschieben,zverschiebe
+zu wechseln,z‘wechsle
 Zucker,Zucker
 Zucker,Zucker
 Zucker,Zucker
 Zucker,Zucker
 Zucker,zucker
+Zucker,zucker
 zuerst,ersch
 zuerst,zersch
 zuerst,zersch
+zuerst,zersch
+zuerst,zerscht
+zuerst,zerscht
 zuerst,zerscht
 Zufall,Zuefall
 Zufall,Zuefall
 Zufall,Zuefall
+Zufall,zuefall
 zufällig,zuefällig
 zufällig,zuefällig
 Zug,Zug
 Zug,Zug
 Zug,zug
 Zugabe,Zugabe
+Zugabe,zugabe
 zugemüllt (er/sie/es),zuemüllt
+zum,zum
+zum,zum
+zum,zum
 zum,zum
 zum,zum
 zum,zum
@@ -8626,6 +10460,7 @@ zur,zur
 zurück,zrugg
 zurückgeschickt,zrugggschickt
 Zusamenfassung,Zemefassig
+zusammen,zäme
 zusammen,zämme
 zusammen,zämme
 zusammen,zeme
@@ -8638,6 +10473,7 @@ Zusammenfassung,zemmefassig
 Zusammenfassungen,Zämefassige
 Zusammenfassungen,Zemefassige
 Zusammenfassungen,zemefassige
+Zusammenhang,zämehang
 Zusammenhang,Zemmehang
 zusätzliche,zuesätzlichi
 Zustand,Zuestand
@@ -8657,8 +10493,15 @@ zweifach,zweifach
 zweifach,zweifach
 zweifach,zweifach
 zweifaches,zweifach
+Zweifachzucker,zweifachzucker
+Zweifachzucker,zweifachzucker
+zweimal,zweimal
+zweite,zweiti
 zweite,zweiti
 zweiten,zweite
+zwischen,zwisched
 zwischen,zwüsche
 zwischen,zwüsched
 zwischen,zwüsched
+zwischen,zwüsched
+zwischen,zwüschet
