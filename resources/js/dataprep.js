@@ -56,10 +56,7 @@ function loadCsvFromServer(url) {
 function compressData(data) {
 	const output = [];
 	// make all gsw values lowercase
-	// console.log(data.slice(0, 10));
 	data.forEach((item) => {
-		// console.log(item);
-		// console.log(item.gsw);
 		item.gsw = item.gsw.toLowerCase();
 	});
 
@@ -104,29 +101,6 @@ function compressData(data) {
 	return output;
 }
 
-// import ai from "../data/ai.json" assert { type: "json" };
-// import xx from "../data/xx.json" assert { type: "json" };
-// import zh from "../data/zh.json" assert { type: "json" };
-// import fr from "../data/fr.json" assert { type: "json" };
-
-// load csv files from server for each canton in cantons array
-
-// loadCsvFromServer("/data/ai.csv").then((data) => {
-// 	ai = data;
-// });
-
-// loadCsvFromServer("/data/xx.csv").then((data) => {
-// 	xx = data;
-// });
-
-// loadCsvFromServer("/data/zh.csv").then((data) => {
-// 	zh = data;
-// });
-
-// loadCsvFromServer("/data/fr.csv").then((data) => {
-// 	fr = data;
-// });
-
 let allParsed;
 let aiParsed;
 let xxParsed;
@@ -148,7 +122,6 @@ Promise.all(
 	let all = [...ai, ...xx, ...zh, ...fr];
 	// sort array by "de" value
 	all.sort((a, b) => (a.de > b.de ? 1 : -1));
-	// console.log(all);
 
 	allParsed = compressData(all);
 	aiParsed = compressData(ai);
@@ -156,18 +129,6 @@ Promise.all(
 	zhParsed = compressData(zh);
 	frParsed = compressData(fr);
 });
-
-// console log first 10 objects of allParsed
-// console.log(allParsed.slice(0, 10));
-
-// export allParsed to json and download it
-// const dataStr = "data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(allParsed));
-// const downloadAnchorNode = document.createElement("a");
-// downloadAnchorNode.setAttribute("href", dataStr);
-// downloadAnchorNode.setAttribute("download", "all.json");
-// document.body.appendChild(downloadAnchorNode); // required for firefox
-// downloadAnchorNode.click();
-// downloadAnchorNode.remove();
 
 // function that accepts an objects and downloads it as a json named after the object
 function exportJson(obj, name) {
