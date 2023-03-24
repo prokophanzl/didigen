@@ -148,4 +148,21 @@ document.getElementById("download").addEventListener("click", () => {
 	exportJson(xxParsed, "xxParsed");
 	exportJson(zhParsed, "zhParsed");
 	exportJson(frParsed, "frParsed");
+
+	let meta = {
+		uniqueDe: allParsed.length,
+		// sum of all "count" properties in all "translations" arrays
+		allGsw: allParsed.reduce((acc, cur) => {
+			return acc + cur.translations.reduce((acc, cur) => acc + cur.count, 0);
+		}, 0),
+
+		// date in German format
+		date: new Date().toLocaleDateString("de-DE", {
+			year: "numeric",
+			month: "long",
+			day: "numeric",
+		}),
+	};
+
+	exportJson(meta, "meta");
 });

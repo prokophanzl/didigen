@@ -179,5 +179,16 @@ if (urlParams.get("word")) {
 
 	loadAllJsonFiles();
 } else {
-	document.querySelector("#search-results-heading").innerHTML = "Geben Sie einen Suchbegriff ein.";
+	// load meta.json and set "#search-results-heading" to the values in it
+	loadJson("resources/data/parsed/meta.json").then((data) => {
+		document.querySelector("#search-results-heading").innerHTML = "Geben Sie einen Suchbegriff ein.";
+		document.querySelector("#data-info").innerHTML = `
+			<p>
+				Dem Wörterbuch stehen ${data.allGsw} Datenpunkte zur Verfügung (${data.uniqueDe} verschiedene Wörter).
+			</p>
+			<p>
+				Letzter Update: ${data.date}.
+			</p>
+		`;
+	});
 }
