@@ -5,7 +5,7 @@ const nonAlpha = (str) => {
 		.replace(/ö/g, "oe")
 		.replace(/ü/g, "ue")
 		.replace(/ß/g, "ss")
-		.replace(/[^a-z0-9]/gi, "");
+		.replace(/[^a-z0-9]/gi, "_");
 };
 
 function compressData(data) {
