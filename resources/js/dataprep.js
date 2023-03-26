@@ -10,7 +10,7 @@ const cantons = [
 	// "gl",
 	// "gr",
 	// "ju",
-	// "lu",
+	"lu",
 	// "ne",
 	// "nw",
 	// "ow",
@@ -107,6 +107,7 @@ let xxParsed;
 let zhParsed;
 let frParsed;
 let beParsed;
+let luParsed;
 
 // load csv files from server for all cantons in cantons array
 Promise.all(
@@ -117,11 +118,12 @@ Promise.all(
 	let ai = data[0];
 	let be = data[1];
 	let fr = data[2];
-	let zh = data[3];
-	let xx = data[4];
+	let lu = data[3];
+	let zh = data[4];
+	let xx = data[5];
 
 	// join all data into one array
-	let all = [...ai, ...xx, ...zh, ...fr, ...be];
+	let all = [...ai, ...xx, ...zh, ...fr, ...be, ...lu];
 	// sort array by "de" value
 	all.sort((a, b) => (a.de > b.de ? 1 : -1));
 
@@ -131,6 +133,7 @@ Promise.all(
 	zhParsed = compressData(zh);
 	frParsed = compressData(fr);
 	beParsed = compressData(be);
+	luParsed = compressData(lu);
 });
 
 // function that accepts an objects and downloads it as a json named after the object
@@ -152,6 +155,7 @@ document.getElementById("download").addEventListener("click", () => {
 	exportJson(zhParsed, "zhParsed");
 	exportJson(frParsed, "frParsed");
 	exportJson(beParsed, "beParsed");
+	exportJson(luParsed, "luParsed");
 
 	let meta = {
 		uniqueDe: allParsed.length,

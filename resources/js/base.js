@@ -64,7 +64,7 @@ const cantons = [
 	// "gl",
 	// "gr",
 	// "ju",
-	// "lu",
+	"lu",
 	// "ne",
 	// "nw",
 	// "ow",
