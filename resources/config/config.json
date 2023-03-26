@@ -1,14 +1,14 @@
 {
 	"text": {
 		"title": "Deutsch-Schweizerdeutsches Wörterbuch",
-		"search-prompt": "Geben Sie einen Suchbegriff ein.",
-		"search-placeholder": "Deutsch &#8594; Schweizerdeutsch",
-		"translate-button": "übersetzen",
+		"searchPrompt": "Geben Sie einen Suchbegriff ein.",
+		"searchPlaceholder": "Deutsch → Schweizerdeutsch",
+		"translateButton": "übersetzen",
 
-		"light-theme": "Hellmodus",
-		"dark-theme": "Dunkelmodus",
+		"lightTheme": "Hellmodus",
+		"darkTheme": "Dunkelmodus",
 		"contact": "Kontakt",
-		"report-bug": "Fehler melden"
+		"reportBug": "Fehler melden"
 	},
 
 	"dialects": [

@@ -55,7 +55,7 @@ function loadJson(url) {
 
 // function to get dialects from config.json
 async function getDialects() {
-	const configPath = "resources/js/config.json";
+	const configPath = "resources/config/config.json";
 	const response = await loadJson(configPath);
 	return response.dialects.map((item) => item.code);
 }
@@ -184,5 +184,14 @@ async function parse() {
 		`;
 	}
 }
+
+// load the config.json file
+const config = await loadJson("resources/config/config.json");
+
+// set #config-title to the title property of config.json
+document.querySelector("#config-title").innerHTML = config.text.title;
+
+// set #word-input to the placeholder property of config.json
+document.querySelector("#word-input").placeholder = config.text.searchPlaceholder;
 
 parse();
