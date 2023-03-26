@@ -48,36 +48,6 @@ function compressData(data) {
 	return output;
 }
 
-// const cantons = [
-// 	// "ag",
-// 	// "ar",
-// 	"ai",
-// 	// "bl",
-// 	// "bs",
-// 	"be",
-// 	"fr",
-// 	// "ge",
-// 	// "gl",
-// 	// "gr",
-// 	// "ju",
-// 	"lu",
-// 	// "ne",
-// 	// "nw",
-// 	// "ow",
-// 	// "sh",
-// 	// "sz",
-// 	// "so",
-// 	// "sg",
-// 	// "ti",
-// 	// "tg",
-// 	// "ur",
-// 	// "vd",
-// 	// "vs",
-// 	// "zg",
-// 	"zh",
-// 	"xx",
-// ];
-
 // function to load json files
 function loadJson(url) {
 	return fetch(url).then((response) => response.json());
