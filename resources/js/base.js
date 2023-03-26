@@ -83,7 +83,6 @@ const cantons = [
 ];
 
 let cantonsSet = cantons.length;
-let filterCounter = 0;
 
 cantons.forEach((canton) => checkCantons(canton));
 
@@ -117,8 +116,6 @@ $("#check-none").bind("click", () => {
 
 if (cantonsSet == 0) {
 	$(".checkbox-canton").prop("checked", true);
-} else {
-	filterCounter++;
 }
 
 if (urlParams.get("word")) {
@@ -133,11 +130,4 @@ if (urlParams.get("match")) {
 
 if (sessionStorage.getItem("filtersOpen")) {
 	$("#filter-container").css("display", "block");
-}
-
-filtersActive = $("#filters-active");
-if (filterCounter == 0) {
-	filtersActive.text("keine");
-} else {
-	filtersActive.text(filterCounter);
 }
