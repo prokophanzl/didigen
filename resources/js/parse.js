@@ -48,85 +48,116 @@ function compressData(data) {
 	return output;
 }
 
-const cantons = [
-	// "ag",
-	// "ar",
-	"ai",
-	// "bl",
-	// "bs",
-	"be",
-	"fr",
-	// "ge",
-	// "gl",
-	// "gr",
-	// "ju",
-	"lu",
-	// "ne",
-	// "nw",
-	// "ow",
-	// "sh",
-	// "sz",
-	// "so",
-	// "sg",
-	// "ti",
-	// "tg",
-	// "ur",
-	// "vd",
-	// "vs",
-	// "zg",
-	"zh",
-	"xx",
-];
+// const cantons = [
+// 	// "ag",
+// 	// "ar",
+// 	"ai",
+// 	// "bl",
+// 	// "bs",
+// 	"be",
+// 	"fr",
+// 	// "ge",
+// 	// "gl",
+// 	// "gr",
+// 	// "ju",
+// 	"lu",
+// 	// "ne",
+// 	// "nw",
+// 	// "ow",
+// 	// "sh",
+// 	// "sz",
+// 	// "so",
+// 	// "sg",
+// 	// "ti",
+// 	// "tg",
+// 	// "ur",
+// 	// "vd",
+// 	// "vs",
+// 	// "zg",
+// 	"zh",
+// 	"xx",
+// ];
 
-let allData;
-let sourceData = [];
-let filesToLoad = [];
-
+// function to load json files
 function loadJson(url) {
 	return fetch(url).then((response) => response.json());
 }
 
-async function loadAllJsonFiles() {
-	for (let i = 0; i < filesToLoad.length; i++) {
-		const url = filesToLoad[i];
-		const jsonArray = await loadJson(url);
-		sourceData = sourceData.concat(jsonArray);
-	}
-	// console.log(sourceData); // do something with the big array here
+// function to get dialects from config.json
+async function getDialects() {
+	const configPath = "resources/js/config.json";
+	const response = await loadJson(configPath);
+	return response.dialects.map((item) => item.code);
+}
 
-	if (filesToLoad.length > 1) {
-		sourceData.sort((a, b) => (a.de > b.de ? 1 : -1));
-		sourceData = compressData(sourceData);
-	}
+async function parse() {
+	// if url contains "word" parameter, parse data
+	if (urlParams.has("word")) {
+		// get cantons from config.json
+		const dialects = await getDialects();
 
-	// console.log(sourceData); // do something with the big array here
+		// get url parameters
+		const dialectsUsed = dialects.filter((dialect) => urlParams.get(dialect) === "on");
 
-	var dataParsed;
-	const word = urlParams.get("word").toLowerCase();
+		let jsonsToLoad = [];
 
-	switch (urlParams.get("match")) {
-		case "begins":
-			dataParsed = sourceData.filter((item) => item.de.toLowerCase().startsWith(word));
-			break;
-		case "match":
-			dataParsed = sourceData.filter((item) => item.de.toLowerCase() === word);
-			break;
-		case "contains":
-			// console.log(sourceData);
-			dataParsed = sourceData.filter((item) => item.de.toLowerCase().includes(word));
-			break;
-		default:
-			break;
-	}
+		// get all json files loaded for the dialects used
+		if (dialectsUsed.length === dialects.length) {
+			// if all dialects are used, load the allParsed.json file
+			jsonsToLoad.push("resources/data/parsed/allParsed.json");
+		} else {
+			// if not all dialects are used, load the individual files
+			dialectsUsed.forEach((dialect) => {
+				jsonsToLoad.push(`resources/data/parsed/${dialect}Parsed.json`);
+			});
+		}
 
-	// add "count" property to each "de" object, containing the sum of all "count" properties of the "gsw" objects
-	dataParsed.forEach((item) => {
-		item.count = item.translations.reduce((acc, obj) => acc + obj.count, 0);
-	});
+		// load all json files
+		let loadedData = [];
+		for (let i = 0; i < jsonsToLoad.length; i++) {
+			const url = jsonsToLoad[i];
+			const jsonArray = await loadJson(url);
+			loadedData = loadedData.concat(jsonArray);
+		}
 
-	// for each element in joined, print a div in "#translation-parent" with its data in it
-	dataParsed.forEach((item) => {
-		document.querySelector("#translation-parent").innerHTML += `
+		if (jsonsToLoad.length > 1) {
+			loadedData.sort((a, b) => (a.de > b.de ? 1 : -1));
+			loadedData = compressData(loadedData);
+		}
+
+		// get word parameter
+		const word = urlParams.get("word").toLowerCase();
+
+		// get match parameter
+		const match = urlParams.get("match");
+
+		let parsedData;
+
+		// filter data by word parameter
+
+		switch (match) {
+			case "begins":
+				parsedData = loadedData.filter((item) => item.de.toLowerCase().startsWith(word));
+				break;
+			case "match":
+				parsedData = loadedData.filter((item) => nonAlpha(item.de.toLowerCase()) === nonAlpha(word));
+				break;
+			case "contains":
+				parsedData = loadedData.filter((item) => item.de.toLowerCase().includes(word));
+				break;
+			default:
+				parsedData = loadedData.filter((item) => item.de.toLowerCase().startsWith(word));
+				break;
+		}
+
+		// add "count" property to each "de" object, containing the sum of all "count" properties of the "gsw" objects
+		parsedData.forEach((item) => {
+			item.count = item.translations.reduce((acc, current) => acc + current.count, 0);
+		});
+
+		// for each element in joined, print a div in "#translation-parent" with its data in it
+		parsedData.forEach((item) => {
+			document.querySelector("#translation-parent").innerHTML += `
 		<div class="word-wrapper" style="--matches: ${item.count}; --count-first: ${item.translations[0].count}">
 			<div class="word-header">
 				<div class="word-menu" onclick="toggle('${nonAlpha(item.de)}')" id="${nonAlpha(item.de)}-menu"></div>
@@ -145,49 +176,43 @@ async function loadAllJsonFiles() {
 		</div>
 	`;
 
-		// for each "gsw" object, print a div in "#translation-bar-wrapper-${item.de}" with its data in it
-		item.translations.forEach((item2) => {
-			document.querySelector(`#translation-bar-wrapper-${nonAlpha(item.de)}`).innerHTML += `
-			<div style="--count: ${item2.count}">
-				<span class="translation-container">
-					<span class="translation">${item2.gsw}</span>
-					<span class="translation-count primary50"> ${item2.count}</span>
-				</span>
-			</div>
-		`;
+			// for each "gsw" object, print a div in "#translation-bar-wrapper-${item.de}" with its data in it
+			item.translations.forEach((item2) => {
+				document.querySelector(`#translation-bar-wrapper-${nonAlpha(item.de)}`).innerHTML += `
+		<div style="--count: ${item2.count}">
+			<span class="translation-container">
+				<span class="translation">${item2.gsw}</span>
+				<span class="translation-count primary50"> ${item2.count}</span>
+			</span>
+		</div>
+	`;
+			});
 		});
-	});
 
-	// fill in search results info
-	document.querySelector("#search-results-info-de").innerHTML = dataParsed.length;
-	document.querySelector("#search-results-info-gsw").innerHTML = dataParsed.reduce((acc, obj) => acc + obj.count, 0);
-}
-
-if (urlParams.get("word")) {
-	loadAllJsonFiles();
-	const cantonsUsed = cantons.filter((canton) => urlParams.get(canton) === "on");
-	let joinCantons;
-	if (cantonsUsed.length === 1) {
-		filesToLoad = [`resources/data/parsed/${cantonsUsed[0]}Parsed.json`];
-	} else if (cantonsUsed.length === 0 || cantonsUsed.length === cantons.length) {
-		filesToLoad = ["resources/data/parsed/allParsed.json"];
+		// fill in search results info
+		document.querySelector("#search-results-info-de").innerHTML = parsedData.length;
+		document.querySelector("#search-results-info-gsw").innerHTML = parsedData.reduce((acc, obj) => acc + obj.count, 0);
 	} else {
-		filesToLoad = cantonsUsed.map((canton) => `resources/data/parsed/${canton}Parsed.json`);
-		joinCantons = true;
-	}
+		// set the contents of "#data-md" to the content of main.md
+		document.querySelector("#data-md").innerHTML = `
+			<zero-md src="resources/config/main.md">
+				<template>
+					<link rel="stylesheet" type="text/css" href="resources/css/compiled/base.css" />
+				</template>
+			</zero-md>`;
 
-	loadAllJsonFiles();
-} else {
-	// load meta.json and set "#search-results-heading" to the values in it
-	loadJson("resources/data/parsed/meta.json").then((data) => {
-		document.querySelector("#search-results-heading").innerHTML = "Geben Sie einen Suchbegriff ein.";
+		// load meta.json
+		const meta = await loadJson("resources/data/parsed/meta.json");
+		document.querySelector("#search-results-heading").innerHTML = "";
 		document.querySelector("#data-info").innerHTML = `
 			<p>
-				Dem Wörterbuch stehen ${data.allGsw} Datenpunkte zur Verfügung (${data.uniqueDe} verschiedene Wörter).
+				Dem Wörterbuch stehen ${meta.allGsw} Datenpunkte zur Verfügung (${meta.uniqueDe} verschiedene Wörter).
 			</p>
 			<p>
-				Letzter Update: ${data.date}.
+				Letzter Update: ${meta.date}.
 			</p>
 		`;
-	});
+	}
 }
+
+parse();
