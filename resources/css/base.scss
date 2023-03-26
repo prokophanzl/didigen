@@ -152,15 +152,16 @@ a[href],
 .link {
 	text-decoration: none;
 	cursor: pointer;
+	color: inherit;
 }
 
-a[href]:not(.logo-div),
+a[href]:not(.a-no-style),
 .link {
 	transition: color 0.2s ease;
 	color: var(--accent);
 }
 
-a[href]:not(.logo-div):hover,
+a[href]:not(.a-no-style):hover,
 .link:hover {
 	color: var(--accent-secondary);
 }
