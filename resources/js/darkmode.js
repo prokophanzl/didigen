@@ -10,18 +10,14 @@ const enableDarkMode = () => {
 	document.body.classList.add("darkmode");
 	localStorage.setItem("darkMode", "enabled");
 	$("#dark-mode-toggle").html(config.text.lightTheme);
-	if (config.options.useDarkLogo) {
-		$("#logo-div").css("background-image", "url('config/logo_dark.png')");
-	}
+	$("#logo-div").css("background-image", `url('config/${config.options.logoDark}')`);
 };
 
 const disableDarkMode = () => {
 	document.body.classList.remove("darkmode");
 	localStorage.setItem("darkMode", "disabled");
 	$("#dark-mode-toggle").html(config.text.darkTheme);
-	if (config.options.useDarkLogo) {
-		$("#logo-div").css("background-image", "url('config/logo.png')");
-	}
+	$("#logo-div").css("background-image", `url('config/${config.options.logoLight}')`);
 };
 
 if (darkMode === "enabled" || (darkMode !== "disabled" && prefersDarkMode)) {

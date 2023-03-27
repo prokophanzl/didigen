@@ -24,7 +24,8 @@
 	},
 
 	"options": {
-		"useDarkLogo": true
+		"logoLight": "logo-light.png",
+		"logoDark": "logo-dark.png"
 	},
 
 	"dialects": [
