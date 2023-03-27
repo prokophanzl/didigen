@@ -48,15 +48,10 @@ function compressData(data) {
 	return output;
 }
 
-// function to load json files
-function loadJson(url) {
-	return fetch(url).then((response) => response.json());
-}
-
 // function to get dialects from config.json
 async function getDialects() {
 	const configPath = "resources/config/config.json";
-	const response = await loadJson(configPath);
+	const response = await $.getJSON(configPath);
 	return response.dialects.map((item) => item.code);
 }
 
@@ -86,7 +81,7 @@ async function parse() {
 		let loadedData = [];
 		for (let i = 0; i < jsonsToLoad.length; i++) {
 			const url = jsonsToLoad[i];
-			const jsonArray = await loadJson(url);
+			const jsonArray = await $.getJSON(url);
 			loadedData = loadedData.concat(jsonArray);
 		}
 
@@ -107,16 +102,20 @@ async function parse() {
 
 		switch (match) {
 			case "begins":
-				parsedData = loadedData.filter((item) => item.de.toLowerCase().startsWith(word));
+				// parsedData = loadedData.filter((item) => item.de.toLowerCase().startsWith(word));
+				parsedData = $.grep(loadedData, (item) => item.de.toLowerCase().startsWith(word));
 				break;
 			case "match":
-				parsedData = loadedData.filter((item) => nonAlpha(item.de.toLowerCase()) === nonAlpha(word));
+				// parsedData = loadedData.filter((item) => nonAlpha(item.de.toLowerCase()) === nonAlpha(word));
+				parsedData = $.grep(loadedData, (item) => nonAlpha(item.de.toLowerCase()) === nonAlpha(word));
 				break;
 			case "contains":
-				parsedData = loadedData.filter((item) => item.de.toLowerCase().includes(word));
+				// parsedData = loadedData.filter((item) => item.de.toLowerCase().includes(word));
+				parsedData = $.grep(loadedData, (item) => item.de.toLowerCase().includes(word));
 				break;
 			default:
-				parsedData = loadedData.filter((item) => item.de.toLowerCase().startsWith(word));
+				// parsedData = loadedData.filter((item) => item.de.toLowerCase().startsWith(word));
+				parsedData = $.grep(loadedData, (item) => item.de.toLowerCase().startsWith(word));
 				break;
 		}
 
@@ -172,7 +171,7 @@ async function parse() {
 			</zero-md>`;
 
 		// load meta.json
-		const meta = await loadJson("resources/data/parsed/meta.json");
+		const meta = await $.getJSON("resources/data/parsed/meta.json");
 		document.querySelector("#search-results-heading").innerHTML = "";
 		document.querySelector("#data-info").innerHTML = `
 			<p>
@@ -186,7 +185,7 @@ async function parse() {
 }
 
 // load the config.json file
-const config = await loadJson("resources/config/config.json");
+const config = await $.getJSON("resources/config/config.json");
 
 // set #config-title to the title property of config.json
 document.querySelector("#config-title").innerHTML = config.text.title;
