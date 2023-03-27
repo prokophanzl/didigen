@@ -5,6 +5,10 @@
 		"searchPlaceholder": "Deutsch → Schweizerdeutsch",
 		"translateButton": "übersetzen",
 
+		"matchBegins": "beginnt mit",
+		"matchExact": "ist",
+		"matchContains": "enthält",
+
 		"lightTheme": "Hellmodus",
 		"darkTheme": "Dunkelmodus",
 		"contact": "Kontakt",

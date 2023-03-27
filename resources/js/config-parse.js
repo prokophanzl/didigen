@@ -13,6 +13,11 @@ $("#word-input").attr("placeholder", config.text.searchPlaceholder);
 // set value of #submit to the translateButton property of config.json
 $("#submit").val(config.text.translateButton);
 
+// set match options to the match properties of config.json
+$("#begins").text(config.text.matchBegins);
+$("#match").text(config.text.matchExact);
+$("#contains").text(config.text.matchContains);
+
 // set #config-dialect-checkmarks to the dialects property of config.json
 $.each(config.dialects, (index, item) => {
 	$("#config-dialect-checkmarks").append(`
