@@ -54,17 +54,17 @@ function compressData(data) {
 	const merged = [];
 
 	// join objects with same "de" value into one object with an array of "gsw" values with "count" property for duplicate gsw values
-	$.each(data, function (index, obj) {
+	$.each(data, (index, obj) => {
 		var found = false;
 
-		$.each(merged, function (index, mergedObj) {
+		$.each(merged, (index, mergedObj) => {
 			if (mergedObj.de == obj.de) {
 				found = true;
 
-				$.each(obj.translations, function (index, trans) {
+				$.each(obj.translations, (index, trans) => {
 					var gswFound = false;
 
-					$.each(mergedObj.translations, function (index, mergedTrans) {
+					$.each(mergedObj.translations, (index, mergedTrans) => {
 						if (mergedTrans.gsw == trans.gsw) {
 							gswFound = true;
 							mergedTrans.count += trans.count;
