@@ -12,7 +12,7 @@
 		<link rel="icon" type="image/png" href="/resources/logo/logo_58.png" />
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 		<script type="module" src="https://cdn.jsdelivr.net/gh/zerodevx/zero-md@2/dist/zero-md.min.js"></script>
-		<title>Loading...</title>
+		<title data-config="title">Loading...</title>
 	</head>
 
 	<body>
@@ -21,32 +21,48 @@
 		</div>
 		<section class="head-section">
 			<form method="get" autocomplete="off">
-				<h1 class="main-title"><a href="index.html" class="a-no-style" id="config-title">conf_title</a></h1>
+				<h1 class="main-title"><a href="index.html" class="a-no-style" data-config="title">conf_title</a></h1>
 				<div class="flexor-parent">
 					<div class="input-field">
 						<a class="logo-div a-no-style" href="index.html">DS<br />W</a>
 						<div class="input-wrapper">
-							<input type="text" name="word" id="word-input" class="word-input" placeholder="conf_placeholder" required />
+							<input
+								type="text"
+								name="word"
+								id="word-input"
+								class="word-input"
+								placeholder="conf_placeholder"
+								data-config="searchPlaceholder"
+								data-config-type="placeholder"
+								required
+							/>
 						</div>
 					</div>
 					<div class="submit-buttons">
 						<div id="filter-button" class="filter-button filter-toggle"></div>
 						<div class="flex1 focus-outline">
-							<input type="submit" class="submit" id="submit" value="conf_translate" />
+							<input
+								type="submit"
+								class="submit"
+								id="submit"
+								value="conf_translate"
+								data-config="translateButton"
+								data-config-type="value"
+							/>
 						</div>
 					</div>
 				</div>
 				<div id="filter-container" class="filter-container">
-					<div class="filter-title-div config-keyword">conf_keyword</div>
+					<div class="filter-title-div" data-config="keyword">conf_keyword</div>
 					<input type="hidden" name="match" id="term-input" value="begins" />
 					<div class="search-option-container filter-sub">
-						<div id="config-word">conf_word</div>
+						<div data-config="word">conf_word</div>
 						<div class="search-option-button-container">
-							<div class="search-option search-option-selected" id="begins">conf_begins</div>
-							<div class="search-option" id="match">conf_exact</div>
-							<div class="search-option" id="contains">conf_contains</div>
+							<div class="search-option search-option-selected" id="begins" data-config="matchBegins">conf_begins</div>
+							<div class="search-option" id="match" data-config="matchExact">conf_exact</div>
+							<div class="search-option" id="contains" data-config="matchContains">conf_contains</div>
 						</div>
-						<div class="config-keyword">conf_keyword</div>
+						<div data-config="keyword">conf_keyword</div>
 					</div>
 					<div class="filter-title-div">
 						Kanton
