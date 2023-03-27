@@ -14,7 +14,7 @@ export const nonAlpha = (str) => {
 
 // function to get dialects from config.json
 export async function getDialects() {
-	const configPath = "resources/config/config.json";
+	const configPath = "config/config.json";
 	const response = await $.getJSON(configPath);
 	return response.dialects.map((item) => item.code);
 }

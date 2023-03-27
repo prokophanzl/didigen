@@ -1,5 +1,5 @@
 // load the config.json file
-const config = await $.getJSON("resources/config/config.json");
+const config = await $.getJSON("config/config.json");
 
 // export darkTheme and lightTheme variables from config.json
 export const darkTheme = config.text.darkTheme;
@@ -56,7 +56,7 @@ if (!urlParams.has("word")) {
 	var xhr = new XMLHttpRequest();
 
 	// set the URL of the markdown file to load
-	var url = "resources/config/main.md";
+	var url = "config/main.md";
 
 	// set the callback function for when the AJAX request completes
 	xhr.onload = function () {
