@@ -1,6 +1,9 @@
 // load the config.json file
 const config = await $.getJSON("resources/config/config.json");
 
+// set page title to the title property of config.json
+document.title = config.text.title;
+
 // set #config-title to the title property of config.json
 $("#config-title").text(config.text.title);
 
