@@ -13,6 +13,12 @@ $("#word-input").attr("placeholder", config.text.searchPlaceholder);
 // set value of #submit to the translateButton property of config.json
 $("#submit").val(config.text.translateButton);
 
+// set .config-keyword to the keyword property of config.json
+$(".config-keyword").text(config.text.keyword);
+
+// set #config-word to the word property of config.json
+$("#config-word").text(config.text.word);
+
 // set match options to the match properties of config.json
 $("#begins").text(config.text.matchBegins);
 $("#match").text(config.text.matchExact);
