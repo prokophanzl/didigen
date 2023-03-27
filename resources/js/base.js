@@ -193,25 +193,17 @@ async function parse() {
 		$("#search-results-info-gsw").text(parsedData.reduce((acc, obj) => acc + obj.count, 0));
 	} else {
 		// set the contents of "#data-md" to the content of main.md
-		$("#data-md").html(`
-			<zero-md src="resources/config/main.md">
-				<template>
-					<link rel="stylesheet" type="text/css" href="resources/css/compiled/base.css" />
-				</template>
-			</zero-md>
-			`);
+		// $("#data-md").html(`
+		// 	<zero-md src="resources/config/main.md" id="config-md">
+		// 		<template>
+		// 			<link rel="stylesheet" type="text/css" href="resources/css/compiled/base.css" />
+		// 		</template>
+		// 	</zero-md>
+		// 	`);
+
 		// load meta.json
 		const meta = await $.getJSON("resources/data/parsed/meta.json");
 		$("#search-results-heading").remove();
-		// document.querySelector("#data-info").innerHTML = `
-		$("#data-info").html(`
-			<p>
-				Dem Wörterbuch stehen ${meta.allGsw} Datenpunkte zur Verfügung (${meta.uniqueDe} verschiedene Wörter).
-			</p>
-			<p>
-				Letzter Update: ${meta.date}.
-			</p>
-			`);
 	}
 }
 
