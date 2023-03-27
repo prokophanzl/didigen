@@ -56,23 +56,6 @@
 	--logo-border: hsl(220, 10%, 95%);
 }
 
-::-webkit-scrollbar {
-	width: 10px;
-}
-
-::-webkit-scrollbar-track {
-	background: none;
-}
-
-::-webkit-scrollbar-thumb {
-	background-color: var(--text-primary);
-	border-radius: 0;
-}
-
-::-webkit-scrollbar-button {
-	display: none;
-}
-
 body {
 	background-color: var(--background);
 	--fonts: "Work Sans", sans-serif;
