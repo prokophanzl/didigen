@@ -23,6 +23,9 @@ $("[data-config]").each((index, item) => {
 		case "value":
 			$(item).val(config.text[configKey]);
 			break;
+		case "email":
+			$(item).attr("href", `mailto:${config.text[configKey]}`);
+			break;
 		default:
 			$(item).text(config.text[configKey]);
 			break;
