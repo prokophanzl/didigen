@@ -1,6 +1,10 @@
 // load the config.json file
 const config = await $.getJSON("resources/config/config.json");
 
+// export darkTheme and lightTheme variables from config.json
+export const darkTheme = config.text.darkTheme;
+export const lightTheme = config.text.lightTheme;
+
 // for each X, set elements with data-config=X to the X property of config.json
 $("[data-config]").each((index, item) => {
 	const configKey = $(item).data("config");
