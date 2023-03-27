@@ -72,9 +72,7 @@ async function parse() {
 			jsonsToLoad.push("resources/data/parsed/allParsed.json");
 		} else {
 			// if not all dialects are used, load the individual files
-			dialectsUsed.forEach((dialect) => {
-				jsonsToLoad.push(`resources/data/parsed/${dialect}Parsed.json`);
-			});
+			jsonsToLoad = dialectsUsed.map((dialect) => `resources/data/parsed/${dialect}Parsed.json`);
 		}
 
 		// load all json files
