@@ -51,43 +51,50 @@ if (sessionStorage.getItem("filtersOpen")) {
 }
 
 function compressData(data) {
-	const output = [];
+	const merged = [];
 
 	// join objects with same "de" value into one object with an array of "gsw" values with "count" property for duplicate gsw values
-	$.each(data, (index, item) => {
-		// find index of object with same "de" value
-		const i = output.findIndex((obj) => nonAlpha(obj.de) === nonAlpha(item.de));
-		// if no object with same "de" value exists, push new object to output
-		if (i === -1) {
-			output.push({
-				de: item.de,
-				translations: item.translations,
-			});
-		} else {
-			// if object with same "de" value exists, merge "translations" arrays
-			output[index].translations = output[index].translations.concat(item.translations);
-			// go through "translations" array and remove duplicates, incrementing "count" property for duplicates
-			output[index].translations = output[index].translations.reduce((acc, current) => {
-				const x = acc.find((item) => item.gsw === current.gsw);
-				if (!x) {
-					return acc.concat([current]);
-				} else {
-					x.count += current.count;
-					return acc;
-				}
-			}, []);
+	$.each(data, function (index, obj) {
+		var found = false;
+
+		$.each(merged, function (index, mergedObj) {
+			if (mergedObj.de == obj.de) {
+				found = true;
+
+				$.each(obj.translations, function (index, trans) {
+					var gswFound = false;
+
+					$.each(mergedObj.translations, function (index, mergedTrans) {
+						if (mergedTrans.gsw == trans.gsw) {
+							gswFound = true;
+							mergedTrans.count += trans.count;
+							return false; // break out of the loop
+						}
+					});
+
+					if (!gswFound) {
+						mergedObj.translations.push(trans);
+					}
+				});
+
+				return false; // break out of the loop
+			}
+		});
+
+		if (!found) {
+			merged.push(obj);
 		}
 	});
 
 	// sort data by "de" value
-	output.sort((a, b) => (a.de.toLowerCase() > b.de.toLowerCase() ? 1 : -1));
+	merged.sort((a, b) => (a.de.toLowerCase() > b.de.toLowerCase() ? 1 : -1));
 
 	// sort "translations" arrays by "count" property, case insensitive
-	$.each(output, (index, item) => {
+	$.each(merged, (index, item) => {
 		item.translations.sort((a, b) => b.count - a.count);
 	});
 
-	return output;
+	return merged;
 }
 
 async function parse() {
