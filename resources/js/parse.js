@@ -194,4 +194,17 @@ $("#config-title").text(config.text.title);
 // set #word-input to the placeholder property of config.json
 $("#word-input").attr("placeholder", config.text.searchPlaceholder);
 
+// set #config-dialect-checkmarks to the dialects property of config.json
+$.each(config.dialects, (index, item) => {
+	$("#config-dialect-checkmarks").append(`
+		<div>
+			<label>
+				${item.name}
+				<input type="checkbox" name="${item.code}" id="${item.code}" class="checkbox-canton" />
+				<span class="checkmark-span"></span>
+			</label>
+		</div>
+	`);
+});
+
 parse();
