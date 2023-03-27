@@ -41,7 +41,7 @@ function compressData(data) {
 	output.sort((a, b) => (a.de.toLowerCase() > b.de.toLowerCase() ? 1 : -1));
 
 	// sort "translations" arrays by "count" property, case insensitive
-	output.forEach((item) => {
+	$.each(output, (index, item) => {
 		item.translations.sort((a, b) => b.count - a.count);
 	});
 
@@ -63,7 +63,6 @@ async function parse() {
 
 		// get url parameters
 		const dialectsUsed = dialects.filter((dialect) => urlParams.get(dialect) === "on");
-
 		let jsonsToLoad = [];
 
 		// get all json files loaded for the dialects used
@@ -118,67 +117,69 @@ async function parse() {
 		}
 
 		// add "count" property to each "de" object, containing the sum of all "count" properties of the "gsw" objects
-		parsedData.forEach((item) => {
+		$.each(parsedData, (index, item) => {
 			item.count = item.translations.reduce((acc, current) => acc + current.count, 0);
 		});
 
 		// for each element in joined, print a div in "#translation-parent" with its data in it
-		parsedData.forEach((item) => {
-			document.querySelector("#translation-parent").innerHTML += `
-		<div class="word-wrapper" style="--matches: ${item.count}; --count-first: ${item.translations[0].count}">
-			<div class="word-header">
-				<div class="word-menu" onclick="toggle('${nonAlpha(item.de)}')" id="${nonAlpha(item.de)}-menu"></div>
-				<div class="word-german header-word" id="${nonAlpha(item.de)}-g">
-					<span class="word-german-span break-no-dis">${item.de}</span><span class="primary50 matches-german-span break-dis"> (${item.count})</span>
+		$.each(parsedData, (index, item) => {
+			// add div to "#translation-parent"
+			$("#translation-parent").append(`
+				<div class="word-wrapper" style="--matches: ${item.count}; --count-first: ${item.translations[0].count}">
+					<div class="word-header">
+						<div class="word-menu" onclick="toggle('${nonAlpha(item.de)}')" id="${nonAlpha(item.de)}-menu"></div>
+						<div class="word-german header-word" id="${nonAlpha(item.de)}-g">
+							<span class="word-german-span break-no-dis">${item.de}</span><span class="primary50 matches-german-span break-dis"> (${item.count})</span>
+						</div>
+						<div class="word-swiss-german header-word" id="${nonAlpha(item.de)}-sg">
+							<span class="word-swiss-german-span break-no-dis">${item.translations[0].gsw}</span>
+							<span class="primary50 matches-swiss-german-span break-dis">(${item.translations[0].count}/${item.count})</span>
+						</div>
+					</div>
+					<div class="word-more-info info-bar" id="${nonAlpha(item.de)}">
+						<div class="translation-bar-wrapper" id="translation-bar-wrapper-${nonAlpha(item.de)}">
+						</div>
+					</div>
 				</div>
-				<div class="word-swiss-german header-word" id="${nonAlpha(item.de)}-sg">
-					<span class="word-swiss-german-span break-no-dis">${item.translations[0].gsw}</span
-					><span class="primary50 matches-swiss-german-span break-dis">(${item.translations[0].count}/${item.count})</span>
-				</div>
-			</div>
-			<div class="word-more-info info-bar" id="${nonAlpha(item.de)}">
-				<div class="translation-bar-wrapper" id="translation-bar-wrapper-${nonAlpha(item.de)}">
-				</div>
-			</div>
-		</div>
-	`;
+				`);
 
-			// for each "gsw" object, print a div in "#translation-bar-wrapper-${item.de}" with its data in it
-			item.translations.forEach((item2) => {
-				document.querySelector(`#translation-bar-wrapper-${nonAlpha(item.de)}`).innerHTML += `
-		<div style="--count: ${item2.count}">
-			<span class="translation-container">
-				<span class="translation">${item2.gsw}</span>
-				<span class="translation-count primary50"> ${item2.count}</span>
-			</span>
-		</div>
-	`;
+			// for each "translations" object, print a div in "#translation-bar-wrapper-${item.de}" with its data in it
+			$.each(item.translations, (index, item2) => {
+				$(`#translation-bar-wrapper-${nonAlpha(item.de)}`).append(`
+					<div style="--count: ${item2.count}">
+						<span class="translation-container">
+							<span class="translation">${item2.gsw}</span>
+							<span class="translation-count primary50"> ${item2.count}</span>
+						</span>
+					</div>
+					`);
 			});
 		});
 
 		// fill in search results info
-		document.querySelector("#search-results-info-de").innerHTML = parsedData.length;
-		document.querySelector("#search-results-info-gsw").innerHTML = parsedData.reduce((acc, obj) => acc + obj.count, 0);
+		$("#search-results-info-de").text(parsedData.length);
+		$("#search-results-info-gsw").text(parsedData.reduce((acc, obj) => acc + obj.count, 0));
 	} else {
 		// set the contents of "#data-md" to the content of main.md
-		document.querySelector("#data-md").innerHTML = `
+		$("#data-md").html(`
 			<zero-md src="resources/config/main.md">
 				<template>
 					<link rel="stylesheet" type="text/css" href="resources/css/compiled/base.css" />
 				</template>
-			</zero-md>`;
-
+			</zero-md>
+			`);
 		// load meta.json
 		const meta = await $.getJSON("resources/data/parsed/meta.json");
-		document.querySelector("#search-results-heading").innerHTML = "";
-		document.querySelector("#data-info").innerHTML = `
+		$("#search-results-heading").remove();
+		// document.querySelector("#data-info").innerHTML = `
+		$("#data-info").html(`
 			<p>
 				Dem Wörterbuch stehen ${meta.allGsw} Datenpunkte zur Verfügung (${meta.uniqueDe} verschiedene Wörter).
 			</p>
 			<p>
 				Letzter Update: ${meta.date}.
 			</p>
-		`;
+			`);
 	}
 }
 
@@ -186,9 +187,9 @@ async function parse() {
 const config = await $.getJSON("resources/config/config.json");
 
 // set #config-title to the title property of config.json
-document.querySelector("#config-title").innerHTML = config.text.title;
+$("#config-title").text(config.text.title);
 
 // set #word-input to the placeholder property of config.json
-document.querySelector("#word-input").placeholder = config.text.searchPlaceholder;
+$("#word-input").attr("placeholder", config.text.searchPlaceholder);
 
 parse();
