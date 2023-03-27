@@ -1,7 +1,7 @@
 // borrowed from: https://codepen.io/kevinpowell/pen/EMdjOV
 
-// import darkTheme and lightTheme from config-parse.js
-import { darkTheme, lightTheme } from "./config-parse.js";
+// load the config.json file
+const config = await $.getJSON("config/config.json");
 
 let darkMode = localStorage.getItem("darkMode");
 const prefersDarkMode = window.matchMedia("(prefers-color-scheme:dark)").matches;
@@ -9,13 +9,19 @@ const prefersDarkMode = window.matchMedia("(prefers-color-scheme:dark)").matches
 const enableDarkMode = () => {
 	document.body.classList.add("darkmode");
 	localStorage.setItem("darkMode", "enabled");
-	$("#dark-mode-toggle").html(lightTheme);
+	$("#dark-mode-toggle").html(config.text.lightTheme);
+	if (config.options.useDarkLogo) {
+		$("#logo-div").css("background-image", "url('config/logo_dark.png')");
+	}
 };
 
 const disableDarkMode = () => {
 	document.body.classList.remove("darkmode");
 	localStorage.setItem("darkMode", "disabled");
-	$("#dark-mode-toggle").html(darkTheme);
+	$("#dark-mode-toggle").html(config.text.darkTheme);
+	if (config.options.useDarkLogo) {
+		$("#logo-div").css("background-image", "url('config/logo.png')");
+	}
 };
 
 if (darkMode === "enabled" || (darkMode !== "disabled" && prefersDarkMode)) {
