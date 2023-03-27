@@ -64,14 +64,14 @@ if (!urlParams.has("word")) {
 			// convert the Markdown to HTML using the marked library
 			var htmlText = marked.parse(markdownText);
 
-			// in htmlText, replace all instances of DATA_TOTAL with allGsw from meta.json, except inside <pre> or <code> tags
-			htmlText = htmlText.replace(/(?<!<pre>|<code>)DATA_TOTAL(?!<\/pre>|<\/code>)/g, meta.allGsw);
+			// in htmlText, replace all instances of DATA_TOTAL with allGsw from meta.json
+			htmlText = htmlText.replace("DATA_TOTAL", meta.allGsw);
 
-			// replace all instances of DATA_UNIQUE with uniqueDe from meta.json, except inside <pre> or <code> tags
-			htmlText = htmlText.replace(/(?<!<pre>|<code>)DATA_UNIQUE(?!<\/pre>|<\/code>)/g, meta.uniqueDe);
+			// replace all instances of DATA_UNIQUE with uniqueDe from meta.json
+			htmlText = htmlText.replace("DATA_UNIQUE", meta.uniqueDe);
 
-			// replace all instances of DATA_LASTUPDATE with date from meta.json, except inside <pre> or <code> tags
-			htmlText = htmlText.replace(/(?<!<pre>|<code>)DATA_LASTUPDATE(?!<\/pre>|<\/code>)/g, meta.date);
+			// replace all instances of DATA_LASTUPDATE with date from meta.json
+			htmlText = htmlText.replace("DATA_LASTUPDATE", meta.date);
 
 			// Set the HTML as the contents of the "data-md" element
 			document.getElementById("data-md").innerHTML = htmlText;
