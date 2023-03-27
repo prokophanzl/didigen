@@ -12,19 +12,13 @@
 }
 
 .logo-div {
-	height: 32px;
+	height: 50px;
 	aspect-ratio: 1;
-	line-height: 16px;
 	margin-right: 16px;
-	padding: 4px;
-	border: 5px solid var(--logo-border);
-	font-weight: 700;
-	background-color: var(--logo-background);
-	color: var(--logo-color);
-	user-select: none;
-	-ms-user-select: none;
-	-moz-user-select: none;
-	-webkit-user-select: none;
+	background-image: url("../../config/logo.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
 	display: block;
 }
 
