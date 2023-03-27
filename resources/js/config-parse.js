@@ -10,6 +10,9 @@ $("#config-title").text(config.text.title);
 // set #word-input to the placeholder property of config.json
 $("#word-input").attr("placeholder", config.text.searchPlaceholder);
 
+// set value of #submit to the translateButton property of config.json
+$("#submit").val(config.text.translateButton);
+
 // set #config-dialect-checkmarks to the dialects property of config.json
 $.each(config.dialects, (index, item) => {
 	$("#config-dialect-checkmarks").append(`
