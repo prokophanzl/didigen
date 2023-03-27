@@ -65,12 +65,15 @@
 						<div data-config="keyword">conf_keyword</div>
 					</div>
 					<div class="filter-title-div">
-						Kanton
-						<small> (<a class="link" id="check-all">alle auswählen</a> | <a class="link" id="check-none">keine auswählen</a>) </small>
+						<span data-config="dialects">conf_dialects</span>
+						<small>
+							(<a class="link" id="check-all" data-config="selectAll">conf_sel_all</a> |
+							<a class="link" id="check-none" data-config="selectNone">conf_sel_none</a>)
+						</small>
 					</div>
 					<div class="canton-container filter-sub" id="config-dialect-checkmarks"></div>
 					<div class="close-filters">
-						<span class="link filter-toggle">schliessen</span>
+						<span class="link filter-toggle" data-config="close">conf_close</span>
 					</div>
 				</div>
 			</form>

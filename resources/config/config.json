@@ -11,6 +11,12 @@
 		"matchExact": "ist",
 		"matchContains": "enthält",
 
+		"dialects": "Kanton",
+		"selectAll": "alle auswählen",
+		"selectNone": "keine auswählen",
+
+		"close": "schliessen",
+
 		"lightTheme": "Hellmodus",
 		"darkTheme": "Dunkelmodus",
 		"contact": "Kontakt",
