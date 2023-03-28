@@ -178,6 +178,7 @@ aber,aber
 aber,aber
 aber,aber
 aber,aber
+aber,aber
 aber,abr
 aber,abr
 aber,abr
@@ -393,6 +394,7 @@ also,also
 also,also
 also,also
 also,also
+also,Also
 also,aso
 also,aso
 also,aso
@@ -1540,6 +1542,7 @@ daheim,dihei
 damit,damit
 damit,damit
 damit,damit
+damit,damit
 damit,demit
 damit,demit
 damit es,damits
@@ -2198,6 +2201,7 @@ dazunehmen,dezueneh
 definitiv,definitiv
 deine,dini
 deine (pl.),dini
+deinen (M),din
 dem,de
 dem,de
 dem,de
@@ -2296,6 +2300,7 @@ den,de
 den,wo
 den,wo
 den,wo
+den (M),de
 den (M),de
 den (M),de
 den (M),de
@@ -2666,6 +2671,7 @@ die (F),de
 die (F),die
 die (F),die
 die (F),die
+die (F),die
 die (F),t
 die (pl.),d
 die (pl.),d
@@ -2856,6 +2862,7 @@ du,du
 du,du
 du,du
 du,du
+du,du
 du es,dus
 du kannst,chasch
 du musst,muesch
@@ -2993,6 +3000,7 @@ ein,es
 ein,es
 ein,s
 ein,s
+ein (M),en
 ein (M),en
 ein (M),en
 ein (M),en
@@ -4647,6 +4655,7 @@ hast (du),hesch
 hast (du),hesch
 hast (du),hesch
 hast (du),hesch
+hast (du),hesch
 hast du,hesch
 hast du,hesch
 hast du,hesch
@@ -5256,6 +5265,7 @@ ich,ich
 ich,Ich
 ich,ich
 ich,Ich
+ich,ich
 ich,ich
 ich,ich
 ich,ich
@@ -6117,6 +6127,7 @@ ja,ja
 ja,ja
 ja,ja
 ja,ja
+ja,ja
 ja,jaa
 ja,jo
 ja,jo
@@ -6233,6 +6244,7 @@ jetzt,ez
 jetzt,ez
 jetzt,ez
 jetzt,ez
+jetzt,jetzt
 jetzt,jetzt
 jetzt,jetzt
 jetzt,jetzt
@@ -6772,6 +6784,7 @@ Lösungen,Lösige
 Lösungen,Lösige
 Lösungen,lösige
 Lösungen,Lösungen
+Lösungsweg,Lösigsweg
 Lösungsweg,Lösigsweg
 Lösungsweg,Lösigsweg
 Lücken,Lücke
@@ -7368,6 +7381,7 @@ müsste es,müesstis
 müsste es,müesstis
 müssten (wir),mösstet
 müssten (wir),müesstet
+müsstest (du),müesstisch
 Mutter,Mueter
 nach,nach
 nach,nach
@@ -7919,6 +7933,7 @@ noch,no
 noch,no
 noch,no
 noch,no
+noch nicht,nonig
 noch nicht,nonig
 noch nicht,nonig
 noch nicht,nonig
@@ -8542,6 +8557,7 @@ Säuren,Süre
 schaffe es (ich),schaffs
 schaffe ich es,schaffis
 schaffst (du),schaffsch
+Schaltkreis,Schaltkreis
 Schaltung,Schaltig
 schau (du),lueg
 schau (du),lueg
@@ -9259,8 +9275,10 @@ streng,streng
 Stress,Stress
 Stromkreis,Stromkreis
 Stromkreis,Stromkreis
+Stromkreis,Stromkreis
 Stromkreislauf,stromkreislauf
 Stromkreislauf,stromstärke
+Stromquelle,Stromquelle
 Struktur,struktur
 Struktur,struktur
 Struktur,struktur
@@ -9318,7 +9336,7 @@ Test,Tescht
 Test,Tescht
 Test,Test
 Test,Test
-Test,testc
+Test,test
 testen,teste
 Text,text
 Thema,Thema
@@ -9367,6 +9385,7 @@ tut (ihr),tüend
 twinten,twinte
 üben,üebe
 über,öbbe
+über,über
 über,über
 über,über
 über,über
@@ -9695,6 +9714,7 @@ Verspätung,verspötig
 versprochen,versproche
 verstanden,verstande
 verstanden,verstande
+verstehe (ich),verstahn
 verstehe (ich),verstahn
 verstehe es (ich),verstehs
 verstehen,verstah
@@ -10198,6 +10218,7 @@ weil,will
 weil,will
 weil,will
 weil,will
+weil,will
 weil es,wills
 weil es,wills
 weil es,wils
@@ -10392,6 +10413,7 @@ wie,wiä
 wie,wiä
 wie,wiä
 wie,wiä
+wie,wie
 wie,wie
 wie,wie
 wie,wie
@@ -10936,6 +10958,7 @@ Zweifachzucker,zweifachzucker
 zweimal,zweimal
 zweite,zweiti
 zweite,zweiti
+zweite (F),zweiti
 zweiten,zweite
 zwischen,zwisched
 zwischen,zwüsche
