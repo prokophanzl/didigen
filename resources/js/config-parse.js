@@ -37,7 +37,7 @@ $.each(config.dialects, (index, item) => {
 		<div>
 			<label>
 				${item.name}
-				<input type="checkbox" name="${item.code}" id="${item.code}" class="checkbox-dialect" />
+				<input type="checkbox" name="${item.code}" id="${item.code}" class="checkbox-dialect" checked />
 				<span class="checkmark-span"></span>
 			</label>
 		</div>
@@ -45,43 +45,39 @@ $.each(config.dialects, (index, item) => {
 });
 
 const urlParams = new URLSearchParams(window.location.search);
+// load meta
+const meta = await $.getJSON("resources/data/parsed/meta.json");
 
-// check if the url has the "word" parameter
-if (!urlParams.has("word")) {
-	// load meta
-	const meta = await $.getJSON("resources/data/parsed/meta.json");
+// create a new XMLHttpRequest object
+var xhr = new XMLHttpRequest();
 
-	// create a new XMLHttpRequest object
-	var xhr = new XMLHttpRequest();
+// set the URL of the markdown file to load
+var url = "config/main.md";
 
-	// set the URL of the markdown file to load
-	var url = "config/main.md";
+// set the callback function for when the AJAX request completes
+xhr.onload = function () {
+	// if the AJAX request was successful
+	if (xhr.status === 200) {
+		// get the Markdown text from the response
+		var markdownText = xhr.responseText;
 
-	// set the callback function for when the AJAX request completes
-	xhr.onload = function () {
-		// if the AJAX request was successful
-		if (xhr.status === 200) {
-			// get the Markdown text from the response
-			var markdownText = xhr.responseText;
+		// convert the Markdown to HTML using the marked library
+		var htmlText = marked.parse(markdownText);
 
-			// convert the Markdown to HTML using the marked library
-			var htmlText = marked.parse(markdownText);
+		// in htmlText, replace all instances of DATA_TOTAL with allGsw from meta.json
+		htmlText = htmlText.replace("DATA_TOTAL", meta.allGsw);
 
-			// in htmlText, replace all instances of DATA_TOTAL with allGsw from meta.json
-			htmlText = htmlText.replace("DATA_TOTAL", meta.allGsw);
+		// replace all instances of DATA_UNIQUE with uniqueDe from meta.json
+		htmlText = htmlText.replace("DATA_UNIQUE", meta.uniqueDe);
 
-			// replace all instances of DATA_UNIQUE with uniqueDe from meta.json
-			htmlText = htmlText.replace("DATA_UNIQUE", meta.uniqueDe);
+		// replace all instances of DATA_LASTUPDATE with date from meta.json
+		htmlText = htmlText.replace("DATA_LASTUPDATE", meta.date);
 
-			// replace all instances of DATA_LASTUPDATE with date from meta.json
-			htmlText = htmlText.replace("DATA_LASTUPDATE", meta.date);
+		// Set the HTML as the contents of the "data-md" element
+		document.getElementById("data-md").innerHTML = htmlText;
+	}
+};
 
-			// Set the HTML as the contents of the "data-md" element
-			document.getElementById("data-md").innerHTML = htmlText;
-		}
-	};
-
-	// Send the AJAX request to load the Markdown file
-	xhr.open("GET", url, true);
-	xhr.send();
-}
+// Send the AJAX request to load the Markdown file
+xhr.open("GET", url, true);
+xhr.send();

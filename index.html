@@ -20,7 +20,7 @@
 			<span class="loader"><span class="loader-inner"></span></span>
 		</div>
 		<section class="head-section">
-			<form method="get" autocomplete="off">
+			<form autocomplete="off" id="main-form">
 				<h1 class="main-title"><a href="index.html" class="a-no-style" data-config="title">conf_title</a></h1>
 				<div class="flexor-parent">
 					<div class="input-field">
@@ -79,10 +79,7 @@
 			</form>
 		</section>
 		<section class="body-section">
-			<h3 id="search-results-heading">
-				<span id="search-results-info-de"></span> Suchergebnisse für &laquo;<span id="word-searched"></span>&raquo;
-				<span class="primary50 normal-weight">(<span id="search-results-info-gsw"></span> Datenpunkte)</span>
-			</h3>
+			<h3 id="search-results-heading"></h3>
 			<span id="data-info"></span>
 			<span id="data-md"></span>
 			<div id="translation-parent"></div>
@@ -108,5 +105,9 @@
 		<script src="resources/js/onclicks.js"></script>
 		<script src="resources/js/base.js" type="module"></script>
 		<script src="resources/js/darkmode.js" type="module"></script>
+		<script type="module">
+			import { data, translate } from "./resources/js/base.js";
+			window.translate = translate;
+		</script>
 	</body>
 </html>

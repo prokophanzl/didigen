@@ -25,3 +25,10 @@ $("#check-all").bind("click", () => {
 $("#check-none").bind("click", () => {
 	$(".checkbox-dialect").prop("checked", false);
 });
+
+$(document).ready(function () {
+	$("#main-form").submit(function (event) {
+		event.preventDefault(); // prevent default form action
+		translate(); // call your function here
+	});
+});

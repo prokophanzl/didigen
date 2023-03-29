@@ -8,17 +8,24 @@ function toggleMatch(matchVal) {
 	}
 }
 
+function openFilters() {
+	const filterContainer = $("#filter-container");
+	filterContainer.css("display", "block");
+}
+
+function closeFilters() {
+	const filterContainer = $("#filter-container");
+	filterContainer.css("display", "none");
+}
+
 // function that toggles the filter menu
 function toggleFilters() {
-	const filtersOpen = sessionStorage.getItem("filtersOpen");
-	const filterContainer = $("#filter-container");
+	const filtersOpen = $("#filter-container").css("display") === "block";
 
 	if (filtersOpen) {
-		filterContainer.css("display", "none");
-		sessionStorage.removeItem("filtersOpen");
+		closeFilters();
 	} else {
-		filterContainer.css("display", "block");
-		sessionStorage.setItem("filtersOpen", true);
+		openFilters();
 	}
 }
 
