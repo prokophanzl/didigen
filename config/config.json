@@ -40,6 +40,10 @@
 
 	"dialects": [
 		{
+			"name": "Aargau",
+			"code": "ag"
+		},
+		{
 			"name": "Appenzell Ausserrhoden",
 			"code": "ar"
 		},
@@ -74,10 +78,6 @@
 	],
 
 	"dialects-inactive": [
-		{
-			"name": "Aargau",
-			"code": "ag"
-		},
 		{
 			"name": "Basel-Stadt",
 			"code": "bs"
