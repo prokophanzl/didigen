@@ -2,7 +2,6 @@ const cantons = [
 	// "ag",
 	"ar",
 	"ai",
-	// "bl",
 	// "bs",
 	"be",
 	"fr",
@@ -26,6 +25,7 @@ const cantons = [
 	// "zg",
 	"zh",
 	"xx",
+	"bl",
 ];
 
 function csvToArray(csv) {
@@ -109,6 +109,7 @@ let zhParsed;
 let frParsed;
 let beParsed;
 let luParsed;
+let blParsed;
 
 // load csv files from server for all cantons in cantons array
 Promise.all(
@@ -123,9 +124,10 @@ Promise.all(
 	let lu = data[4];
 	let zh = data[5];
 	let xx = data[6];
+	let bl = data[7];
 
 	// join all data into one array
-	let all = [...ai, ...xx, ...zh, ...fr, ...be, ...lu, ...ar];
+	let all = [...ai, ...xx, ...zh, ...fr, ...be, ...lu, ...ar, ...bl];
 	// sort array by "de" value
 	all.sort((a, b) => (a.de > b.de ? 1 : -1));
 
@@ -137,6 +139,7 @@ Promise.all(
 	frParsed = compressData(fr);
 	beParsed = compressData(be);
 	luParsed = compressData(lu);
+	blParsed = compressData(bl);
 });
 
 // function that accepts an objects and downloads it as a json named after the object
@@ -160,6 +163,7 @@ document.getElementById("download").addEventListener("click", () => {
 	exportJson(beParsed, "beParsed");
 	exportJson(luParsed, "luParsed");
 	exportJson(arParsed, "arParsed");
+	exportJson(blParsed, "blParsed");
 
 	let meta = {
 		uniqueDe: allParsed.length,

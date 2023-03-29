@@ -39,6 +39,10 @@
 			"code": "ai"
 		},
 		{
+			"name": "Basel-Landschaft",
+			"code": "bl"
+		},
+		{
 			"name": "Bern",
 			"code": "be"
 		},
@@ -64,10 +68,6 @@
 		{
 			"name": "Aargau",
 			"code": "ag"
-		},
-		{
-			"name": "Basel-Landschaft",
-			"code": "bl"
 		},
 		{
 			"name": "Basel-Stadt",

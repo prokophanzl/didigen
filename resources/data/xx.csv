@@ -981,7 +981,6 @@ Kleinbürger,Bünzli
 kleine Kinder,Goofä
 kleiner Junge,Pfüdäri
 kleines Bier,Schtangä
-"kleines Bier (0,3l)",Stange
 kleines Mädchen,Zischgäli
 Kleingeld,Münz
 Kleingeld,Münz
@@ -1189,7 +1188,8 @@ mit,mit
 mit,mit
 mit Besen reinigen,förbä
 mit Besen reinigen,wüschä
-mit dem Feuer spielen,"züüslä, zeuslä"
+mit dem Feuer spielen,zeuslä
+mit dem Feuer spielen,züüslä
 mit Kraftanwendung,morxä
 mit Wasser spielen,götschlä
 miteinander,mitenand
@@ -1421,7 +1421,7 @@ riechen,schmöckä
 riechen,schmöcke
 Rind,Galt
 Rind,Galtlig
-"Rind (jung, männlich)",Muni
+Rind (jung und männlich),Muni
 ringen,rammlä
 risikofreudiger Mensch,Fätzätüfäl
 Riss in etwas Hartem,Schprung
