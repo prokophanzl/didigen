@@ -2,7 +2,7 @@
 const config = await $.getJSON("config/config.json");
 
 // set the site icon to the icon property of config.json
-$("link[rel='icon']").attr("href", `config/${config.options.siteIcon}`);
+// $("link[rel='icon']").attr("href", `config/${config.options.siteIcon}`);
 
 // for each X, set elements with data-config=X to the X property of config.json
 $("[data-config]").each((index, item) => {
