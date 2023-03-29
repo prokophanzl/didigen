@@ -12,12 +12,7 @@ export const nonAlpha = (str) => {
 		.replace(/[^a-z0-9_]/gi, "-");
 };
 
-// function to get dialects from config.json
-// export async function getDialects() {
-// 	const configPath = "config/config.json";
-// 	const response = await $.getJSON(configPath);
-// 	return response.dialects.map((item) => item.code);
-// }
+const config = await $.getJSON("config/config.json");
 
 // const dialects = await getDialects();
 
@@ -89,9 +84,7 @@ function clearTranslations() {
 }
 
 async function getDialects() {
-	const configPath = "config/config.json";
-	const response = await $.getJSON(configPath);
-	return response.dialects.map((item) => item.code);
+	return config.dialects.map((item) => item.code);
 }
 
 const dialects = await getDialects();
@@ -203,14 +196,26 @@ export function translate() {
 	$("#search-results-info-de").text(parsedData.length);
 	$("#search-results-info-gsw").text(parsedData.reduce((acc, obj) => acc + obj.count, 0));
 
-	// <span id="search-results-info-de"></span> Suchergebnisse für &laquo;<span id="word-searched"></span>&raquo;
-	// <span class="primary50 normal-weight">(<span id="search-results-info-gsw"></span> Datenpunkte)</span>
+	// set the text of "#search-results-heading" to the resultText property of the config object. replace the placeholders with the values of the variables:
+	// DATA_RESULT_COUNT: number of results (parsedData.length)
+	// DATA_RESULT_WORD: "results" or "result" depending on the number of results (config.text.resultWord or config.text.resultWordSingular)
+	// DATA_QUERY: the word that was searched for (word)
+	// DATA_DATAPOINT_COUNT: the sum of all "count" properties of the "gsw" objects (parsedData.reduce((acc, obj) => acc + obj.count, 0))
+	// DATA_DATAPOINT_WORD: "datapoints" or "datapoint" depending on the number of datapoints (config.text.dataPointWord or config.text.dataPointWordSingular)
 
-	$("#search-results-heading").html(
-		`
-		${parsedData.length} Suchergebnisse für &laquo;${word}&raquo;
-		<span class="primary50 normal-weight">(${parsedData.reduce((acc, obj) => acc + obj.count, 0)} Datenpunkte)</span>
-		`
+	$("#search-results-heading").text(
+		config.text.resultText
+			.replace("DATA_RESULT_COUNT", parsedData.length)
+			.replace("DATA_RESULT_WORD", parsedData.length === 1 ? config.text.resultWordSingular : config.text.resultWord)
+			.replace("DATA_QUERY", word)
+			.replace(
+				"DATA_DATAPOINT_COUNT",
+				parsedData.reduce((acc, obj) => acc + obj.count, 0)
+			)
+			.replace(
+				"DATA_DATAPOINT_WORD",
+				parsedData.reduce((acc, obj) => acc + obj.count, 0) === 1 ? config.text.dataPointWordSingular : config.text.dataPointWord
+			)
 	);
 }
 

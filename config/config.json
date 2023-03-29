@@ -17,6 +17,15 @@
 
 		"close": "schliessen",
 
+		"resultWord": "Ergebnisse",
+		"resultWordSingular": "Ergebnis",
+		"dataPointWord": "Datenpunkte",
+		"dataPointWordSingular": "Datenpunkt",
+
+		"resultText": "DATA_RESULT_COUNT DATA_RESULT_WORD für «DATA_QUERY» (DATA_DATAPOINT_COUNT DATA_DATAPOINT_WORD)",
+		"resultTextSingular": "1 Ergebnis für «DATA_QUERY» (DATA_TOTAL Datenpunkte)",
+		"resultTextNoResults": "Keine Ergebnisse für «DATA_QUERY»",
+
 		"lightTheme": "Hellmodus",
 		"darkTheme": "Dunkelmodus",
 		"contact": "Kontakt",
