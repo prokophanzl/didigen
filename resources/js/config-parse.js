@@ -73,6 +73,9 @@ xhr.onload = function () {
 		// replace all instances of DATA_LASTUPDATE with date from meta.json
 		htmlText = htmlText.replace("DATA_LASTUPDATE", meta.date);
 
+		// replace all instances of DATA_DIALECTS with length of dialects from config.json. if config.options.includesUnknownDialect is true, subtract 1
+		htmlText = htmlText.replace("DATA_DIALECTS", config.dialects.length - (config.options.includesUnknownDialect ? 1 : 0));
+
 		// Set the HTML as the contents of the "data-md" element
 		document.getElementById("data-md").innerHTML = htmlText;
 	}

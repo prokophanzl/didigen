@@ -4,7 +4,7 @@ Wir brauchen Freiwillige, die uns beim Übersetzen helfen würden. Falls Sie mit
 
 ### Über DSW
 
-Dem Wörterbuch stehen DATA_TOTAL Datenpunkte zur Verfügung (DATA_UNIQUE verschiedene Wörter).
+Dem Wörterbuch stehen DATA_TOTAL Datenpunkte aus DATA_DIALECTS Kantonen zur Verfügung (DATA_UNIQUE verschiedene Wörter).
 
 Letzter Update: DATA_LASTUPDATE.
 

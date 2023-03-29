@@ -34,7 +34,8 @@
 
 	"options": {
 		"logoLight": "logo-light.png",
-		"logoDark": "logo-dark.png"
+		"logoDark": "logo-dark.png",
+		"includesUnknownDialect": true
 	},
 
 	"dialects": [
