@@ -188,7 +188,6 @@ export function translate() {
 		item.count = item.translations.reduce((acc, current) => acc + current.count, 0);
 
 		// for each element in joined, print a div in "#translation-parent" with its data in it
-
 		printTranslation(item);
 	});
 
@@ -266,87 +265,3 @@ function parseData(data) {
 
 	return output;
 }
-
-async function parse() {
-	// if url contains "word" parameter, parse data
-	if (urlParams.has("word")) {
-		// get url parameters
-		const dialectsUsed = dialects.filter((dialect) => urlParams.get(dialect) === "on");
-		let jsonsToLoad = [];
-
-		// get all json files loaded for the dialects used
-		if (dialectsUsed.length === dialects.length) {
-			// if all dialects are used, load the allParsed.json file
-			jsonsToLoad.push("resources/data/parsed/allParsed.json");
-		} else {
-			// if not all dialects are used, load the individual files
-			jsonsToLoad = dialectsUsed.map((dialect) => `resources/data/parsed/${dialect}Parsed.json`);
-		}
-
-		// load all json files
-		let loadedData = [];
-		for (let i = 0; i < jsonsToLoad.length; i++) {
-			const url = jsonsToLoad[i];
-			const jsonArray = await $.getJSON(url);
-			loadedData = loadedData.concat(jsonArray);
-		}
-
-		if (jsonsToLoad.length > 1) {
-			loadedData = parseData(loadedData);
-		}
-
-		// get word parameter
-		const word = urlParams.get("word").toLowerCase();
-
-		// get match parameter
-		const match = urlParams.get("match");
-
-		let parsedData;
-
-		// filter data by word parameter
-
-		switch (match) {
-			case "begins":
-				// parsedData = loadedData.filter((item) => item.de.toLowerCase().startsWith(word));
-				parsedData = $.grep(loadedData, (item) => item.de.toLowerCase().startsWith(word));
-				break;
-			case "match":
-				// parsedData = loadedData.filter((item) => nonAlpha(item.de.toLowerCase()) === nonAlpha(word));
-				parsedData = $.grep(loadedData, (item) => nonAlpha(item.de.toLowerCase()) === nonAlpha(word));
-				break;
-			case "contains":
-				// parsedData = loadedData.filter((item) => item.de.toLowerCase().includes(word));
-				parsedData = $.grep(loadedData, (item) => item.de.toLowerCase().includes(word));
-				break;
-			default:
-				// parsedData = loadedData.filter((item) => item.de.toLowerCase().startsWith(word));
-				parsedData = $.grep(loadedData, (item) => item.de.toLowerCase().startsWith(word));
-				break;
-		}
-
-		// add "count" property to each "de" object, containing the sum of all "count" properties of the "gsw" objects
-		$.each(parsedData, (index, item) => {
-			item.count = item.translations.reduce((acc, current) => acc + current.count, 0);
-		});
-
-		// for each element in joined, print a div in "#translation-parent" with its data in it
-		$.each(parsedData, (index, item) => {
-			printTranslation(item);
-		});
-
-		// fill in search results info
-		$("#search-results-info-de").text(parsedData.length);
-		$("#search-results-info-gsw").text(parsedData.reduce((acc, obj) => acc + obj.count, 0));
-	} else {
-		// load meta.json
-		const meta = await $.getJSON("resources/data/parsed/meta.json");
-		$("#search-results-heading").remove();
-	}
-}
-
-// if no dialects are selected, select all
-// if ($(".checkbox-dialect:checked").length === 0) {
-// 	$(".checkbox-dialect").prop("checked", true);
-// }
-
-// parse();
