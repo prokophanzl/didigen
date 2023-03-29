@@ -31,6 +31,10 @@
 
 	"dialects": [
 		{
+			"name": "Appenzell Ausserrhoden",
+			"code": "ar"
+		},
+		{
 			"name": "Appenzell Innerrhoden",
 			"code": "ai"
 		},
@@ -60,10 +64,6 @@
 		{
 			"name": "Aargau",
 			"code": "ag"
-		},
-		{
-			"name": "Appenzell Ausserrhoden",
-			"code": "ar"
 		},
 		{
 			"name": "Basel-Landschaft",

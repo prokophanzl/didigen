@@ -1,6 +1,6 @@
 const cantons = [
 	// "ag",
-	// "ar",
+	"ar",
 	"ai",
 	// "bl",
 	// "bs",
@@ -104,6 +104,7 @@ function compressData(data) {
 let allParsed;
 let aiParsed;
 let xxParsed;
+let arParsed;
 let zhParsed;
 let frParsed;
 let beParsed;
@@ -115,21 +116,23 @@ Promise.all(
 		return loadCsvFromServer(`/resources/data/${canton}.csv`);
 	})
 ).then((data) => {
-	let ai = data[0];
-	let be = data[1];
-	let fr = data[2];
-	let lu = data[3];
-	let zh = data[4];
-	let xx = data[5];
+	let ar = data[0];
+	let ai = data[1];
+	let be = data[2];
+	let fr = data[3];
+	let lu = data[4];
+	let zh = data[5];
+	let xx = data[6];
 
 	// join all data into one array
-	let all = [...ai, ...xx, ...zh, ...fr, ...be, ...lu];
+	let all = [...ai, ...xx, ...zh, ...fr, ...be, ...lu, ...ar];
 	// sort array by "de" value
 	all.sort((a, b) => (a.de > b.de ? 1 : -1));
 
 	allParsed = compressData(all);
 	aiParsed = compressData(ai);
 	xxParsed = compressData(xx);
+	arParsed = compressData(ar);
 	zhParsed = compressData(zh);
 	frParsed = compressData(fr);
 	beParsed = compressData(be);
@@ -156,6 +159,7 @@ document.getElementById("download").addEventListener("click", () => {
 	exportJson(frParsed, "frParsed");
 	exportJson(beParsed, "beParsed");
 	exportJson(luParsed, "luParsed");
+	exportJson(arParsed, "arParsed");
 
 	let meta = {
 		uniqueDe: allParsed.length,
