@@ -27,6 +27,7 @@ const cantons = [
 	"xx",
 	"bl",
 	"ag",
+	"bs",
 ];
 
 function csvToArray(csv) {
@@ -112,6 +113,9 @@ let beParsed;
 let luParsed;
 let blParsed;
 let agParsed;
+let bsParsed;
+
+let meta;
 
 // load csv files from server for all cantons in cantons array
 Promise.all(
@@ -128,9 +132,10 @@ Promise.all(
 	let xx = data[6];
 	let bl = data[7];
 	let ag = data[8];
+	let bs = data[9];
 
 	// join all data into one array
-	let all = [...ai, ...xx, ...zh, ...fr, ...be, ...lu, ...ar, ...bl, ...ag];
+	let all = [...ai, ...xx, ...zh, ...fr, ...be, ...lu, ...ar, ...bl, ...ag, ...bs];
 	// sort array by "de" value
 	all.sort((a, b) => (a.de > b.de ? 1 : -1));
 
@@ -144,6 +149,22 @@ Promise.all(
 	luParsed = compressData(lu);
 	blParsed = compressData(bl);
 	agParsed = compressData(ag);
+	bsParsed = compressData(bs);
+
+	meta = {
+		uniqueDe: allParsed.length,
+		// sum of all "count" properties in all "translations" arrays
+		allGsw: allParsed.reduce((acc, cur) => {
+			return acc + cur.translations.reduce((acc, cur) => acc + cur.count, 0);
+		}, 0),
+
+		// date in German format
+		date: new Date().toLocaleDateString("de-DE", {
+			year: "numeric",
+			month: "long",
+			day: "numeric",
+		}),
+	};
 });
 
 // function that accepts an objects and downloads it as a json named after the object
@@ -155,6 +176,8 @@ function exportJson(obj, name) {
 	document.body.appendChild(downloadAnchorNode); // required for firefox
 	downloadAnchorNode.click();
 	downloadAnchorNode.remove();
+
+	console.log(`Downloaded ${name}.json`);
 }
 
 // when #button is clicked, run exportJson function for each parsed data array
@@ -169,21 +192,7 @@ document.getElementById("download").addEventListener("click", () => {
 	exportJson(arParsed, "arParsed");
 	exportJson(blParsed, "blParsed");
 	exportJson(agParsed, "agParsed");
-
-	let meta = {
-		uniqueDe: allParsed.length,
-		// sum of all "count" properties in all "translations" arrays
-		allGsw: allParsed.reduce((acc, cur) => {
-			return acc + cur.translations.reduce((acc, cur) => acc + cur.count, 0);
-		}, 0),
-
-		// date in German format
-		date: new Date().toLocaleDateString("de-DE", {
-			year: "numeric",
-			month: "long",
-			day: "numeric",
-		}),
-	};
+	exportJson(bsParsed, "bsParsed");
 
 	exportJson(meta, "meta");
 });
