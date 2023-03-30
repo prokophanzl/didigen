@@ -215,6 +215,9 @@ function compressData(arr) {
 	// sort result by source
 	result.sort((a, b) => (a.src > b.src ? 1 : -1));
 
+	// sort result by source, case insensitive
+	result.sort((a, b) => (a.src.toLowerCase() > b.src.toLowerCase() ? 1 : -1));
+
 	return result;
 }
 
