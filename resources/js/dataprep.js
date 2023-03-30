@@ -101,6 +101,20 @@ function downloadJSON2(data, filename) {
 	URL.revokeObjectURL(url);
 }
 
+function downloadJSON3(data, filename) {
+	const json = JSON.stringify(data);
+	const blob = new Blob([json], { type: "application/json" });
+	const url = URL.createObjectURL(blob);
+	const a3 = document.createElement("a");
+
+	a3.href = url;
+	a3.download = filename;
+	document.body.appendChild(a3);
+	a3.click();
+	document.body.removeChild(a3);
+	URL.revokeObjectURL(url);
+}
+
 function compressData(arr) {
 	const result = [];
 	const tempMap = new Map();
@@ -145,8 +159,22 @@ document.getElementById("download").addEventListener("click", () => {
 			// if this is the last iteration:
 			if (i === dialects.length - 1) {
 				allData = compressData(allData); // compress the data
-				console.log(allData);
+				const meta = {
+					uniqueStandard: allData.length,
+					// sum of all "count" properties in all "translations" arrays
+					allWords: allData.reduce((acc, cur) => {
+						return acc + cur.target.reduce((acc, cur) => acc + cur.count, 0);
+					}, 0),
+
+					// date in German format
+					date: new Date().toLocaleDateString("de-DE", {
+						year: "numeric",
+						month: "long",
+						day: "numeric",
+					}),
+				};
 				downloadJSON2(allData, "allParsed.json"); // download the compressed data as a JSON file
+				downloadJSON3(meta, "meta.json"); // download the meta data as a JSON file
 			}
 		});
 	});

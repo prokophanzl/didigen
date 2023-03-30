@@ -64,11 +64,11 @@ xhr.onload = function () {
 		// convert the Markdown to HTML using the marked library
 		var htmlText = marked.parse(markdownText);
 
-		// in htmlText, replace all instances of DATA_TOTAL with allGsw from meta.json
-		htmlText = htmlText.replace("DATA_TOTAL", meta.allGsw);
+		// in htmlText, replace all instances of DATA_TOTAL with allWords from meta.json
+		htmlText = htmlText.replace("DATA_TOTAL", meta.allWords);
 
-		// replace all instances of DATA_UNIQUE with uniqueDe from meta.json
-		htmlText = htmlText.replace("DATA_UNIQUE", meta.uniqueDe);
+		// replace all instances of DATA_UNIQUE with uniqueStandard from meta.json
+		htmlText = htmlText.replace("DATA_UNIQUE", meta.uniqueStandard);
 
 		// replace all instances of DATA_LASTUPDATE with date from meta.json
 		htmlText = htmlText.replace("DATA_LASTUPDATE", meta.date);
