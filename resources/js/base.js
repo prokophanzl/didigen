@@ -48,30 +48,30 @@ if (sessionStorage.getItem("filtersOpen")) {
 function printTranslation(item) {
 	// add div to "#translation-parent"
 	$("#translation-parent").append(`
-	<div class="word-wrapper" style="--matches: ${item.count}; --count-first: ${item.translations[0].count}">
+	<div class="word-wrapper" style="--matches: ${item.count}; --count-first: ${item.target[0].count}">
 		<div class="word-header">
-			<div class="word-menu" onclick="toggle('${nonAlpha(item.de)}')" id="${nonAlpha(item.de)}-menu"></div>
-			<div class="word-german header-word" id="${nonAlpha(item.de)}-g">
-				<span class="word-german-span break-no-dis">${item.de}</span><span class="primary50 matches-german-span break-dis"> (${item.count})</span>
+			<div class="word-menu" onclick="toggle('${nonAlpha(item.src)}')" id="${nonAlpha(item.src)}-menu"></div>
+			<div class="word-german header-word" id="${nonAlpha(item.src)}-g">
+				<span class="word-german-span break-no-dis">${item.src}</span><span class="primary50 matches-german-span break-dis"> (${item.count})</span>
 			</div>
-			<div class="word-swiss-german header-word" id="${nonAlpha(item.de)}-sg">
-				<span class="word-swiss-german-span break-no-dis">${item.translations[0].gsw}</span>
-				<span class="primary50 matches-swiss-german-span break-dis">(${item.translations[0].count}/${item.count})</span>
+			<div class="word-swiss-german header-word" id="${nonAlpha(item.src)}-sg">
+				<span class="word-swiss-german-span break-no-dis">${item.target[0].translation}</span>
+				<span class="primary50 matches-swiss-german-span break-dis">(${item.target[0].count}/${item.count})</span>
 			</div>
 		</div>
-		<div class="word-more-info info-bar" id="${nonAlpha(item.de)}">
-			<div class="translation-bar-wrapper" id="translation-bar-wrapper-${nonAlpha(item.de)}">
+		<div class="word-more-info info-bar" id="${nonAlpha(item.src)}">
+			<div class="translation-bar-wrapper" id="translation-bar-wrapper-${nonAlpha(item.src)}">
 			</div>
 		</div>
 	</div>
 	`);
 
-	// for each "translations" object, print a div in "#translation-bar-wrapper-${item.de}" with its data in it
-	$.each(item.translations, (index, item2) => {
-		$(`#translation-bar-wrapper-${nonAlpha(item.de)}`).append(`
+	// for each "translations" object, print a div in "#translation-bar-wrapper-${item.src}" with its data in it
+	$.each(item.target, (index, item2) => {
+		$(`#translation-bar-wrapper-${nonAlpha(item.src)}`).append(`
 		<div style="--count: ${item2.count}">
 			<span class="translation-container">
-				<span class="translation">${item2.gsw}</span>
+				<span class="translation">${item2.translation}</span>
 				<span class="translation-count primary50"> ${item2.count}</span>
 			</span>
 		</div>
@@ -109,7 +109,7 @@ function printlength(tmpData) {
 	let length = 0;
 	$.each(tmpData, (index, item) => {
 		// for each translation, add its count to the length
-		$.each(item.translations, (index, item2) => {
+		$.each(item.target, (index, item2) => {
 			length += item2.count;
 		});
 	});
@@ -162,20 +162,20 @@ export function translate() {
 
 	switch (match) {
 		case "begins":
-			// parsedData = loadedData.filter((item) => item.de.toLowerCase().startsWith(word));
-			parsedData = $.grep(tmpData, (item) => item.de.toLowerCase().startsWith(word));
+			// parsedData = loadedData.filter((item) => item.src.toLowerCase().startsWith(word));
+			parsedData = $.grep(tmpData, (item) => item.src.toLowerCase().startsWith(word));
 			break;
 		case "match":
-			// parsedData = loadedData.filter((item) => nonAlpha(item.de.toLowerCase()) === nonAlpha(word));
-			parsedData = $.grep(tmpData, (item) => nonAlpha(item.de.toLowerCase()) === nonAlpha(word));
+			// parsedData = loadedData.filter((item) => nonAlpha(item.src.toLowerCase()) === nonAlpha(word));
+			parsedData = $.grep(tmpData, (item) => nonAlpha(item.src.toLowerCase()) === nonAlpha(word));
 			break;
 		case "contains":
-			// parsedData = loadedData.filter((item) => item.de.toLowerCase().includes(word));
-			parsedData = $.grep(tmpData, (item) => item.de.toLowerCase().includes(word));
+			// parsedData = loadedData.filter((item) => item.src.toLowerCase().includes(word));
+			parsedData = $.grep(tmpData, (item) => item.src.toLowerCase().includes(word));
 			break;
 		default:
-			// parsedData = loadedData.filter((item) => item.de.toLowerCase().startsWith(word));
-			parsedData = $.grep(tmpData, (item) => item.de.toLowerCase().startsWith(word));
+			// parsedData = loadedData.filter((item) => item.src.toLowerCase().startsWith(word));
+			parsedData = $.grep(tmpData, (item) => item.src.toLowerCase().startsWith(word));
 			break;
 	}
 
@@ -183,9 +183,9 @@ export function translate() {
 
 	$("#data-md").remove();
 
-	// add "count" property to each "de" object, containing the sum of all "count" properties of the "gsw" objects
+	// add "count" property to each "de" object, containing the sum of all "count" properties of the "translation" objects
 	$.each(parsedData, (index, item) => {
-		item.count = item.translations.reduce((acc, current) => acc + current.count, 0);
+		item.count = item.target.reduce((acc, current) => acc + current.count, 0);
 
 		// for each element in joined, print a div in "#translation-parent" with its data in it
 		printTranslation(item);
@@ -199,7 +199,7 @@ export function translate() {
 	// DATA_RESULT_COUNT: number of results (parsedData.length)
 	// DATA_RESULT_WORD: "results" or "result" depending on the number of results (config.text.resultWord or config.text.resultWordSingular)
 	// DATA_QUERY: the word that was searched for (word)
-	// DATA_DATAPOINT_COUNT: the sum of all "count" properties of the "gsw" objects (parsedData.reduce((acc, obj) => acc + obj.count, 0))
+	// DATA_DATAPOINT_COUNT: the sum of all "count" properties of the "translation" objects (parsedData.reduce((acc, obj) => acc + obj.count, 0))
 	// DATA_DATAPOINT_WORD: "datapoints" or "datapoint" depending on the number of datapoints (config.text.dataPointWord or config.text.dataPointWordSingular)
 
 	$("#search-results-heading").text(
@@ -223,25 +223,25 @@ function compressData(arr) {
 	const tempMap = new Map();
 
 	for (let obj of arr) {
-		const de = obj.de;
+		const src = obj.src;
 
-		if (!tempMap.has(de)) {
-			tempMap.set(de, { de: de, translations: [] });
-			result.push(tempMap.get(de));
+		if (!tempMap.has(src)) {
+			tempMap.set(src, { src: src, target: [] });
+			result.push(tempMap.get(src));
 		}
 
-		const tempObj = tempMap.get(de);
+		const tempObj = tempMap.get(src);
 
-		for (let translation of obj.translations) {
-			const gsw = translation.gsw;
-			const count = translation.count;
+		for (let item of obj.target) {
+			const translation = item.translation;
+			const count = item.count;
 
-			const index = tempObj.translations.findIndex((t) => t.gsw === gsw);
+			const index = tempObj.target.findIndex((t) => t.translation === translation);
 
 			if (index === -1) {
-				tempObj.translations.push({ gsw: gsw, count: count });
+				tempObj.target.push({ translation: translation, count: count });
 			} else {
-				tempObj.translations[index].count += count;
+				tempObj.target[index].count += count;
 			}
 		}
 	}
@@ -251,16 +251,16 @@ function compressData(arr) {
 
 function parseData(data) {
 	let output = data;
-	output.sort((a, b) => (a.de > b.de ? 1 : -1));
+	output.sort((a, b) => (a.src > b.src ? 1 : -1));
 
 	output = compressData(output);
 
-	// sort data by "de" value
-	output.sort((a, b) => (a.de.toLowerCase() > b.de.toLowerCase() ? 1 : -1));
+	// sort data by "src" value
+	output.sort((a, b) => (a.src.toLowerCase() > b.src.toLowerCase() ? 1 : -1));
 
 	// sort "translations" arrays by "count" property, case insensitive
 	$.each(output, (index, item) => {
-		item.translations.sort((a, b) => b.count - a.count);
+		item.target.sort((a, b) => b.count - a.count);
 	});
 
 	return output;
