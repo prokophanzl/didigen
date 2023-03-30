@@ -87,6 +87,20 @@ function downloadJSON(data, filename) {
 	URL.revokeObjectURL(url);
 }
 
+function downloadJSON2(data, filename) {
+	const json = JSON.stringify(data);
+	const blob = new Blob([json], { type: "application/json" });
+	const url = URL.createObjectURL(blob);
+	const a2 = document.createElement("a");
+
+	a2.href = url;
+	a2.download = filename;
+	document.body.appendChild(a2);
+	a2.click();
+	document.body.removeChild(a2);
+	URL.revokeObjectURL(url);
+}
+
 function compressData(arr) {
 	const result = [];
 	const tempMap = new Map();
@@ -126,16 +140,13 @@ document.getElementById("download").addEventListener("click", () => {
 		loadCSVFile(`resources/data/${dialect}.csv`, function (csvString) {
 			const data = parseCSV(csvString);
 			allData.push(...data); // spread the parsed data into the allData array
-			// downloadJSON(data, `${dialect}Parsed.json`); // download the parsed data as a JSON file for this dialect
+			downloadJSON(data, `${dialect}Parsed.json`); // download the parsed data as a JSON file for this dialect
 
 			// if this is the last iteration:
 			if (i === dialects.length - 1) {
-				console.log("1");
-				console.log(allData);
 				allData = compressData(allData); // compress the data
-				console.log("2");
 				console.log(allData);
-				downloadJSON(allData, "allParsed.json"); // download the compressed data as a JSON file
+				downloadJSON2(allData, "allParsed.json"); // download the compressed data as a JSON file
 			}
 		});
 	});
