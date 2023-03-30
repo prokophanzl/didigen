@@ -70,12 +70,17 @@ function parseCSV(csv) {
 		}
 	});
 
+	// sort all target arrays by value
+	result.forEach((obj) => {
+		obj.target.sort((a, b) => (a.translation > b.translation ? 1 : -1));
+	});
+
 	// sort all target arrays by count
 	result.forEach((obj) => {
 		obj.target.sort((a, b) => b.count - a.count);
 	});
 
-	// sort result by source, case sensitive
+	// sort result by source
 	result.sort((a, b) => (a.src > b.src ? 1 : -1));
 
 	return result;
@@ -110,14 +115,19 @@ function parseCSVDialect(csv) {
 		}
 	});
 
+	// sort all target arrays by value
+	result.forEach((obj) => {
+		obj.target.sort((a, b) => (a.translation > b.translation ? 1 : -1));
+	});
+
 	// sort all target arrays by count
 	result.forEach((obj) => {
 		obj.target.sort((a, b) => b.count - a.count);
 	});
 
-	// sort result by source, case insensitive
+	// sort result by source
 
-	result.sort((a, b) => (a.src.toLowerCase() > b.src.toLowerCase() ? 1 : -1));
+	result.sort((a, b) => (a.src > b.src ? 1 : -1));
 
 	return result;
 }
@@ -192,10 +202,18 @@ function compressData(arr) {
 		}
 	}
 
+	// sort all target arrays by value
+	result.forEach((obj) => {
+		obj.target.sort((a, b) => (a.translation > b.translation ? 1 : -1));
+	});
+
 	// sort all target arrays by count
 	result.forEach((obj) => {
 		obj.target.sort((a, b) => b.count - a.count);
 	});
+
+	// sort result by source
+	result.sort((a, b) => (a.src > b.src ? 1 : -1));
 
 	return result;
 }
