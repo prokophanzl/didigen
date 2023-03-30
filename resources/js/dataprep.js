@@ -43,14 +43,14 @@ function loadCSVFile(filename, callback) {
 
 function parseCSV(csv) {
 	const lines = csv.trim().split("\n"); // split CSV into lines
-	const headers = lines[0].split(","); // extract headers
 	const data = lines.slice(1); // extract data rows
 	const result = [];
 
 	// iterate over each data row
 	data.forEach((row) => {
 		const [src, targetRaw] = row.split(","); // extract source and target values
-		const target = targetRaw.trim(); // remove leading/trailing whitespace and carriage return character
+		// remove leading/trailing whitespace and carriage return character and make lowercase
+		const target = targetRaw.trim().toLowerCase();
 		let entry = result.find((obj) => obj.src === src); // check if source already exists in result
 
 		if (!entry) {
@@ -69,6 +69,55 @@ function parseCSV(csv) {
 			targetEntry.count++;
 		}
 	});
+
+	// sort all target arrays by count
+	result.forEach((obj) => {
+		obj.target.sort((a, b) => b.count - a.count);
+	});
+
+	// sort result by source, case sensitive
+	result.sort((a, b) => (a.src > b.src ? 1 : -1));
+
+	return result;
+}
+
+function parseCSVDialect(csv) {
+	const lines = csv.trim().split("\n"); // split CSV into lines
+	const data = lines.slice(1); // extract data rows
+	const result = [];
+
+	// iterate over each data row
+	data.forEach((row) => {
+		const [target, srcRaw] = row.split(","); // extract source and target values
+		// remove leading/trailing whitespace and carriage return character and make lowercase
+		const src = srcRaw.trim().toLowerCase();
+		let entry = result.find((obj) => obj.src === src); // check if source already exists in result
+
+		if (!entry) {
+			// if not, create a new object and push it to the result array
+			entry = { src: src, target: [] };
+			result.push(entry);
+		}
+
+		const targetEntry = entry.target.find((obj) => obj.translation === target); // check if target already exists in the source object
+
+		if (!targetEntry) {
+			// if not, create a new target object with count 1
+			entry.target.push({ translation: target, count: 1 });
+		} else {
+			// if yes, increment the count
+			targetEntry.count++;
+		}
+	});
+
+	// sort all target arrays by count
+	result.forEach((obj) => {
+		obj.target.sort((a, b) => b.count - a.count);
+	});
+
+	// sort result by source, case insensitive
+
+	result.sort((a, b) => (a.src.toLowerCase() > b.src.toLowerCase() ? 1 : -1));
 
 	return result;
 }
@@ -143,18 +192,56 @@ function compressData(arr) {
 		}
 	}
 
+	// sort all target arrays by count
+	result.forEach((obj) => {
+		obj.target.sort((a, b) => b.count - a.count);
+	});
+
 	return result;
 }
 
-document.getElementById("download").addEventListener("click", () => {
+document.getElementById("download-standard").addEventListener("click", async () => {
 	let allData = []; // array to store all the parsed data
 
 	// load and combine all the CSV files
-	$.each(dialects, (i, dialect) => {
-		loadCSVFile(`resources/data/${dialect}.csv`, function (csvString) {
+	await $.each(dialects, async (i, dialect) => {
+		await loadCSVFile(`resources/data/${dialect}.csv`, async function (csvString) {
 			const data = parseCSV(csvString);
 			allData.push(...data); // spread the parsed data into the allData array
-			downloadJSON(data, `${dialect}Parsed.json`); // download the parsed data as a JSON file for this dialect
+			await downloadJSON(data, `${dialect}Standard.json`); // download the parsed data as a JSON file for this dialect
+		});
+	});
+});
+
+document.getElementById("download-standard-all").addEventListener("click", async () => {
+	let allData = []; // array to store all the parsed data
+
+	// load and combine all the CSV files
+	await $.each(dialects, async (i, dialect) => {
+		await loadCSVFile(`resources/data/${dialect}.csv`, async function (csvString) {
+			const data = parseCSV(csvString);
+			allData.push(...data); // spread the parsed data into the allData array
+			// await downloadJSON(data, `${dialect}Standard.json`); // download the parsed data as a JSON file for this dialect
+
+			// if this is the last iteration:
+			if (i === dialects.length - 1) {
+				allData = compressData(allData); // compress the data
+				await downloadJSON2(allData, "allStandard.json"); // download the compressed data as a JSON file
+				// await downloadJSON3(meta, "meta.json"); // download the meta data as a JSON file
+			}
+		});
+	});
+});
+
+document.getElementById("download-meta").addEventListener("click", async () => {
+	let allData = []; // array to store all the parsed data
+
+	// load and combine all the CSV files
+	await $.each(dialects, async (i, dialect) => {
+		await loadCSVFile(`resources/data/${dialect}.csv`, async function (csvString) {
+			const data = parseCSV(csvString);
+			allData.push(...data); // spread the parsed data into the allData array
+			// await downloadJSON(data, `${dialect}Standard.json`); // download the parsed data as a JSON file for this dialect
 
 			// if this is the last iteration:
 			if (i === dialects.length - 1) {
@@ -173,8 +260,40 @@ document.getElementById("download").addEventListener("click", () => {
 						day: "numeric",
 					}),
 				};
-				downloadJSON2(allData, "allParsed.json"); // download the compressed data as a JSON file
-				downloadJSON3(meta, "meta.json"); // download the meta data as a JSON file
+				// await downloadJSON2(allData, "allStandard.json"); // download the compressed data as a JSON file
+				await downloadJSON3(meta, "meta.json"); // download the meta data as a JSON file
+			}
+		});
+	});
+});
+
+document.getElementById("download-dialect").addEventListener("click", async () => {
+	let allData2 = []; // array to store all the parsed data
+
+	// load and combine all the CSV files
+	await $.each(dialects, async (i, dialect) => {
+		await loadCSVFile(`resources/data/${dialect}.csv`, async function (csvString) {
+			const data = parseCSVDialect(csvString);
+			allData2.push(...data); // spread the parsed data into the allData array
+			await downloadJSON(data, `${dialect}Dialect.json`); // download the parsed data as a JSON file for this dialect
+		});
+	});
+});
+
+document.getElementById("download-dialect-all").addEventListener("click", async () => {
+	let allData2 = []; // array to store all the parsed data
+
+	// load and combine all the CSV files
+	await $.each(dialects, async (i, dialect) => {
+		await loadCSVFile(`resources/data/${dialect}.csv`, async function (csvString) {
+			const data = parseCSVDialect(csvString);
+			allData2.push(...data); // spread the parsed data into the allData array
+			// await downloadJSON(data, `${dialect}Dialect.json`); // download the parsed data as a JSON file for this dialect
+
+			// if this is the last iteration:
+			if (i === dialects.length - 1) {
+				allData2 = compressData(allData2); // compress the data
+				await downloadJSON2(allData2, "allDialect.json"); // download the compressed data as a JSON file
 			}
 		});
 	});

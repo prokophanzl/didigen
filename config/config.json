@@ -2,8 +2,11 @@
 	"text": {
 		"title": "Deutsch-Schweizerdeutsches Wörterbuch",
 		"searchPrompt": "Geben Sie einen Suchbegriff ein.",
-		"searchPlaceholder": "Deutsch → Schweizerdeutsch",
 		"translateButton": "übersetzen",
+
+		"language": "Sprache",
+		"standardToDialect": "Deutsch → Schweizerdeutsch",
+		"dialectToStandard": "Schweizerdeutsch → Deutsch",
 
 		"keyword": "Suchbegriff",
 		"word": "Wort",

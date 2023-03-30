@@ -90,13 +90,20 @@ async function getDialects() {
 const dialects = await getDialects();
 
 // load all dialects into data object
-let data = {};
+let data = [];
+let sta = {};
+let dia = {};
 
 $.each(dialects, async (index, dialect) => {
-	data[dialect] = await $.getJSON(`resources/data/parsed/${dialect}Parsed.json`);
+	sta[dialect] = await $.getJSON(`resources/data/parsed/${dialect}Standard.json`);
+	dia[dialect] = await $.getJSON(`resources/data/parsed/${dialect}Dialect.json`);
 });
 
-data.all = await $.getJSON(`resources/data/parsed/allParsed.json`);
+sta.all = await $.getJSON(`resources/data/parsed/allStandard.json`);
+dia.all = await $.getJSON(`resources/data/parsed/allDialect.json`);
+
+data[0] = sta;
+data[1] = dia;
 
 // export data object
 export { data };
@@ -124,10 +131,11 @@ export function translate() {
 
 	let length = 0;
 
-	// set length to the sum of all translation counts in tmpData
-
 	// set word to value of "#word-input"
 	const word = $("#word-input").val().toLowerCase();
+
+	// set src to 1 if "#config-dialect" is checked, else 0
+	const src = $("#config-dialect").prop("checked") ? 1 : 0;
 
 	// set match to value of "#term-input"
 	const match = $("#term-input").val();
@@ -141,16 +149,16 @@ export function translate() {
 		$.each(dialects, async (index, dialect) => {
 			await $("#" + dialect).prop("checked", true);
 		});
-		tmpData = data.all;
+		tmpData = data[src].all;
 	} else if (dialectsUsed.length == dialects.length) {
 		// if all checkboxes are checked, load all data into tmpData
-		tmpData = data.all;
+		tmpData = data[src].all;
 	} else {
 		// else, load only the checked dialects into tmpData
 
 		// for each dialect, add its data to tmpData
 		$.each(dialectsUsed, (index, dialect) => {
-			tmpData = tmpData.concat(data[dialect]);
+			tmpData = tmpData.concat(data[src][dialect]);
 		});
 
 		tmpData = parseData(tmpData);

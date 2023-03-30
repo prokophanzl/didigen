@@ -42,7 +42,7 @@
 								id="word-input"
 								class="word-input"
 								placeholder="conf_placeholder"
-								data-config="searchPlaceholder"
+								data-config="standardToDialect"
 								data-config-type="placeholder"
 								required
 							/>
@@ -63,6 +63,17 @@
 					</div>
 				</div>
 				<div id="filter-container" class="filter-container">
+					<div class="filter-title-div" data-config="language">conf_language</div>
+					<input type="hidden" name="src-input" id="src-input" />
+					<label for="config-standard">
+						<input type="radio" name="config" id="config-standard" value="standardToDialect" checked />
+						<span data-config="standardToDialect">conf_std</span> </label
+					><br />
+					<label for="config-dialect">
+						<input type="radio" name="config" id="config-dialect" value="dialectToStandard" />
+						<span data-config="dialectToStandard">conf_dia</span>
+					</label>
+
 					<div class="filter-title-div" data-config="keyword">conf_keyword</div>
 					<input type="hidden" name="match" id="term-input" value="begins" />
 					<div class="search-option-container filter-sub">
@@ -74,6 +85,7 @@
 						</div>
 						<div data-config="keyword">conf_keyword</div>
 					</div>
+
 					<div class="filter-title-div">
 						<span data-config="dialects">conf_dialects</span>
 						<small>
