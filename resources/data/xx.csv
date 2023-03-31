@@ -1,16 +1,96 @@
 de,gsw
+1,Äis
+10,Zää
+100,hundert
 100-Franken-Note,lappä
+1000,tuusig
+11,Elf
+12,Zwölf
+13,Drizä
+13,drizäh
+14,Vierzä
+15,Füfzä
+15,füfzäh
+16,Sächzä
+17,Sibezä
+17,sibezäh
+18,Achzä
+18,achzäh
+19,nünzäh
+19,Nüünzä
+2,Zwäi
+2,Zwoo
+20,Zwänzg
+20,zwänzg
+21,Äine-Zwänzg
+21,einezwänzg
+22,Zwäie-Zwänzg
+22,zweiezwänzg
+23,Drüüe-Zwänzg
+24,vieräzwänzig
+24,Viere-Zwänzg
+25,Föife-Zwänzg
+25,föifezwänzg
+26,Sächse-Zwänzg
+26,sächsezwänzg
+27,Sibene-Zwänzg
+27,sibenezwänzg
+28,Achte-Zwänzg
+28,achtezwänzg
+29,Nüüne-Zwänzg
+29,nüünezwänzg
+30,Dryssg
+31,einedriisg
+33,drüedrissg
+36,sächsedriisg
+38,achtedriisg
+4,vier
+40,Vierzg
+42,zweievierzg
+43,drüevierzg
+47,sibenevierzg
+49,nüünevierzg
+5,Föif
+50,Füfzg
+53,drüefüfzg
+6,Sächs
+60,sächzg
+61,einesächzg
+62,zweiesächzg
+64,vieresächzg
+66,sächsesächzg
+67,sibenesächzg
+68,achtesächzg
+69,nüünesächzg
+7,Sibe
+70,sibezg
+71,einesibezg
+72,zweiesibezg
+73,drüesibezg
+74,vieresebezg
+74,vieresiebezg
+75,föifesibezg
+76,sächsesibezg
+77,sibenesibezg
+79,nüünesibezg
+80,achzig
+9,Nüün
 Abbildung,Helgä
+Abendessen,Znacht
+Abendessen,zNacht
 Abendessen,Znacht
 Abfall,Kehricht
 Abfalleimer,Güselchübel
 abgeben,abgeh
 abgehen (sie),abgönd
+abgeknipst (Fingernägel),abkluppet
 abgelegenes Tal,Chrachä
 abgesehen,abgseh
 abhauen,abhasä
 abhauen,abhauä
 Abitur,Matura
+Abitur,Matura
+abknipsen (Fingernägel),abchluppe
 abnehmen,schwiinä
 abnehmend,nidsigänds
 abrackern,schtramplä
@@ -19,28 +99,38 @@ Abseits (Fussball),Offside
 Abstellplatz (klein und geschlossen),Schlupf
 absterben (langsam),abserblä
 Abteilung,Abteilig
+abwärts,abe
 abwärts,nidsi
 abwärts,nidsi
 Abwaschtuch,Ufwäschludärä
 abwertend reden,schnööde
 ach so,jä so
+acht,Acht
 Affentheater,Komedi
 ähnlich,abgschnittä
 Akne,Biibäli
 Akne,Büggäli
+Alkoholrausch,Balaari
 Alkoholrausch,Balari
 Alkoholrausch,Chlapf
+Alkoholrausch,Palaari
 Alkoholrausch,Siäch
 allerlei,alller Gattig
 allerlei,Züügs und Sachä
 alles Mögliche,all de Güggär
+alles okay?,Isch guet?
 Alleskönner,Sibäsiäch
 allmählich,naadigsnaa
 Allmend,Allmig
 als,als
 als,als
 also,aso
+alte Schachtel (Frau),alti Schachtle
+alte Schachtel (Frau),alti Trucke
+alte Schachteln (Frauen),alti Schachtlene
+alte Schachteln (Frauen),alti Truckene
 alte Schuhe,Schluurgä
+alter Mann,alte Chlütteri
 Altersbeschwerden,Gnäggi
 Alterssitz auf Bauernhof,Schtöckli
 altes Fahrzeug,Göpäl
@@ -59,12 +149,16 @@ anderseits,handkehrum
 anderseits,handumkehrt
 andeuten,aatöönä
 anfassen,aalängä
+anfassen,aalange
 Anfeuerholz,Spiiserli
 Angeber,Blöffär
+Angebot,Offerte
 Angebot,Offerte
 angebrannt,aaghockät
 angebrannt riechen,bräusälä
 angebrannt riechen,schmüürzälä
+angegangen,aaggattiged
+angehen,aagattige
 angenehm,gmögig
 Angst,Schiss
 Angstgefühl,Chnüüschlotteri
@@ -77,8 +171,12 @@ Anisgebäck,Chräbäli
 ankleiden,aaleggä
 anmachen,grabschä
 anonym,anonym
+Anruf,Telefoon
+Anruf,Telifoon
 anrufen,aalüütä
 anrufen,aalüüte
+anrufen,aalüüte
+anrufen,aalüütte
 anschauen,aaluägä
 Anschnitt bei Brot,Aahäuer
 anschreien,aabrüälä
@@ -88,39 +186,65 @@ ansprechen,aahauä
 ansprechend,aamächälig
 anstossen,schüpfä
 anstrengendes Tun,Chrampf
+Antipasti,Apero
 Anzahl,Tschuppälä
 Anzahl,Zilättä
 anziehen,aalegge
+anziehen,aalegge
+anziehen,aalegge
 Anzug (guter),Schaalä
 anzünden,aazünde
+anzünden,aazünde
+Aperitif,Apero
+Apfel,Öpfel
 Apfel,Öpfu
+Apfel,Öpfu
+Äpfel,Öpfel
 Apfel (unreifer),Schorniggäl
+Apfelwein,suure Moscht
+Appetit anregend,aamächelig
+Appetit anregend,gluschtig
 Aprikose,Barillä
 Aprikose,Baringäl
 Aprikose,Barungäl
 Arbeit,Arbeit
 Arbeit,Büätz
+Arbeit,Büez
 Arbeit (anstrengende),Chrampf
 arbeite (ich),schaffe
 arbeiten,bügle
+arbeiten,bügle
+arbeiten,schaffe
 arbeiten,schaffe
 arbeiten (eifrig),schineglä
 arbeiten (körperlich),wärchä
 arbeiten (streng),chrampfä/chrüplä
 Arbeiter,Büäzer
+Arbeiter,Büezer
 Arbeitgeber,Arbeitgeber
 ärgerlich reagieren,grantig sii
+ärgern,eergere
 Armbanduhr,Gelärettli
 Ärzte,Ärzt
 Ärzte,Ärzte
 Aspekt,Aspekt
+atmen,schnuufe
+auch,au
 auch,au
 auch,au
 auf etwas aufmerksam machen,schtüpfä
 auf Wiedersehen,Ade
+auf Wiedersehen,Ade
 auf Wiedersehen,Adee
+auf Wiedersehen,Adie
 auf Wiedersehen,Adiö
+auf Wiedersehen,adje
 auf Wiedersehen,Uf Widerluege
+auf Wiedersehen,Uf Widerluege
+auf Wiedersehen,Ufwiderluege
+auf Wiedersehen zusammen,Ade mitenand
+auf Wiedersehen zusammen,Adie mitenand
+auf Wiedersehen zusammen,Uf Widerluege mitenand
 aufgenähter Flick,Blätz
 Aufhänger,Hänkel
 aufheben,lüpfä
@@ -129,35 +253,52 @@ aufpassen,ufpasse
 Aufschneider,Plagööri
 Aufschrei (schriller) ,Geuiss
 aufsteigend,obsigänds
+aufwärts,ufe
 Augen,Auge
+August,Auguscht
 aus,uus
+aus (am Abend),im Usgang
+aus (am Abend),im Uusgang
 Ausbuchtung,Büülä
 Auseinandersetzung (gründliche),Chuttlläputzätä
 Ausgang,Usgang
 ausgeben (sie),usegebed
 ausgegeben,usegeh
+ausgeschaltet,abglöscht
+ausgezogen,abzoge
+ausmachen (Licht),ablösche
 ausplaudern,verschnäpfä
 Ausrangiertes,Grümpel
+ausreichen,lange
 ausruhen,ghiirmä
 ausruhen,leujä
+ausschalten,ablösche
 ausschalten,abstellä
 ausser sich geraten,verjagt
+Ausweis,Uuswiis
 auswerfen,uusrüärä
 Auswurf,Chöderlig
+ausziehen,abzie
+ausziehen,abzieh
 Auto (altes),Chlapf
 Auto (altes),Göppel
 Auto (altes),Scheesä
+Bäcker,Beck
 Bäcker,Pfister
 Bad-Unterschrank,Lavaboy
+Bahnsteig,Perron
 Bahnsteig,Perron
 Baiser,Meringue
 bald,glii
 Ball,Bölä
 barfuss,barbei
+basteln,chlüttere
 Bastler,Chlütteri
+Bauch,Buuch
 Bauch,Buuch
 Bauch (dicker),Ranzä
 Bauchschmerzen,Ranzäpfiiffä
+Bauer,Buur
 Bauer,Buur
 baumeln,lampä
 Baumstamm (gefällter),Trämäl
@@ -170,6 +311,7 @@ beeile dich,dalidali
 beeile dich,einä steckä
 beeilen,debälä
 beeilen,pressiärä
+beeilen,pressiere
 beeilen,sebälä
 beeilen,semmälä
 befehlen,gheissä
@@ -184,6 +326,9 @@ beim Kegeln alle Neune umwerfen,Baabäli
 Bein,Scheichä
 Beisammensitzen (gemütliches),höcklä
 Bekannter,Kolleg
+bekommen,bichoo
+bekommen,überchoo
+bekommen,überchoo
 bekommen,überchoo
 beleibte Person,Fätzä
 beleidigte Miene,Lätsch
@@ -197,10 +342,21 @@ bequem,leiig
 bereit,parat
 bereit sein,gaumä
 bereitstellen,färggä
+bergab,abe
+bergab,absi
+bergab,durab
+bergab,dürab
+bergab,nitsi
+bergauf,duruuf
+bergauf,düruuf
+bergauf,obsi
+bergauf,ufe
 beruhigen,gschweiggä
 berühren,aalangä
 Beschädigung (oberflächliche),Brätschgä
 beschuldigen,aaschwärzä
+besonders,bsunders
+besorgen,bsoorge
 Besserwisser,Bhaupti
 bestechen,schmiärä
 bestimmt,bimaich
@@ -225,28 +381,39 @@ Biene,Immäli
 Biene,Imme
 bin,bin
 biomedizinischer,biomedizinische
+Birne,Bire
+bisschen,bitzeli
 bitte,bis so guät
 Bizeps,Müüs
 Blase,Blaatärä
+Blase,Blòòtere
 Blasinstrument,Guugä
 blauer Hautfleck,Bläuälä
 blauer Hautfleck,Möutschi
 Blödmann,Siech
+Blödmann,Siech
 Blödsinn,Chabis
 Blödsinn,Seich
 Blödsinn,Seich
+Blödsinn,Seich
 blühende Obstbäume,Bluäscht
+Blumenstrauss,Bluemestruuss
 Blumenstrauss,Majä
 Bluterguss,Bläuälä
+bodenständig,urchig
 bohnern,blochä
 Bonbon,Dröbsli
 Bonbon,Tääfäli
 Bonbon,Täfeli
 Bonbon,Zältli
 Bonbon,Zückerli
+Boot,Böötli
 Böschung (bewachsene),Brüüschärä
 böse,hässig
+böse,hässig
 böses Weib,Rääf
+brauchen,bruchen
+braun,bruun
 Brautwerber,Chiltär
 brav,aarig
 brav,aartig
@@ -260,9 +427,12 @@ Bretterzaun,Bschlegi
 Briefboote,Pöschtlär
 Briefboote,Pöschtlär
 Briefboote,Pöschtlär
+Briefträger,Pöschtler
 Briefumschlag,Couvert
 Briefumschlag,Couvert
+Brille,Brüle
 Brocken,Mockä
+Brocken,Mocke
 Brosamen,Bröösmäli
 Brotanschnitt,Aahäuer
 Brotanschnitt,Ahäuerli
@@ -271,32 +441,44 @@ Brotanschnitt,Gupf
 Brotanschnitt,Mörgäl
 Brotanschnitt,Mugerli
 Brotanschnitt,Mutsch
+Brötchen,Büürli
 Brötchen,Mutschli
 Brötchen (kleines),Büürli
 Brötchen (kleines),Schlumbergerli
 Brötchen (kleines),Weggli
 Brotlaib 500 Gramm,Pfünderli
+Bruder,Brüeder
 brüllen,bääggä
 brüllen,gääggä
 brummen,gümschälä
 brüten (Henne),Gluggärä
+Buch,Buech
 Buch,Buech
 Buchdruckertaufe (alter Brauch),Gautschätä
 bucklig,högerig
 Bügelbrett (kleines),Ärmelböckli
 bügeln,glettä
 bügeln,glette
+bügeln,glette
+bügeln,glette
+bumsen,sattle
+Bürgersteig,Trottoir
+Bus,Car
 Bus,Car
 Buschbohne,Höckerli
 Busen,Chabis
 Butter,Ankä
+Butter,Ankche
 Butter,Anke
 Butter (einheitlich geformt),Ankämödäli
+Butter-Stück,Mödeli
 Butterbrot mit Marmelade,Brüütli
+Café,Kafi
 Champagner,Chlöpfmoscht
 chan,kann
 Chaos,Chrüsimüsi
 Chaos,Gschtürm
+Chaos,Puff
 Chaos,Puff
 chaotisch,ds under obsi
 charakterloser Mensch,Fötzel
@@ -304,36 +486,57 @@ charakterloser Mensch,Sekel
 Chef,Tätschmaischter
 Christi Himmelfahrt,uffahrt
 Christi Himmelfahrt,Uuffert
+Coiffeur,Quafföör
+cool,lässig
 Corona,Corona
 Corona-Test,Coronatest
 Corona-Tests,Coronatests
 Couchtisch,Salontisch
+Croissant,Gipfel
+Croissant,Gipfeli
+Croissant,Gipfeli
 Croissant,Gipfeli
 da,da
 da,do
 da,do
 da,do
+da,ume
+dabei,debii
 Dach,Schäärmä
 Dachbalken,Rafä
+Dachboden,Estrich
+Dachboden,Estrich
 Dachboden,Estrich
 Dachboden,Schloff
 Dachboden,Windä
 Dachrinne,Pfätana
 Dachstock,Schütti
+daheim,dihäi
+daher,drum
+damals,doozmaal
 damals,dozmal
 damit,damit
 dämmern,dunklä
+danke,Dankche
+danke,Merci
 danke,Merci
 darum herum reden,guänä
 das,da
+das,daa
 das,das
 das,s
 das,s
 das,s
+das,s
+das Du anbieten,duuzis mache
 das Du anbieten (duzen),Duzis mache
 das Du antragen,duuzis machä
+das Feuer,sFüür
+das ist das Betteln verpasst,das isch s'Bättle versuumed
 das kackt mich an,das schiest mi aa
+das Licht,s'Liëcht
 das Missgönnen,vergöischtig
+das Scheit,s'Schiit
 dass,das
 dass,dass
 dass,dass
@@ -342,7 +545,9 @@ dass ich,dassi
 dauernd,alläwiil
 davon,devo
 defekt,verheit
+deftig,wäärschaft
 dein (M),din
+deine,dini
 deine,dini
 dem,de
 dem,de
@@ -358,11 +563,18 @@ der,de
 der,de
 der,de
 der,wo
+der (M),de
+der hat immer Glück,dem chalbered de Schitstock
+derb,urchig
 Details,Details
 Deutsch,Düütsch
+Deutsch,Düütsch
+Deutscher (Abwertend),Schwòòb
 Deutschland,dä gross Kanton
+Deziliter,Dezi
 dich,dich
 dicht,bhabä
+dicker Bauch,Ranze
 Dickicht,Gschtrüpp
 die,d
 die,die
@@ -370,23 +582,46 @@ die,die
 die,die
 die,die
 die,wo
+die (F),d
+die (F),p
+die (pl.),p
 Dienstag,Ziischtig
+Dienstag,Ziischtig
+Dienstag,Ziischtig
+diese,die
+dieser,dää
 dieses Jahr,hüür
 diesjährig,hüürig
 diesseits,hihaar
 dir,dir
+doch,mo-moll
+doch,mol
+doch,mol
+doch,moll
+doch,momol
 Donnerstag,Dunnschtig
+Donnerstag,Dunschtig
+dort,deet
 dort,dört
 dort,döt
+dort,sääb
+dort,säb
 dösen,bleeschtä
 drängen,schtürmä
+draussen,dusse
+draussen,dusse
+draussen,verusse
 drehen,drüllä
 drei,Drü
+Drei,Drü
 drillen,schluuchä
+drinnen,dine
 drohende Gewitterwolken,Blaascht
 drüben,däänä
 drüben,däännä
+drüben,däne
 du,du
+du dummer Affe!,Gorilla blau Arsch!
 du meine Güte!,jeechterlis au!
 dumm,doof
 dumme Person,Laatschi
@@ -395,6 +630,7 @@ dummer Einfall,Föta
 dummer Kerl,Gaggalaari
 dummer Mensch,Lööli
 dummer Mensch,Tschumpel
+Dummkopf,Galööri
 Dummkopf,Goon
 Dummkopf,Tschumpl
 dümmliche Frau,Tschättärä
@@ -403,11 +639,14 @@ Dummschwätzer,Schnorri
 Dummschwätzer,Schwafli
 dünne Tranche,Schnäfäl
 durchaus,liberämänt
+Durcheinander (von Wertlosem),Chruuscht
 Durchfall,Abfüerä
 Durchfall,Tutswitt
 durchnässt,pflotschnass
 durchwühlen von Hand,nodärä
+dürfen,dörfe
 Durlips,Futterrübe
+eben,ebe
 Efeu,Abläub
 egal,schnurz
 Eichelhäher (Vogel),Heerägäägälär
@@ -419,13 +658,19 @@ eigenartig,gschpässig
 eigenartig,kurlig
 eigenen,eigene
 eigenen,eigete
+ein (N),eis
+ein (N),es
 ein Bein in den Weg stellen,dä Höggel stellä
+ein bisschen,echlii
+ein bisschen,es bitzeli
 ein bisschen,es Bröösi
 ein ganz klein wenig,äs biräbiräbitzäli
 ein Geschenk bringen,helsä
+ein kleines bisschen,es birebitzeli
 ein paar,paar
 ein wenig,äs bitzäli
 ein wenig,gschmogä
+eine,e
 eine,ei
 eine Hand voll,Hampfälä
 eine Menge,Schwetti
@@ -435,24 +680,34 @@ einengend,bhabä
 einengend,gedrung
 einfach,afoch
 einfach,afoch
+einfach,eifach
 einfach,ring
+einfach,urchig
 Einfältiger,Gaggalaari
 einflüstern (in der Schule),iiblasä
+eingebildete Frau,Düpfi
 eingebildete Frau,Tüpfi
 eingefädelte Nadel,Näädlig
+eingeschaltet,aazündet
 Einheimischer,üüsereine
 einkaufen,lädele
 einkaufen,poschtä
 einkaufen,poschte
+Einkaufswagen,Poschtiwägeli
 einmal,einisch
 einmal,einisch
+einmal,emaal
 Einsatzbereitschaft,Piggee
+einschalten,aazünde
 eintauchen,tünklä
+Eintrittskarte,Bileet
 Eisbein,Gnagi
 Eisbein,Gnagi
 Eiscreme,Glace
 Eiscreme,Glacé
 ekelhaft,gruusig
+ekelhaft,gruusig
+elegant,rassig
 elegant,rassig
 Elfmeter,Penalti
 Elsässer,Waggis
@@ -460,10 +715,16 @@ Elster (Vogel),Ägerscht
 Elster (Vogel),Häxli
 empfindliche Frau,Mimösli
 endlich,afig
+endlich,äntli
+Enkel,Grosschind
+Enkelkind,Gros-Chind
 enorm,gail
+Entschuldigung,Äxgüsi
 Entschuldigung,exgüsi
 Entschuldigung,Exgüsi
 Entschuldigung,Exgüsi
+Entschuldigung,exgüsi
+Entschuldigung,Tschuldigung
 entzwei,abänand
 er,er
 erbost,daub
@@ -486,6 +747,9 @@ ertrotzen,zwängälä
 erübrigt (er/sie/es),erübrigt
 erwähnt,erwähnt
 erwischen,verwütschä
+erwischen,verwütsche
+erzählen,verzele
+erzählen,verzelle
 erzählen,verzelle
 erzürnen,daub(ä) machä
 erzwängeln,müädä
@@ -497,35 +761,52 @@ es stürmt,es chuutät
 essbare Innereien,Chuttlä
 essbare Innereien,Grick
 Essen,Choscht
+essen,habere
 ethisch,ethisch
 ethischen,ethische
 etwa,öpa
 etwa,öppä
+etwa,öppe
+etwa,öppe
 etwas,näbis
 etwas,neimis
 etwas,öpis
 etwas,öpis
 etwas,öppis
+etwas,öppis
+etwas,öppis
 Eule,Nachtheuäl
 eventuell,ächt
 eventuell,allefalls
+eventuell,allenfalls
 fade,otelos
 fade Brühe,Lüürlibruä
+Fahrkarte,Bileet
+Fahrrad,Velo
+Fahrrad,Velo
 Fahrrad,Velo
 fallen,droolä
 fallen,ghejä
+fallen,kheie
 fallen lassen,ghejä laa
 falsch,lätz
 Fälschung,Fälschig
 Fasnachtsnarren,Legoorä
+fast,fascht
+fast,schier
 faulenzen,plegärä
 Februar,Horner
 fegen,wüsche
 fehlentwickeln,schlinggä
+Feierabend,Fiiraabig
+Feiertag,Fiirtig
+fein,fii
 fein gefleckt,gschprängglät
 fein gefleckt,gschprängglät
 fein gefleckt,gschprigglät
 fein gespaltenes Brennholz,Schpiiggäli
+Feldsala,Nüsslisalaat
+Feldsalat,Nüsslisalat
 Feldsalat,Nüsslisalat
 Fels,en Schroppä
 Felsbrocken,Schopf
@@ -533,7 +814,9 @@ Fenster,Feischter
 Fensterchen,Guggeerä
 Ferien,Ferie
 Ferien,Ferie
+Ferien,Ferie
 Ferkel,Fäärlig
+Ferkel,Säuli
 Ferkel,Suzäli
 fernes Gewitter,Wättärleinä
 Fernglas (Theater),Opäräguggär
@@ -546,36 +829,55 @@ fett,feiss
 fett,fett
 Fett,Schmalz
 Fetzen,Schlämpä
+feucht,füecht
+Feuer,Füür
 Finger,Kräbäl
 Finken,Schlaarpä
 fit sein,Zwäg sii
+fit sein,Zwäg sii
+Fläschchen mit Babynahrung,Schoppe
 Flasche,Guttärä
 Flasche,Schlegel
+Flechten von Zwiebeln,Trütschle
 Fleck,Mosä
+Fleisch in Scheiben,Platzli 
 fleissig,gwärchig
 fleissig,schaffig
+Fliesen,Plättli
 flirten,karisiärä
 flirten,karisierä
 flirten,liäbäuglä
+Flohmarkt,Floomi
 fluchen,hindersi bättä (sy)
 fluchen,sirrachä
+Flussbarsch,Egli
 flüstern,chuschälä
 foppen,aazündä
+foppen,aazünde
+Forschung,Forschig
+fortwerfen,furkkheie
+Foto,Föteli
 Foto,Föteli
 Foto,Foti
+fragen,frööge
 fraglich,allwääg
 Franken,Schtütz
 Franken,Stutz
+Franken,Stutz
 französische Schweiz,Wälschland
+Frau,Frau
 Frauenfrisur,Bürzi
 frecher Junge,Luusbueb
 frecher Knabe,Schnudäri
 freches Kind,Schnudergoof
 Freibad,Badi
+Freibad,Badi
+Freitag,Friitig
 Freitag,Friitig
 Freudenschrei,Juuchzer
 frieren an Händen und Füssen,hurniglä
 Friseur,Coiffeur
+fröhlich,uufgstellt
 fröhlich,uufgstellt
 Frostbeule,Gfrörni
 frösteln,tschudärä
@@ -585,18 +887,26 @@ früh,fücht
 Frühling,Uschtig
 Frühstück,Galozä
 Frühstück,Zmorgä
+Frühstück,zMorge
+Frühstück,Zmorge
 Frühstück (zweites),Znüni
+frühstücken,zmörgele
 frühstücken (ausgiebig),zmörgele
 fuchteln,gischplä
+Führerschein,Faaruuswiis
 Führungsleine an Zugtieren,Hälslig
+Fünffrankenstück,Feufliiber
 Fünffrankenstück,Füfliber
 Fünffrankenstück,Fünfliibär
 Fünffrankenstück,Füüfliiber
 Fünffrankenstück,Heiär
 Fünffrankenstück,Schnägg
+Fünffrankenstück,Schnägg
 für,für
+furchtbar,gruusig
 Furunkel,Aissä
 Fussball spielen,tschuttä
+Fussball spielen,tschutte
 Fussball spielen,tschuutä
 Fusstritt,Gingg
 Fusstritt,Schtiirz
@@ -611,7 +921,11 @@ Gartenhacke,Gärtel
 Gartenhacke,Heuäli
 gealtert,abgäh
 Gebäck,Guetzli
+geben,gee
 Gebrechen,Breschtä
+gebumst,gsattlet
+Geburtstag,Gebi
+Geburtstag,Geburi
 Gedichteschmied,Värsli Brünzlär
 Gedränge,Duckätä
 Gedränge,Gschtungg
@@ -620,16 +934,27 @@ Gefängnis,Chefi
 Gefängnis,Chischtä
 gefleckt,gschägget
 Gefühl,Gfühl
+gegen,gäge
 Gegend,Chrachä
+gegenseitig,enand
+Gegenteil,Gägetäil
 gegenüber,vis a vis
+gegenüber,wisawi
+gegessen,ggässe
+gehen,gaa
+gehen,go
 gehen,go
 gehen,go
 gehen,goh
 gehen,goh
+gehen,lauffe
+gehen (sie),gönd
 gehorchen,folgä
+gehorchen,folge
 gehört,ghört
 gehst du,gaasch
 Gehsteig,Trottoir
+Gehsteig,Trotuaar
 Geist,Bozsu
 Geiz,Giit
 geizen,chnoorzä
@@ -639,15 +964,22 @@ geizig,chluppig
 geizig,ghebig
 geklaut (scherzhaft),gschtüber choo
 gekochte Kartoffeln,Gschwellti
+gelassen,glaa
+gelb,gääl
 gelb,gäggeligäl
 Geld,Chölä
+Geld,Stutz
 Gelenk,Gleich
+gelesen,gläse
 Geliebter,Hächu
 gelöscht,glöscht
 gemächlich,gmaach
 gemächlich,lamaaschig
+Gemüse,Gmües
 gemütlich,paschifig
+gemütlich,urchig
 genau,mol
+genau,momol
 genauer,genauer
 genauso,genauso
 genauso,genauso
@@ -660,6 +992,9 @@ Gerstenkorn am Augenlid,Griitli
 Gesäss,Füdli
 Geschäft,Gschäft
 Geschäftsleitung,Gschäftsleitig
+geschätzt,gäbig
+Geschenk,Gschänk
+Geschenk,Gschänkli
 Geschenk an Besucher,Bhaltis
 Geschmacksempfinden im Gaumen,Guu
 Geschwätz (leeres),blablaa
@@ -672,6 +1007,7 @@ geschwind,tifig
 geschwind,tifig
 gesehen,gseh
 gesehen,gseh
+gestern,geschter
 gestern Abend,nächtig
 gestohlen,gmuggät
 gestohlen,gschtüüber cho
@@ -681,6 +1017,8 @@ gewesen,gsi
 gewesen,gsi
 gewesen,gsi
 gewesen,gsii
+gewesen,gsii
+gewesen,gsii
 gewinnen,putzä
 gibt,git
 gierig schauen,schäächä
@@ -688,48 +1026,80 @@ giessen,leschä
 Glas Sekt,Cüppli
 glatt,schlifärig
 gleich,glii
+gleich,gliich
 gleichgültig,larifari
+gleichzeitig,gliichziitig
 gleiten,schlifärä
 glitschig,glatt
 Glück (im Unglück),Dusl
 Glüschtälär,Grabscher
 Glut (im Feuer),Gluäsä
 Gott bewahre,Bhüetis trüüli
+Gott verdamm mich!,Gopferdeckel!
+Gott verdamm mich!,Gopferdelli!
+Gott verdamm mich!,Gopfertori!
+Gott verdamm mich!,Gopfrid Stutz!
+Gott verdamm mich!,Verdammi!
+Gott verdamm mich!,Verdelli!
 graben,puttlä
 Grabscher,Tööpli
 Gras in Reihen,Maad
 Grenzen,Grenze
 grillen,grilliere
+grillen,grillieren
 grossartig,bäumig
+Grösse,Grössi
 Grossmutter,Nani
 gründlich,radibuz
 grundsatzlos,wischiwaschi
+gucken,luege
 Gurke,Guggumärä
 Guss,Gutsch
+gut,guet
+gut,guet
 gut aussehen,ä Fallä machä
 gut aussehen,ä Fallä machä
+guten Abend,Gueten Aabig
 guten Abend,Hiuba
 guten Appetit,än Guetä
 guten Appetit,en Guete
+guten Appetit,en Guete
+guten Appetit,En Guete
+guten Appetit zusammen,En Guete mitenand
+guten Morgen,Guete Morge
+guten Morgen,Guets Mörgeli
 guten Tag,grüäzi
+guten Tag,grüessech
 guten Tag,Grüezi
+guten Tag,grüezi
+guten Tag,Grüezi
+guten Tag,Grüezi wohl
+guten Tag,Guete Taag
+guten Tag zusammen,Grüezi mitenand
 guter Dinge,vögeliwohl
+guter Laune,uufgstellt
 Haar oberhalb dem Ohr,Tschuupi
 Haarknoten,Ribl
 habe (ich),ha
 habe (ich),ha
 habe (ich),han
 habe ich,hani
+haben,haa
 haben (sie),hend
 haben wir,hemmer
 Habicht,Huänärdiäb
 haftend,chläbärig
 hagerer Mensch,Schpränzäl
+Hähnchen,Güggeli
 Hähnchen,Mistkratzerli
 Hähnchen,Poulet
 hallo,hallo
 hallo,Hoi
+hallo,hoi
+hallo,Hoi
 hallo,Sali
+hallo,Sali
+hallo,Salü
 Halskehre (Krankheit),Äkägstabi
 Halsschleife,Schärpä
 Halsteil des Pferdegeschirrs,Kummät
@@ -737,13 +1107,18 @@ Halstüchlein,Bajarderli
 halt,halt
 halt deine Fresse,verheb dä Latz
 halten,hebe
+halten,hebe
 Halunke,Glünggi
 Handarbeitsschule,Handsgi
 Handarbeitsschule,Schnurpfi
 Handgriff,Haba
 Handnetz mit Stiel z. Fischen,Feumer
+Handschuh,Händsche
 Handspielpuppe,Chaschperli
 Handy,Natel
+Handy,Natel
+hängen,hange
+hängen,hänke
 hängen,lampä
 Hans guck in die Luft,Preusivogel
 Häppchen vor dem Schlafen,Bettmümpfäli
@@ -751,6 +1126,7 @@ Harasse,Gacho
 hart arbeiten,chrampfe
 hässlich,schüüsch
 hässlich,wüest
+hast (du),häsch
 hast du es verstanden?,chunsch druus
 hasten,juflä
 hat (er/sie/es),het
@@ -758,11 +1134,19 @@ hauen,fitzä
 hauen,schlaa
 Haumesser,Gertel
 Haus,Huus
+Haus,Huus
+Hausmeister,Abwart
+Hausmeister,Abwart
 Hausmeister,Abwart
 Hausschuh,Finkä
 Hausschuh,Günschä
 Hausschuhe,Finke
+Hausschuhe,Finke
+Hausschuhe,Finke
+Hauswart,Abwart
 Hautverletzung,Blätz
+heben,lupfe
+heben,lupfe
 Heidelbeere,Heiti
 Heidelbeere,Heubeeri
 Heidelbeere,Heubeeri
@@ -771,16 +1155,25 @@ heikel (beim Essen),schnäderfrässig
 heimlich zuschauen,güggslä
 heiser,Chrot im Hals
 Heiztorf,Tuurpä
+Heizung,Haizig
+helfen,hälfe
 Hemd,Hämli
 Hemd,Hämp
 heran,anä
+heraufkommen,uufechoo
+Herbst,Heerbscht
 Herrenjacke,Chittäl
 herstellen,ferggä
+herumbasteln,umechlüttere
 herumhantieren,figuretlä
+herumrennen,umechloge
 herumschweifen,striälä
 herunter,obäabä
 herunterfallen,abägheiä
 herunterfallen,abätätschä
+herunterkommen,abechoo
+herunterscheppern,abetschättere
+herunterscheppern,abetschättere
 hervorgucken,gügslä
 Heuernte,Heuät
 Heugestell auf dem Felde,Heinzä
@@ -789,12 +1182,16 @@ Heuschober,Heugadä
 Heuschrecke,Heugümpär
 Heuschrecke,Heustöffel
 heute,hüt
+heute,hütt
 heute Abend,hinät
 heute Abend,Hinicht
 heute Nacht,hinicht
 heutzutage,hütigstags
 Hexe,Schträgglä
 Hiebe,Tätsch
+hier,daa
+Hilfe,Hilf
+hinauf,ue
 hinauf,ufä
 hinauf,uhi
 hinaus,usä
@@ -804,7 +1201,10 @@ hinfallen,umtroolä
 hinken,hiupä
 hinken,hülpä
 hinsetzen,abhockä
+hinsetzen,abhockä
+Hintern,Fudi
 Hintern,Füdli
+Hintern,Füdli
 hinunter,abbä
 hinunter,ahi
 Hinweise,Hiiwiis
@@ -822,9 +1222,13 @@ Holzsplitter im lebenden Fleisch,Spiissä
 Holzstock,Chnebel
 Holzstock,Schtäckä
 Honig,Hung
+hören,ghööre
+hören,ghööre
 hören,losä
 hören,lose
+hören,lose
 Hosensack,Fagetta
+Hosentasche,Sack
 Hügel,Hogär
 Hügel,Hübäli
 hupen,huupä
@@ -857,8 +1261,10 @@ in Massen,biigäwiis
 in Strömen Regnen,Chatze haglä
 in Zukunft,nuverhin
 innerhalb,innert
+Installateur,Sanitäär
 irgendwo,naimet
 irgendwo,nöimä
+irgendwo,nöimed
 irre sein,schpinnä
 ist (er/sie/es),isch
 ist (er/sie/es),isch
@@ -880,32 +1286,56 @@ Jauche,Güllä
 Jauchenschöpfkelle,Goon
 Jauchenschöpfkelle,Gorächübäl
 jauchzen,zäuerlä
+jedenfalls,ämel
 jedenfalls,einäwäg
 jedenfalls,einewääg
 jemand,öppär
 jemand,öpper
 jemand,öpper
+jemand,öpper
+jemand,öpper
+jemanden,öpper
+jemanden,öpper
 jemanden auf dem Rücken tragen,chräzäbuggälä
 jenes,säb
+jenseits,änet
 jenseits,ennet
+jenseits,ennet
+jetzt,jetz
 jeweils,allig
+jeweils,amig
+jeweils,amigs
 jeweils,amigs
 Job,Job
 Johannisbeere,Trübäli
 juckend,chribälig
+Jugendherberge,Jugi
+Junge,Bueb
+Juwelier,Bischutie
 Kachelofen,Chuuschtofä
+Kaffee,Kafi
 Kälbchen,Chöötschäli
 Kälbchen,Chuutschi
 Kalender,Prattig
 kältempfindlicher Mensch,Gfröörli
 kaltschnäuzig,schnodrig
+Kamerad,Gspähndli
+Kamerad,Gspähnli
+Kamerad,Gspöönli
+Kamin,Chämi
+Kamin,Schminee
+Kamin,Schminee
 Kamm,Schträäl
+Kamm,Streel
 kämmen,schträälä
+kämmen,strääle
 kämmen,strähle
 Kaninchen,Chüngel
+Kaninchen,Chüngel
 kann (er/sie/es),chan
 kann (ich),chan
 Kännchen zum tropfenweise Ölen,Oelstiirzli
+kannst (du),chasch
 kannst (du),chasch
 Kanton,Kanton
 kaputt,abenand
@@ -913,17 +1343,28 @@ Karabiner,Chaarscht
 kariert,ghüüslät
 Karotte,Rüäbli
 Karotte,Rüebli
+Karotte,Rüebli
+Karotte,Rüebli
 Kartoffel,Gummel
 Kartoffel,Härdöpfel
+Kartoffel,Härdöpfel
+Kartoffel,Härdöpfel
+Kartoffel,Hördöpfel
+Kartoffelbrei,Härdöpfelstock
 Kartoffeln,Guml
 Kartoffeln,Häpärä
 Kartoffeln (in Schale gekocht),Gschwellti
 Kartoffelpüree,Härdöpfelstock
 Kartoffelstock,Schtunggis
+Kartoffelstock,Stock
+Kartoffelstock,Stocki
 Karussel,Riitschuäl
+Käse,Chäs
 Kastanien,Cheschtänä
 Kästchen,Chäschtli
 Kasten,Schaft
+Kätzchen,Büsi
+Katze,Büsi
 Katze,Büsi
 Katze,Büsi
 Katze,Zisäli
@@ -931,17 +1372,24 @@ kauen,chaflä
 kauen (an Zähem),chätschä
 kauern,güüpu
 kauern,huurä
+kaufen,chauffe
+kehren,fege
 Kehricht,Ghüder
 Kehricht,Ghüder
 Kehricht,Güsäl
 Kehricht,Güsel
+Kehricht,Güsel
 Kehrichteimer,Ghüderchübel
+kein,keis
+kein Problem,käis Problem
+kein Problem,kas Problem
 keine,kei
 keine Ahnung,kei Hochschii
 Keks,Chröömli
 Keks,Guätzli
 Keks,Schliirg
 Keks,Tolggä
+Kekse,Guetzli
 kenne (ich),kenn
 Keramikplättchen,Chachäli
 Kerbe,Hick
@@ -951,11 +1399,14 @@ Kerngehäuse des Obstes,Gigetschi
 Keule,Chnüppel
 Kies,Griän
 Kies,Gufer
+Kind,Chind
+Kind,Goof
 Kinder,Chind
 Kinder,Chnöpf
 Kinder,Goofä
 Kinder hüten,gaumä
 Kinder hüten,goumä
+Kindergarten,Chindsgi
 Kindergarten,Chindsgi
 Kindergarten,Gväterlischuäl
 Kindergartenschüler,Chegelischüeler
@@ -964,8 +1415,14 @@ kindisch,dada
 kindisch,gaga
 kippeln,gaagele
 Kirche,Chile
+Kirche,Chile
+Kirche,Chile
 Kirchweihfest,Chilbi
+Kirmes,Chilbi
+Kirmes,Chilbi
 Kirsche,Chirsi
+Kirsche,Chriesi
+Kirsche,Chriesi
 Kirsche,Chriesi
 Kirsche,Chriesi
 Kiste,Harasse
@@ -973,15 +1430,21 @@ kitzeln,chrüsälä
 klappern,tschädärä
 klauen,schtibizä
 Klebeband,Chläbi
+Klebeband,Chläbi
 kleben,chleubä
 kleckern,chosle
 Kleid,Gwand
 Kleidung,Aaleggi
+klein,chlii
 Kleinbürger,Bünzli
 kleine Kinder,Goofä
 kleiner Junge,Pfüdäri
 kleines Bier,Schtangä
+kleines Bier,Stange
+kleines Bier,Stange
 kleines Mädchen,Zischgäli
+Kleingeld,Münz
+Kleingeld,Münz
 Kleingeld,Münz
 Kleingeld,Münz
 Kleingeld,Schpeuz
@@ -989,19 +1452,23 @@ Kleingeld,Speuz
 Kleingeschnittenes,Schnäf'l
 Kleinigkeit,Nüütäli
 Kleinigkeit,Nüütäli
+kleinkarrierter Mensch,Bünzli
 Kleinkind,Bebe
 Kleinkind,Buschi
+kleinliche Person,Tüpflischiisser
 kleinmütig,schäbig
 kleinmütig,schmürzälig
 kleinwüchsiger Mensch,Bodäsurri
 kleinwüchsiges Kind,Grööggu
 kleinwüchsiges Kind,Pfüdäri
 Klette,Bliiberli
+Klettergurt,Gstältli
 klettern,chräslä
 klettern,gogärä
 klingeln,lüüte
 klingeln,schällä
 klingen,töne
+klingen,tööne
 klirren,schärbälä
 klitschnass,Pflutschnass
 klopfen,tätschä
@@ -1011,6 +1478,7 @@ Knabe,Bueb
 Knabe,Giäl
 Knabenzigarre,Niälä
 Knall,Chlapf
+Knall,Chlapf
 knallen,chlöpfä
 knallen,tätschä
 Knallkörper,Schwärmär
@@ -1019,10 +1487,14 @@ knarren,giirä
 Knäuel,Chrungälä
 Knecht Ruprecht,Schmutzli
 kneifen,chnüüblä
+Kneipe,Bäiz
+Kneipe,Beiz
 Kneipe,Beiz
 Kneipenrunde,Pintächeer
 Knick,Buck
+Knie,Chnüü
 knieen,chnünlä
+knipsen (Fingernägel),chluppe
 Knirps,Pfüderi
 knirschen,chiirbschä
 Knitter im Tuch,Rumpf
@@ -1035,9 +1507,16 @@ Knoten im Haar,Bääggu
 knüllen,chrugälä
 knusprig,chröschpälig
 Kohl,Chabis
+Kohl,Chabis
+Kohl,Chabis
+kommen,choo
 kommen um zu (etwas machen),cho go (öppis mache)
 konkursieren,verlumpä
+können,chönne
+können,dörfe
+können,vermöge
 Kontakt,Kontakt
+Kopf,Grind
 Kopf,Grind
 Kopf,Grind
 Kopf,Nägg'l
@@ -1048,11 +1527,14 @@ Kopftuch,Schtuuchä
 Kopfweh,Grindweh
 Korb,Zainä
 Korb (kleiner),Chrattä
+Korken,Zapfe
 korrupt,korrupt
 Korruption,Säudeckeli
 Korruption,Säuhäfäli
+kosten,choschte
 Kraftausdruck,Sterneföifi
 Krähe,Graak
+Krankenhaus,Spitòòl
 kratzen,chräblä
 kratzen,grüblä
 Kratzer,Chräbel
@@ -1075,6 +1557,7 @@ Kuchen,Dünnä
 Kuchen,Wähä
 Küchenschrank,Chuchichäschtli
 Küchenschrank,Chuchichäschtli
+Küchenschrank,Chuchichäschtli
 Küchenschrank,Gänterli
 Küchensieb,Löcherbecki
 Küchensiebchen,Siänäli
@@ -1083,9 +1566,12 @@ Kuckuck,Guggär
 Kuckucksuhr,Guggärziitli
 Kuh,Loobä
 Kuh,Wobi
+Kumpel,Kollege
 Kunde,Chund
 Kunde,Chund
 künftig,neverhin
+Kunst,Kunscht
+Kurve,Rank
 kürzlich,letschti
 kürzlich,vo letscht
 Kurzschluss (elektrischer),Churzä
@@ -1097,12 +1583,15 @@ Kutsche,Scheesä
 Labor,Labor
 Laborauftrag,Laboruftrag
 lachen,gigälä
+lachen,lache
 Lakritze,Bärädräck
 lallen,luurggä
 Ländler-Musik,Hudigäggälär
 Landstück,Blätz
 langsamer Mensch,Doochä
+Langweiler,Laamsüüder
 Lappen,Lumpä
+Lappen,Lumpe
 Lärm,Mais
 lärmen,chesslä
 lärmen,grampoolä
@@ -1110,15 +1599,23 @@ lassen,loh
 Lastkahn,Ledischiff
 Latz,Lädi
 Latz,Muesueli
+laufen,räne
 launisch,rumpelsurrig
+Lausbub,Sürmel
+laut,luut
 laut durch den Mund atmen,chaarchlä
 lautlos,kän Mux
 lauwarm,lab
 Lavabo,Lavabo
 Lawine,Laui
+leben,läbe
+lecker,aamächelig
+lecker,fein
+lecker,gluschtig
 ledige Frau,Jumpfärä
 Lehrer,Laischt
 Lehrling,Schtift
+leicht,liecht
 leicht betrinken,lödälä
 leichtfertige Person,Luftibus
 Leichtfuss,Halodri
@@ -1131,18 +1628,24 @@ leiten (in die Wege),aareisä
 leiten (in die Wege),aariissä
 Leitung,Leitig
 Leitungswasser,Hahnewasser
+Leitungswasser,Hahnewasser
+Leute,Lüüt
 liebenswerter Mensch,Schnügäl
 Limonade,Blööterliwasser
 links,hot
 loslassen,lugg laa
 Löwenzahn,Chrottäpöschä
 Löwenzahn,Säublueme
+Lump,Fötzel
 Lumpen,Hudäl
 Lumpen,Hudlä
 Lumpen,Lumpä
 Lust haben auf,gluschtä
 lustig,glatt
 Lustmolch,Glüschtälär
+Lustmolch,Glüschtler
+Lustmolche,Glüschtler
+machen,mache
 machen,mache
 machen (wir),mached
 machen (wir),mached
@@ -1156,28 +1659,41 @@ Maiglöckchen,Maieriisli
 mal,mol
 mal,mol
 Mal,Mol
+man,me
 manchmal,allig
 manchmal,allig
 manchmal,mängisch
 manchmal,mängisch
+manchmal,mängisch
+Mandarine,Mandarinli
+Mangold,Chruutstiil
+Männer,Manne
 Marienkäfer,Himmugüegeli
+Marmelade,Gomfi
 marschieren,tschumplä
 Maske,Laarvä
 massenweise,biigäwiis
 matschig,pflüderig
 Maul,Goschä
 Maul,Schnurrä
+Maus,Muus
 Mäuschen,Müsli
+Mäuschen,Müüsli
 meckern,nürzä
+mehrmals,mängsmaal
 meinem,mim
 meinetwegen,miraa
+meinetwegen,wägemiine
 melden,melde
 Melkeimer,Mälchterli
+Mensch (abwertend),Cheib
+Mensch (abwertend),Fötzel
 Menschenfigur,Mannsgoggel
 menschlich,mänschälä
 mich,mi
 mich,mi
 mich,mich
+Milchbrötchen,Weggli
 Milchbrötchen,Weggli
 minderwertig,lumpig
 minderwertige Dinge,Glump
@@ -1188,27 +1704,46 @@ mit,mit
 mit,mit
 mit Besen reinigen,förbä
 mit Besen reinigen,wüschä
-mit dem Feuer spielen,züüslä
 mit dem Feuer spielen,zeuslä
+mit dem Feuer spielen,züüslä
 mit Kraftanwendung,morxä
 mit Wasser spielen,götschlä
 miteinander,mitenand
+miteinander,mitenand
 mitfahren,mitrite
 Mitleid haben,duurä
+Mittagessen,zMittag
+Mittagessen,Zmittag
 Mittwoch,Mektig
+Mittwoch,Midwuch
 Mittwoch,Mittwuch
+möchte (ich),wött
+möchtest (du),wötsch
+Mofa,Töffli
 Mofa,Töffli
 mollige Person,Mugärli
+Monat,Monet
+Montag,Mäntig
 Montag,Mäntig
 Mop,Flumär
+Moped,Töffli
 Morast,Pflotsch
 morgen,moorä
+morgen,moorn
 morgen,moorndrigs
+Morgen,Morge
+morgen früh,moornemorge
 Motiv,Sujet
 Motorrad,Töff
+Motorrad,Töff
+Motorrad,Töff
+Mücke,Mugge
 müde,kiibäl
 müde,lampig
+müde,müed
+Müesli,Müesli
 mühen,chnorzä
+Müll,Güsel
 Müll,Güsel
 mulmig,nüd ghüür
 Mund (Mund halten),Latz
@@ -1221,6 +1756,10 @@ Murmel,Gluggär
 murmeln,nuuschlä
 murmelnd sprechen,nuuschälä
 Murmeltier,Mungg
+Murmeltier,Mungg
+Murmeltier,Mungge
+Murmeltier,Munggeli
+Murmeltier,Murmeli
 murren,brummlä
 mürrisch,seelzä
 mürrischer Mensch,Sürmäl
@@ -1231,18 +1770,25 @@ musst (du),muesch
 musst (du),muesch
 Mütze,Chappä
 Mütze,Tschäpper
+nach Kork schmecken,zäpfele
 nach Luft schnappen,chiichä
 nach Luft schnappen,japsä
 nachdenken,hirnä
+nachdenken,hirne
 nachdenken,studiere
 nachgeben,lugg la
+Nachmittag,Namittag
+Nachmittag,Nomittag
 Nachmittags-Imbiss,Zvieri
 Nachmittagsmahlzeit,Zvieri
+nackt,blutt
+nackt,blutt
 nackt,blutt
 nackt,blutt
 Nadelkissen,Gufächüssi
 nagen,gnagä
 nähen,büäzä
+nähen,büeze
 Nähkorb,Fadäzeindli
 nahrhaft,fuärig
 naiver Mensch,Chlaus
@@ -1250,13 +1796,17 @@ Naivling,Tschooli
 naschen,schnause
 Nasenschleim,Schnuder
 Nässe,Pflotsch
+Nationalmannschaft,Nati
+naturbelassen,urchig
 necken,uufzieh
 Neffe,Nepot
 negativ,negativ
 nehmen,nää
 neigen,heldä
 nein,nä ä
+nein,nei
 Nelke,Nägäli
+Nelke,Nägeli
 nervend,gnietig
 Neugier,Gwunder
 nicht,ned
@@ -1265,62 +1815,114 @@ nicht,ned
 nicht,ned
 nicht,nid
 nicht,nöd
+nicht,nöd
 nicht Existierendes,Niänänüütäli
 nicht ganz unschuldig,Dräck am Schtäckä
+nicht mehr,nüme
+nicht mehr,nüme
 nicht mehr,nümmä
 nicht so eilig!,numä nüd gschprängt!
 nicht vollwertig,halbbatzig
+nicht wahr?,gäl?
 nicht wahr?,gäll?
+nicht wahr?,gäll?
+nicht wahr?,gället Si?
+nicht wahr?,gälletsi?
 nicht wahr?,gau?
 nicht wahr?,gell?
+nicht war?,gäll?
+nichts,Keis
+nichts,nünt
+nichts,nüüt
+nichts,nüüt
 nichts,nüüt
 nichts für ungut,nüt für unguät
 Nichtsnutz,Nobisser
 niedlich,härzig
+niedlich,härzig
 niedlich,schnusig
+niemand,niemer
+niemand,niemer
 nieseln,fisärlä
+noch,na
+noch,no
 noch,no
 noch nicht,nonig
+noch nicht,nonööd
 Nonne,Chlooschterfrau
+Nummer,Nümmerli
+nur,nu
 nur,numä
+nur,nume
+nur,nume
+nur,nuur
+ob,öb
+oben,obe
 Oberlippenbart,Schnauz
+Obst,Obscht
+Obstblüte,Bluescht
 oder,oder
 Oelkännchen,Oelstiirzli
+Oerlikon,Örlike
+offen,offe
 offener Kamin,Cheminée
+öffentlich,öffetli
+Öffnungszeiten,Öffnigsziite
+oft,mangisch 
+oft,öppe
 ohne,ohni
 ohne,ohni
+ohne,ooni
+ohnehin,äinewääg
+Ohren,Oore
 Ohrfeige,Flättärä
 Ohrfeige,Muulschällä
 ölen,schmiärä
+Oma,Grosi
 Omlette,Eiertätsch
 Onkel,Etro
+Optimist,Optimischt
 Option,Option
 Ordensgewand,Chutä
 ordnen,büschälä
 originell,glatt
+Osten,Oschte
 Osterglocke (Blume),Mänzälä
+Ostern,Ooschtere
+Päckchen,Päkchli
+Paketbote,Pöschtler
 Papierfetzen,Fötzel
 Papiersack,Guggä
 Papiersack,Scurnuz
+Papierschnipsel,Fötzeli
 Paprika,Peperoni
+parken,parkiere
 parken,parkiere
 parkieren,parkierä
 passiert (er/sie/es),passiert
 passt es?,Isch guet?
 Patenonkel,Göti
 Patenonkel,Göti
+Patenonkel,Götti
 Patentante,Goti
+Patentante,Gotte
 Patentante,Gotti
 Patient,Patient
 Patient,Patient
 Patisserie,Zwänzgerschtückli
 Pech,Uugfell
 Pedant,Tüpflischiisser
+Pellkartoffeln,Gschwellti
 pendeln (hin und her),bambälä
 Peperoni,Peperoncini
+perfekt,tipptopp
+Personalausweis,Identiteets-Charte
+Petersilie,Peeterli
 Petersilie,Peterli
 Pferd,Ross
+Pferd,Ross
 Pferdeapfel,Rossbollä
+Pfifferling,Eierschwämmli
 Pfifferlinge,Eierschwämmli
 Pflanzentrieb,Schösslig
 Pflaumen,Zwetschge
@@ -1329,6 +1931,7 @@ pflücken,günä
 pflücken,gwünnä
 Pfosten,Gschduud
 Pfusch,Morx
+Pfuscher,Pfluderi
 Pfuscher,Schlufi Schludäri
 Pfütze,Glunggä
 Pfütze,Gunte
@@ -1336,14 +1939,19 @@ Pickel,Biibeli
 Pilz,Schwamm
 pinkeln,bislä
 pinkeln,bislä
+pinkeln,bisle
 pinkeln,brünzlä
+pinkeln,brünzle
 pinkeln,en Brunnä mache
 planlos umher schweifen,schtriälä
 planschen,güdärä
 planschen,pflotschä
 Plappermaul,Gwaagi
 Plappermaul,Schnöri
+Plätzchen,Guetsli
+Plätzchen,Guezli
 pleite,schtiär
+plötzlich,plötzli
 plötzlich,ufsmal
 plumpe Frau,Pfluttä
 plumpes Weib,Gumslä
@@ -1351,9 +1959,11 @@ Po,Füdli
 Podest,Brügi
 Polizei,Schmiär
 Polizist,Landjegär
+Polizist,Polizischt
 Polizist,Tschuggär
 positiv,positiv
 positiv,positiv
+Post,Poscht
 prahlen,höch aagää
 prahlen,höch aagää
 prahlen,plagiärä
@@ -1361,16 +1971,26 @@ Prahler,Plagööri
 praktisch,gäbig
 präsent sein,gaumä
 prasseln,präglä
+Preis,Priis
 Programm,Programm
+prost,proscht
 prügeln,abchlopfä
 Pulswärmer,Amädiisli
 Punkte,Tüpfli
+Punkte,Tüpfli
 Puppe,Bääbi
+Puppe,Bäbi
 Puppe,Titi
 pur,löötig
 pur,urchä
+putzen,butze
+putzen,rüschte
+Puzzle,Zämesetzi
+Puzzle,Zämesetzli
+Quatsch,Seich
 quer,dätwäris
 quitschen,giirä
+Quittung,Quittig
 Rabe,Guaagg
 radieren,gümälä
 radikal,radibuz
@@ -1387,27 +2007,41 @@ Raufbold,Plegrär
 Rauhreif,Bicht
 Rauhreif,Riifä
 Rausch,Balaari
+Rechnung,Rächnig
 recht,recht
 rechtlich,rechtlich
 rechts,hüüscht
 reden,rede
 reden,rede
 Regalbrett,Tablar
+Regalbrett,Tablar
+Regel,Regle
 Regenschirm,Paraplii
 reiben,ribschä
 reich,gschtopft
 reichlich,sauft
 Reifen,Pneu
+Reifen,Pnöö
+rein,ine
 reinigen mit Besen,föörbä
 reinigen mit Besen,wüschä
+Reise,Räis
 reissen,schränzä
 relativ,relativ
 Rempler ins Gesicht (leichter),Naasäschtüübär
 rennen,chaibä
+rennen,cheibe
+rennen,choge
 rennen,secklä
 rennen,secklä
+rennen,secklä
+rennen,seckle
+rennen,sekle
+rennen,sieche
+Rente,AHV
 respektloser Mensch,Schnudäri
 Restaurant,Baiz
+Restaurant,Reschtorant
 Restaurant,Schpuntä
 Resultate,Resultat
 Resultatfälschung,Resultatfälschig
@@ -1419,6 +2053,8 @@ richtigerweise,zgrächtem
 richtungslos,chrüüz und quär
 riechen,schmöckä
 riechen,schmöcke
+riechen,schmöcke
+riechen,schmögge
 Rind,Galt
 Rind,Galtlig
 Rind (jung und männlich),Muni
@@ -1427,11 +2063,14 @@ risikofreudiger Mensch,Fätzätüfäl
 Riss in etwas Hartem,Schprung
 Riss in Textil,Schranz
 Rock,Jüntli
+Rock,Schüpp
 rodeln,gibälä
 rodeln,schlittlä
 rohe Person,Ruäch
 Rosenkranz,Bätti
+Rösti,Rööschti
 Röstigraben,Röschtigrabe
+Röstigraben,Röschtigraben
 Rote Beeten,Rande
 Rotz,Schnuder
 routinemässige Tour,Cheeri
@@ -1439,6 +2078,7 @@ Rückentraggestell,Rääf
 Rückentragkorb,Chräätzä
 Rückentragkorb,Tschifärä
 rückwärts,hindersi
+rufen,rüeffe
 rufen (laut),heepä
 rufen (laut),joolä
 ruhelose Person,Fägnäscht
@@ -1452,16 +2092,21 @@ sabotieren,z’leid wärchä
 Sachen,Sache
 Sachen,Sache
 sachte,süüferli
+sagen,säge
 Sahne,Rahm
 Salatsieb,Chrutsiänä
 Salto,Chübälibüürzel
+Samstag,Samschtig
 Samstag,Samschtig
 Sandwich,Füschtäl
 sättigend,bschüssig
 sättigend,chüschtig
 sättigend,maschtig
+sauber,suuber
 sauer,sauer
+sauer,suur
 sauer sein,schtaubig sii
+Sauerbraten,Suure Mocke
 Sauerkraut,Suurchabis
 Säugling,Bobbi
 Säugling,Popä
@@ -1472,26 +2117,33 @@ saumselig arbeiten,floonä
 saumselig arbeiten,trödlä
 Schacht,Tolä
 Schachtel,Truckä
+Schade,Schaad
 Schaf,Bänz
 Schaffner,Kondiktör
 Schaffner,Kondukteur
 Schalen,Hültschä
 Schalen,Schelfärä
+scharf (Käse),rääs
 Schätzchen,Gschpusi
 schauen,guggä
 schauen,luägä
 schauen,luega
+schauen,luege
 Schaufenster,Montärä
 Schaukel,Gigampfi
 schaukeln,gagälä
 Schaukelpferd,Gampiross
 Scheibe,Tranche
 scheinbar,schiints
+scheissen,schiisse
 Schellen aus Blech,Triichlä
+scheppern,tschättere
+scheppern,tschättere
 scherzhaft kämpfen,ruuzä
 Scheuklappen,Schüüchlädär
 schief,scheps
 schielen,schäächä
+schiesen,schüüsse
 schimmlig,gräuälä
 schimmlig,grönälä
 schimpfen,chiflä
@@ -1500,12 +2152,17 @@ schimpfen,chiibä
 Schimpfwort,Schlötterlig
 Schirmmütze,Dächlichappä
 Schirmmütze,Tächlichappä
+Schlachtfest,Metzgete
 schlaf gut,Schlof Guät
+schlaf gut,Schlof guet
 schlafen,bänzä
 schlafen,pfüsele
 schlafen,pfuusä
+schlafen,pfuuse
 schlagen,brätschä
 schlagen,hauä
+schlagen,schlaa
+schlagt (ihr),schlönd
 schlau,gfitzt
 schlauer Junge,Luusär
 schlauer Kerl,Sidian
@@ -1526,23 +2183,29 @@ Schlitzohr,Malafiz
 Schluckauf,Gluggsi
 Schluckauf,Hitsgi
 Schluckauf,Hitzgi
+Schluckauf,Hitzgi
 schlurfen,schlaarpä
 schmächtig,pring
 schmecken,schmöckä
 schmeicheln,chüüderlä
 schmeicheln,flattiärä
 Schmetterling,Fifolter
+Schmetterling,Sumervogel
 Schmetterling,Summervogel
 schmollen,teubälä
 Schmuckstück,Bijou
+Schnäppchen,Schnäppli
 Schnaps,Güügs
 Schnaps (schlechter),Fusel
 Schnaps (schlechter),Güüx
 Schnaps aus Trester,Trääsch
+Schneebesen,Schwingbesen
+Schneematsch,Pflotsch
 Schneematsch,Pflotsch
 Schneesturm (heftiger),guuxä
 schneiden,hauä
 schneidig,rassig
+schnell,gschnäll
 schnell,gschwind
 schnell,hurtig
 schnell,tifig
@@ -1553,19 +2216,31 @@ Schnipsel,Schnäfl
 schnipseln,schnäflä
 Schnuller,Nuggi
 Schnuller,Nuggi
+Schnuller,Nuggi
+Schnupfen,Pfnüsel
+Schnupfen,Pfnüsel
 Schnupfen,Pfnüsel
 schnurgerade,pfiffägraad
 Schnurrbart,Schnauz
+Schnurrbart,Schnauz
 Schnürsenkel,Neschtl
 Schnürsenkel,Schuäbändl
+Schokolade,Schoggi
 Schokolade,Schoggi
 Schokolade Riegel,Branschli
 Schokolade Riegel,Chnöörzli
 schon,afä
 schon,scho
+schon,scho
 schön gekleidet,gschniglät
 schöne Frau,tolli Griita
+schönen Abend,schöne Hinnecht
+schönen Tag,En Schöne
+schönen Tag,Schöns Tägli
 Schornstein,Chämi
+Schornstein,Chämi
+Schrank,Chaschte
+schreiben,schriibe
 schreien (schrill),geussä
 schreien (schrill),wiichsä
 Schritt für Schritt,pasuufpasab
@@ -1573,40 +2248,67 @@ schröpfen,abzockä
 schröpfen,uusplündärä
 Schubkarren,Garettä
 schubsen,müpfä
+schuften,bügle
+schuften,chrampfe
+Schulaufgaben,Ufzgi
+Schuppen,Schopf
 Schürze,Schooss
 Schürze,Schüübä
 schwatzen,dätschä
 schwatzen,lafärä
 schwatzen,pruttlä
 schwatzen,schnädärä
+schwatzen,schnore
 schwatzen,schnorrä
+schwatzen,schnure
 Schwätzer,Laväri
 Schwein,Sau
 Schwein,Soi
+Schweinchen,Säuli
+Schweinehund,Grüsel
+Schweinehund,Säuniggel
 Schweinespeck (ausgekocht),Grüübä
 Schwellkartoffeln,Hültschägummäl
 schwerer Hammer mit kurzem Stil,Füüschtlig
+Schwester,Schwöschter
+Schwimmbad,Schwümmbaad
+schwimmen,schwüme
 schwindlig,schturm
 schwindlig,trümlig
 schwül,tüppig
+sehen,gsee
+sehen,gsee
+sehr,chaibe
 sehr,huere
+sehr,huere
+sehr,schampar
 sehr,schüüli
 sehr,zünftig
+sei (er/sie/es),sig
+seien (sie),siged
 seilschaukeln,giireizlä
 seilschaukeln,riitisailä
 sein,sii
+sein,sii
+sein (M),siin
+sein (N),siis
+seine (F),siini
+seinen Ärger herunterschlucken,pFuuscht im Sack mache
+seit,sit
 seit ich lebe,minär läbtig
 seltsam,aarig
 seltsam,gschpässig
 Semmel,Mutschli
 Sense,Sägässä
 sich,sich
+sich als dumm entpuppte Person,Halbschue
 sich ängstlich fühlen,schüüzälä
 sich ärgern,fuggsä
 sich einmischen,driifunkä
 sich erholen,bchiimä
 sich hinlegen,Ranzä planggä
 sich regen,rodä
+sich setzen,absitze
 sich unwohl fühlen,mudärä
 sich unwohl fühlend,chrööpälig
 sich unwohl fühlend,chrööpälig
@@ -1623,7 +2325,10 @@ sickern,drösälä
 Sieb,Seeschter
 sind (sie),sind
 sitzen,hockä
+Smartphone,Natel
+so,ase
 so,derä wääg
+so,eso
 so,so
 so,so
 so,so
@@ -1633,15 +2338,23 @@ so was,sowas
 soeben,vorig
 sofort,hantli
 sofort,kuntenänt
+sofort,tuttswitt
 sogar,bigoscht
 sogar,erschno
 solche,asig
 solche,derig
+sollen,sele
+sollen,söle
+Sommer,Summer
 Sommersprossen,Märzädräck
 sonderbar,aarig
 Sonderling,Eignä
+Sonne,Sune
+Sonntag,Sunntig
 Sonntag,Sunntig
 sonst,susch
+sonst,susch
+sonst,suscht
 sorgfältig,hübschli
 sorgfältig,süüfärli
 sowieso,ee
@@ -1651,7 +2364,10 @@ sparsam,hebig
 Sparsamer (übertrieben),Giiznäppär
 Spass,Pläschär
 Spass,Plausch
+Spass,Plausch
+spät,spaat
 Spaten,Charscht
+später,spööter
 Späzle,Chnöpfli
 Speichel,Göifär
 Speichel,Schpeuz
@@ -1662,33 +2378,44 @@ Spielen (kindliches),gvätterlä
 Spielen (übermütiges),goopä
 Spielen (übermütiges),goopplä
 Spielraum,Schpatzig
+Spiessbürger,Bünzli
 Spiesser,Bünzli
+Spinat,Binätsch
 Spinat,Pinätsch
 Spinngewebe,Schpinnhupä
+spitze Kurve (Bergweg),Rangg
+spitze Kurve (Bergweg),Rank
 spitzer Span,Schpiissä
 splitternackt,füdliblutt
 Splitternackt,Füdliblutt
 Sporttor,Chischtä
+Sprache,Spraach
 sprachliches Durcheinander,Chuuderwälsch
 Spreu,Chrüüsch
 springen,gumpä
 springen,gumpä
 springen,gumpe
+springen,gumpe
 springen,rännä
+springen (in die Luft),jucke
 Spritzer,Schprutz
 sprudeln,blööterlä
 Sprung,Gump
 Sprung,Satz
 spucken,chodärä
 spucken,schpeuzä
+spucken,speuze
 Stachelbeere,Chruslä
 Stall,Gaden
+stapeln,biige
 Stappel,Biig
 stark regnen,schiffä
 starren (ins Leere),glaarä
+staunen,stuune
 stechen,schtüpfä
 Steckling,Setzlig
 Stecknadel,Gufä
+stehen,staa
 stehen,stoh
 steil,gääch
 steil,schtotzig
@@ -1705,8 +2432,12 @@ stossen,schüpfä
 stossen,Schüürgä
 stottern,staggälä
 stramm stehen,Achtigstellig
+Strandbad,Badi
+Strassenbahn,Tram
+Strassenbahn,Tram
 Strassenbahn,Tram
 Strassenkehrer,Strassebütschgi
+Strauss,Struuss
 Streicheln der Wange,Aeli
 Streifen,Schtriämä
 Streit,Chritz
@@ -1718,16 +2449,24 @@ Stress,Gschtrütt
 stressen,juflä
 Strickarbeit,Lismätä
 stricken,lismä
+stricken,lisme
+stricken,lisme
 Strohhalm,Röhrli
 Strolch (Herumtreiber),Striizi
+Stück,Stuck
 Stumpfsinn,Hafächääs
+stürmisch regnen,hudle
 stürmisch schneien,guugse
 Stützstange,Schtickäl
 suchen,sueche
+suchen,sueche
+Süden,Süüde
 Sündenregister,Chärbholz
+süss,süess
 Tabak kauen,schiggä
 Tablette,Pülverli
 Taburett,Taburettli
+Tacker,Bostitch
 Tacker,Bostitch
 Tannengeäst mit Nadeln (geschnittenes),Chriis
 Tanse,Bräntä
@@ -1736,11 +2475,14 @@ Tante,Muäma
 Tasche,Pumper
 Tasche,Sack
 Taschengeld,Sackgeld
+Taschengeld,Sackgeld
 Taschenlampe,Pfunzlä
 Taschenmesser,Hegäl
 Taschenmesser,Hegu
 Taschenmesser,Sackmesser
+Taschenmesser,Sackmesser
 Taschentuch,Faszäneetli
+Taschentuch,Naastuech
 Taschentuch,Nastuech
 Taschentuch,Schnuderlumpä
 Tasse,Beckäli
@@ -1749,29 +2491,45 @@ Taste,Drücker
 Tasten drücken,chnöpflä
 Tasten drücken,töggälä
 tauchen ins Nasse,tünklä
+teilnehmen,teilnee
+Telefon,Telefoon
+Telefon,Telifoon
 telefonieren,telefoniärä
 Terminplaner,Agenda
+teuer,tüür
+Thunfisch,Thon
 Thunfisch,Thon
 Ticket,Billett
+tief,tüüff
 toben,sirachä
 Tochter,Töchter
 Töchter,Töchtärä
 Toilette,Aabee
 Toilette,Hüüsli
 Toilette,Läubi
+toll,lässig
+tolpatschiger Mensch,Gwaggli
 Topf,Tüpfi
 Tor,Gool
+törichte Frau,Gumslä
+törichte Frau,Tschäddärä
 törichter Mensch,Galööri
 Torwart,Gooli
 tot,putzt
+traditionell,urchig
 träge,lamaschig
 tratschen,tädälä
 Traubenlese,Wümmät
+traurig,truurig
 Trauzeuge,Gsell
 Trauzeugin,Gschpill
 treffen,preichä
+treffend,trääf
 treffend ausgedrückt,träf
 Treppe,Schtägä
+Treppe,Schtägä
+Treppe,Stagë
+Treppe,Stäge
 Trester,Trääsch
 treten,schtramplä
 treten,trampä
@@ -1782,28 +2540,58 @@ Trinker,Süffel
 trödeln,tämpälä
 trommeln,chüblä
 Tropf,Gwaggli
+Trottel,Duubel
+Trottel,Lappi
+Trottel,Löli
+Trottel,Totsch
+Trottel,Tschooli
+Trottel,Tschumpel
 trotten,tschumplä
+trotzdem,gliich
+trotzdem,gliich
 trotzdem,nottä
 Trotzkopf,Schtiärägrind
 Trumpf neun (Jass),Nel
 Trumpfkarten (Jass),Schtöck
+tschüss,tschätschau
+tschüss,tschau
+tschüss,tschautschau
+tschüss,tschües
 tschüss,Tschüss
+tschüss,tschüss
+tschüss zusammen,tschau mitenand
+tschüss zusammen,tschau zäme
+tschüss zusammen,tschüss mitenand
+tschüss zusammen,tschüss zäme
 tüfteln,pröblä
+tun,tue
 Türgriff,Porthaba
+Türklinke,Falle
+Tüte,Sack
+Typ,Siech
 Überdruss,Läckmär
 übereilt Handelnder,Schutzli
 überhaupt,überhaupt
+überhebliche und raubauzige Person,Chotzbrocke
+überholen,überhole
 überlautes Mundwerk,Gellä
 übermüdet,lind
 übermütig,überschtellig
+übernachten,übernachte
+Überraschung,Überraschig
 überreif,matschig
 Überschlag,Bürzelbaum
 Überschlag,Chübelibürzäl
 übertrieben,überrissä
 übervorteilen,schröpfä
+überweisen,überwiise
+uf widersee,uf widersee
+Uhrzeit,Ziit
 umfallen,droolä
 umfallen,umghäjä
+umher,umenand
 umsonst,umä suscht
+umsonst,umesuscht
 umsonst,vergäbä
 Umstände machen,es Büro uf tue
 umständlicher Mensch,Chnuschti
@@ -1811,6 +2599,7 @@ umwerben,scharrä
 umwickeln,liirä
 umziehen,zügele
 umziehen,züglä
+umziehen,zügle
 unanständig,gschämig
 unartiges Kind,Goof
 unbequemes Anhängsel,Gschleik
@@ -1824,18 +2613,26 @@ und,und
 undeutlich murmeln,nuuschlä
 uneben,högerig
 unerledigt,pendent
+unerledigt,pendent
 unerledigte Sachen,Pendenze
 unerwartet,paff
+unfähiger Mensch (abwertend),Habasch
+Unfall,Umfall
 unfolgsames Mädchen,Chrottätäschä
 ungebügelt,gwurggig
+ungefähr,öppe
 ungelenk,gschtabig
 ungeordnet,verhüderät
 ungeordnet,verhürschät
 ungeordnet,vernuschä
 ungeordnetes Haar,Schuderhäuäl
+ungeschickte Person,Gaggalari
 ungestümer Draufgänger,Ruäch
+unglücklich,unglückli
 Unkraut,Jät
 Unkraut,Wuäscht
+Unkrauthacke,häckerli
+Unkrauthacke,hacki
 Unmenge,Schwetti
 unnachgibig,bockstöössig
 Unordnung / Durcheinander,Puff
@@ -1843,9 +2640,13 @@ unprofessionell Arbeitender,Chnuuschti
 unreife Kirsche,Schorneggäli
 unreifes Obst,Niggäl
 unruhig,tuubätänzig
+uns,eus
+uns,öis
 uns,üs
 unsauber,schmudälig
 unsauber riechender Mensch,er chuutälät
+unser,öise
+unser,öises
 unsicher sein,werweissä
 Unsinn,Blaascht
 Unsinn,Bloscht
@@ -1853,16 +2654,20 @@ unsorgfälltig,schlufig
 unsorgfältig,schlufig
 unsorgfältig arbeiten,sudlä
 unsteter Mensch,Schwalderi
+unter,under
 unter,unter
 Unterhalten (spasshaftes),s'Chalb machä
 Unterrock,Gloschli
 Unterschrift,Visum
+Unterschrift,Visum
 Unterstand,Schärme
+ununterbrochen,anenand
 unvermutet,handumkeert
 unzufriedener Mensch,Suurnippäl
 Urheber (einer Idee),Aateigger
 urinieren (Kindersprache),bisle
 Urlaub,Feriä
+ursprünglich,urchig
 ursprünglich,urchig
 Vater,Dädi
 Vater (abwertend),Chnötsch
@@ -1879,22 +2684,31 @@ verflixt,chogä
 Verkehrsampel,Blinklicht
 verkehrt,tromsig
 verlangen,heuschä
+verlängern,verlengere
 Verleider,Abschteller
 verlesen,schneuggä
+verlieren,verlüüre
 verlocken,aamachä
 verlockend,gluschtig
 verlustig gehen,bachab
 verlustreich wirtschaften,hindersi mache
+vermutlich,amänd
+verpassen,versiffe
+verpasst,versiffed
 verprügeln,crvatschu
 verprügeln,verbrätsche
 verraten,rätschä
 verraten,rätschä
 verraten,täfälä
 Versager,Pumpi
+versäumen,versuume
 verschämt,duuch
+verschieben,zügle
+verschieben wir uns,züglemer
 verschimmeln,gräuälä
 verschlampt,bujo
 verschliessen,iitue
+verschliessen,verhebet
 verschmieren,chosle
 verschmieren,chuslä
 verschmieren,schliirpä
@@ -1904,26 +2718,38 @@ verschwinde!,ziä Fädä!
 versessen sein (auf),abfaare (uf)
 versteckte Eigenschaften,heimlifeiss
 verstehen,druus choo
+verstehen,verstaa
 verstehst du?,chunsch druus?
+Verwechslung,Verwächslig
 verweilend vorwärts machen,trödlä
 verwirrt,schtigälisinnig
 verwöhnen,biibääbälä
 verwöhnen,verbibäbälä
 Vesper,Zvieri
+Vesper,zVieri
+viele,vili
 vielen Dank,Merci vielmol
+vielen Dank,Merci vielmol
+vielleicht,vilicht
+Vier,Vier
 vo,vo
+Vollidiot,Schofseckel
+Vollidiot,Schoofseggel
 vollstopfen,schtunggä
+von,vo
 von,vo
 von,vo
 von,vo
 von,vu
 von einem,vomne
 von unten,unnä uufä
+vor,füre
 vorerst,afig
 Vorjahr,fäärn
 vorjährig,fäärndrig
 vorsichtig,hübschli
 vorsichtig,süüferli
+vorwarts̈,füürschi
 vorwärts!,vüürsi!
 vorwitziges Mundwerk,ä grossi Röhrä füehrä
 Wacholder,Reckholder
@@ -1931,19 +2757,26 @@ wackeln,giigaagälä
 wackeln,gnappä
 wacklig,lödälä
 wacklig,lugg
+wählen,weele
 wählerisch beim Essen,schnäderfrässig
 wählerisch sein (beim Essen),schnäuggä
+während,weret
 wahrhaftig,bim Eid
+wahrscheinlich,allwääg
+wahrscheinlich,warschiindli
 Wallholz,Chuächätrööli
 Wanderung,Waggel
 Wanderung,Waggu
+wann,wänn
 war (er/sie/es),gsi isch
 warten (dringend),plangä
 was,wa
+was,Waa
 was du nicht sagst!,läck!
 was ich,wani
 Waschbecken,Brünneli
 Waschbecken,Güvettä
+Waschbecken,Lavabo
 Wäscheklammer,Chlämmerli
 Wäscheklammer,Chlüpperli
 Wasserbegonie,Süüfferli
@@ -1962,22 +2795,45 @@ Wegkurve,Rank
 weibliche Brust,Chabis
 weiblicher Fasnachtsnarr,Hudi
 weich,lind
+weil,wil
+Wein,Wii
 Wein (1 dl),Tschumpäli
+weinen,briegge
 weinen,brüälä
 weinen,brüelä
+weinen,brüele
+weinen,brüele
 weinen,grännä
 weinen,gränne
+weinen,gränne
+Weinlese,Wümmete
+weiss,wiis
 weiss (ich),weiss
+Weissbrot (kleines),Weggli
+weit,wiit
+weitermachen,wiitterfaare
 welche,welle
 welches,wo
+wenden,cheere
+wenden,cheere
 wenden,kehre
 wenden,wendä
 wenig,bitzeli
+wenig,bitzli
+wenig,echli
+wenn,wänn
 wenn,wenn
 werfen,rüärä
+werfen,rüere
 Werkstatt,Buudä
 Werkstatt,Buudig
 Werkstatt,Garage
+Werkstatt,Garage
+werktags,weerchtig
+wessen,wem sin
+wessen,wem sini
+wessen,wem sis
+Westen,Weschte
 Whistleblower,Whistleblower
 widerreden,muulä
 wie,wie
@@ -1985,24 +2841,36 @@ wie,wie
 wie,wie
 wie bitte,hä
 wie süss!,jöö
+wiederholen,repetiere
+wiederkommen,widerchoo
 wild,schtruub
 Wildwasser-Geschiebe,Rüfä
 Wildwasser-Geschiebe,Rüfi
 will (ich),will
+willst (du),wotsch
+wir,mer
+wir,mir
 wir,mir
 wir,mir
 wirr sprechen,gaxä
 Wirrwar,Gnuusch
 Wirrwarr,Chrüsimüsi
 Wirrwarr,Mischmasch
+Wirsing,Wirz
 Wirt,Beizer
 wischen,förbä
 wischen,wüsche
 wissen,wüsse
+Wochentag,Wuchetaag
+wohl kaum,auä
 wohlauf,buschper
 wohlauf,vögäliwohl
 wohlerzogen,aartig
+Wohnsiedlung,Überbauig
 Wohnungswechsel,Züglätä
+wollen,wele
+wollen,wele
+wollen (sie),wönd
 wozu,wozue
 wühlen,nodärä
 wühlen,nüälä
@@ -2013,27 +2881,40 @@ Wundkruste,Rüfä
 würde (ich),wür
 würde (ich),würd
 würde ich,wöri
+Würste anbraten,bröötle
 würzig,rezent
+würzig (Käse),rezent
 Wutausbruch,täubälä
+wütend,verruckt
+wütend,verruggt
 Zähes zerkauen,chätschä
+zahlen,zale
+zählen,zele
+Zahnbürste,Zaabüürschteli
 zänkische Frau,Riibiisä
 Zappelpeter,Fägnäscht
 zart gestaltetes Kind,Finöggeli
 Zaun,Haag
+Zaun,Haag
 Zeit verschwenden,trödälä
 Zeitschrift,Heftli
 Zeitschrift,Heftli
+Zeitung,Zitig
 zerknittern,verchrugälä
 zerknüllen,verchrugälä
 zerstören,schliissä
+zerstören,schliisse
 zertretten,vertramä
 zerzauste Frisur,Tschuderhäuel
+Zettel,Fötzel
 Zicklein,Gizzi
+Ziege,Gäiss
 Ziege,Geiss
 Ziege,Geiss
 Ziehharmonika,Handoorgelä
 ziemlich,oordäli
 Ziertüchlein in Brusttäschchen,Poschettli
+Zimmer,Zimmerli
 Zimmerdecke,Dili
 Zimmerdecke,Tili
 zittern (vor Angst),bibärä
@@ -2043,24 +2924,47 @@ zu Fuss gehen,tschalpä
 zu Fuss gehen,tschalpä
 zu Fuss wallfahren (gemeinsam),mit Chrüüz gaa
 zu viel,vörig
+zu viel,zvil
 zu zweien,selbander
 Zuber,Geltä
 Zuchtstier,Muni
 zudem,erschtno
+zufrieden,zfride
 Zugluft,Duurzuug
+zuhören,lose
 zum Beispiel,zum Bispil
 zum Tanzen verlockend,lüpfig
+zündeln,züüsele
 zunehmen,drüjä
 zurück,retour
+zurück,retour
+zurück,zruck
+zusammen,mitenand
 zusammen,zame
 zusammen,zäme
+zusammen,zäme
+zusammen,zame 
 zusammen kratzen,grabschä
+zusammengeraff,ramisiert
+zusammenraffen,ramisiere
+zusammenraffen,zsäme ramisiere
+zusammenraffen,zsämeramisiere
 zusammenstossen,pütschä
 zusammenstossen,tütschä
 zusammenstossen,tütsche
+zusammenstossen,tütsche
 zuschmeissen,schletzä
-Zustimmung erheischen,gäll?!
 zweifellos,gopelau
+zweites Frühstück,zNüüni
+zweites Frühstück,Znüüni
+zweites Frühstück,Znüüni
 zwicken,chlübä
 zwicken,chnüüblä
+Zwiebel,Böle
+Zwiebel,Bölle
+Zwiebel,Bölle
+Zwiebel,Zibele
+Zwiebel,Zwible
+Zwiebelkuchen,Bölleweeä
+zwischen,zwüschet
 zwölf Dutzend,Gros
