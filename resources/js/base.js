@@ -105,7 +105,10 @@ function replaceWrongChars(str) {
 	// replace wrong umlauts (ü, ö, ä, ß, capital wrong umlauts) with correct ones (ü, ö, ä, ss, capital correct umlauts)
 	const wrongChars = ["ü", "ö", "ä", "ß", "Ü", "Ö", "Ä", "ẞ"];
 	const correctChars = ["ü", "ö", "ä", "ss", "Ü", "Ö", "Ä", "SS"];
-	return str.replace(/ü/g, "ü").replace(/ö/g, "ö").replace(/ä/g, "ä");
+
+	return wrongChars.reduce((acc, curr, index) => {
+		return acc.replace(new RegExp(curr, "g"), correctChars[index]);
+	}, str);
 }
 
 export function translate() {
