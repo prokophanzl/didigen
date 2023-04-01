@@ -12,6 +12,15 @@ export const nonAlpha = (str) => {
 		.replace(/[^a-z0-9_]/gi, "-");
 };
 
+// function that checks if the input is a number. if it is, turn into a string with a non-breaking space as a thousands separator
+export const formatNumber = (num) => {
+	if (isNaN(num)) {
+		return num;
+	} else {
+		return num.toString().replace(/\B(?=(\d{3})+(?!\d))/g, " ");
+	}
+};
+
 const config = await $.getJSON("config/config.json");
 
 // PARAMETER PARSING
@@ -19,10 +28,10 @@ const config = await $.getJSON("config/config.json");
 const urlParams = new URLSearchParams(window.location.search);
 
 // function that sets the word input field to the word parameter
-if (urlParams.get("word")) {
-	$("#word-input").val(urlParams.get("word"));
-	$("#word-searched").text(urlParams.get("word"));
-}
+// if (urlParams.get("word")) {
+// 	$("#word-input").val(urlParams.get("word"));
+// 	$("#word-searched").text(urlParams.get("word"));
+// }
 
 // function that selects the correct match option
 if (urlParams.get("match")) {
@@ -43,11 +52,13 @@ function printTranslation(item) {
 		<div class="word-header">
 			<div class="word-menu" onclick="toggle('${nonAlpha(item.src)}')" id="${nonAlpha(item.src)}-menu"></div>
 			<div class="word-german header-word" id="${nonAlpha(item.src)}-g">
-				<span class="word-german-span break-no-dis">${item.src}</span><span class="primary50 matches-german-span break-dis"> (${item.count})</span>
+				<span class="word-german-span break-no-dis">${formatNumber(item.src)}</span><span class="primary50 matches-german-span break-dis"> (${
+		item.count
+	})</span>
 			</div>
 			<div class="word-swiss-german header-word" id="${nonAlpha(item.src)}-sg">
-				<span class="word-swiss-german-span break-no-dis">${item.target[0].translation}</span>
-				<span class="primary50 matches-swiss-german-span break-dis">(${item.target[0].count}/${item.count})</span>
+				<span class="word-swiss-german-span break-no-dis">${formatNumber(item.target[0].translation)}</span>
+				<span class="primary50 matches-swiss-german-span break-dis">(${formatNumber(item.target[0].count)}/${formatNumber(item.count)})</span>
 			</div>
 		</div>
 		<div class="word-more-info info-bar" id="${nonAlpha(item.src)}">
@@ -62,8 +73,8 @@ function printTranslation(item) {
 		$(`#translation-bar-wrapper-${nonAlpha(item.src)}`).append(`
 		<div style="--count: ${item2.count}">
 			<span class="translation-container">
-				<span class="translation">${item2.translation}</span>
-				<span class="translation-count primary50"> ${item2.count}</span>
+				<span class="translation">${formatNumber(item2.translation)}</span>
+				<span class="translation-count primary50">${formatNumber(item2.count)}</span>
 			</span>
 		</div>
 		`);
@@ -121,6 +132,11 @@ export function translate() {
 	// set word to value of "#word-input"
 	var word = $("#word-input").val().toLowerCase();
 	word = replaceWrongChars(word);
+
+	// if word is only composed of numbers and spaces, remove the spaces
+	if (/^[0-9 ]+$/.test(word)) {
+		word = word.replace(/ /g, "");
+	}
 
 	// set src to 1 if "#config-dialect" is checked, else 0
 	const src = $("#config-dialect").prop("checked") ? 1 : 0;
@@ -189,7 +205,7 @@ export function translate() {
 		config.text.resultText
 			.replace("DATA_RESULT_COUNT", parsedData.length)
 			.replace("DATA_RESULT_WORD", parsedData.length === 1 ? config.text.resultWordSingular : config.text.resultWord)
-			.replace("DATA_QUERY", word)
+			.replace("DATA_QUERY", formatNumber(word))
 			.replace(
 				"DATA_DATAPOINT_COUNT",
 				parsedData.reduce((acc, obj) => acc + obj.count, 0)
