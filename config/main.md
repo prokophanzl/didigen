@@ -1,6 +1,6 @@
 ## Wir brauchen Ihre Hilfe!
 
-[Wie zählsch uuf Schwiizerdütsch?](https://forms.gle/AzWt2aYPWScGDib47) - Machen Sie mit an unserer Umfrage für das Wörterbuch!
+[Wie zählsch uuf Schwiizerdütsch?](https://forms.gle/AzWt2aYPWScGDib47) - schliessen Sie sich DATA_PARTICIPANTS anderen Teilnehmern an! Machen Sie mit an unserer Umfrage für das Wörterbuch.
 
 Wir brauchen sonst auch Freiwillige, die uns beim Übersetzen helfen würden. Falls Sie da mitmachen möchten, melden Sie sich bitte bei uns unter [dsw@dustah.com](mailto:dsw@dustah.com). Danke!
 
