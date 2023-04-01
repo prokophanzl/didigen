@@ -6,8 +6,6 @@ $(".filter-toggle").bind("click", () => {
 	toggleFilters();
 });
 
-// load
-
 function setSrc(src) {
 	$("#src-input").val(src);
 	// if src is 1, check #config-standard
@@ -55,6 +53,6 @@ $("#check-none").bind("click", () => {
 $(document).ready(function () {
 	$("#main-form").submit(function (event) {
 		event.preventDefault(); // prevent default form action
-		translate(); // call your function here
+		translate();
 	});
 });

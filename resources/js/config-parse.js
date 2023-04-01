@@ -1,9 +1,6 @@
 // load the config.json file
 const config = await $.getJSON("config/config.json");
 
-// set the site icon to the icon property of config.json
-// $("link[rel='icon']").attr("href", `config/${config.options.siteIcon}`);
-
 // for each X, set elements with data-config=X to the X property of config.json
 $("[data-config]").each((index, item) => {
 	const configKey = $(item).data("config");

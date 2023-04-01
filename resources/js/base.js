@@ -14,8 +14,6 @@ export const nonAlpha = (str) => {
 
 const config = await $.getJSON("config/config.json");
 
-// const dialects = await getDialects();
-
 // PARAMETER PARSING
 
 const urlParams = new URLSearchParams(window.location.search);
@@ -31,13 +29,6 @@ if (urlParams.get("match")) {
 	$("#term-input").value = urlParams.get("match");
 	toggleMatch(urlParams.get("match"));
 }
-
-// function that checks url parameters and sets the correct dialect checkboxes
-// $.each(dialects, (index, dialect) => {
-// 	if (urlParams.get(dialect) == "on") {
-// 		$("#" + dialect).prop("checked", true);
-// 	}
-// });
 
 // BASE
 
@@ -108,21 +99,8 @@ data[1] = dia;
 // export data object
 export { data };
 
-let test = [];
-
 let i = 0;
 
-function printlength(tmpData) {
-	let length = 0;
-	$.each(tmpData, (index, item) => {
-		// for each translation, add its count to the length
-		$.each(item.target, (index, item2) => {
-			length += item2.count;
-		});
-	});
-	console.log("length " + i + ": " + length);
-	i++;
-}
 function replaceWrongChars(str) {
 	// replace wrong umlauts (ü, ö, ä, ß, capital wrong umlauts) with correct ones (ü, ö, ä, ss, capital correct umlauts)
 	const wrongChars = ["ü", "ö", "ä", "ß", "Ü", "Ö", "Ä", "ẞ"];
@@ -177,24 +155,18 @@ export function translate() {
 
 	switch (match) {
 		case "begins":
-			// parsedData = loadedData.filter((item) => item.src.toLowerCase().startsWith(word));
 			parsedData = $.grep(tmpData, (item) => item.src.toLowerCase().startsWith(word));
 			break;
 		case "match":
-			// parsedData = loadedData.filter((item) => nonAlpha(item.src.toLowerCase()) === nonAlpha(word));
 			parsedData = $.grep(tmpData, (item) => nonAlpha(item.src.toLowerCase()) === nonAlpha(word));
 			break;
 		case "contains":
-			// parsedData = loadedData.filter((item) => item.src.toLowerCase().includes(word));
 			parsedData = $.grep(tmpData, (item) => item.src.toLowerCase().includes(word));
 			break;
 		default:
-			// parsedData = loadedData.filter((item) => item.src.toLowerCase().startsWith(word));
 			parsedData = $.grep(tmpData, (item) => item.src.toLowerCase().startsWith(word));
 			break;
 	}
-
-	test = parsedData;
 
 	$("#data-md").remove();
 
@@ -209,13 +181,6 @@ export function translate() {
 	// fill in search results info
 	$("#search-results-info-de").text(parsedData.length);
 	$("#search-results-info-gsw").text(parsedData.reduce((acc, obj) => acc + obj.count, 0));
-
-	// set the text of "#search-results-heading" to the resultText property of the config object. replace the placeholders with the values of the variables:
-	// DATA_RESULT_COUNT: number of results (parsedData.length)
-	// DATA_RESULT_WORD: "results" or "result" depending on the number of results (config.text.resultWord or config.text.resultWordSingular)
-	// DATA_QUERY: the word that was searched for (word)
-	// DATA_DATAPOINT_COUNT: the sum of all "count" properties of the "translation" objects (parsedData.reduce((acc, obj) => acc + obj.count, 0))
-	// DATA_DATAPOINT_WORD: "datapoints" or "datapoint" depending on the number of datapoints (config.text.dataPointWord or config.text.dataPointWordSingular)
 
 	$("#search-results-heading").text(
 		config.text.resultText
