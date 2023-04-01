@@ -41,7 +41,16 @@ function loadCSVFile(filename, callback) {
 	xhr.send();
 }
 
+function replaceWrongChars(str) {
+	// replace wrong umlauts (ü, ö, ä, ß, capital wrong umlauts) with correct ones (ü, ö, ä, ss, capital correct umlauts)
+	const wrongChars = ["ü", "ö", "ä", "ß", "Ü", "Ö", "Ä", "ẞ"];
+	const correctChars = ["ü", "ö", "ä", "ss", "Ü", "Ö", "Ä", "SS"];
+	return str.replace(/ü/g, "ü").replace(/ö/g, "ö").replace(/ä/g, "ä");
+}
+
 function parseCSV(csv) {
+	csv = replaceWrongChars(csv);
+
 	const lines = csv.trim().split("\n"); // split CSV into lines
 	const data = lines.slice(1); // extract data rows
 	const result = [];
@@ -50,7 +59,8 @@ function parseCSV(csv) {
 	data.forEach((row) => {
 		const [src, targetRaw] = row.split(","); // extract source and target values
 		// remove leading/trailing whitespace and carriage return character and make lowercase
-		const target = targetRaw.trim().toLowerCase();
+		var target = targetRaw.trim().toLowerCase();
+
 		let entry = result.find((obj) => obj.src === src); // check if source already exists in result
 
 		if (!entry) {

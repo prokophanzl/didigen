@@ -123,6 +123,12 @@ function printlength(tmpData) {
 	console.log("length " + i + ": " + length);
 	i++;
 }
+function replaceWrongChars(str) {
+	// replace wrong umlauts (ü, ö, ä, ß, capital wrong umlauts) with correct ones (ü, ö, ä, ss, capital correct umlauts)
+	const wrongChars = ["ü", "ö", "ä", "ß", "Ü", "Ö", "Ä", "ẞ"];
+	const correctChars = ["ü", "ö", "ä", "ss", "Ü", "Ö", "Ä", "SS"];
+	return str.replace(/ü/g, "ü").replace(/ö/g, "ö").replace(/ä/g, "ä");
+}
 
 export function translate() {
 	closeFilters();
@@ -132,7 +138,8 @@ export function translate() {
 	let length = 0;
 
 	// set word to value of "#word-input"
-	const word = $("#word-input").val().toLowerCase();
+	var word = $("#word-input").val().toLowerCase();
+	word = replaceWrongChars(word);
 
 	// set src to 1 if "#config-dialect" is checked, else 0
 	const src = $("#config-dialect").prop("checked") ? 1 : 0;
