@@ -23,22 +23,6 @@ export const formatNumber = (num) => {
 
 const config = await $.getJSON("config/config.json");
 
-// PARAMETER PARSING
-
-const urlParams = new URLSearchParams(window.location.search);
-
-// function that sets the word input field to the word parameter
-// if (urlParams.get("word")) {
-// 	$("#word-input").val(urlParams.get("word"));
-// 	$("#word-searched").text(urlParams.get("word"));
-// }
-
-// function that selects the correct match option
-if (urlParams.get("match")) {
-	$("#term-input").value = urlParams.get("match");
-	toggleMatch(urlParams.get("match"));
-}
-
 // BASE
 
 if (sessionStorage.getItem("filtersOpen")) {

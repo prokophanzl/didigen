@@ -41,7 +41,6 @@ $.each(config.dialects, (index, item) => {
 	`);
 });
 
-const urlParams = new URLSearchParams(window.location.search);
 // load meta
 const meta = await $.getJSON("resources/data/parsed/meta.json");
 
