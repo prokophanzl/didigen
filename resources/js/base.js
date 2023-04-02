@@ -101,6 +101,12 @@ function replaceWrongChars(str) {
 	const wrongChars = ["ü", "ö", "ä", "ß", "Ü", "Ö", "Ä", "ẞ"];
 	const correctChars = ["ü", "ö", "ä", "ss", "Ü", "Ö", "Ä", "SS"];
 
+	// replace non-breaking spaces with normal spaces
+	str = str.replace(/\u00A0/g, " ");
+
+	// replace repeating spaces with one space
+	str = str.replace(/ +/g, " ");
+
 	return wrongChars.reduce((acc, curr, index) => {
 		return acc.replace(new RegExp(curr, "g"), correctChars[index]);
 	}, str);
