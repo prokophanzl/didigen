@@ -113,8 +113,8 @@ export function translate() {
 
 	let length = 0;
 
-	// set word to value of "#word-input"
-	var word = $("#word-input").val().toLowerCase();
+	// set word to value of "#word-input", trimmed and converted to lowercase
+	var word = $("#word-input").val().toLowerCase().trim();
 	word = replaceWrongChars(word);
 
 	// if word is only composed of numbers and spaces, remove the spaces
