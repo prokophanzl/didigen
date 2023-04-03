@@ -128,8 +128,9 @@ export function translate() {
 		word = word.replace(/ /g, "");
 	}
 
-	// set src to 1 if "#config-dialect" is checked, else 0
-	const src = $("#config-dialect").prop("checked") ? 1 : 0;
+	// set src to value of "#src-input"
+	// 0 is standard, 1 is dialect
+	const src = $("#src-input").val();
 
 	// set match to value of "#term-input"
 	const match = $("#term-input").val();

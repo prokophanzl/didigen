@@ -22,12 +22,24 @@ function setSrc(src) {
 	}
 }
 
-$("#config-standard").bind("click", () => {
-	setSrc(0);
-});
+function toggleSrc() {
+	if ($("#src-input").val() == 0) {
+		setSrc(1);
+	} else {
+		setSrc(0);
+	}
+	console.log($("#src-input").val());
+}
 
-$("#config-dialect").bind("click", () => {
-	setSrc(1);
+$("#language-button").bind("click", () => {
+	// swap class lists of flag1 and flag2
+	let flag1 = $("#flag1");
+	let flag2 = $("#flag2");
+	let temp = flag1.attr("class");
+	flag1.attr("class", flag2.attr("class"));
+	flag2.attr("class", temp);
+
+	toggleSrc();
 });
 
 $("#begins").bind("click", () => {
