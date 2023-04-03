@@ -22,6 +22,8 @@ const disableDarkMode = () => {
 
 if (darkMode === "enabled" || (darkMode !== "disabled" && prefersDarkMode)) {
 	enableDarkMode();
+} else {
+	disableDarkMode();
 }
 
 $("#dark-mode-toggle").bind("click", () => {
