@@ -55,7 +55,9 @@ function printTranslation(item) {
 	// for each "translations" object, print a div in "#translation-bar-wrapper-${item.src}" with its data in it
 	$.each(item.target, (index, item2) => {
 		$(`#translation-bar-wrapper-${nonAlpha(item.src)}`).append(`
-		<div style="--count: ${item2.count}">
+		<div class="translate-back" style="--count: ${item2.count}" onclick="translateBack('${item2.translation}')" title="übersetzungen von ${formatNumber(
+			item2.translation
+		)} anzeigen">
 			<span class="translation-container">
 				<span class="translation">${formatNumber(item2.translation)}</span>
 				<span class="translation-count primary50">${formatNumber(item2.count)}</span>
@@ -206,6 +208,12 @@ export function translate() {
 				parsedData.reduce((acc, obj) => acc + obj.count, 0) === 1 ? config.text.dataPointWordSingular : config.text.dataPointWord
 			)
 	);
+}
+
+export function translateBack(translation) {
+	$("#word-input").val(translation);
+	toggleSrc();
+	translate();
 }
 
 function compressData(arr) {
