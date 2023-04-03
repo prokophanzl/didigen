@@ -1,5 +1,4 @@
 de,gsw
-November,November
 ab,ab
 ab,ab
 ab,ab
@@ -21,6 +20,9 @@ Abend,Abig
 Abend,abig
 Abend,abig
 Abend,abig
+Abendessen,Aabigässe
+Abendessen,Zaabig
+Abendessen,Znacht
 aber,aber
 aber,aber
 aber,aber
@@ -521,7 +523,6 @@ an der,ad
 an der,ade
 an einem,amne
 an einer,ane
-Würste anbraten,brötle
 andere,ander
 andere,ander
 andere,ander
@@ -550,6 +551,7 @@ anders,anderst
 Anfang,Afang
 anfragen,ahfröge
 angeben,ageh
+Angeber,Plagööri
 angebracht,anbracht
 angefangen,agfange
 angefangen,ahgfange
@@ -901,6 +903,7 @@ auf den,uf dene
 auf der,uf dere
 auf ein (N),ufes
 auf einem,ufemne
+auf Wiedersehen,Adie
 Aufbau,uufbau
 aufeinander,ufenand
 Aufgabe,Ufgab
@@ -1325,6 +1328,9 @@ bitte,bitte
 bitte,bitte
 bitte,bitte
 bitte,bitte
+Bitte,bitte
+Bitte,gfelig
+Bitte,pitti
 Blankoscheck,Blankoscheck
 Blatt,Blatt
 Blatt,Blatt
@@ -1354,6 +1360,7 @@ Blinddarm,Blinddarm
 blöd,blöd
 blöd,blöd
 blöd,blööd
+Blumenstrauss (Heuchlerbesen),Hüchlerbäse
 Blut,Bluet
 Blut,bluet
 Blutkörper,blutkörper
@@ -1394,6 +1401,7 @@ bringt (er/sie/es),bringt
 bringt (er/sie/es),bringt
 bringt es,bringts
 Bruder,brüeder
+brunchen,zmörgele
 Buch,Buech
 Buch,Buech
 Buch,Buech
@@ -1417,6 +1425,7 @@ Bus,Bus
 Bus,Bus
 Bus,Bus
 Bus,Bus
+Butter,Anke
 Butzuckerregulation,Bluetzuckerregulation
 Calcium,Calcium
 Calcium,Calcium
@@ -1731,6 +1740,8 @@ danke,merci
 danke,merci
 danke,merci
 danke,merci
+Danke,mèrssi
+Danke,tanke
 dann,dann
 dann,dann
 dann,dänn
@@ -2868,6 +2879,7 @@ du kannst,chasch
 du musst,muesch
 du willst,wetsch
 dümmer,dümmer
+Dummkopf,Galööri
 dunklen,dunkle
 dunklen,dunkle
 durch,dur
@@ -3038,6 +3050,8 @@ ein bisschen,chlin
 ein bisschen,e chli
 ein bisschen,echli
 ein bisschen,echli
+ein bisschen,es bitzeli
+ein kleines bisschen,es birebitzeli
 ein paar,e paar
 eindeutig,eidütig
 eine,ä
@@ -3241,6 +3255,7 @@ Englisch,englisch
 Englisch,Englisch
 englischen,englisch
 entleeren,entleere
+Entschuldigung,äxgüsi
 entspringen (sie),entspringed
 entstehen (sie),entstönd
 entstehen (sie),entstönd
@@ -3430,6 +3445,7 @@ es dort,sdete
 es ist,isch
 eskaliert es,eskalierts
 esse (ich),esse
+essen (etwas Kleines),habere
 etwas,öbis
 etwas,öbis
 etwas,öbis
@@ -3470,6 +3486,7 @@ exotherm,exotherm
 Experiment,Experiment
 Experiment,Experiment
 extra,extra
+Fahrrad,Velo
 fährt (er/sie/es),fahrt
 Fälle,fäll
 fallen (sie),falled
@@ -3631,6 +3648,7 @@ frei,frei
 frei,frei
 frei,frei
 frei,frei
+Freibad,Badi
 freie,frei
 freien,freie
 Freifach,Freifach
@@ -3673,10 +3691,12 @@ früher,früehner
 früher,früener
 früher,früener
 früher,früener
+Frühstück,Zmorge
 fühle (ich),fühl
 fühle es (ich),fühls
 fühlen,fühle
 führen,führe
+Fünffrankenstück,Schnägg
 Funktion,Funktion
 Funktionen,funktion
 Funktionen,Funktione
@@ -3790,8 +3810,8 @@ gar,gar
 gar,gar
 gar,gar
 gar,gar
-gar nicht,garnöd
 gar,gar
+gar nicht,garnöd
 gebe (ich),gib
 geben,geh
 geben,geh
@@ -4019,6 +4039,7 @@ gerade,grad
 gerade,grad
 gerade,grad
 geredet,gredet
+gern,gèèrn
 gerne,gern
 gerne,gern
 gerne,gern
@@ -4286,6 +4307,8 @@ gross,gross
 gross,gross
 grossen,grosse
 grosser,grosse
+Grossmünster,Grossmöischter
+Grossmünster,Grossmünschter
 grösstmögliche,grösstmöglichi
 Grund,Grund
 Grund,Grund
@@ -4352,6 +4375,10 @@ gute,gueti
 gute (F),guete
 gute (F),gueti
 gute (N),gueti
+guten Abend,guetenaabig
+guten Abend,Naabig
+guten Morgen,Guete Morge
+guten Tag,Grüezi
 gutes,guets
 gutes,guets
 gutes,guets
@@ -4608,6 +4635,10 @@ habt ihr,hender
 halb,halb
 halb,halbi
 Hälfte,Helfti
+hallo,hallo
+hallo,Hoi
+hallo,salü
+hallo,tschau
 halt,halt
 halt,halt
 halt,halt
@@ -6419,6 +6450,8 @@ Klassenchef,Klassechef
 Klassengeist,Klassegeist
 Klasseninfos,Klasseinfos
 kleine,chline
+Kleines Weissbrot,Weggli
+Kleingeld,Münz
 kleistern,kleistere
 klingt (er/sie/es),tönt
 knapp,knapp
@@ -7171,6 +7204,7 @@ mitnehmen,mitneh
 Mittag,Mittag
 Mittag,Mittag
 Mittag,Mittag
+Mittagessen,Mittagässe
 Mitternachtsformeln,mitternachtsformle
 mittleren,mittlere
 Mittwoch,Mittwuch
@@ -7811,6 +7845,8 @@ nicht,nüt
 nicht,nüüt
 nicht mehr,nüme
 nicht mehr,nüme
+nicht wahr?,gäll
+nicht wahr?,gälletsi
 nichts,nüt
 nichts,nüt
 nichts,nüt
@@ -7969,6 +8005,7 @@ notiert,notiert
 notiert,notiert
 notiert,notiert
 Notizblatt,notitzblatt
+November,November
 nüchtern,nüechtern
 Nummern,Nummere
 nur,nüm
@@ -8145,6 +8182,7 @@ ohne,ohni
 ohne,ohni
 ohne,ohni
 ohne,ohni
+Ohrfeige,Flätterä
 okay,ok
 okay,ok
 okay,ok
@@ -8643,6 +8681,7 @@ schlecht,schlecht
 schlecht,schlecht
 schlecht,schlecht
 schlechter (M),schlechte
+Schluckauf,Hitzgi
 Schluss,Schluss
 Schluss,Schluss
 Schluss,schluss
@@ -8654,6 +8693,7 @@ schnell,schnell
 schnell,schnell
 schneller,schneller
 Schnitt,Schnitt
+Schnupfen,Pfnüsel
 schon,scho
 schon,scho
 schon,scho
@@ -8797,6 +8837,8 @@ sehe (ich),gseh
 sehe (ich),gsehn
 sehen,gseh
 sehr,huere
+sehr,schampar
+sehr,schuurig
 sehr,sehr
 sehr,sehr
 sehr,sehr
@@ -9118,6 +9160,7 @@ so ein (M),sonen
 so einem,som ne
 so viel,soviel
 so zu sagen,sozege
+sofort,tuttswitt
 sogar,sogar
 solche,söttig
 solche,söttig
@@ -9200,6 +9243,7 @@ Speicherplatz,Speicherplatz
 speicherst (du),speicherisch
 spezifische,spezifischi
 spezifisches,spezifischs
+Spinat,Binätsch
 Spind,Spind
 Sport,Sport
 Sport,Sport
@@ -9287,6 +9331,7 @@ Stunde,Stund
 Stundenplan,Stundeplan
 Sturm,sturm
 Sturm,sturm
+stürmisch regnen,hudle
 suchen,sueche
 suchen,sueche
 suchen,suechet
@@ -9363,6 +9408,7 @@ tiefer,tüfer
 Tier,tier
 Tierkopf,Tierkopf
 Tierkopf,tierkopf
+toll,lässig
 treffen,treffe
 treffen,treffe
 trinke (ich),trink
@@ -10786,6 +10832,7 @@ würden (sie),würded
 würden (sie),würded
 würden (sie),würet
 würden (wir),würed
+Würste anbraten,brötle
 Wurzel,Wurzel
 Wurzel,Wurzle
 Wurzeln,Wurzle
@@ -10911,11 +10958,14 @@ zum,zum
 zum,zum
 zum,zum
 zum Beispiel,zum Bispil
+Zunfthaus,Zouft
 zur,zur
 zur,zur
 zur,zur
 zur,zur
+Zürcher Geschnetzeltes,Züri-Gschnätzlets
 Zürich,züri
+Zürichdeutsch,Züritüütsch
 zurück,zrugg
 zurückgeschickt,zrugggschickt
 Zusamenfassung,Zemefassig
@@ -10959,61 +11009,842 @@ zweite,zweiti
 zweite,zweiti
 zweite (F),zweiti
 zweiten,zweite
+Zwiebel,Bölle
+Zwiebelkuchen,Böllewèèä
 zwischen,zwisched
 zwischen,zwüsche
 zwischen,zwüsched
 zwischen,zwüsched
 zwischen,zwüsched
 zwischen,zwüschet
-Zürichdeutsch,Züritüütsch
-auf Wiedersehen,Adie
-Butter,Anke
-Entschuldigung,äxgüsi
-Freibad,Badi
-Spinat,Binätsch
-Bitte,bitte
-Bitte,gfelig
-Bitte,pitti
-Zwiebel,Bölle
-Zwiebelkuchen,Böllewèèä
-ein kleines bisschen,es birebitzeli
-ein bisschen,es bitzeli
-Ohrfeige,Flätterä
-nicht wahr?,gäll
-nicht wahr?,gälletsi
-Dummkopf,Galööri
-gern,gèèrn
-Grossmünster,Grossmöischter
-Grossmünster,Grossmünschter
-guten Tag,Grüezi
-hallo,salü
-hallo,tschau
-guten Morgen,Guete Morge
-essen (etwas Kleines),habere
-Schluckauf,Hitzgi
-hallo,Hoi
-hallo,hallo
-Blumenstrauss (Heuchlerbesen),Hüchlerbäse
-stürmisch regnen,hudle
-toll,lässig
-Mittagessen,Mittagässe
-Kleingeld,Münz
-guten Abend,Naabig
-guten Abend,guetenaabig
-Schnupfen,Pfnüsel
-Angeber,Plagööri
-sehr,schampar
-Fünffrankenstück,Schnägg
-sehr,schuurig
-Danke,tanke
-Danke,mèrssi
-sofort,tuttswitt
-Fahrrad,Velo
-Kleines Weissbrot,Weggli
-Frühstück,Zmorge
-brunchen,zmörgele
-Abendessen,Znacht
-Abendessen,Aabigässe
-Abendessen,Zaabig
-Zunfthaus,Zouft
-Zürcher Geschnetzeltes,Züri-Gschnätzlets
+1000000000,Ä Milliard
+1000000000,Ä Milliard
+1000000000,ä Milliard
+1000000000,Ä Milliardä
+1000000,Ä Million
+1000000,Ä Million
+1000000,Ä Million
+1000000,ä Million
+8,Acht
+8,Acht
+8,Acht
+8,acht
+8,Acht
+8,acht
+8,acht
+8,acht
+8,Acht
+8,Acht
+8,acht
+8,Acht
+8,Acht
+8,acht
+8,acht
+8,Acht
+8,Acht
+8,Acht
+8,Acht
+8,Acht
+8,Acht
+8,Acht
+8,Acht
+8,Acht
+8,acht
+18,Achtzääh
+18,Achtzäh
+18,achtzäh
+18,Achtzäh
+18,achtzäh
+18,Achtzäh
+18,Achtzäh
+18,Achtzäh
+18,Achtzäh
+18,Achtzeh
+18,Achtzeh
+18,achtzeh
+80,Achtzg
+80,Achtzg
+80,Achtzg
+80,achtzg
+80,Achtzg
+80,Achtzg
+18,Achzä
+18,Achzä
+18,Achzä
+18,Achzääh
+18,achzäh
+18,Achzäh
+18,achzäh
+18,achzäh
+18,Achzäh
+18,achzäh
+18,achzäh
+18,Achzäh
+18,Achzäh
+18,Achzäh
+80,Achzg
+80,achzg
+80,achzg
+80,achzg
+80,achzg
+80,Achzg
+80,Achzg
+80,achzg
+80,Achzg
+80,Achzg
+80,achzg
+80,Achzg
+80,Achzg
+80,Achzg
+80,Achzg
+80,Achzg
+80,Achzg
+80,Achzg
+80,achzg
+30,Driisg
+30,Driisg
+30,Driisg
+30,driisg
+30,driisg
+30,driisg
+30,Driisg
+30,driisg
+30,Driisg
+30,driisg
+30,driisg
+30,Driisg
+30,Driisg
+30,Driisg
+30,Driissg
+13,Driizäh
+13,driizäh
+30,Drisg
+30,Drisg
+30,Drissg
+30,drissg
+30,Drissg
+30,Drissg
+30,Drissg
+30,Drissg
+30,Drissg
+30,drissg
+13,Drittzäh
+13,Dritzä
+13,Drizä
+13,Drizä
+13,Drizääh
+13,drizäh
+13,Drizäh
+13,drizäh
+13,drizäh
+13,drizäh
+13,Drizäh
+13,Drizäh
+13,drizäh
+13,Drizäh
+13,Drizäh
+13,Drizäh
+13,Drizäh
+13,Drizeh
+13,Drizeh
+13,drizeh
+13,drizhäh
+3,Drü
+3,Drü
+3,drü
+3,Drü
+3,drü
+3,drü
+3,Drü
+3,Drü
+3,drü
+3,Drü
+3,Drü
+3,Drü
+3,Drü
+3,Drü
+3,Drü
+3,drü
+3,Drüü
+3,drüü
+3,Drüü
+3,drüü
+3,Drüü
+3,drüü
+3,Drüü
+3,Drüü
+3,Drüü
+13,Dryzeh
+1000000000,e Milliard
+1000000000,E Milliard
+1000000000,e milliard
+1000000000,E milliarde
+1000000,e Million
+1000000,E Million
+1000000,E million
+1000000,e million
+1000000000,ee Milliard
+1000000000,Ei Millard
+1000000000,Ei milliard
+1000000000,ei Milliard
+1000000000,ei milliard
+1000000000,Ei Milliard
+1000000000,ei milliard
+1000000000,Ei Milliarde
+1000000000,ei milliarde
+1000000000,Ei milliarde
+1000000,Ei million
+1000000,ei Million
+1000000,ei million
+1000000,Ei Million
+1000000,Ei Million
+1000000,ei million
+1000000,ei million
+1000000,Ei million
+1000000,Ei Million
+1000000,eii Million
+1,Eis
+1,Eis
+1,eis
+1,Eis
+1,eis
+1,eis
+1,eis
+1,Eis
+1,Eis
+1,eis
+1,Eis
+1,Eis
+1,eis
+1,eis
+1,Eis
+1,Eis
+1,Eis
+1,Eis
+1,Eis
+1,Eis
+1,Eis
+1,Eis
+1,eis
+1,Eis
+11,Elf
+11,Elf
+11,Elf
+11,elf
+11,Elf
+11,elf
+11,elf
+11,elf
+11,Elf
+11,Elf
+11,elf
+11,Elf
+11,Elf
+11,elf
+11,elf
+11,Elf
+11,Elf
+11,Elf
+11,Elf
+11,Elf
+11,Elf
+11,Elf
+11,Elf
+11,Elf
+11,elf
+1,Eus
+5,feuf
+5,Feuf
+5,Foif
+5,Foif
+5,Foif
+5,Foif
+5,foif
+5,foif
+5,Foif
+5,Foif
+5,foif
+5,Foif
+5,Foif
+5,Foif
+5,foif
+5,foif
+5,Foif
+5,Foif
+5,Foif
+5,Foif
+5,Foif
+5,Foif
+5,Foiv
+5,Füf
+5,füf
+15,füffzäh
+50,füffzg
+15,Füfzä
+15,Füfzä
+15,Füfzä
+15,Füfzääh
+15,Füfzäh
+15,füfzäh
+15,Füfzäh
+15,füfzäh
+15,füfzäh
+15,füfzäh
+15,Füfzäh
+15,Füfzäh
+15,füfzäh
+15,füfzäh
+15,Füfzäh
+15,Füfzäh
+15,Füfzäh
+15,Füfzäh
+15,Füfzäh
+15,Füfzäh
+15,Füfzäh
+15,Füfzeh
+15,Füfzeh
+15,füfzeh
+50,Füfzg
+50,Füfzg
+50,Füfzg
+50,füfzg
+50,Füfzg
+50,füfzg
+50,füfzg
+50,füfzg
+50,Füfzg
+50,Füfzg
+50,Füfzg
+50,Füfzg
+50,füfzg
+50,füfzg
+50,Füfzg
+50,Füfzg
+50,Füfzg
+50,Füfzg
+50,Füfzg
+50,Füfzg
+50,Füfzg
+50,Füfzg
+50,füfzg
+5,füüf
+50,Füüfzg
+100,hundärt
+100,Hundärt
+100000,Hundärttusig
+100000,hundärttuusig
+100,Hundert
+100,Hundert
+100,Hundert
+100,hundert
+100,Hundert
+100,hundert
+100,hundert
+100,hundert
+100,Hundert
+100,Hundert
+100,Hundert
+100,Hundert
+100,hundert
+100,hundert
+100,Hundert
+100,Hundert
+100,Hundert
+100,Hundert
+100,Hundert
+100,Hundert
+100,Hundert
+100,Hundert
+100,hundert
+100000,hundert tuusig
+100000,hundert tuusig
+100000,hundert tuusig
+100000,Hundert-Tuusig
+100000,Hunderttusig
+100000,Hunderttusig
+100000,Hunderttusig
+100000,hunderttusig
+100000,Hunderttuusig
+100000,hunderttuusig
+100000,Hunderttuusig
+100000,Hunderttuusig
+100000,hunderttuusig
+100000,Hunderttuusig
+100000,Hunderttuusig
+100000,Hunderttuusig
+100000,Hunderttuusig
+100000,Hunderttuusig
+100000,Hundertuusig
+100000,hundertuusig
+100000,Hundertuusig
+100000,Hundertuusig
+100000,Hundertuusig
+1000000000,Milliard
+1000000000,Milliard
+1000000000,milliard
+1000000000,Milliard
+1000000000,Milliard
+1000000000,Milliardä
+1000000000,milliarde
+1000000000,Milliarde
+1000000,Million
+1000000,Million
+1000000,million
+1000000,Million
+1000000,Million
+1000000,Million
+1000000,millione
+9,Nün
+9,nün
+9,nün
+9,nün
+9,Nün
+9,Nün
+9,Nün
+9,Nün
+9,Nün
+9,nün
+90,nünnzg
+19,Nünzä
+19,Nünzä
+19,Nünzä
+19,Nünzääh
+19,nünzäh
+19,nünzäh
+19,nünzäh
+19,Nünzäh
+19,nünzäh
+19,Nünzäh
+19,Nünzäh
+19,Nünzäh
+19,Nünzäh
+19,Nünzäh
+19,Nünzäh
+19,Nünzeh
+19,Nünzeh
+19,Nünzeh
+19,nünzeh
+90,Nünzg
+90,Nünzg
+90,Nünzg
+90,nünzg
+90,Nünzg
+90,nünzg
+90,nünzg
+90,Nünzg
+90,Nünzg
+90,Nünzg
+90,Nünzg
+90,nünzg
+90,nünzg
+90,Nünzg
+90,Nünzg
+90,Nünzg
+90,Nünzg
+90,Nünzg
+90,Nünzg
+90,Nünzg
+90,Nünzg
+90,nünzg
+9,Nüün
+9,Nüün
+9,Nüün
+9,nüün
+9,Nüün
+9,Nüün
+9,nüün
+9,Nüün
+9,Nüün
+9,nüün
+9,nüün
+9,Nüün
+9,Nüün
+9,Nüün
+9,Nüün
+19,Nüünzäh
+19,Nüünzäh
+19,nüünzäh
+19,nüünzäh
+19,nüünzäh
+19,Nüünzeh
+90,nüünzg
+90,Nüünzg
+6,Sächs
+6,Sächs
+6,sächs
+6,Sächs
+6,sächs
+6,sächs
+6,Sächs
+6,Sächs
+6,sächs
+6,Sächs
+6,Sächs
+6,sächs
+6,sächs
+6,Sächs
+6,Sächs
+6,Sächs
+6,Sächs
+6,Sächs
+6,Sächs
+16,Sächszäh
+16,Sächszäh
+60,Sächszg
+16,Sächzä
+16,Sächzä
+16,Sächzääh
+16,Sächzäh
+16,sächzäh
+16,sächzäh
+16,Sächzäh
+16,sächzäh
+16,sächzäh
+16,sächzäh
+16,Sächzäh
+16,Sächzäh
+16,Sächzäh
+16,Sächzäh
+60,Sächzg
+60,Sächzg
+60,sächzg
+60,sächzg
+60,sächzg
+60,Sächzg
+60,sächzg
+60,Sächzg
+60,Sächzg
+60,sächzg
+60,Sächzg
+60,Sächzg
+60,Sächzg
+60,Sächzg
+60,Sächzg
+60,Sächzg
+60,schächzg
+6,Sechs
+6,sechs
+6,sechs
+6,Sechs
+6,Sechs
+6,Sechs
+6,sechs
+16,Sechszeh
+60,Sechszg
+16,Sechzä
+16,sechzäh
+16,sechzäh
+16,Sechzäh
+16,Sechzäh
+16,Sechzeh
+16,Sechzeh
+16,sechzeh
+60,Sechzg
+60,sechzg
+60,Sechzg
+60,Sechzg
+60,Sechzg
+60,sechzg
+7,Sibä
+7,Sibä
+70,Sibäzg
+70,sibbäzg
+17,sibbzäh
+7,Sibe
+7,Sibe
+7,sibe
+7,Sibe
+7,Sibe
+7,sibe
+17,sibezäh
+70,sibezg
+70,Sibezg
+70,Sibezg
+70,Sibezg
+70,Sibezg
+17,Sibzä
+17,Sibzä
+17,Sibzääh
+17,Sibzäh
+17,Sibzäh
+17,Sibzäh
+70,Sibzg
+70,sibzg
+7,siebä
+7,Siebä
+17,Siebäzäh
+70,Siebäzg
+70,Siebäzg
+7,Siebe
+7,Siebe
+7,siebe
+7,siebe
+7,siebe
+7,Siebe
+7,Siebe
+7,siebe
+7,siebe
+7,Siebe
+7,Siebe
+7,Siebe
+7,Siebe
+7,Siebe
+70,Siebezg
+70,siebezg
+70,siebezg
+70,siebezg
+70,Siebezg
+70,siebezg
+70,siebezg
+70,Siebezg
+70,Siebezg
+70,Siebezg
+70,Siebezg
+17,Siebzä
+17,Siebzäh
+17,Siebzäh
+17,siebzäh
+17,siebzäh
+17,siebzäh
+17,siebzäh
+17,siebzäh
+17,Siebzäh
+17,Siebzäh
+17,Siebzäh
+17,Siebzeh
+17,Siebzeh
+17,Siebzeh
+17,siebzeh
+70,Siebzg
+7,siibä
+7,Siibe
+17,Siibezeh
+70,Siibezg
+70,Siibtzg
+13,Trizäh
+1000,Tusig
+1000,Tusig
+1000,Tusig
+1000,tusig
+1000,Tuusig
+1000,Tuusig
+1000,Tuusig
+1000,tuusig
+1000,Tuusig
+1000,tuusig
+1000,tuusig
+1000,tuusig
+1000,Tuusig
+1000,Tuusig
+1000,tuusig
+1000,Tuusig
+1000,Tuusig
+1000,tuusig
+1000,tuusig
+1000,Tuusig
+1000,Tuusig
+1000,Tuusig
+1000,Tuusig
+1000,Tuusig
+1000,Tuusig
+4,Viär
+4,viär
+4,viär
+4,Viär
+14,viärzäh
+14,Viärzäh
+40,viärzg
+40,Viärzg
+4,Vier
+4,Vier
+4,Vier
+4,vier
+4,vier
+4,vier
+4,Vier
+4,Vier
+4,Vier
+4,Vier
+4,vier
+4,vier
+4,Vier
+4,Vier
+4,Vier
+4,Vier
+4,Vier
+4,Vier
+4,Vier
+4,Vier
+4,vier
+14,Vierzä
+14,Vierzä
+14,Vierzä
+14,Vierzääh
+14,Vierzäh
+14,Vierzäh
+14,vierzäh
+14,vierzäh
+14,vierzäh
+14,Vierzäh
+14,Vierzäh
+14,vierzäh
+14,vierzäh
+14,Vierzäh
+14,Vierzäh
+14,Vierzäh
+14,Vierzäh
+14,Vierzäh
+14,Vierzeh
+14,Vierzeh
+14,Vierzeh
+14,vierzeh
+40,Vierzg
+40,Vierzg
+40,Vierzg
+40,Vierzg
+40,vierzg
+40,vierzg
+40,vierzg
+40,Vierzg
+40,Vierzg
+40,Vierzg
+40,Vierzg
+40,vierzg
+40,vierzg
+40,Vierzg
+40,Vierzg
+40,Vierzg
+40,Vierzg
+40,Vierzg
+40,Vierzg
+40,Vierzg
+40,Vierzg
+40,vierzg
+4,vir
+14,virzäh
+40,virzg
+10,Zää
+10,Zää
+10,Zääh
+10000,Zääh-Tuusig
+10000,Zäätuusig
+10,Zäh
+10,zäh
+10,Zäh
+10,zäh
+10,zäh
+10,zäh
+10,Zäh
+10,Zäh
+10,zäh
+10,Zäh
+10,zäh
+10,zäh
+10,Zäh
+10,Zäh
+10,Zäh
+10,Zäh
+10,Zäh
+10,Zäh
+10000,zäh tuusig
+10000,zäh tuusig
+10000,Zähtusig
+10000,Zähtusig
+10000,Zähtuusig
+10000,zähtuusig
+10000,Zähtuusig
+10000,zähtuusig
+10000,Zähtuusig
+10000,Zähtuusig
+10000,zähtuusig
+10000,Zähtuusig
+10000,zähtuusig
+10000,zähtuusig
+10000,Zähtuusig
+10000,Zähtuusig
+10000,Zähtuusig
+10000,Zähtuusig
+10000,Zätuusig
+10,Zeh
+10,Zeh
+10,Zeh
+10,zeh
+10000,Zehtusig
+10000,zehtusig
+10000,Zehtuusig
+10000,Zehtuusig
+2,Zwäi
+12,Zwälf
+20,Zwänzg
+20,Zwänzg
+20,Zwänzg
+20,zwänzg
+20,Zwänzg
+20,zwänzg
+20,zwänzg
+20,Zwänzg
+20,Zwänzg
+20,zwänzg
+20,Zwänzg
+20,Zwänzg
+20,zwänzg
+20,zwänzg
+20,Zwänzg
+20,Zwänzg
+20,Zwänzg
+20,Zwänzg
+20,Zwänzg
+20,Zwänzg
+20,Zwänzg
+20,Zwänzg
+20,Zwänzg
+20,zwänzg
+20,zwänzgt
+2,Zwei
+2,Zwei
+2,Zwei
+2,zwei
+2,Zwei
+2,zwei
+2,zwei
+2,zwei
+2,Zwei
+2,Zwei
+2,Zwei
+2,Zwei
+2,zwei
+2,zwei
+2,Zwei
+2,Zwei
+2,Zwei
+2,Zwei
+2,Zwei
+2,Zwei
+2,Zwei
+2,Zwei
+2,zwei
+2,zweii
+12,Zwölf
+12,Zwölf
+12,Zwölf
+12,zwölf
+12,Zwölf
+12,zwölf
+12,zwölf
+12,zwölf
+12,Zwölf
+12,Zwölf
+12,zwölf
+12,Zwölf
+12,Zwölf
+12,zwölf
+12,zwölf
+12,Zwölf
+12,Zwölf
+12,Zwölf
+12,Zwölf
+12,Zwölf
+12,Zwölf
+12,Zwölf
+12,Zwölf
+12,zwölf

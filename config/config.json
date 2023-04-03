@@ -75,6 +75,30 @@
 			"code": "lu"
 		},
 		{
+			"name": "Schaffhausen",
+			"code": "sh"
+		},
+		{
+			"name": "Solothurn",
+			"code": "so"
+		},
+		{
+			"name": "St. Gallen",
+			"code": "sg"
+		},
+		{
+			"name": "Thurgau",
+			"code": "tg"
+		},
+		{
+			"name": "Wallis",
+			"code": "vs"
+		},
+		{
+			"name": "Zug",
+			"code": "zg"
+		},
+		{
 			"name": "Zürich",
 			"code": "zh"
 		},
@@ -106,40 +130,16 @@
 			"code": "ow"
 		},
 		{
-			"name": "Schaffhausen",
-			"code": "sh"
-		},
-		{
 			"name": "Schwyz",
 			"code": "sz"
-		},
-		{
-			"name": "Solothurn",
-			"code": "so"
-		},
-		{
-			"name": "St. Gallen",
-			"code": "sg"
 		},
 		{
 			"name": "Tessin",
 			"code": "ti"
 		},
 		{
-			"name": "Thurgau",
-			"code": "tg"
-		},
-		{
 			"name": "Uri",
 			"code": "ur"
-		},
-		{
-			"name": "Wallis",
-			"code": "vs"
-		},
-		{
-			"name": "Zug",
-			"code": "zg"
 		}
 	]
 }

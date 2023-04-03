@@ -28,6 +28,12 @@ const dialects = [
 	"bl",
 	"ag",
 	"bs",
+	"sh",
+	"so",
+	"sg",
+	"tg",
+	"vs",
+	"zg",
 ];
 
 function loadCSVFile(filename, callback) {
