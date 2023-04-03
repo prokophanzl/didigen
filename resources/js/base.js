@@ -33,8 +33,8 @@ function printTranslation(item) {
 	// add div to "#translation-parent"
 	$("#translation-parent").append(`
 	<div class="word-wrapper" style="--matches: ${item.count}; --count-first: ${item.target[0].count}">
-		<div class="word-header">
-			<div class="word-menu" onclick="toggle('${nonAlpha(item.src)}')" id="${nonAlpha(item.src)}-menu"></div>
+		<div onclick="toggle('${nonAlpha(item.src)}')" class="word-header">
+			<div class="word-menu" id="${nonAlpha(item.src)}-menu"></div>
 			<div class="word-german header-word" id="${nonAlpha(item.src)}-g">
 				<span class="word-german-span break-no-dis">${formatNumber(item.src)}</span><span class="primary50 matches-german-span break-dis"> (${
 		item.count
