@@ -1,7 +1,5 @@
-# Deutsch-Schweizerdeutsches Wörterbuch
+# didigen: Dialect Dictionary Generator
 
-DSW ist ein von Ash Hanzl entwickeltes Wörterbuch basierend auf Korpusdaten.
+didigen will be a template that anyone can download and use to turn their data into a database of translation equivalents - a dictionary. It is currently in development, being built alongside [DSW](https://dsw.dustah.com), a German-Swiss German online dictionary.
 
-## Woher stammen die Daten?
-
-Den Kern dieses Wörterbuchs bildet ein (derzeit) teilweise privater Korpus. Dieser besteht aus etwa 4000 WhatsApp-Nachrichten und 80000 Reddit-Kommentaren. Allerdings wurde bisher nur ein Teil davon verarbeitet – momentan stehen dem Wörterbuch etwa 8000 Datenpunkte zur Verfügung.
+It will be fully open-source, forever.
