@@ -32,7 +32,9 @@
 		"lightTheme": "Hellmodus",
 		"darkTheme": "Dunkelmodus",
 		"contact": "Kontakt",
-		"email": "dsw@dustah.com"
+		"email": "dsw@dustah.com",
+
+		"longLoading": "Die Seite braucht länger zum Laden als erwartet. Versuchen Sie, sie neu zu laden. Wenn das Problem weiterhin besteht, versuchen Sie es bitte später erneut."
 	},
 
 	"options": {

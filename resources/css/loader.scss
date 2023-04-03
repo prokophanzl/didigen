@@ -20,6 +20,8 @@
 	position: relative;
 	border: 4px solid hsl(220, 10%, 95%);
 	animation: loader 2s infinite ease;
+	border-radius: 10%;
+	overflow: hidden;
 }
 
 .loader-inner {
@@ -28,6 +30,33 @@
 	width: 100%;
 	background-color: hsl(220, 10%, 95%);
 	animation: loader-inner 2s infinite ease-in;
+}
+
+// make .load-wait-text fade in 5 seconds after page load using @keyframes
+
+.load-wait-text {
+	opacity: 0;
+	animation: fade-in 5s forwards;
+	position: absolute;
+	top: calc(50% + 50px);
+	max-width: 500px;
+	padding: 0 80px;
+	text-align: center;
+	line-height: 1.5;
+}
+
+@keyframes fade-in {
+	0% {
+		opacity: 0;
+	}
+
+	80% {
+		opacity: 0;
+	}
+
+	100% {
+		opacity: 1;
+	}
 }
 
 @keyframes loader {
