@@ -52,18 +52,18 @@ var url = "config/main.md";
 
 // DSW:
 
-var spreadsheetId = "13kkUt2iOGbMw21v978lRpNp96WvxDHUlM8U7ToOJ_hQ";
-var sheetName = "form";
-var apiKey = "AIzaSyAUKI3TU3qHS-3_xCNOb4O9v3fodii9AY8";
-var apiUrl = "https://sheets.googleapis.com/v4/spreadsheets/" + spreadsheetId + "/values/" + sheetName + "?key=" + apiKey;
+// var spreadsheetId = "13kkUt2iOGbMw21v978lRpNp96WvxDHUlM8U7ToOJ_hQ";
+// var sheetName = "form";
+// var apiKey = "AIzaSyAUKI3TU3qHS-3_xCNOb4O9v3fodii9AY8";
+// var apiUrl = "https://sheets.googleapis.com/v4/spreadsheets/" + spreadsheetId + "/values/" + sheetName + "?key=" + apiKey;
 
-var numParticipants = 0;
+// var numParticipants = 0;
 
-await $.getJSON(apiUrl, function (data) {
-	numParticipants = data.values.length - 1;
+// await $.getJSON(apiUrl, function (data) {
+// 	numParticipants = data.values.length - 1;
 
-	$("#search-results-heading").text($("#search-results-heading").text().replace("DATA_PARTICIPANTS", numParticipants));
-});
+// 	$("#search-results-heading").text($("#search-results-heading").text().replace("DATA_PARTICIPANTS", numParticipants));
+// });
 
 // set the callback function for when the AJAX request completes
 xhr.onload = function () {
@@ -88,7 +88,7 @@ xhr.onload = function () {
 		htmlText = htmlText.replace("DATA_DIALECTS", config.dialects.length - (config.options.includesUnknownDialect ? 1 : 0));
 
 		// replace all instances of DATA_PARTICIPANTS with numParticipants
-		htmlText = htmlText.replace("DATA_PARTICIPANTS", numParticipants);
+		// htmlText = htmlText.replace("DATA_PARTICIPANTS", numParticipants);
 
 		// Set the HTML as the contents of the "data-md" element
 		document.getElementById("data-md").innerHTML = htmlText;
