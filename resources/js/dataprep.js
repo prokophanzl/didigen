@@ -7,7 +7,7 @@ const dialects = [
 	"fr",
 	// "ge",
 	// "gl",
-	// "gr",
+	"gr",
 	// "ju",
 	"lu",
 	// "ne",
