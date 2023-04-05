@@ -1,6 +1,6 @@
 ## Wir brauchen Ihre Hilfe!
 
-Schliessen Sie sich fast 100 anderen Teilnehmer\*innen an! Machen Sie an unseren Umfragen für das Wörterbuch mit.
+Schliessen Sie sich mehr als 100 anderen Teilnehmer\*innen an! Machen Sie an unseren Umfragen für das Wörterbuch mit.
 
 -   Umfrage 1: [Wichtigi Verbe](https://forms.gle/iCtrBPcg15fkieEL9)
 -   Umfrage 2: [Wie zählsch uuf Schwiizerdütsch?](https://forms.gle/AzWt2aYPWScGDib47)
