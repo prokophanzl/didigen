@@ -4,6 +4,7 @@ Schliessen Sie sich fast 100 anderen Teilnehmer\*innen an! Machen Sie an unseren
 
 -   Umfrage 1: [Wichtigi Verbe](https://forms.gle/iCtrBPcg15fkieEL9)
 -   Umfrage 2: [Wie zählsch uuf Schwiizerdütsch?](https://forms.gle/AzWt2aYPWScGDib47)
+-   [Mailing List Anmeldung](https://forms.gle/tzLna67BLtQQ85vq6) - Wir senden Ihnen eine E-Mail, wenn wir neue Umfragen starten.
 
 Wir brauchen sonst auch Freiwillige, die uns beim Übersetzen helfen würden. Falls Sie da mitmachen möchten, melden Sie sich bitte bei uns unter [dsw@dustah.com](mailto:dsw@dustah.com). Danke!
 
