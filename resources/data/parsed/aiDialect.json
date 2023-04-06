@@ -1,1 +1,4859 @@
-[{"src":"a","target":[{"translation":"an","count":1}]},{"src":"a dere","target":[{"translation":"an der","count":1}]},{"src":"aagoht","target":[{"translation":"angeht (er/sie/es)","count":1}]},{"src":"aaluege","target":[{"translation":"anschauen","count":1}]},{"src":"ab","target":[{"translation":"ab","count":1}]},{"src":"abbaut","target":[{"translation":"abgebaut","count":1}]},{"src":"abe","target":[{"translation":"aber","count":3}]},{"src":"aber","target":[{"translation":"aber","count":11}]},{"src":"abfahre","target":[{"translation":"abfahren","count":1}]},{"src":"abfaht","target":[{"translation":"Abfahrt","count":1}]},{"src":"ablaufe","target":[{"translation":"ablaufen","count":2}]},{"src":"abotte","target":[{"translation":"angeboten","count":1}]},{"src":"abstimme","target":[{"translation":"abstimmen","count":1}]},{"src":"achso","target":[{"translation":"ach so","count":1}]},{"src":"ah","target":[{"translation":"ah","count":1}]},{"src":"ahh","target":[{"translation":"ah","count":1}]},{"src":"akustische","target":[{"translation":"akustischen","count":1}]},{"src":"albe","target":[{"translation":"Alben","count":1}]},{"src":"alkoholische","target":[{"translation":"alkoholische","count":2}]},{"src":"alles","target":[{"translation":"alles","count":1}]},{"src":"alli","target":[{"translation":"alle","count":4}]},{"src":"alltags","target":[{"translation":"alltags","count":1}]},{"src":"als","target":[{"translation":"als","count":2}]},{"src":"alter","target":[{"translation":"Alter","count":2}]},{"src":"am","target":[{"translation":"am","count":4}]},{"src":"amies","target":[{"translation":"Amis","count":1}]},{"src":"ananas","target":[{"translation":"Ananas","count":1}]},{"src":"anderi","target":[{"translation":"andere (pl.)","count":1}]},{"src":"anders","target":[{"translation":"anderes","count":1}]},{"src":"anstatt","target":[{"translation":"anstatt","count":1}]},{"src":"antwort","target":[{"translation":"Antwort","count":1}]},{"src":"appezeller","target":[{"translation":"Appenzeller","count":1}]},{"src":"appezellische","target":[{"translation":"appenzellischen","count":1}]},{"src":"appezölle","target":[{"translation":"Appenzeller","count":1}]},{"src":"arbeit","target":[{"translation":"Arbeit","count":1}]},{"src":"arena","target":[{"translation":"Arena","count":1}]},{"src":"as","target":[{"translation":"als","count":1}]},{"src":"aso","target":[{"translation":"also","count":2}]},{"src":"assekuranz","target":[{"translation":"Assekuranz","count":1}]},{"src":"au","target":[{"translation":"auch","count":11}]},{"src":"auge","target":[{"translation":"Augen","count":1}]},{"src":"australier","target":[{"translation":"Australier","count":1}]},{"src":"automatisch","target":[{"translation":"automatisch","count":1}]},{"src":"bade","target":[{"translation":"baden","count":2}]},{"src":"baden","target":[{"translation":"baden","count":1}]},{"src":"bauindustrie","target":[{"translation":"Bauindustrie","count":1}]},{"src":"baustandard","target":[{"translation":"Baustandard","count":1}]},{"src":"becho","target":[{"translation":"bekommen","count":1}]},{"src":"beedes","target":[{"translation":"beides","count":1}]},{"src":"begreff","target":[{"translation":"Begriff","count":1}]},{"src":"benutz","target":[{"translation":"benutz (du)","count":1}]},{"src":"bereits","target":[{"translation":"bereits","count":1}]},{"src":"bern","target":[{"translation":"Bern","count":1}]},{"src":"beschränkig","target":[{"translation":"Beschränkung","count":1}]},{"src":"bescht","target":[{"translation":"beste","count":1}]},{"src":"bestimmig","target":[{"translation":"Bestimmung","count":1}]},{"src":"bestoht","target":[{"translation":"besteht (er/sie/es)","count":3}]},{"src":"beworbe","target":[{"translation":"beworben","count":1}]},{"src":"bezug","target":[{"translation":"Bezug","count":1}]},{"src":"bi","target":[{"translation":"bei","count":6},{"translation":"bin (ich)","count":1}]},{"src":"bier","target":[{"translation":"Bier","count":1}]},{"src":"bim","target":[{"translation":"beim","count":1}]},{"src":"bis","target":[{"translation":"bis","count":3}]},{"src":"bisch","target":[{"translation":"bist (du)","count":1}]},{"src":"bock","target":[{"translation":"Bock","count":1}]},{"src":"bonus","target":[{"translation":"Bonus","count":1}]},{"src":"bruef","target":[{"translation":"Beruf","count":1}]},{"src":"bruuni","target":[{"translation":"braune","count":2}]},{"src":"bschlüsse","target":[{"translation":"beschliessen","count":1}]},{"src":"buech","target":[{"translation":"Buch","count":1}]},{"src":"bundesebene","target":[{"translation":"Bundesebene","count":1}]},{"src":"buure","target":[{"translation":"Bauern","count":2}]},{"src":"cha","target":[{"translation":"können (wir)","count":2},{"translation":"kann (er/sie/es)","count":1}]},{"src":"chamer","target":[{"translation":"können wir","count":1}]},{"src":"chammer","target":[{"translation":"können wir","count":1}]},{"src":"chan","target":[{"translation":"kann (er/sie/es)","count":2}]},{"src":"chasch","target":[{"translation":"kannst du","count":1}]},{"src":"chash","target":[{"translation":"kannst du","count":1}]},{"src":"chennt","target":[{"translation":"kennt (er/sie/es)","count":1}]},{"src":"chinesisch","target":[{"translation":"chinesisches","count":1}]},{"src":"chli","target":[{"translation":"ein bisschen","count":2}]},{"src":"chline","target":[{"translation":"kleinen","count":1}]},{"src":"cho","target":[{"translation":"gekommen","count":1}]},{"src":"chratzer","target":[{"translation":"Kratzer","count":1}]},{"src":"chäs","target":[{"translation":"Käse","count":1}]},{"src":"chääs","target":[{"translation":"Käse","count":2}]},{"src":"chönnt","target":[{"translation":"könnte (er/sie/es)","count":1}]},{"src":"cis","target":[{"translation":"cis","count":1}]},{"src":"comments","target":[{"translation":"Kommentaren","count":1}]},{"src":"d","target":[{"translation":"die","count":6}]},{"src":"da","target":[{"translation":"da","count":3},{"translation":"das","count":1},{"translation":"hier","count":1}]},{"src":"danke","target":[{"translation":"danke","count":2}]},{"src":"das","target":[{"translation":"das","count":6}]},{"src":"dass","target":[{"translation":"dass","count":4}]},{"src":"dasses","target":[{"translation":"dass es","count":1}]},{"src":"de","target":[{"translation":"der","count":10},{"translation":"den","count":5},{"translation":"der (M)","count":3},{"translation":"dem","count":1},{"translation":"den (M)","count":1},{"translation":"den (pl.)","count":1},{"translation":"der (F)","count":1}]},{"src":"de vo","target":[{"translation":"davon","count":2}]},{"src":"debi","target":[{"translation":"dabei","count":1}]},{"src":"definiert","target":[{"translation":"definiert","count":1}]},{"src":"dem","target":[{"translation":"dem","count":3}]},{"src":"den","target":[{"translation":"dann","count":1}]},{"src":"denkt","target":[{"translation":"gedacht","count":2}]},{"src":"denn","target":[{"translation":"dann","count":2}]},{"src":"der","target":[{"translation":"der (F)","count":1}]},{"src":"detailhandel","target":[{"translation":"Detailhandel","count":1}]},{"src":"di","target":[{"translation":"die","count":2}]},{"src":"die","target":[{"translation":"die (pl.)","count":2},{"translation":"die","count":1}]},{"src":"dim","target":[{"translation":"deinem","count":1}]},{"src":"diner","target":[{"translation":"deiner (F)","count":1}]},{"src":"dini","target":[{"translation":"deine (pl.)","count":1}]},{"src":"dir","target":[{"translation":"dir","count":1}]},{"src":"doch","target":[{"translation":"doch","count":1}]},{"src":"drom","target":[{"translation":"darum","count":1}]},{"src":"du","target":[{"translation":"du","count":6}]},{"src":"durch","target":[{"translation":"durch","count":1}]},{"src":"dönne","target":[{"translation":"dünner","count":1}]},{"src":"döre","target":[{"translation":"durch","count":1}]},{"src":"dütsch","target":[{"translation":"Deutsch","count":2}]},{"src":"e","target":[{"translation":"eine","count":1}]},{"src":"ebe","target":[{"translation":"eben","count":3}]},{"src":"eber","target":[{"translation":"jemand","count":1}]},{"src":"echt","target":[{"translation":"echt","count":1}]},{"src":"ees","target":[{"translation":"ein","count":1}]},{"src":"eescht","target":[{"translation":"erste","count":1}]},{"src":"efach","target":[{"translation":"einfach","count":1}]},{"src":"ehm","target":[{"translation":"ihm","count":1}]},{"src":"eidgenössischi","target":[{"translation":"eidgenössische","count":1}]},{"src":"eifach","target":[{"translation":"einfach","count":5}]},{"src":"einere","target":[{"translation":"einer","count":1}]},{"src":"einzige","target":[{"translation":"einzigen (pl.)","count":1}]},{"src":"eis","target":[{"translation":"ein (N)","count":1}]},{"src":"eltere","target":[{"translation":"Eltern","count":1}]},{"src":"eme","target":[{"translation":"einem","count":1}]},{"src":"emol","target":[{"translation":"mall","count":1}]},{"src":"en","target":[{"translation":"ein","count":3},{"translation":"eine","count":2},{"translation":"einen","count":2}]},{"src":"end","target":[{"translation":"Ende","count":1}]},{"src":"endgültig","target":[{"translation":"endgültig","count":1}]},{"src":"endlich","target":[{"translation":"endlich","count":1}]},{"src":"englisch","target":[{"translation":"Englisch","count":1}]},{"src":"erbringsh","target":[{"translation":"erbringst (du)","count":1}]},{"src":"ernst","target":[{"translation":"ernst","count":1}]},{"src":"erst","target":[{"translation":"erste (F)","count":1}]},{"src":"es","target":[{"translation":"es","count":8},{"translation":"ein","count":2},{"translation":"ein (N)","count":2}]},{"src":"esse","target":[{"translation":"Essen","count":1}]},{"src":"etz","target":[{"translation":"jetzt","count":1}]},{"src":"falsch","target":[{"translation":"falsch","count":1}]},{"src":"fein","target":[{"translation":"fein","count":1}]},{"src":"filzhose","target":[{"translation":"Filzhose","count":1}]},{"src":"findi","target":[{"translation":"finde ich","count":3}]},{"src":"finds","target":[{"translation":"finde es (ich)","count":1}]},{"src":"fo","target":[{"translation":"von","count":1}]},{"src":"frankrich","target":[{"translation":"Frankreich","count":1}]},{"src":"fraue","target":[{"translation":"Frauen","count":1}]},{"src":"frei","target":[{"translation":"frei","count":1}]},{"src":"frisch","target":[{"translation":"frisch","count":1},{"translation":"frisst (du)","count":1}]},{"src":"frustrierend","target":[{"translation":"frustrierend","count":1}]},{"src":"funktioniertz","target":[{"translation":"funktioniert es","count":1}]},{"src":"fö","target":[{"translation":"für","count":4}]},{"src":"föd","target":[{"translation":"für die","count":2}]},{"src":"föres","target":[{"translation":"für ein","count":1}]},{"src":"für","target":[{"translation":"für","count":3}]},{"src":"ga","target":[{"translation":"ich gehe","count":1}]},{"src":"gahni","target":[{"translation":"gehe ich","count":1}]},{"src":"ganz","target":[{"translation":"ganz","count":1}]},{"src":"ganze","target":[{"translation":"ganzen","count":1}]},{"src":"gar","target":[{"translation":"gar","count":1}]},{"src":"gastgewerbegsetz","target":[{"translation":"Gastgewerbegesetz","count":2}]},{"src":"gastgwerb","target":[{"translation":"Gastgewerbe","count":1}]},{"src":"gastgwerbegsetz","target":[{"translation":"Gastwerbegesetz","count":1}]},{"src":"gastwirtschafte","target":[{"translation":"Gastwirtschaften","count":1}]},{"src":"geignet","target":[{"translation":"geeignet","count":1}]},{"src":"geil","target":[{"translation":"geil","count":1}]},{"src":"gend","target":[{"translation":"gehen (wir)","count":1}]},{"src":"generell","target":[{"translation":"generell","count":1}]},{"src":"gern","target":[{"translation":"gerne","count":2}]},{"src":"gestoh","target":[{"translation":"gestehen","count":1}]},{"src":"getränk","target":[{"translation":"Getränk","count":3},{"translation":"Getränke","count":1},{"translation":"Getränken","count":1}]},{"src":"gets","target":[{"translation":"gibt es","count":1}]},{"src":"git","target":[{"translation":"gibt","count":1},{"translation":"gibt (er/sie/es)","count":1}]},{"src":"gits","target":[{"translation":"gibt es","count":1}]},{"src":"glernt","target":[{"translation":"gelernt","count":1}]},{"src":"gliche","target":[{"translation":"gleichen","count":1}]},{"src":"gmacht","target":[{"translation":"gemacht","count":2}]},{"src":"gmerkt","target":[{"translation":"gemerkt","count":1}]},{"src":"gnau","target":[{"translation":"genau","count":1}]},{"src":"go","target":[{"translation":"gehen","count":2}]},{"src":"goh","target":[{"translation":"gehen","count":1}]},{"src":"grad","target":[{"translation":"gerade","count":3}]},{"src":"gredet","target":[{"translation":"geredet","count":1}]},{"src":"grichtlichi","target":[{"translation":"gerechtliche","count":1}]},{"src":"grundlag","target":[{"translation":"Grundlage","count":1}]},{"src":"gschiid","target":[{"translation":"gescheit","count":1}]},{"src":"gschnettne","target":[{"translation":"geschnittener","count":1}]},{"src":"gse","target":[{"translation":"gewesen","count":1}]},{"src":"gseh","target":[{"translation":"gesehen","count":1}]},{"src":"gseit","target":[{"translation":"gesagt","count":3}]},{"src":"gsetz","target":[{"translation":"Gesetz","count":1}]},{"src":"gsetzessammlige","target":[{"translation":"Gesetzsammlungen","count":1}]},{"src":"gsetzlichi","target":[{"translation":"gesetzliche","count":2}]},{"src":"gsi","target":[{"translation":"gewesen","count":2}]},{"src":"gstumme","target":[{"translation":"gestimmt","count":1}]},{"src":"guet","target":[{"translation":"gut","count":1}]},{"src":"göll","target":[{"translation":"gell","count":1}]},{"src":"günstiger","target":[{"translation":"günstiger","count":3}]},{"src":"günstigschte","target":[{"translation":"günstigste","count":1}]},{"src":"günstigste","target":[{"translation":"günstigste","count":1}]},{"src":"ha","target":[{"translation":"ich habe","count":3},{"translation":"haben","count":2},{"translation":"gaben","count":1},{"translation":"habe (ich)","count":1}]},{"src":"hackbrett","target":[{"translation":"Hackbrett","count":1}]},{"src":"halt","target":[{"translation":"halt","count":1}]},{"src":"han","target":[{"translation":"habe (ich)","count":1}]},{"src":"handy","target":[{"translation":"Handy","count":1}]},{"src":"hani","target":[{"translation":"habe ich","count":1}]},{"src":"hans","target":[{"translation":"habe es (ich)","count":1}]},{"src":"heilig","target":[{"translation":"heilige (F)","count":1}]},{"src":"heissts","target":[{"translation":"heisst es","count":1}]},{"src":"hemp","target":[{"translation":"Hemd","count":2}]},{"src":"hend","target":[{"translation":"haben (sie)","count":3}]},{"src":"hesch","target":[{"translation":"hast (du)","count":2}]},{"src":"hesh","target":[{"translation":"hast (du)","count":1}]},{"src":"het","target":[{"translation":"hat (er/sie/es)","count":5}]},{"src":"hett","target":[{"translation":"hat (er/sie/es)","count":1}]},{"src":"huere","target":[{"translation":"sehr","count":3}]},{"src":"hund","target":[{"translation":"Hund","count":1}]},{"src":"husarzt","target":[{"translation":"Hausarzt","count":1}]},{"src":"huus","target":[{"translation":"Haus","count":1}]},{"src":"händ","target":[{"translation":"Händen","count":1}]},{"src":"hääs","target":[{"translation":"Häs","count":2}]},{"src":"hääse","target":[{"translation":"Häse","count":1}]},{"src":"höhr","target":[{"translation":"hör (du)","count":1}]},{"src":"hürde","target":[{"translation":"Hürde","count":1}]},{"src":"hüt","target":[{"translation":"heute","count":1}]},{"src":"i","target":[{"translation":"ich","count":7},{"translation":"in","count":5}]},{"src":"ide","target":[{"translation":"in der","count":2},{"translation":"in den","count":1},{"translation":"in den (pl.)","count":1}]},{"src":"igend so e","target":[{"translation":"irgendeinen","count":1}]},{"src":"iilaufe","target":[{"translation":"einlaufen","count":2}]},{"src":"iizfüehre","target":[{"translation":"einzuführen","count":1}]},{"src":"illegal","target":[{"translation":"illegal","count":2}]},{"src":"im","target":[{"translation":"im","count":6},{"translation":"in","count":1}]},{"src":"ime","target":[{"translation":"in einem","count":1}]},{"src":"immer","target":[{"translation":"immer","count":1}]},{"src":"impfig","target":[{"translation":"Impfung","count":2}]},{"src":"in","target":[{"translation":"in","count":1}]},{"src":"indem","target":[{"translation":"indem","count":1}]},{"src":"innerhalb","target":[{"translation":"innerhalb","count":1}]},{"src":"instruktione","target":[{"translation":"Instruktionen","count":1}]},{"src":"interesse","target":[{"translation":"Interessen","count":1}]},{"src":"isch","target":[{"translation":"ist (er/sie/es)","count":24}]},{"src":"ische","target":[{"translation":"ist es (er/sie/es)","count":1}]},{"src":"ischer","target":[{"translation":"ist er","count":1}]},{"src":"isches","target":[{"translation":"ist es","count":1}]},{"src":"ischt","target":[{"translation":"ist (er/sie/es)","count":1}]},{"src":"ish","target":[{"translation":"ist (er/sie/es)","count":3}]},{"src":"ja","target":[{"translation":"ja","count":2}]},{"src":"jacke","target":[{"translation":"Jacke","count":1}]},{"src":"je","target":[{"translation":"je","count":1}]},{"src":"jedem","target":[{"translation":"jedem","count":1}]},{"src":"jo","target":[{"translation":"ja","count":2}]},{"src":"job","target":[{"translation":"Job","count":1}]},{"src":"johr","target":[{"translation":"Jahr","count":1},{"translation":"Jahre","count":1}]},{"src":"kacke","target":[{"translation":"Kacke","count":1}]},{"src":"kanton","target":[{"translation":"Kanton","count":4}]},{"src":"kantonale","target":[{"translation":"kantonale","count":1}]},{"src":"kantön","target":[{"translation":"Kantonen","count":2},{"translation":"Kanton","count":1},{"translation":"Kantone","count":1}]},{"src":"kartöuuschnett","target":[{"translation":"Kartenausschnitt","count":1}]},{"src":"ke","target":[{"translation":"keine","count":1}]},{"src":"kei","target":[{"translation":"keine","count":2},{"translation":"keinen","count":2}]},{"src":"kenns","target":[{"translation":"kenne es (ich)","count":1}]},{"src":"kompass","target":[{"translation":"Kompass","count":1}]},{"src":"komplett","target":[{"translation":"komplett","count":1}]},{"src":"korrekt","target":[{"translation":"richtig","count":1}]},{"src":"kulturkrieg","target":[{"translation":"Kulturkrieg","count":1}]},{"src":"kulturkriegsshit","target":[{"translation":"Kulturkriegsshit","count":1}]},{"src":"landi","target":[{"translation":"Landi","count":2}]},{"src":"ledehose","target":[{"translation":"Lederhose","count":1}]},{"src":"legal","target":[{"translation":"legal","count":1}]},{"src":"legitim","target":[{"translation":"legitim","count":1}]},{"src":"lesid","target":[{"translation":"lesen (sie)","count":1}]},{"src":"liecht","target":[{"translation":"leicht","count":1}]},{"src":"liit","target":[{"translation":"liegt (er/sie/es)","count":1}]},{"src":"linke","target":[{"translation":"linken (F)","count":1}]},{"src":"loh","target":[{"translation":"lassen","count":3}]},{"src":"luege","target":[{"translation":"schauen","count":1}]},{"src":"luutstechitechnisch","target":[{"translation":"Lautstärke","count":1}]},{"src":"lösets","target":[{"translation":"löst es","count":1}]},{"src":"lüt","target":[{"translation":"Leute","count":1}]},{"src":"ma","target":[{"translation":"Mann","count":1}]},{"src":"mache","target":[{"translation":"machen","count":1}]},{"src":"mached","target":[{"translation":"machen (sie)","count":1}]},{"src":"machid","target":[{"translation":"machen (sie)","count":1}]},{"src":"macht","target":[{"translation":"macht (er/sie/es)","count":1}]},{"src":"mannechleide","target":[{"translation":"Männerkleider","count":1}]},{"src":"me","target":[{"translation":"man","count":2},{"translation":"mir","count":2},{"translation":"wir","count":2}]},{"src":"meinig","target":[{"translation":"Meinung","count":1}]},{"src":"mer","target":[{"translation":"mir","count":1},{"translation":"wir","count":1}]},{"src":"mes","target":[{"translation":"wir es","count":1}]},{"src":"messä","target":[{"translation":"Messer","count":1}]},{"src":"miitlewiile","target":[{"translation":"mittlerweile","count":1}]},{"src":"mini","target":[{"translation":"meine","count":1},{"translation":"meine (F)","count":1}]},{"src":"minute","target":[{"translation":"Minuten","count":1}]},{"src":"mir","target":[{"translation":"mir","count":1},{"translation":"wir","count":1}]},{"src":"mit","target":[{"translation":"mit","count":6},{"translation":"mir","count":2}]},{"src":"morge","target":[{"translation":"Morgen","count":1}]},{"src":"mue","target":[{"translation":"muss (ich)","count":1}]},{"src":"muess","target":[{"translation":"muss (er/sie/es)","count":2}]},{"src":"muss","target":[{"translation":"muss (er/sie/es)","count":1}]},{"src":"möglich","target":[{"translation":"möglich","count":2}]},{"src":"müend","target":[{"translation":"müssen (sie)","count":1}]},{"src":"münd","target":[{"translation":"müssen (sie)","count":1}]},{"src":"müsse","target":[{"translation":"gemusst","count":1}]},{"src":"nach","target":[{"translation":"nach","count":1}]},{"src":"nachrueh","target":[{"translation":"Nachricht","count":1}]},{"src":"nagel","target":[{"translation":"Nagel","count":1}]},{"src":"ne","target":[{"translation":"nicht","count":1}]},{"src":"ned","target":[{"translation":"nicht","count":4}]},{"src":"nedmal","target":[{"translation":"nicht mal","count":1}]},{"src":"neh","target":[{"translation":"nehmen","count":1}]},{"src":"nehmets","target":[{"translation":"nehmen es (sie)","count":1}]},{"src":"no","target":[{"translation":"noch","count":1}]},{"src":"noch","target":[{"translation":"nach","count":1}]},{"src":"nofroge","target":[{"translation":"nachfragen","count":1}]},{"src":"nohglueget","target":[{"translation":"nachgeschaut","count":1}]},{"src":"nome","target":[{"translation":"nur","count":2}]},{"src":"nonalkoholischi","target":[{"translation":"nichtalkoholische","count":1}]},{"src":"nume","target":[{"translation":"nur","count":3}]},{"src":"nummere","target":[{"translation":"Nummern","count":1}]},{"src":"nur","target":[{"translation":"nur","count":1}]},{"src":"nöd","target":[{"translation":"nicht","count":10}]},{"src":"nüd","target":[{"translation":"nicht","count":2}]},{"src":"ob","target":[{"translation":"ob","count":2}]},{"src":"obebegreff","target":[{"translation":"Überbegriff","count":1}]},{"src":"oder","target":[{"translation":"oder","count":5}]},{"src":"of","target":[{"translation":"auf","count":2}]},{"src":"ofem","target":[{"translation":"auf dem","count":1}]},{"src":"ok","target":[{"translation":"okay","count":2}]},{"src":"omkeht","target":[{"translation":"umgekehrt","count":1}]},{"src":"ond","target":[{"translation":"und","count":5}]},{"src":"opfer","target":[{"translation":"Opfer","count":1}]},{"src":"ornig","target":[{"translation":"Ordnung","count":1}]},{"src":"os","target":[{"translation":"aus","count":1}]},{"src":"paar","target":[{"translation":"Paar","count":2}]},{"src":"partei","target":[{"translation":"Partei","count":1}]},{"src":"passt","target":[{"translation":"passt (er/sie/es)","count":1}]},{"src":"per","target":[{"translation":"per","count":1}]},{"src":"persönlich","target":[{"translation":"persönlich","count":1}]},{"src":"pflicht","target":[{"translation":"Pflicht","count":1}]},{"src":"plakat","target":[{"translation":"Plakate","count":1}]},{"src":"polizei","target":[{"translation":"Polizei","count":1}]},{"src":"polizeigsetz","target":[{"translation":"Polizeigesetz","count":1}]},{"src":"post","target":[{"translation":"Post","count":1}]},{"src":"poste","target":[{"translation":"posten","count":1}]},{"src":"praxis","target":[{"translation":"Praxis","count":1}]},{"src":"problem","target":[{"translation":"Problem","count":1}]},{"src":"prügelknabbe","target":[{"translation":"Prügelknabe","count":1}]},{"src":"punkt","target":[{"translation":"Punkt","count":3}]},{"src":"quarzsand","target":[{"translation":"Quarzsand","count":1}]},{"src":"recht","target":[{"translation":"rechte","count":1}]},{"src":"rechts","target":[{"translation":"rechts","count":1}]},{"src":"rechtsbegriff","target":[{"translation":"Rechtsbegriff","count":1}]},{"src":"reded","target":[{"translation":"redet (er/sie/es)","count":1}]},{"src":"region","target":[{"translation":"Region","count":1}]},{"src":"representiert","target":[{"translation":"repräsentiert (er/sie/es)","count":1}]},{"src":"respektiere","target":[{"translation":"respektieren","count":1}]},{"src":"resultat","target":[{"translation":"Resultat","count":1}]},{"src":"richtig","target":[{"translation":"richtig","count":1}]},{"src":"roots","target":[{"translation":"rotes","count":1}]},{"src":"ruehstörig","target":[{"translation":"Störung","count":1}]},{"src":"s","target":[{"translation":"das","count":8}]},{"src":"sach","target":[{"translation":"Sache","count":1}]},{"src":"sache","target":[{"translation":"Sachen","count":1}]},{"src":"sakrileg","target":[{"translation":"Sakrileg","count":1}]},{"src":"sand","target":[{"translation":"Sand","count":2}]},{"src":"schaffid","target":[{"translation":"arbeiten (sie)","count":1}]},{"src":"schlechte","target":[{"translation":"schlechtem","count":1}]},{"src":"schnorri","target":[{"translation":"Schnorrer","count":1}]},{"src":"scho","target":[{"translation":"schon","count":6}]},{"src":"schofseckel","target":[{"translation":"Schafseckel","count":1}]},{"src":"schono","target":[{"translation":"schon noch","count":1}]},{"src":"schwiizer","target":[{"translation":"Schweizer","count":1}]},{"src":"schwiizerdütsch","target":[{"translation":"Schweizerdeutsch","count":2}]},{"src":"schwizer","target":[{"translation":"Schweizer","count":1}]},{"src":"schwizerdütsch","target":[{"translation":"Schweizerdeutsch","count":1}]},{"src":"schwizerstil","target":[{"translation":"Schweizerstil","count":1}]},{"src":"se","target":[{"translation":"se","count":1}]},{"src":"sege","target":[{"translation":"sagen","count":2}]},{"src":"segi","target":[{"translation":"sage ich","count":1}]},{"src":"sei","target":[{"translation":"sagt (er/sie/es)","count":1}]},{"src":"seisch","target":[{"translation":"sagst (du)","count":1}]},{"src":"seit","target":[{"translation":"sagt (er/sie/es)","count":1},{"translation":"seit","count":1}]},{"src":"selber","target":[{"translation":"selber","count":2}]},{"src":"senne","target":[{"translation":"Senne","count":1}]},{"src":"sennehääs","target":[{"translation":"Sennhäs","count":1}]},{"src":"sennetracht","target":[{"translation":"Sennetracht","count":1}]},{"src":"setet","target":[{"translation":"sollen (sie)","count":1}]},{"src":"sette","target":[{"translation":"sollte (er/sie/es)","count":1}]},{"src":"sheiss","target":[{"translation":"Scheiss","count":1}]},{"src":"sho","target":[{"translation":"schon","count":1}]},{"src":"shribet","target":[{"translation":"schreiben (sie)","count":1}]},{"src":"shwiz","target":[{"translation":"Schweiz","count":1}]},{"src":"si","target":[{"translation":"sie","count":2},{"translation":"sein","count":1}]},{"src":"sie","target":[{"translation":"sie","count":3},{"translation":"sein","count":1}]},{"src":"sii","target":[{"translation":"sein","count":1}]},{"src":"sind","target":[{"translation":"sind (sie)","count":4},{"translation":"bin (ich)","count":1},{"translation":"sind","count":1}]},{"src":"sinds","target":[{"translation":"sind es (sie)","count":1}]},{"src":"sine","target":[{"translation":"seinen","count":1}]},{"src":"sinn","target":[{"translation":"Sinn","count":1}]},{"src":"site","target":[{"translation":"Seite","count":1},{"translation":"Seiten","count":1}]},{"src":"so","target":[{"translation":"so","count":2}]},{"src":"sondern","target":[{"translation":"sondern","count":1}]},{"src":"sone","target":[{"translation":"so eine","count":1}]},{"src":"sones","target":[{"translation":"so ein","count":1}]},{"src":"speziöll","target":[{"translation":"spezielle","count":1}]},{"src":"spiele","target":[{"translation":"spielen","count":1}]},{"src":"springend","target":[{"translation":"springende","count":1}]},{"src":"sprochustusch","target":[{"translation":"Sprachaustausch","count":1}]},{"src":"starch","target":[{"translation":"stark","count":1}]},{"src":"starrchrampf","target":[{"translation":"Starrkrampf","count":1}]},{"src":"stimmrecht","target":[{"translation":"Stimmrecht","count":1}]},{"src":"stimmt","target":[{"translation":"stimmt (er/sie/es)","count":1}]},{"src":"stoht","target":[{"translation":"steht (er/sie/es)","count":1}]},{"src":"strenggnoh","target":[{"translation":"strenggenommen","count":1}]},{"src":"super","target":[{"translation":"super","count":1}]},{"src":"svpler","target":[{"translation":"SVPler","count":1}]},{"src":"sönd","target":[{"translation":"sind (wir)","count":2}]},{"src":"sösch","target":[{"translation":"sonst","count":1}]},{"src":"söttigi","target":[{"translation":"solche","count":1}]},{"src":"sötts","target":[{"translation":"sollte es","count":1}]},{"src":"söttsch","target":[{"translation":"sollst (du)","count":1}]},{"src":"süsch","target":[{"translation":"sonst","count":1}]},{"src":"tag","target":[{"translation":"Tag","count":1}]},{"src":"tollwuet","target":[{"translation":"Tollwut","count":1}]},{"src":"traditionell","target":[{"translation":"traditionell","count":1}]},{"src":"traditionelli","target":[{"translation":"traditionelle","count":1}]},{"src":"tünd","target":[{"translation":"tun (sie)","count":1}]},{"src":"uesi","target":[{"translation":"unsere (F)","count":1}]},{"src":"uf","target":[{"translation":"auf","count":8}]},{"src":"ufem","target":[{"translation":"auf dem","count":1}]},{"src":"ufgoh","target":[{"translation":"aufgehen","count":1}]},{"src":"ufgwachse","target":[{"translation":"aufgewachsen","count":1}]},{"src":"um","target":[{"translation":"um","count":1}]},{"src":"unbestimmte","target":[{"translation":"unbestimmter","count":1}]},{"src":"und","target":[{"translation":"und","count":13}]},{"src":"us","target":[{"translation":"aus","count":3}]},{"src":"uschmücke","target":[{"translation":"ausschmücken","count":1}]},{"src":"usdrock","target":[{"translation":"Ausdruck","count":1}]},{"src":"ussag","target":[{"translation":"Aussage","count":1}]},{"src":"uswahl","target":[{"translation":"Auswahl","count":2}]},{"src":"verbot","target":[{"translation":"Verbot","count":2}]},{"src":"verbote","target":[{"translation":"verboten","count":1}]},{"src":"verchauft","target":[{"translation":"verkauft (er/sie/es)","count":1}]},{"src":"verpflichtet","target":[{"translation":"verpflichtet (er/sie/es)","count":1}]},{"src":"versuchet","target":[{"translation":"versuchen (sie)","count":1}]},{"src":"vie","target":[{"translation":"viele","count":1}]},{"src":"vieli","target":[{"translation":"viele","count":1}]},{"src":"viellicht","target":[{"translation":"vielleicht","count":1}]},{"src":"vilne","target":[{"translation":"vielen","count":1}]},{"src":"vo","target":[{"translation":"von","count":9}]},{"src":"vode","target":[{"translation":"von den","count":1}]},{"src":"vom","target":[{"translation":"vom","count":1}]},{"src":"vome","target":[{"translation":"von einem","count":1}]},{"src":"vone","target":[{"translation":"von einem","count":1}]},{"src":"vorteil","target":[{"translation":"Vorteil","count":1}]},{"src":"wa","target":[{"translation":"was","count":2}]},{"src":"wahl","target":[{"translation":"weil","count":1}]},{"src":"was","target":[{"translation":"was","count":2}]},{"src":"wasser","target":[{"translation":"Wasser","count":2}]},{"src":"weg","target":[{"translation":"wegen","count":1}]},{"src":"weil","target":[{"translation":"weil","count":1}]},{"src":"weiss","target":[{"translation":"weiss (ich)","count":1}]},{"src":"wenig","target":[{"translation":"wenig","count":1}]},{"src":"wenigstens","target":[{"translation":"wenigstens","count":1}]},{"src":"wenn","target":[{"translation":"wenn","count":3}]},{"src":"wennd","target":[{"translation":"wenn die","count":4},{"translation":"wenn du","count":1}]},{"src":"wenns","target":[{"translation":"wenn es","count":1}]},{"src":"wer","target":[{"translation":"wer","count":2}]},{"src":"werbe","target":[{"translation":"werben","count":1}]},{"src":"werde","target":[{"translation":"werden","count":1}]},{"src":"wichtig","target":[{"translation":"wichtig","count":1}]},{"src":"wider","target":[{"translation":"wieder","count":1}]},{"src":"wie","target":[{"translation":"wie","count":6},{"translation":"als","count":2},{"translation":"wir","count":1}]},{"src":"wieder","target":[{"translation":"wieder","count":3}]},{"src":"wiises","target":[{"translation":"weisses","count":1}]},{"src":"wills","target":[{"translation":"weil es","count":1}]},{"src":"wird","target":[{"translation":"wird","count":1}]},{"src":"wirsch","target":[{"translation":"wirst du","count":1}]},{"src":"wirtschaft","target":[{"translation":"Wirtschaft","count":1}]},{"src":"wiss","target":[{"translation":"weisser (M)","count":1}]},{"src":"wissi","target":[{"translation":"weisser (M)","count":1}]},{"src":"wo","target":[{"translation":"die","count":4},{"translation":"der","count":2},{"translation":"wo","count":2},{"translation":"die (pl.)","count":1},{"translation":"welcher","count":1},{"translation":"welches","count":1}]},{"src":"wod","target":[{"translation":"wo du","count":1}]},{"src":"wohr","target":[{"translation":"wahr","count":1}]},{"src":"wohrschinlich","target":[{"translation":"wahrscheinlich","count":1}]},{"src":"worde","target":[{"translation":"worden","count":1}]},{"src":"wort","target":[{"translation":"Wort","count":1}]},{"src":"wähle","target":[{"translation":"wählen","count":3},{"translation":"wollen","count":1}]},{"src":"wähli","target":[{"translation":"welche (F)","count":1}]},{"src":"wöme","target":[{"translation":"wollen wir","count":1}]},{"src":"würdlose","target":[{"translation":"wertloses","count":1}]},{"src":"würkli","target":[{"translation":"wirklich","count":1}]},{"src":"würklich","target":[{"translation":"wirklich","count":1}]},{"src":"z","target":[{"translation":"zu","count":3}]},{"src":"zgoh","target":[{"translation":"zu gehen","count":1}]},{"src":"zit","target":[{"translation":"Zeit","count":2}]},{"src":"zmache","target":[{"translation":"zu machen","count":1}]},{"src":"zom","target":[{"translation":"zum","count":1}]},{"src":"zoms","target":[{"translation":"um es zu","count":1}]},{"src":"zschriebe","target":[{"translation":"zu schreiben","count":1}]},{"src":"zshafe","target":[{"translation":"zu arbeiten","count":1}]},{"src":"zu","target":[{"translation":"zu","count":1}]},{"src":"zum","target":[{"translation":"zum","count":3}]},{"src":"zwiifelsfall","target":[{"translation":"Zweifelsfall","count":1}]},{"src":"züri","target":[{"translation":"Zürich","count":1}]},{"src":"züridütsch","target":[{"translation":"Zürichdeutsch","count":1}]},{"src":"ändere","target":[{"translation":"ändern","count":1}]},{"src":"öb","target":[{"translation":"ob","count":1}]},{"src":"öppis","target":[{"translation":"etwas","count":1}]},{"src":"übercho","target":[{"translation":"bekommen","count":1}]},{"src":"überegumpe","target":[{"translation":"überhüpfen","count":1}]}]
+[
+    {
+        "src": "ab",
+        "target": [
+            {
+                "translation": "ab",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "abe",
+        "target": [
+            {
+                "translation": "aber",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "src": "aber",
+        "target": [
+            {
+                "translation": "aber",
+                "count": 11
+            }
+        ]
+    },
+    {
+        "src": "abfahre",
+        "target": [
+            {
+                "translation": "abfahren",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "abfaht",
+        "target": [
+            {
+                "translation": "Abfahrt",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "abbaut",
+        "target": [
+            {
+                "translation": "abgebaut",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "ablaufe",
+        "target": [
+            {
+                "translation": "ablaufen",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "abstimme",
+        "target": [
+            {
+                "translation": "abstimmen",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "achso",
+        "target": [
+            {
+                "translation": "ach so",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "ah",
+        "target": [
+            {
+                "translation": "ah",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "ahh",
+        "target": [
+            {
+                "translation": "ah",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "akustische",
+        "target": [
+            {
+                "translation": "akustischen",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "albe",
+        "target": [
+            {
+                "translation": "Alben",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "alkoholische",
+        "target": [
+            {
+                "translation": "alkoholische",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "alli",
+        "target": [
+            {
+                "translation": "alle",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "src": "alles",
+        "target": [
+            {
+                "translation": "alles",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "alltags",
+        "target": [
+            {
+                "translation": "alltags",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "als",
+        "target": [
+            {
+                "translation": "als",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "as",
+        "target": [
+            {
+                "translation": "als",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "wie",
+        "target": [
+            {
+                "translation": "wie",
+                "count": 6
+            },
+            {
+                "translation": "als",
+                "count": 2
+            },
+            {
+                "translation": "wir",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "aso",
+        "target": [
+            {
+                "translation": "also",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "alter",
+        "target": [
+            {
+                "translation": "Alter",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "am",
+        "target": [
+            {
+                "translation": "am",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "src": "amies",
+        "target": [
+            {
+                "translation": "Amis",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "a",
+        "target": [
+            {
+                "translation": "an",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "a dere",
+        "target": [
+            {
+                "translation": "an der",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "ananas",
+        "target": [
+            {
+                "translation": "Ananas",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "anderi",
+        "target": [
+            {
+                "translation": "andere (pl.)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "anders",
+        "target": [
+            {
+                "translation": "anderes",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "ändere",
+        "target": [
+            {
+                "translation": "ändern",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "abotte",
+        "target": [
+            {
+                "translation": "angeboten",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "aagoht",
+        "target": [
+            {
+                "translation": "angeht (er/sie/es)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "aaluege",
+        "target": [
+            {
+                "translation": "anschauen",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "anstatt",
+        "target": [
+            {
+                "translation": "anstatt",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "antwort",
+        "target": [
+            {
+                "translation": "Antwort",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "appezeller",
+        "target": [
+            {
+                "translation": "Appenzeller",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "appezölle",
+        "target": [
+            {
+                "translation": "Appenzeller",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "appezellische",
+        "target": [
+            {
+                "translation": "appenzellischen",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "arbeit",
+        "target": [
+            {
+                "translation": "Arbeit",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "schaffid",
+        "target": [
+            {
+                "translation": "arbeiten (sie)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "arena",
+        "target": [
+            {
+                "translation": "Arena",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "assekuranz",
+        "target": [
+            {
+                "translation": "Assekuranz",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "au",
+        "target": [
+            {
+                "translation": "auch",
+                "count": 11
+            }
+        ]
+    },
+    {
+        "src": "of",
+        "target": [
+            {
+                "translation": "auf",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "uf",
+        "target": [
+            {
+                "translation": "auf",
+                "count": 8
+            }
+        ]
+    },
+    {
+        "src": "ofem",
+        "target": [
+            {
+                "translation": "auf dem",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "ufem",
+        "target": [
+            {
+                "translation": "auf dem",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "ufgoh",
+        "target": [
+            {
+                "translation": "aufgehen",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "ufgwachse",
+        "target": [
+            {
+                "translation": "aufgewachsen",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "auge",
+        "target": [
+            {
+                "translation": "Augen",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "os",
+        "target": [
+            {
+                "translation": "aus",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "us",
+        "target": [
+            {
+                "translation": "aus",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "src": "usdrock",
+        "target": [
+            {
+                "translation": "Ausdruck",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "ussag",
+        "target": [
+            {
+                "translation": "Aussage",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "uschmücke",
+        "target": [
+            {
+                "translation": "ausschmücken",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "australier",
+        "target": [
+            {
+                "translation": "Australier",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "uswahl",
+        "target": [
+            {
+                "translation": "Auswahl",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "automatisch",
+        "target": [
+            {
+                "translation": "automatisch",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "bade",
+        "target": [
+            {
+                "translation": "baden",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "baden",
+        "target": [
+            {
+                "translation": "baden",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "buure",
+        "target": [
+            {
+                "translation": "Bauern",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "bauindustrie",
+        "target": [
+            {
+                "translation": "Bauindustrie",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "baustandard",
+        "target": [
+            {
+                "translation": "Baustandard",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "begreff",
+        "target": [
+            {
+                "translation": "Begriff",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "bi",
+        "target": [
+            {
+                "translation": "bei",
+                "count": 6
+            },
+            {
+                "translation": "bin (ich)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "beedes",
+        "target": [
+            {
+                "translation": "beides",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "bim",
+        "target": [
+            {
+                "translation": "beim",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "becho",
+        "target": [
+            {
+                "translation": "bekommen",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "übercho",
+        "target": [
+            {
+                "translation": "bekommen",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "benutz",
+        "target": [
+            {
+                "translation": "benutz (du)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "bereits",
+        "target": [
+            {
+                "translation": "bereits",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "bern",
+        "target": [
+            {
+                "translation": "Bern",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "bruef",
+        "target": [
+            {
+                "translation": "Beruf",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "bschlüsse",
+        "target": [
+            {
+                "translation": "beschliessen",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "beschränkig",
+        "target": [
+            {
+                "translation": "Beschränkung",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "bescht",
+        "target": [
+            {
+                "translation": "beste",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "bestoht",
+        "target": [
+            {
+                "translation": "besteht (er/sie/es)",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "src": "bestimmig",
+        "target": [
+            {
+                "translation": "Bestimmung",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "beworbe",
+        "target": [
+            {
+                "translation": "beworben",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "bezug",
+        "target": [
+            {
+                "translation": "Bezug",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "bier",
+        "target": [
+            {
+                "translation": "Bier",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "sind",
+        "target": [
+            {
+                "translation": "sind (sie)",
+                "count": 4
+            },
+            {
+                "translation": "bin (ich)",
+                "count": 1
+            },
+            {
+                "translation": "sind",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "bis",
+        "target": [
+            {
+                "translation": "bis",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "src": "bisch",
+        "target": [
+            {
+                "translation": "bist (du)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "bock",
+        "target": [
+            {
+                "translation": "Bock",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "bonus",
+        "target": [
+            {
+                "translation": "Bonus",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "bruuni",
+        "target": [
+            {
+                "translation": "braune",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "buech",
+        "target": [
+            {
+                "translation": "Buch",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "bundesebene",
+        "target": [
+            {
+                "translation": "Bundesebene",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "chinesisch",
+        "target": [
+            {
+                "translation": "chinesisches",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "cis",
+        "target": [
+            {
+                "translation": "cis",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "da",
+        "target": [
+            {
+                "translation": "da",
+                "count": 3
+            },
+            {
+                "translation": "das",
+                "count": 1
+            },
+            {
+                "translation": "hier",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "debi",
+        "target": [
+            {
+                "translation": "dabei",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "danke",
+        "target": [
+            {
+                "translation": "danke",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "den",
+        "target": [
+            {
+                "translation": "dann",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "denn",
+        "target": [
+            {
+                "translation": "dann",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "drom",
+        "target": [
+            {
+                "translation": "darum",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "das",
+        "target": [
+            {
+                "translation": "das",
+                "count": 6
+            }
+        ]
+    },
+    {
+        "src": "s",
+        "target": [
+            {
+                "translation": "das",
+                "count": 8
+            }
+        ]
+    },
+    {
+        "src": "dass",
+        "target": [
+            {
+                "translation": "dass",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "src": "dasses",
+        "target": [
+            {
+                "translation": "dass es",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "de vo",
+        "target": [
+            {
+                "translation": "davon",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "definiert",
+        "target": [
+            {
+                "translation": "definiert",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "dini",
+        "target": [
+            {
+                "translation": "deine (pl.)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "dim",
+        "target": [
+            {
+                "translation": "deinem",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "diner",
+        "target": [
+            {
+                "translation": "deiner (F)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "de",
+        "target": [
+            {
+                "translation": "der",
+                "count": 10
+            },
+            {
+                "translation": "den",
+                "count": 5
+            },
+            {
+                "translation": "der (M)",
+                "count": 3
+            },
+            {
+                "translation": "dem",
+                "count": 1
+            },
+            {
+                "translation": "den (M)",
+                "count": 1
+            },
+            {
+                "translation": "den (pl.)",
+                "count": 1
+            },
+            {
+                "translation": "der (F)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "dem",
+        "target": [
+            {
+                "translation": "dem",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "src": "wo",
+        "target": [
+            {
+                "translation": "die",
+                "count": 4
+            },
+            {
+                "translation": "der",
+                "count": 2
+            },
+            {
+                "translation": "wo",
+                "count": 2
+            },
+            {
+                "translation": "die (pl.)",
+                "count": 1
+            },
+            {
+                "translation": "welcher",
+                "count": 1
+            },
+            {
+                "translation": "welches",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "der",
+        "target": [
+            {
+                "translation": "der (F)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "detailhandel",
+        "target": [
+            {
+                "translation": "Detailhandel",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "dütsch",
+        "target": [
+            {
+                "translation": "Deutsch",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "d",
+        "target": [
+            {
+                "translation": "die",
+                "count": 6
+            }
+        ]
+    },
+    {
+        "src": "di",
+        "target": [
+            {
+                "translation": "die",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "die",
+        "target": [
+            {
+                "translation": "die (pl.)",
+                "count": 2
+            },
+            {
+                "translation": "die",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "dir",
+        "target": [
+            {
+                "translation": "dir",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "doch",
+        "target": [
+            {
+                "translation": "doch",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "du",
+        "target": [
+            {
+                "translation": "du",
+                "count": 6
+            }
+        ]
+    },
+    {
+        "src": "dönne",
+        "target": [
+            {
+                "translation": "dünner",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "döre",
+        "target": [
+            {
+                "translation": "durch",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "durch",
+        "target": [
+            {
+                "translation": "durch",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "ebe",
+        "target": [
+            {
+                "translation": "eben",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "src": "echt",
+        "target": [
+            {
+                "translation": "echt",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "eidgenössischi",
+        "target": [
+            {
+                "translation": "eidgenössische",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "ees",
+        "target": [
+            {
+                "translation": "ein",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "en",
+        "target": [
+            {
+                "translation": "ein",
+                "count": 3
+            },
+            {
+                "translation": "eine",
+                "count": 2
+            },
+            {
+                "translation": "einen",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "es",
+        "target": [
+            {
+                "translation": "es",
+                "count": 8
+            },
+            {
+                "translation": "ein",
+                "count": 2
+            },
+            {
+                "translation": "ein (N)",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "eis",
+        "target": [
+            {
+                "translation": "ein (N)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "chli",
+        "target": [
+            {
+                "translation": "ein bisschen",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "e",
+        "target": [
+            {
+                "translation": "eine",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "eme",
+        "target": [
+            {
+                "translation": "einem",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "einere",
+        "target": [
+            {
+                "translation": "einer",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "efach",
+        "target": [
+            {
+                "translation": "einfach",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "eifach",
+        "target": [
+            {
+                "translation": "einfach",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "src": "iilaufe",
+        "target": [
+            {
+                "translation": "einlaufen",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "einzige",
+        "target": [
+            {
+                "translation": "einzigen (pl.)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "iizfüehre",
+        "target": [
+            {
+                "translation": "einzuführen",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "eltere",
+        "target": [
+            {
+                "translation": "Eltern",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "end",
+        "target": [
+            {
+                "translation": "Ende",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "endgültig",
+        "target": [
+            {
+                "translation": "endgültig",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "endlich",
+        "target": [
+            {
+                "translation": "endlich",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "englisch",
+        "target": [
+            {
+                "translation": "Englisch",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "erbringsh",
+        "target": [
+            {
+                "translation": "erbringst (du)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "ernst",
+        "target": [
+            {
+                "translation": "ernst",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "eescht",
+        "target": [
+            {
+                "translation": "erste",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "erst",
+        "target": [
+            {
+                "translation": "erste (F)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "esse",
+        "target": [
+            {
+                "translation": "Essen",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "öppis",
+        "target": [
+            {
+                "translation": "etwas",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "falsch",
+        "target": [
+            {
+                "translation": "falsch",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "fein",
+        "target": [
+            {
+                "translation": "fein",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "filzhose",
+        "target": [
+            {
+                "translation": "Filzhose",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "finds",
+        "target": [
+            {
+                "translation": "finde es (ich)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "findi",
+        "target": [
+            {
+                "translation": "finde ich",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "src": "frankrich",
+        "target": [
+            {
+                "translation": "Frankreich",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "fraue",
+        "target": [
+            {
+                "translation": "Frauen",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "frei",
+        "target": [
+            {
+                "translation": "frei",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "frisch",
+        "target": [
+            {
+                "translation": "frisch",
+                "count": 1
+            },
+            {
+                "translation": "frisst (du)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "frustrierend",
+        "target": [
+            {
+                "translation": "frustrierend",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "funktioniertz",
+        "target": [
+            {
+                "translation": "funktioniert es",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "fö",
+        "target": [
+            {
+                "translation": "für",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "src": "für",
+        "target": [
+            {
+                "translation": "für",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "src": "föd",
+        "target": [
+            {
+                "translation": "für die",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "föres",
+        "target": [
+            {
+                "translation": "für ein",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "ha",
+        "target": [
+            {
+                "translation": "ich habe",
+                "count": 3
+            },
+            {
+                "translation": "haben",
+                "count": 2
+            },
+            {
+                "translation": "gaben",
+                "count": 1
+            },
+            {
+                "translation": "habe (ich)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "ganz",
+        "target": [
+            {
+                "translation": "ganz",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "ganze",
+        "target": [
+            {
+                "translation": "ganzen",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "gar",
+        "target": [
+            {
+                "translation": "gar",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "gastgwerb",
+        "target": [
+            {
+                "translation": "Gastgewerbe",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "gastgewerbegsetz",
+        "target": [
+            {
+                "translation": "Gastgewerbegesetz",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "gastgwerbegsetz",
+        "target": [
+            {
+                "translation": "Gastwerbegesetz",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "gastwirtschafte",
+        "target": [
+            {
+                "translation": "Gastwirtschaften",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "denkt",
+        "target": [
+            {
+                "translation": "gedacht",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "geignet",
+        "target": [
+            {
+                "translation": "geeignet",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "gahni",
+        "target": [
+            {
+                "translation": "gehe ich",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "go",
+        "target": [
+            {
+                "translation": "gehen",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "goh",
+        "target": [
+            {
+                "translation": "gehen",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "gend",
+        "target": [
+            {
+                "translation": "gehen (wir)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "geil",
+        "target": [
+            {
+                "translation": "geil",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "cho",
+        "target": [
+            {
+                "translation": "gekommen",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "glernt",
+        "target": [
+            {
+                "translation": "gelernt",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "göll",
+        "target": [
+            {
+                "translation": "gell",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "gmacht",
+        "target": [
+            {
+                "translation": "gemacht",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "gmerkt",
+        "target": [
+            {
+                "translation": "gemerkt",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "müsse",
+        "target": [
+            {
+                "translation": "gemusst",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "gnau",
+        "target": [
+            {
+                "translation": "genau",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "generell",
+        "target": [
+            {
+                "translation": "generell",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "grad",
+        "target": [
+            {
+                "translation": "gerade",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "src": "grichtlichi",
+        "target": [
+            {
+                "translation": "gerechtliche",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "gredet",
+        "target": [
+            {
+                "translation": "geredet",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "gern",
+        "target": [
+            {
+                "translation": "gerne",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "gseit",
+        "target": [
+            {
+                "translation": "gesagt",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "src": "gschiid",
+        "target": [
+            {
+                "translation": "gescheit",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "gschnettne",
+        "target": [
+            {
+                "translation": "geschnittener",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "gseh",
+        "target": [
+            {
+                "translation": "gesehen",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "gsetz",
+        "target": [
+            {
+                "translation": "Gesetz",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "gsetzlichi",
+        "target": [
+            {
+                "translation": "gesetzliche",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "gsetzessammlige",
+        "target": [
+            {
+                "translation": "Gesetzsammlungen",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "gestoh",
+        "target": [
+            {
+                "translation": "gestehen",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "gstumme",
+        "target": [
+            {
+                "translation": "gestimmt",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "getränk",
+        "target": [
+            {
+                "translation": "Getränk",
+                "count": 3
+            },
+            {
+                "translation": "Getränke",
+                "count": 1
+            },
+            {
+                "translation": "Getränken",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "gse",
+        "target": [
+            {
+                "translation": "gewesen",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "gsi",
+        "target": [
+            {
+                "translation": "gewesen",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "git",
+        "target": [
+            {
+                "translation": "gibt",
+                "count": 1
+            },
+            {
+                "translation": "gibt (er/sie/es)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "gets",
+        "target": [
+            {
+                "translation": "gibt es",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "gits",
+        "target": [
+            {
+                "translation": "gibt es",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "gliche",
+        "target": [
+            {
+                "translation": "gleichen",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "grundlag",
+        "target": [
+            {
+                "translation": "Grundlage",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "günstiger",
+        "target": [
+            {
+                "translation": "günstiger",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "src": "günstigschte",
+        "target": [
+            {
+                "translation": "günstigste",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "günstigste",
+        "target": [
+            {
+                "translation": "günstigste",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "guet",
+        "target": [
+            {
+                "translation": "gut",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "han",
+        "target": [
+            {
+                "translation": "habe (ich)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "hans",
+        "target": [
+            {
+                "translation": "habe es (ich)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "hani",
+        "target": [
+            {
+                "translation": "habe ich",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "hend",
+        "target": [
+            {
+                "translation": "haben (sie)",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "src": "hackbrett",
+        "target": [
+            {
+                "translation": "Hackbrett",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "halt",
+        "target": [
+            {
+                "translation": "halt",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "händ",
+        "target": [
+            {
+                "translation": "Händen",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "handy",
+        "target": [
+            {
+                "translation": "Handy",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "hääs",
+        "target": [
+            {
+                "translation": "Häs",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "hääse",
+        "target": [
+            {
+                "translation": "Häse",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "hesch",
+        "target": [
+            {
+                "translation": "hast (du)",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "hesh",
+        "target": [
+            {
+                "translation": "hast (du)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "het",
+        "target": [
+            {
+                "translation": "hat (er/sie/es)",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "src": "hett",
+        "target": [
+            {
+                "translation": "hat (er/sie/es)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "huus",
+        "target": [
+            {
+                "translation": "Haus",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "husarzt",
+        "target": [
+            {
+                "translation": "Hausarzt",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "heilig",
+        "target": [
+            {
+                "translation": "heilige (F)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "heissts",
+        "target": [
+            {
+                "translation": "heisst es",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "hemp",
+        "target": [
+            {
+                "translation": "Hemd",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "hüt",
+        "target": [
+            {
+                "translation": "heute",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "höhr",
+        "target": [
+            {
+                "translation": "hör (du)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "hund",
+        "target": [
+            {
+                "translation": "Hund",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "hürde",
+        "target": [
+            {
+                "translation": "Hürde",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "i",
+        "target": [
+            {
+                "translation": "ich",
+                "count": 7
+            },
+            {
+                "translation": "in",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "src": "ga",
+        "target": [
+            {
+                "translation": "ich gehe",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "ehm",
+        "target": [
+            {
+                "translation": "ihm",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "illegal",
+        "target": [
+            {
+                "translation": "illegal",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "im",
+        "target": [
+            {
+                "translation": "im",
+                "count": 6
+            },
+            {
+                "translation": "in",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "immer",
+        "target": [
+            {
+                "translation": "immer",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "impfig",
+        "target": [
+            {
+                "translation": "Impfung",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "in",
+        "target": [
+            {
+                "translation": "in",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "ide",
+        "target": [
+            {
+                "translation": "in der",
+                "count": 2
+            },
+            {
+                "translation": "in den",
+                "count": 1
+            },
+            {
+                "translation": "in den (pl.)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "ime",
+        "target": [
+            {
+                "translation": "in einem",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "indem",
+        "target": [
+            {
+                "translation": "indem",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "innerhalb",
+        "target": [
+            {
+                "translation": "innerhalb",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "instruktione",
+        "target": [
+            {
+                "translation": "Instruktionen",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "interesse",
+        "target": [
+            {
+                "translation": "Interessen",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "igend so e",
+        "target": [
+            {
+                "translation": "irgendeinen",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "isch",
+        "target": [
+            {
+                "translation": "ist (er/sie/es)",
+                "count": 24
+            }
+        ]
+    },
+    {
+        "src": "ischt",
+        "target": [
+            {
+                "translation": "ist (er/sie/es)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "ish",
+        "target": [
+            {
+                "translation": "ist (er/sie/es)",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "src": "ischer",
+        "target": [
+            {
+                "translation": "ist er",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "isches",
+        "target": [
+            {
+                "translation": "ist es",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "ische",
+        "target": [
+            {
+                "translation": "ist es (er/sie/es)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "ja",
+        "target": [
+            {
+                "translation": "ja",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "jo",
+        "target": [
+            {
+                "translation": "ja",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "jacke",
+        "target": [
+            {
+                "translation": "Jacke",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "johr",
+        "target": [
+            {
+                "translation": "Jahr",
+                "count": 1
+            },
+            {
+                "translation": "Jahre",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "je",
+        "target": [
+            {
+                "translation": "je",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "jedem",
+        "target": [
+            {
+                "translation": "jedem",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "eber",
+        "target": [
+            {
+                "translation": "jemand",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "etz",
+        "target": [
+            {
+                "translation": "jetzt",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "job",
+        "target": [
+            {
+                "translation": "Job",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "kacke",
+        "target": [
+            {
+                "translation": "Kacke",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "cha",
+        "target": [
+            {
+                "translation": "können (wir)",
+                "count": 2
+            },
+            {
+                "translation": "kann (er/sie/es)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "chan",
+        "target": [
+            {
+                "translation": "kann (er/sie/es)",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "chasch",
+        "target": [
+            {
+                "translation": "kannst du",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "chash",
+        "target": [
+            {
+                "translation": "kannst du",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "kanton",
+        "target": [
+            {
+                "translation": "Kanton",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "src": "kantön",
+        "target": [
+            {
+                "translation": "Kantonen",
+                "count": 2
+            },
+            {
+                "translation": "Kanton",
+                "count": 1
+            },
+            {
+                "translation": "Kantone",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "kantonale",
+        "target": [
+            {
+                "translation": "kantonale",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "kartöuuschnett",
+        "target": [
+            {
+                "translation": "Kartenausschnitt",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "chääs",
+        "target": [
+            {
+                "translation": "Käse",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "chäs",
+        "target": [
+            {
+                "translation": "Käse",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "ke",
+        "target": [
+            {
+                "translation": "keine",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "kei",
+        "target": [
+            {
+                "translation": "keine",
+                "count": 2
+            },
+            {
+                "translation": "keinen",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "kenns",
+        "target": [
+            {
+                "translation": "kenne es (ich)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "chennt",
+        "target": [
+            {
+                "translation": "kennt (er/sie/es)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "chline",
+        "target": [
+            {
+                "translation": "kleinen",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "comments",
+        "target": [
+            {
+                "translation": "Kommentaren",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "kompass",
+        "target": [
+            {
+                "translation": "Kompass",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "komplett",
+        "target": [
+            {
+                "translation": "komplett",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "chamer",
+        "target": [
+            {
+                "translation": "können wir",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "chammer",
+        "target": [
+            {
+                "translation": "können wir",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "chönnt",
+        "target": [
+            {
+                "translation": "könnte (er/sie/es)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "chratzer",
+        "target": [
+            {
+                "translation": "Kratzer",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "kulturkrieg",
+        "target": [
+            {
+                "translation": "Kulturkrieg",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "kulturkriegsshit",
+        "target": [
+            {
+                "translation": "Kulturkriegsshit",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "landi",
+        "target": [
+            {
+                "translation": "Landi",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "loh",
+        "target": [
+            {
+                "translation": "lassen",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "src": "luutstechitechnisch",
+        "target": [
+            {
+                "translation": "Lautstärke",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "ledehose",
+        "target": [
+            {
+                "translation": "Lederhose",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "legal",
+        "target": [
+            {
+                "translation": "legal",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "legitim",
+        "target": [
+            {
+                "translation": "legitim",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "liecht",
+        "target": [
+            {
+                "translation": "leicht",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "lesid",
+        "target": [
+            {
+                "translation": "lesen (sie)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "lüt",
+        "target": [
+            {
+                "translation": "Leute",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "liit",
+        "target": [
+            {
+                "translation": "liegt (er/sie/es)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "linke",
+        "target": [
+            {
+                "translation": "linken (F)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "lösets",
+        "target": [
+            {
+                "translation": "löst es",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "mache",
+        "target": [
+            {
+                "translation": "machen",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "mached",
+        "target": [
+            {
+                "translation": "machen (sie)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "machid",
+        "target": [
+            {
+                "translation": "machen (sie)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "macht",
+        "target": [
+            {
+                "translation": "macht (er/sie/es)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "emol",
+        "target": [
+            {
+                "translation": "mall",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "me",
+        "target": [
+            {
+                "translation": "man",
+                "count": 2
+            },
+            {
+                "translation": "mir",
+                "count": 2
+            },
+            {
+                "translation": "wir",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "ma",
+        "target": [
+            {
+                "translation": "Mann",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "mannechleide",
+        "target": [
+            {
+                "translation": "Männerkleider",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "mini",
+        "target": [
+            {
+                "translation": "meine",
+                "count": 1
+            },
+            {
+                "translation": "meine (F)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "meinig",
+        "target": [
+            {
+                "translation": "Meinung",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "messä",
+        "target": [
+            {
+                "translation": "Messer",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "minute",
+        "target": [
+            {
+                "translation": "Minuten",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "mer",
+        "target": [
+            {
+                "translation": "mir",
+                "count": 1
+            },
+            {
+                "translation": "wir",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "mir",
+        "target": [
+            {
+                "translation": "mir",
+                "count": 1
+            },
+            {
+                "translation": "wir",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "mit",
+        "target": [
+            {
+                "translation": "mit",
+                "count": 6
+            },
+            {
+                "translation": "mir",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "miitlewiile",
+        "target": [
+            {
+                "translation": "mittlerweile",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "möglich",
+        "target": [
+            {
+                "translation": "möglich",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "morge",
+        "target": [
+            {
+                "translation": "Morgen",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "muess",
+        "target": [
+            {
+                "translation": "muss (er/sie/es)",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "muss",
+        "target": [
+            {
+                "translation": "muss (er/sie/es)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "mue",
+        "target": [
+            {
+                "translation": "muss (ich)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "müend",
+        "target": [
+            {
+                "translation": "müssen (sie)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "münd",
+        "target": [
+            {
+                "translation": "müssen (sie)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "nach",
+        "target": [
+            {
+                "translation": "nach",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "noch",
+        "target": [
+            {
+                "translation": "nach",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "nofroge",
+        "target": [
+            {
+                "translation": "nachfragen",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "nohglueget",
+        "target": [
+            {
+                "translation": "nachgeschaut",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "nachrueh",
+        "target": [
+            {
+                "translation": "Nachricht",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "nagel",
+        "target": [
+            {
+                "translation": "Nagel",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "neh",
+        "target": [
+            {
+                "translation": "nehmen",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "nehmets",
+        "target": [
+            {
+                "translation": "nehmen es (sie)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "ne",
+        "target": [
+            {
+                "translation": "nicht",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "ned",
+        "target": [
+            {
+                "translation": "nicht",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "src": "nöd",
+        "target": [
+            {
+                "translation": "nicht",
+                "count": 10
+            }
+        ]
+    },
+    {
+        "src": "nüd",
+        "target": [
+            {
+                "translation": "nicht",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "nedmal",
+        "target": [
+            {
+                "translation": "nicht mal",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "nonalkoholischi",
+        "target": [
+            {
+                "translation": "nichtalkoholische",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "no",
+        "target": [
+            {
+                "translation": "noch",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "nummere",
+        "target": [
+            {
+                "translation": "Nummern",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "nome",
+        "target": [
+            {
+                "translation": "nur",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "nume",
+        "target": [
+            {
+                "translation": "nur",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "src": "nur",
+        "target": [
+            {
+                "translation": "nur",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "ob",
+        "target": [
+            {
+                "translation": "ob",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "öb",
+        "target": [
+            {
+                "translation": "ob",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "oder",
+        "target": [
+            {
+                "translation": "oder",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "src": "ok",
+        "target": [
+            {
+                "translation": "okay",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "opfer",
+        "target": [
+            {
+                "translation": "Opfer",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "ornig",
+        "target": [
+            {
+                "translation": "Ordnung",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "paar",
+        "target": [
+            {
+                "translation": "Paar",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "partei",
+        "target": [
+            {
+                "translation": "Partei",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "passt",
+        "target": [
+            {
+                "translation": "passt (er/sie/es)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "per",
+        "target": [
+            {
+                "translation": "per",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "persönlich",
+        "target": [
+            {
+                "translation": "persönlich",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "pflicht",
+        "target": [
+            {
+                "translation": "Pflicht",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "plakat",
+        "target": [
+            {
+                "translation": "Plakate",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "polizei",
+        "target": [
+            {
+                "translation": "Polizei",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "polizeigsetz",
+        "target": [
+            {
+                "translation": "Polizeigesetz",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "post",
+        "target": [
+            {
+                "translation": "Post",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "poste",
+        "target": [
+            {
+                "translation": "posten",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "praxis",
+        "target": [
+            {
+                "translation": "Praxis",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "problem",
+        "target": [
+            {
+                "translation": "Problem",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "prügelknabbe",
+        "target": [
+            {
+                "translation": "Prügelknabe",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "punkt",
+        "target": [
+            {
+                "translation": "Punkt",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "src": "quarzsand",
+        "target": [
+            {
+                "translation": "Quarzsand",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "recht",
+        "target": [
+            {
+                "translation": "rechte",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "rechts",
+        "target": [
+            {
+                "translation": "rechts",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "rechtsbegriff",
+        "target": [
+            {
+                "translation": "Rechtsbegriff",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "reded",
+        "target": [
+            {
+                "translation": "redet (er/sie/es)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "region",
+        "target": [
+            {
+                "translation": "Region",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "representiert",
+        "target": [
+            {
+                "translation": "repräsentiert (er/sie/es)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "respektiere",
+        "target": [
+            {
+                "translation": "respektieren",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "resultat",
+        "target": [
+            {
+                "translation": "Resultat",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "korrekt",
+        "target": [
+            {
+                "translation": "richtig",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "richtig",
+        "target": [
+            {
+                "translation": "richtig",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "roots",
+        "target": [
+            {
+                "translation": "rotes",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "sach",
+        "target": [
+            {
+                "translation": "Sache",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "sache",
+        "target": [
+            {
+                "translation": "Sachen",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "segi",
+        "target": [
+            {
+                "translation": "sage ich",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "sege",
+        "target": [
+            {
+                "translation": "sagen",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "seisch",
+        "target": [
+            {
+                "translation": "sagst (du)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "sei",
+        "target": [
+            {
+                "translation": "sagt (er/sie/es)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "seit",
+        "target": [
+            {
+                "translation": "sagt (er/sie/es)",
+                "count": 1
+            },
+            {
+                "translation": "seit",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "sakrileg",
+        "target": [
+            {
+                "translation": "Sakrileg",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "sand",
+        "target": [
+            {
+                "translation": "Sand",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "schofseckel",
+        "target": [
+            {
+                "translation": "Schafseckel",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "luege",
+        "target": [
+            {
+                "translation": "schauen",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "sheiss",
+        "target": [
+            {
+                "translation": "Scheiss",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "schlechte",
+        "target": [
+            {
+                "translation": "schlechtem",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "schnorri",
+        "target": [
+            {
+                "translation": "Schnorrer",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "scho",
+        "target": [
+            {
+                "translation": "schon",
+                "count": 6
+            }
+        ]
+    },
+    {
+        "src": "sho",
+        "target": [
+            {
+                "translation": "schon",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "schono",
+        "target": [
+            {
+                "translation": "schon noch",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "shribet",
+        "target": [
+            {
+                "translation": "schreiben (sie)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "shwiz",
+        "target": [
+            {
+                "translation": "Schweiz",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "schwiizer",
+        "target": [
+            {
+                "translation": "Schweizer",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "schwizer",
+        "target": [
+            {
+                "translation": "Schweizer",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "schwiizerdütsch",
+        "target": [
+            {
+                "translation": "Schweizerdeutsch",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "schwizerdütsch",
+        "target": [
+            {
+                "translation": "Schweizerdeutsch",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "schwizerstil",
+        "target": [
+            {
+                "translation": "Schweizerstil",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "se",
+        "target": [
+            {
+                "translation": "se",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "huere",
+        "target": [
+            {
+                "translation": "sehr",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "src": "si",
+        "target": [
+            {
+                "translation": "sie",
+                "count": 2
+            },
+            {
+                "translation": "sein",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "sie",
+        "target": [
+            {
+                "translation": "sie",
+                "count": 3
+            },
+            {
+                "translation": "sein",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "sii",
+        "target": [
+            {
+                "translation": "sein",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "sine",
+        "target": [
+            {
+                "translation": "seinen",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "site",
+        "target": [
+            {
+                "translation": "Seite",
+                "count": 1
+            },
+            {
+                "translation": "Seiten",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "selber",
+        "target": [
+            {
+                "translation": "selber",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "senne",
+        "target": [
+            {
+                "translation": "Senne",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "sennetracht",
+        "target": [
+            {
+                "translation": "Sennetracht",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "sennehääs",
+        "target": [
+            {
+                "translation": "Sennhäs",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "sönd",
+        "target": [
+            {
+                "translation": "sind (wir)",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "sinds",
+        "target": [
+            {
+                "translation": "sind es (sie)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "sinn",
+        "target": [
+            {
+                "translation": "Sinn",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "so",
+        "target": [
+            {
+                "translation": "so",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "sones",
+        "target": [
+            {
+                "translation": "so ein",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "sone",
+        "target": [
+            {
+                "translation": "so eine",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "söttigi",
+        "target": [
+            {
+                "translation": "solche",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "setet",
+        "target": [
+            {
+                "translation": "sollen (sie)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "söttsch",
+        "target": [
+            {
+                "translation": "sollst (du)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "sette",
+        "target": [
+            {
+                "translation": "sollte (er/sie/es)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "sötts",
+        "target": [
+            {
+                "translation": "sollte es",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "sondern",
+        "target": [
+            {
+                "translation": "sondern",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "sösch",
+        "target": [
+            {
+                "translation": "sonst",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "süsch",
+        "target": [
+            {
+                "translation": "sonst",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "speziöll",
+        "target": [
+            {
+                "translation": "spezielle",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "spiele",
+        "target": [
+            {
+                "translation": "spielen",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "sprochustusch",
+        "target": [
+            {
+                "translation": "Sprachaustausch",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "springend",
+        "target": [
+            {
+                "translation": "springende",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "starch",
+        "target": [
+            {
+                "translation": "stark",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "starrchrampf",
+        "target": [
+            {
+                "translation": "Starrkrampf",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "stoht",
+        "target": [
+            {
+                "translation": "steht (er/sie/es)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "stimmrecht",
+        "target": [
+            {
+                "translation": "Stimmrecht",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "stimmt",
+        "target": [
+            {
+                "translation": "stimmt (er/sie/es)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "ruehstörig",
+        "target": [
+            {
+                "translation": "Störung",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "strenggnoh",
+        "target": [
+            {
+                "translation": "strenggenommen",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "super",
+        "target": [
+            {
+                "translation": "super",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "svpler",
+        "target": [
+            {
+                "translation": "SVPler",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "tag",
+        "target": [
+            {
+                "translation": "Tag",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "tollwuet",
+        "target": [
+            {
+                "translation": "Tollwut",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "traditionell",
+        "target": [
+            {
+                "translation": "traditionell",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "traditionelli",
+        "target": [
+            {
+                "translation": "traditionelle",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "tünd",
+        "target": [
+            {
+                "translation": "tun (sie)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "obebegreff",
+        "target": [
+            {
+                "translation": "Überbegriff",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "überegumpe",
+        "target": [
+            {
+                "translation": "überhüpfen",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "um",
+        "target": [
+            {
+                "translation": "um",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "zoms",
+        "target": [
+            {
+                "translation": "um es zu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "omkeht",
+        "target": [
+            {
+                "translation": "umgekehrt",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "unbestimmte",
+        "target": [
+            {
+                "translation": "unbestimmter",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "ond",
+        "target": [
+            {
+                "translation": "und",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "src": "und",
+        "target": [
+            {
+                "translation": "und",
+                "count": 13
+            }
+        ]
+    },
+    {
+        "src": "uesi",
+        "target": [
+            {
+                "translation": "unsere (F)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "verbot",
+        "target": [
+            {
+                "translation": "Verbot",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "verbote",
+        "target": [
+            {
+                "translation": "verboten",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "verchauft",
+        "target": [
+            {
+                "translation": "verkauft (er/sie/es)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "verpflichtet",
+        "target": [
+            {
+                "translation": "verpflichtet (er/sie/es)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "versuchet",
+        "target": [
+            {
+                "translation": "versuchen (sie)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "vie",
+        "target": [
+            {
+                "translation": "viele",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "vieli",
+        "target": [
+            {
+                "translation": "viele",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "vilne",
+        "target": [
+            {
+                "translation": "vielen",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "viellicht",
+        "target": [
+            {
+                "translation": "vielleicht",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "vom",
+        "target": [
+            {
+                "translation": "vom",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "fo",
+        "target": [
+            {
+                "translation": "von",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "vo",
+        "target": [
+            {
+                "translation": "von",
+                "count": 9
+            }
+        ]
+    },
+    {
+        "src": "vode",
+        "target": [
+            {
+                "translation": "von den",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "vome",
+        "target": [
+            {
+                "translation": "von einem",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "vone",
+        "target": [
+            {
+                "translation": "von einem",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "vorteil",
+        "target": [
+            {
+                "translation": "Vorteil",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "wähle",
+        "target": [
+            {
+                "translation": "wählen",
+                "count": 3
+            },
+            {
+                "translation": "wollen",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "wohr",
+        "target": [
+            {
+                "translation": "wahr",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "wohrschinlich",
+        "target": [
+            {
+                "translation": "wahrscheinlich",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "wa",
+        "target": [
+            {
+                "translation": "was",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "was",
+        "target": [
+            {
+                "translation": "was",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "wasser",
+        "target": [
+            {
+                "translation": "Wasser",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "weg",
+        "target": [
+            {
+                "translation": "wegen",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "wahl",
+        "target": [
+            {
+                "translation": "weil",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "weil",
+        "target": [
+            {
+                "translation": "weil",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "wills",
+        "target": [
+            {
+                "translation": "weil es",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "weiss",
+        "target": [
+            {
+                "translation": "weiss (ich)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "wiss",
+        "target": [
+            {
+                "translation": "weisser (M)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "wissi",
+        "target": [
+            {
+                "translation": "weisser (M)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "wiises",
+        "target": [
+            {
+                "translation": "weisses",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "wähli",
+        "target": [
+            {
+                "translation": "welche (F)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "wenig",
+        "target": [
+            {
+                "translation": "wenig",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "wenigstens",
+        "target": [
+            {
+                "translation": "wenigstens",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "wenn",
+        "target": [
+            {
+                "translation": "wenn",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "src": "wennd",
+        "target": [
+            {
+                "translation": "wenn die",
+                "count": 4
+            },
+            {
+                "translation": "wenn du",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "wenns",
+        "target": [
+            {
+                "translation": "wenn es",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "wer",
+        "target": [
+            {
+                "translation": "wer",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "werbe",
+        "target": [
+            {
+                "translation": "werben",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "werde",
+        "target": [
+            {
+                "translation": "werden",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "würdlose",
+        "target": [
+            {
+                "translation": "wertloses",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "wichtig",
+        "target": [
+            {
+                "translation": "wichtig",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "wider",
+        "target": [
+            {
+                "translation": "wieder",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "wieder",
+        "target": [
+            {
+                "translation": "wieder",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "src": "mes",
+        "target": [
+            {
+                "translation": "wir es",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "wird",
+        "target": [
+            {
+                "translation": "wird",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "würkli",
+        "target": [
+            {
+                "translation": "wirklich",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "würklich",
+        "target": [
+            {
+                "translation": "wirklich",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "wirsch",
+        "target": [
+            {
+                "translation": "wirst du",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "wirtschaft",
+        "target": [
+            {
+                "translation": "Wirtschaft",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "wod",
+        "target": [
+            {
+                "translation": "wo du",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "wöme",
+        "target": [
+            {
+                "translation": "wollen wir",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "worde",
+        "target": [
+            {
+                "translation": "worden",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "wort",
+        "target": [
+            {
+                "translation": "Wort",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "zit",
+        "target": [
+            {
+                "translation": "Zeit",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "z",
+        "target": [
+            {
+                "translation": "zu",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "src": "zu",
+        "target": [
+            {
+                "translation": "zu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "zshafe",
+        "target": [
+            {
+                "translation": "zu arbeiten",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "zgoh",
+        "target": [
+            {
+                "translation": "zu gehen",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "zmache",
+        "target": [
+            {
+                "translation": "zu machen",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "zschriebe",
+        "target": [
+            {
+                "translation": "zu schreiben",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "zom",
+        "target": [
+            {
+                "translation": "zum",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "zum",
+        "target": [
+            {
+                "translation": "zum",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "src": "züri",
+        "target": [
+            {
+                "translation": "Zürich",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "züridütsch",
+        "target": [
+            {
+                "translation": "Zürichdeutsch",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "zwiifelsfall",
+        "target": [
+            {
+                "translation": "Zweifelsfall",
+                "count": 1
+            }
+        ]
+    }
+]

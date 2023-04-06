@@ -1,1 +1,415 @@
-[{"src":"1","target":[{"translation":"eis","count":3}]},{"src":"10","target":[{"translation":"zäh","count":2},{"translation":"zeh","count":1}]},{"src":"100","target":[{"translation":"hundert","count":3}]},{"src":"1000","target":[{"translation":"tuusig","count":3}]},{"src":"10000","target":[{"translation":"zehtuusig","count":1},{"translation":"zähtusig","count":1},{"translation":"zähtuusig","count":1}]},{"src":"100000","target":[{"translation":"hunderttuusig","count":3}]},{"src":"1000000","target":[{"translation":"million","count":2},{"translation":"ei million","count":1}]},{"src":"1000000000","target":[{"translation":"milliard","count":2},{"translation":"ei milliard","count":1}]},{"src":"11","target":[{"translation":"elf","count":3}]},{"src":"12","target":[{"translation":"zwölf","count":3}]},{"src":"13","target":[{"translation":"driizäh","count":1},{"translation":"drizeh","count":1},{"translation":"drizä","count":1}]},{"src":"14","target":[{"translation":"vierzeh","count":1},{"translation":"vierzä","count":1},{"translation":"vierzäh","count":1}]},{"src":"15","target":[{"translation":"füfzeh","count":1},{"translation":"füfzä","count":1},{"translation":"füfzäh","count":1}]},{"src":"16","target":[{"translation":"sechzeh","count":1},{"translation":"sechzäh","count":1},{"translation":"sächzä","count":1}]},{"src":"17","target":[{"translation":"sibzä","count":1},{"translation":"siebzeh","count":1},{"translation":"siebzäh","count":1}]},{"src":"18","target":[{"translation":"achtzä","count":1},{"translation":"achtzäh","count":1},{"translation":"achzeh","count":1}]},{"src":"19","target":[{"translation":"nünzeh","count":1},{"translation":"nünzä","count":1},{"translation":"nünzäh","count":1}]},{"src":"2","target":[{"translation":"zwei","count":2},{"translation":"zwai","count":1}]},{"src":"20","target":[{"translation":"zwanzg","count":3}]},{"src":"3","target":[{"translation":"drü","count":3}]},{"src":"30","target":[{"translation":"driisg","count":2},{"translation":"drisg","count":1}]},{"src":"4","target":[{"translation":"vier","count":3}]},{"src":"40","target":[{"translation":"vierzg","count":2},{"translation":"virzg","count":1}]},{"src":"5","target":[{"translation":"füf","count":2},{"translation":"füüf","count":1}]},{"src":"50","target":[{"translation":"füfzg","count":3}]},{"src":"6","target":[{"translation":"sechs","count":2},{"translation":"sächs","count":1}]},{"src":"60","target":[{"translation":"sechzg","count":2},{"translation":"sächzg","count":1}]},{"src":"7","target":[{"translation":"siebe","count":2},{"translation":"siebä","count":1}]},{"src":"70","target":[{"translation":"siebezg","count":2},{"translation":"sibedzg","count":1}]},{"src":"8","target":[{"translation":"acht","count":3}]},{"src":"80","target":[{"translation":"achtzg","count":2},{"translation":"achzg","count":1}]},{"src":"9","target":[{"translation":"nün","count":3}]},{"src":"90","target":[{"translation":"nünzg","count":2},{"translation":"nünhundert","count":1}]}]
+[
+    {
+        "src": "1",
+        "target": [
+            {
+                "translation": "eis",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "src": "10",
+        "target": [
+            {
+                "translation": "zäh",
+                "count": 2
+            },
+            {
+                "translation": "zeh",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "100",
+        "target": [
+            {
+                "translation": "hundert",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "src": "1000",
+        "target": [
+            {
+                "translation": "tuusig",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "src": "10000",
+        "target": [
+            {
+                "translation": "zähtusig",
+                "count": 1
+            },
+            {
+                "translation": "zähtuusig",
+                "count": 1
+            },
+            {
+                "translation": "zehtuusig",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "100000",
+        "target": [
+            {
+                "translation": "hunderttuusig",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "src": "1000000",
+        "target": [
+            {
+                "translation": "million",
+                "count": 2
+            },
+            {
+                "translation": "ei million",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "1000000000",
+        "target": [
+            {
+                "translation": "milliard",
+                "count": 2
+            },
+            {
+                "translation": "ei milliard",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "11",
+        "target": [
+            {
+                "translation": "elf",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "src": "12",
+        "target": [
+            {
+                "translation": "zwölf",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "src": "13",
+        "target": [
+            {
+                "translation": "driizäh",
+                "count": 1
+            },
+            {
+                "translation": "drizä",
+                "count": 1
+            },
+            {
+                "translation": "drizeh",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "14",
+        "target": [
+            {
+                "translation": "vierzä",
+                "count": 1
+            },
+            {
+                "translation": "vierzäh",
+                "count": 1
+            },
+            {
+                "translation": "vierzeh",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "15",
+        "target": [
+            {
+                "translation": "füfzä",
+                "count": 1
+            },
+            {
+                "translation": "füfzäh",
+                "count": 1
+            },
+            {
+                "translation": "füfzeh",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "16",
+        "target": [
+            {
+                "translation": "sächzä",
+                "count": 1
+            },
+            {
+                "translation": "sechzäh",
+                "count": 1
+            },
+            {
+                "translation": "sechzeh",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "17",
+        "target": [
+            {
+                "translation": "sibzä",
+                "count": 1
+            },
+            {
+                "translation": "siebzäh",
+                "count": 1
+            },
+            {
+                "translation": "siebzeh",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "18",
+        "target": [
+            {
+                "translation": "achtzä",
+                "count": 1
+            },
+            {
+                "translation": "achtzäh",
+                "count": 1
+            },
+            {
+                "translation": "achzeh",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "19",
+        "target": [
+            {
+                "translation": "nünzä",
+                "count": 1
+            },
+            {
+                "translation": "nünzäh",
+                "count": 1
+            },
+            {
+                "translation": "nünzeh",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "2",
+        "target": [
+            {
+                "translation": "zwei",
+                "count": 2
+            },
+            {
+                "translation": "zwai",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "20",
+        "target": [
+            {
+                "translation": "zwanzg",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "src": "3",
+        "target": [
+            {
+                "translation": "drü",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "src": "30",
+        "target": [
+            {
+                "translation": "driisg",
+                "count": 2
+            },
+            {
+                "translation": "drisg",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "4",
+        "target": [
+            {
+                "translation": "vier",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "src": "40",
+        "target": [
+            {
+                "translation": "vierzg",
+                "count": 2
+            },
+            {
+                "translation": "virzg",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "5",
+        "target": [
+            {
+                "translation": "füf",
+                "count": 2
+            },
+            {
+                "translation": "füüf",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "50",
+        "target": [
+            {
+                "translation": "füfzg",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "src": "6",
+        "target": [
+            {
+                "translation": "sechs",
+                "count": 2
+            },
+            {
+                "translation": "sächs",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "60",
+        "target": [
+            {
+                "translation": "sechzg",
+                "count": 2
+            },
+            {
+                "translation": "sächzg",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "7",
+        "target": [
+            {
+                "translation": "siebe",
+                "count": 2
+            },
+            {
+                "translation": "siebä",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "70",
+        "target": [
+            {
+                "translation": "siebezg",
+                "count": 2
+            },
+            {
+                "translation": "sibedzg",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "8",
+        "target": [
+            {
+                "translation": "acht",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "src": "80",
+        "target": [
+            {
+                "translation": "achtzg",
+                "count": 2
+            },
+            {
+                "translation": "achzg",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "9",
+        "target": [
+            {
+                "translation": "nün",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "src": "90",
+        "target": [
+            {
+                "translation": "nünzg",
+                "count": 2
+            },
+            {
+                "translation": "nünhundert",
+                "count": 1
+            }
+        ]
+    }
+]

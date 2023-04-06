@@ -1,1 +1,1618 @@
-[{"src":"1","target":[{"translation":"äis","count":2}]},{"src":"10","target":[{"translation":"zä","count":1},{"translation":"zächä","count":1}]},{"src":"100","target":[{"translation":"hundert","count":2}]},{"src":"1000","target":[{"translation":"tuisig","count":2}]},{"src":"10000","target":[{"translation":"zächä tuisig","count":1},{"translation":"zätuisig","count":1}]},{"src":"100000","target":[{"translation":"hundert tuisig","count":1},{"translation":"hunderttuisig","count":1}]},{"src":"1000000","target":[{"translation":"eimillion","count":1},{"translation":"äi million","count":1}]},{"src":"1000000000","target":[{"translation":"eimilliard","count":1},{"translation":"äi milliardä","count":1}]},{"src":"11","target":[{"translation":"elf","count":2}]},{"src":"12","target":[{"translation":"zwelf","count":2}]},{"src":"13","target":[{"translation":"drizä","count":1},{"translation":"drizächä","count":1}]},{"src":"14","target":[{"translation":"viärzächä","count":1}]},{"src":"15","target":[{"translation":"fifzä","count":1},{"translation":"fifzächä","count":1}]},{"src":"16","target":[{"translation":"sächzä","count":1},{"translation":"sächzächä","count":1}]},{"src":"17","target":[{"translation":"sibezächä","count":1},{"translation":"siebzä","count":1}]},{"src":"18","target":[{"translation":"achtzächä","count":1},{"translation":"achzä","count":1}]},{"src":"19","target":[{"translation":"niinzä","count":1},{"translation":"niinzächä","count":1}]},{"src":"2","target":[{"translation":"zwäi","count":2}]},{"src":"20","target":[{"translation":"zwenzg","count":1},{"translation":"zwänzg","count":1}]},{"src":"3","target":[{"translation":"drii","count":2}]},{"src":"30","target":[{"translation":"drissg","count":2}]},{"src":"4","target":[{"translation":"viär","count":2}]},{"src":"40","target":[{"translation":"vierzg","count":1},{"translation":"viärzg","count":1}]},{"src":"5","target":[{"translation":"fiif","count":2}]},{"src":"50","target":[{"translation":"fifzg","count":1},{"translation":"füfzg","count":1}]},{"src":"6","target":[{"translation":"sächs","count":2}]},{"src":"60","target":[{"translation":"sächzg","count":2}]},{"src":"7","target":[{"translation":"sibä","count":1},{"translation":"siebä","count":1}]},{"src":"70","target":[{"translation":"sibetzg","count":1},{"translation":"siebezg","count":1}]},{"src":"8","target":[{"translation":"acht","count":2}]},{"src":"80","target":[{"translation":"achzg","count":2}]},{"src":"9","target":[{"translation":"niin","count":2}]},{"src":"90","target":[{"translation":"ninzg","count":2}]},{"src":"anbieten","target":[{"translation":"abiete","count":1},{"translation":"abiätä","count":1}]},{"src":"anfangen","target":[{"translation":"afa","count":1},{"translation":"afaa","count":1}]},{"src":"ankommen","target":[{"translation":"acho","count":2}]},{"src":"anrufen","target":[{"translation":"aliitä","count":1}]},{"src":"antworten","target":[{"translation":"antwortä","count":1}]},{"src":"arbeiten","target":[{"translation":"schaffä","count":2}]},{"src":"aufhören","target":[{"translation":"uifherä","count":1},{"translation":"uifhöre","count":1}]},{"src":"ausruhen","target":[{"translation":"uisriowä","count":1},{"translation":"uisruiwe","count":1}]},{"src":"auswählen","target":[{"translation":"uisweelä","count":1}]},{"src":"beenden","target":[{"translation":"fertig machä","count":2}]},{"src":"beginnen","target":[{"translation":"afaa","count":1}]},{"src":"behandeln","target":[{"translation":"behandlä","count":2}]},{"src":"benutzen","target":[{"translation":"bruiche","count":1},{"translation":"bruichä","count":1}]},{"src":"berühren","target":[{"translation":"alängä","count":1},{"translation":"beriärä","count":1}]},{"src":"beschreiben","target":[{"translation":"beschriibe","count":1},{"translation":"beschriibä","count":1}]},{"src":"besuchen","target":[{"translation":"bsiochä","count":1},{"translation":"bsuächä","count":1}]},{"src":"bevorzugen","target":[{"translation":"bevorzugä","count":1},{"translation":"vorziä","count":1}]},{"src":"bewegen","target":[{"translation":"bewegä","count":2}]},{"src":"bleiben","target":[{"translation":"bliibe","count":1},{"translation":"bliibä","count":1}]},{"src":"brauchen","target":[{"translation":"bruiche","count":1},{"translation":"bruichä","count":1}]},{"src":"brennen","target":[{"translation":"brennä","count":1}]},{"src":"bringen","target":[{"translation":"bringä","count":1}]},{"src":"denken","target":[{"translation":"dänkä","count":2}]},{"src":"drücken","target":[{"translation":"dricke","count":1},{"translation":"drickä","count":1}]},{"src":"entscheiden","target":[{"translation":"entschäidä","count":1}]},{"src":"erhalten","target":[{"translation":"becho","count":1},{"translation":"ubercho","count":1}]},{"src":"erinnern","target":[{"translation":"bsinnä","count":1}]},{"src":"erkennen","target":[{"translation":"bchennä","count":1}]},{"src":"erklären","target":[{"translation":"erklärä","count":1},{"translation":"erkläärä","count":1}]},{"src":"erlauben","target":[{"translation":"erlaibe","count":1},{"translation":"erloibä","count":1}]},{"src":"erzählen","target":[{"translation":"verzelle","count":1},{"translation":"verzellä","count":1}]},{"src":"essen","target":[{"translation":"ässä","count":2}]},{"src":"fahren","target":[{"translation":"fahrä","count":2}]},{"src":"fallen","target":[{"translation":"ghiiä","count":1}]},{"src":"finden","target":[{"translation":"gfindä","count":1}]},{"src":"fragen","target":[{"translation":"fragä","count":1}]},{"src":"fühlen","target":[{"translation":"fiilä","count":1},{"translation":"fühle","count":1}]},{"src":"füllen","target":[{"translation":"fillä","count":1}]},{"src":"gehen","target":[{"translation":"ga","count":1},{"translation":"gah","count":1},{"translation":"laifä","count":1}]},{"src":"geschehen","target":[{"translation":"passiärä","count":1}]},{"src":"gewinnen","target":[{"translation":"gwinnä","count":2}]},{"src":"glauben","target":[{"translation":"glaibe","count":1},{"translation":"gloibä","count":1}]},{"src":"haben","target":[{"translation":"ha","count":1}]},{"src":"halten","target":[{"translation":"hebä","count":1},{"translation":"häbä","count":1}]},{"src":"hassen","target":[{"translation":"hassä","count":2}]},{"src":"helfen","target":[{"translation":"hälfä","count":1}]},{"src":"hoffen","target":[{"translation":"hoffä","count":2}]},{"src":"hören","target":[{"translation":"gherä","count":1},{"translation":"losä","count":1}]},{"src":"kaufen","target":[{"translation":"choifä","count":1}]},{"src":"kochen","target":[{"translation":"chochä","count":1}]},{"src":"kommen","target":[{"translation":"cho","count":2}]},{"src":"kosten","target":[{"translation":"chostä","count":1}]},{"src":"kämpfen","target":[{"translation":"kämpfä","count":2}]},{"src":"können","target":[{"translation":"chenne","count":1},{"translation":"chennä","count":1}]},{"src":"lachen","target":[{"translation":"lachä","count":2}]},{"src":"leben","target":[{"translation":"läbä","count":2}]},{"src":"legen","target":[{"translation":"legge","count":1},{"translation":"leggä","count":1}]},{"src":"lehren","target":[{"translation":"leerä","count":1},{"translation":"lehrä","count":1}]},{"src":"lernen","target":[{"translation":"leerä","count":1}]},{"src":"lesen","target":[{"translation":"läsä","count":2}]},{"src":"lieben","target":[{"translation":"liebä","count":1},{"translation":"liäbä","count":1}]},{"src":"lächeln","target":[{"translation":"lachä","count":1}]},{"src":"lügen","target":[{"translation":"ligä","count":1},{"translation":"liigä","count":1}]},{"src":"machen","target":[{"translation":"machä","count":1}]},{"src":"nehmen","target":[{"translation":"nä","count":1}]},{"src":"putzen","target":[{"translation":"butzä","count":1},{"translation":"putzä","count":1}]},{"src":"reden","target":[{"translation":"redä","count":2}]},{"src":"reisen","target":[{"translation":"ferie mache","count":1},{"translation":"reise","count":1},{"translation":"räisä","count":1}]},{"src":"rennen","target":[{"translation":"springä","count":2}]},{"src":"sagen","target":[{"translation":"sägä","count":2}]},{"src":"schauen","target":[{"translation":"liogä","count":1},{"translation":"luägä","count":1}]},{"src":"schicken","target":[{"translation":"schickä","count":1}]},{"src":"schlafen","target":[{"translation":"schlafä","count":2}]},{"src":"schliessen","target":[{"translation":"zio tio","count":1},{"translation":"zue mache","count":1}]},{"src":"schmerzen","target":[{"translation":"weh tio","count":1}]},{"src":"schneiden","target":[{"translation":"schniide","count":1},{"translation":"schniidä","count":1}]},{"src":"schreiben","target":[{"translation":"schriibä","count":1}]},{"src":"schreien","target":[{"translation":"lärmä","count":1}]},{"src":"sehen","target":[{"translation":"gse","count":1}]},{"src":"sein","target":[{"translation":"sii","count":1}]},{"src":"singen","target":[{"translation":"singä","count":1}]},{"src":"sitzen","target":[{"translation":"sitzä","count":2}]},{"src":"spielen","target":[{"translation":"spielä","count":1},{"translation":"spilä","count":1}]},{"src":"sprechen","target":[{"translation":"redä","count":1}]},{"src":"springen","target":[{"translation":"gumpä","count":1},{"translation":"springä","count":1}]},{"src":"sterben","target":[{"translation":"stärbä","count":2}]},{"src":"studieren","target":[{"translation":"studiärä","count":1}]},{"src":"tanzen","target":[{"translation":"tanzä","count":2}]},{"src":"treffen","target":[{"translation":"träffä","count":2}]},{"src":"trinken","target":[{"translation":"trinkä","count":2}]},{"src":"töten","target":[{"translation":"teetä","count":1},{"translation":"tötä","count":1}]},{"src":"unterstützen","target":[{"translation":"understitzä","count":1},{"translation":"unterstitzä","count":1}]},{"src":"verbessern","target":[{"translation":"verbesserä","count":1},{"translation":"vrbessrä","count":1}]},{"src":"vergeben","target":[{"translation":"vergä","count":1},{"translation":"vrgä","count":1}]},{"src":"vergessen","target":[{"translation":"vergässä","count":1},{"translation":"vrgässä","count":1}]},{"src":"vergleichen","target":[{"translation":"vergliiche","count":1},{"translation":"vergliichä","count":1}]},{"src":"verkaufen","target":[{"translation":"verchoifä","count":1}]},{"src":"verlassen","target":[{"translation":"verla","count":1}]},{"src":"verlieren","target":[{"translation":"verliirä","count":1}]},{"src":"versprechen","target":[{"translation":"vrsprächä","count":1}]},{"src":"verstecken","target":[{"translation":"vrsteckä","count":1}]},{"src":"verstehen","target":[{"translation":"versta","count":1},{"translation":"verstah","count":1}]},{"src":"versuchen","target":[{"translation":"vrsiochä","count":1}]},{"src":"vorschlagen","target":[{"translation":"vorschla","count":1}]},{"src":"waschen","target":[{"translation":"wäschä","count":2}]},{"src":"weinen","target":[{"translation":"briälä","count":1}]},{"src":"weitermachen","target":[{"translation":"wiiter machä","count":1}]},{"src":"werfen","target":[{"translation":"riehre","count":1},{"translation":"riärä","count":1}]},{"src":"wiederholen","target":[{"translation":"widerholä","count":1}]},{"src":"wissen","target":[{"translation":"wissä","count":1}]},{"src":"wollen","target":[{"translation":"wellä","count":1}]},{"src":"zahlen","target":[{"translation":"zahlä","count":2}]},{"src":"zeigen","target":[{"translation":"zäigä","count":2}]},{"src":"zerstören","target":[{"translation":"kabutt machä","count":1}]},{"src":"ziehen","target":[{"translation":"ziä","count":1},{"translation":"ziäh","count":1}]},{"src":"zubereiten","target":[{"translation":"zioberäitä","count":1},{"translation":"zuebereitä","count":1}]},{"src":"zuhören","target":[{"translation":"ziolosä","count":1}]},{"src":"zurückkehren","target":[{"translation":"zruggcho","count":1}]},{"src":"zählen","target":[{"translation":"zellä","count":1},{"translation":"zälle","count":1}]}]
+[
+    {
+        "src": "anbieten",
+        "target": [
+            {
+                "translation": "abiätä",
+                "count": 1
+            },
+            {
+                "translation": "abiete",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "anfangen",
+        "target": [
+            {
+                "translation": "afaa",
+                "count": 1
+            },
+            {
+                "translation": "afa",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "ankommen",
+        "target": [
+            {
+                "translation": "acho",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "anrufen",
+        "target": [
+            {
+                "translation": "aliitä",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "antworten",
+        "target": [
+            {
+                "translation": "antwortä",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "arbeiten",
+        "target": [
+            {
+                "translation": "schaffä",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "aufhören",
+        "target": [
+            {
+                "translation": "uifherä",
+                "count": 1
+            },
+            {
+                "translation": "uifhöre",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "ausruhen",
+        "target": [
+            {
+                "translation": "uisriowä",
+                "count": 1
+            },
+            {
+                "translation": "uisruiwe",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "auswählen",
+        "target": [
+            {
+                "translation": "uisweelä",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "beenden",
+        "target": [
+            {
+                "translation": "fertig machä",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "beginnen",
+        "target": [
+            {
+                "translation": "afaa",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "behandeln",
+        "target": [
+            {
+                "translation": "behandlä",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "benutzen",
+        "target": [
+            {
+                "translation": "bruichä",
+                "count": 1
+            },
+            {
+                "translation": "bruiche",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "berühren",
+        "target": [
+            {
+                "translation": "beriärä",
+                "count": 1
+            },
+            {
+                "translation": "alängä",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "beschreiben",
+        "target": [
+            {
+                "translation": "beschriibä",
+                "count": 1
+            },
+            {
+                "translation": "beschriibe",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "besuchen",
+        "target": [
+            {
+                "translation": "bsiochä",
+                "count": 1
+            },
+            {
+                "translation": "bsuächä",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "bevorzugen",
+        "target": [
+            {
+                "translation": "vorziä",
+                "count": 1
+            },
+            {
+                "translation": "bevorzugä",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "bewegen",
+        "target": [
+            {
+                "translation": "bewegä",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "bleiben",
+        "target": [
+            {
+                "translation": "bliibä",
+                "count": 1
+            },
+            {
+                "translation": "bliibe",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "brauchen",
+        "target": [
+            {
+                "translation": "bruichä",
+                "count": 1
+            },
+            {
+                "translation": "bruiche",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "brennen",
+        "target": [
+            {
+                "translation": "brennä",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "bringen",
+        "target": [
+            {
+                "translation": "bringä",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "denken",
+        "target": [
+            {
+                "translation": "dänkä",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "drücken",
+        "target": [
+            {
+                "translation": "drickä",
+                "count": 1
+            },
+            {
+                "translation": "dricke",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "entscheiden",
+        "target": [
+            {
+                "translation": "entschäidä",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "erhalten",
+        "target": [
+            {
+                "translation": "ubercho",
+                "count": 1
+            },
+            {
+                "translation": "becho",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "erinnern",
+        "target": [
+            {
+                "translation": "bsinnä",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "erkennen",
+        "target": [
+            {
+                "translation": "bchennä",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "erklären",
+        "target": [
+            {
+                "translation": "erkläärä",
+                "count": 1
+            },
+            {
+                "translation": "erklärä",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "erlauben",
+        "target": [
+            {
+                "translation": "erloibä",
+                "count": 1
+            },
+            {
+                "translation": "erlaibe",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "erzählen",
+        "target": [
+            {
+                "translation": "verzellä",
+                "count": 1
+            },
+            {
+                "translation": "verzelle",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "essen",
+        "target": [
+            {
+                "translation": "ässä",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "fahren",
+        "target": [
+            {
+                "translation": "fahrä",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "fallen",
+        "target": [
+            {
+                "translation": "ghiiä",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "finden",
+        "target": [
+            {
+                "translation": "gfindä",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "fragen",
+        "target": [
+            {
+                "translation": "fragä",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "fühlen",
+        "target": [
+            {
+                "translation": "fiilä",
+                "count": 1
+            },
+            {
+                "translation": "fühle",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "füllen",
+        "target": [
+            {
+                "translation": "fillä",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "gehen",
+        "target": [
+            {
+                "translation": "ga",
+                "count": 1
+            },
+            {
+                "translation": "laifä",
+                "count": 1
+            },
+            {
+                "translation": "gah",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "geschehen",
+        "target": [
+            {
+                "translation": "passiärä",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "gewinnen",
+        "target": [
+            {
+                "translation": "gwinnä",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "glauben",
+        "target": [
+            {
+                "translation": "gloibä",
+                "count": 1
+            },
+            {
+                "translation": "glaibe",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "haben",
+        "target": [
+            {
+                "translation": "ha",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "halten",
+        "target": [
+            {
+                "translation": "häbä",
+                "count": 1
+            },
+            {
+                "translation": "hebä",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "hassen",
+        "target": [
+            {
+                "translation": "hassä",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "helfen",
+        "target": [
+            {
+                "translation": "hälfä",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "hoffen",
+        "target": [
+            {
+                "translation": "hoffä",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "hören",
+        "target": [
+            {
+                "translation": "gherä",
+                "count": 1
+            },
+            {
+                "translation": "losä",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "kaufen",
+        "target": [
+            {
+                "translation": "choifä",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "kochen",
+        "target": [
+            {
+                "translation": "chochä",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "kommen",
+        "target": [
+            {
+                "translation": "cho",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "kosten",
+        "target": [
+            {
+                "translation": "chostä",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "kämpfen",
+        "target": [
+            {
+                "translation": "kämpfä",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "können",
+        "target": [
+            {
+                "translation": "chennä",
+                "count": 1
+            },
+            {
+                "translation": "chenne",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "lachen",
+        "target": [
+            {
+                "translation": "lachä",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "leben",
+        "target": [
+            {
+                "translation": "läbä",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "legen",
+        "target": [
+            {
+                "translation": "leggä",
+                "count": 1
+            },
+            {
+                "translation": "legge",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "lehren",
+        "target": [
+            {
+                "translation": "leerä",
+                "count": 1
+            },
+            {
+                "translation": "lehrä",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "lernen",
+        "target": [
+            {
+                "translation": "leerä",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "lesen",
+        "target": [
+            {
+                "translation": "läsä",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "lieben",
+        "target": [
+            {
+                "translation": "liäbä",
+                "count": 1
+            },
+            {
+                "translation": "liebä",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "lächeln",
+        "target": [
+            {
+                "translation": "lachä",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "lügen",
+        "target": [
+            {
+                "translation": "liigä",
+                "count": 1
+            },
+            {
+                "translation": "ligä",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "machen",
+        "target": [
+            {
+                "translation": "machä",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "nehmen",
+        "target": [
+            {
+                "translation": "nä",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "putzen",
+        "target": [
+            {
+                "translation": "butzä",
+                "count": 1
+            },
+            {
+                "translation": "putzä",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "reden",
+        "target": [
+            {
+                "translation": "redä",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "reisen",
+        "target": [
+            {
+                "translation": "räisä",
+                "count": 1
+            },
+            {
+                "translation": "reise",
+                "count": 1
+            },
+            {
+                "translation": "ferie mache",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "rennen",
+        "target": [
+            {
+                "translation": "springä",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "sagen",
+        "target": [
+            {
+                "translation": "sägä",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "schauen",
+        "target": [
+            {
+                "translation": "liogä",
+                "count": 1
+            },
+            {
+                "translation": "luägä",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "schicken",
+        "target": [
+            {
+                "translation": "schickä",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "schlafen",
+        "target": [
+            {
+                "translation": "schlafä",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "schliessen",
+        "target": [
+            {
+                "translation": "zio tio",
+                "count": 1
+            },
+            {
+                "translation": "zue mache",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "schmerzen",
+        "target": [
+            {
+                "translation": "weh tio",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "schneiden",
+        "target": [
+            {
+                "translation": "schniidä",
+                "count": 1
+            },
+            {
+                "translation": "schniide",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "schreiben",
+        "target": [
+            {
+                "translation": "schriibä",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "schreien",
+        "target": [
+            {
+                "translation": "lärmä",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "sehen",
+        "target": [
+            {
+                "translation": "gse",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "sein",
+        "target": [
+            {
+                "translation": "sii",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "singen",
+        "target": [
+            {
+                "translation": "singä",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "sitzen",
+        "target": [
+            {
+                "translation": "sitzä",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "spielen",
+        "target": [
+            {
+                "translation": "spilä",
+                "count": 1
+            },
+            {
+                "translation": "spielä",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "sprechen",
+        "target": [
+            {
+                "translation": "redä",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "springen",
+        "target": [
+            {
+                "translation": "gumpä",
+                "count": 1
+            },
+            {
+                "translation": "springä",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "sterben",
+        "target": [
+            {
+                "translation": "stärbä",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "studieren",
+        "target": [
+            {
+                "translation": "studiärä",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "tanzen",
+        "target": [
+            {
+                "translation": "tanzä",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "treffen",
+        "target": [
+            {
+                "translation": "träffä",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "trinken",
+        "target": [
+            {
+                "translation": "trinkä",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "töten",
+        "target": [
+            {
+                "translation": "teetä",
+                "count": 1
+            },
+            {
+                "translation": "tötä",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "unterstützen",
+        "target": [
+            {
+                "translation": "understitzä",
+                "count": 1
+            },
+            {
+                "translation": "unterstitzä",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "verbessern",
+        "target": [
+            {
+                "translation": "vrbessrä",
+                "count": 1
+            },
+            {
+                "translation": "verbesserä",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "vergeben",
+        "target": [
+            {
+                "translation": "vrgä",
+                "count": 1
+            },
+            {
+                "translation": "vergä",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "vergessen",
+        "target": [
+            {
+                "translation": "vrgässä",
+                "count": 1
+            },
+            {
+                "translation": "vergässä",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "vergleichen",
+        "target": [
+            {
+                "translation": "vergliichä",
+                "count": 1
+            },
+            {
+                "translation": "vergliiche",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "verkaufen",
+        "target": [
+            {
+                "translation": "verchoifä",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "verlassen",
+        "target": [
+            {
+                "translation": "verla",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "verlieren",
+        "target": [
+            {
+                "translation": "verliirä",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "versprechen",
+        "target": [
+            {
+                "translation": "vrsprächä",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "verstecken",
+        "target": [
+            {
+                "translation": "vrsteckä",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "verstehen",
+        "target": [
+            {
+                "translation": "versta",
+                "count": 1
+            },
+            {
+                "translation": "verstah",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "versuchen",
+        "target": [
+            {
+                "translation": "vrsiochä",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "vorschlagen",
+        "target": [
+            {
+                "translation": "vorschla",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "waschen",
+        "target": [
+            {
+                "translation": "wäschä",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "weinen",
+        "target": [
+            {
+                "translation": "briälä",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "weitermachen",
+        "target": [
+            {
+                "translation": "wiiter machä",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "werfen",
+        "target": [
+            {
+                "translation": "riärä",
+                "count": 1
+            },
+            {
+                "translation": "riehre",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "wiederholen",
+        "target": [
+            {
+                "translation": "widerholä",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "wissen",
+        "target": [
+            {
+                "translation": "wissä",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "wollen",
+        "target": [
+            {
+                "translation": "wellä",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "zahlen",
+        "target": [
+            {
+                "translation": "zahlä",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "zeigen",
+        "target": [
+            {
+                "translation": "zäigä",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "zerstören",
+        "target": [
+            {
+                "translation": "kabutt machä",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "ziehen",
+        "target": [
+            {
+                "translation": "ziä",
+                "count": 1
+            },
+            {
+                "translation": "ziäh",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "zubereiten",
+        "target": [
+            {
+                "translation": "zioberäitä",
+                "count": 1
+            },
+            {
+                "translation": "zuebereitä",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "zuhören",
+        "target": [
+            {
+                "translation": "ziolosä",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "zählen",
+        "target": [
+            {
+                "translation": "zellä",
+                "count": 1
+            },
+            {
+                "translation": "zälle",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "zurückkehren",
+        "target": [
+            {
+                "translation": "zruggcho",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "1",
+        "target": [
+            {
+                "translation": "äis",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "2",
+        "target": [
+            {
+                "translation": "zwäi",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "3",
+        "target": [
+            {
+                "translation": "drii",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "4",
+        "target": [
+            {
+                "translation": "viär",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "5",
+        "target": [
+            {
+                "translation": "fiif",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "6",
+        "target": [
+            {
+                "translation": "sächs",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "7",
+        "target": [
+            {
+                "translation": "sibä",
+                "count": 1
+            },
+            {
+                "translation": "siebä",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "8",
+        "target": [
+            {
+                "translation": "acht",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "9",
+        "target": [
+            {
+                "translation": "niin",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "10",
+        "target": [
+            {
+                "translation": "zächä",
+                "count": 1
+            },
+            {
+                "translation": "zä",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "11",
+        "target": [
+            {
+                "translation": "elf",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "12",
+        "target": [
+            {
+                "translation": "zwelf",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "13",
+        "target": [
+            {
+                "translation": "drizächä",
+                "count": 1
+            },
+            {
+                "translation": "drizä",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "14",
+        "target": [
+            {
+                "translation": "viärzächä",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "15",
+        "target": [
+            {
+                "translation": "fifzächä",
+                "count": 1
+            },
+            {
+                "translation": "fifzä",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "16",
+        "target": [
+            {
+                "translation": "sächzächä",
+                "count": 1
+            },
+            {
+                "translation": "sächzä",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "17",
+        "target": [
+            {
+                "translation": "sibezächä",
+                "count": 1
+            },
+            {
+                "translation": "siebzä",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "18",
+        "target": [
+            {
+                "translation": "achtzächä",
+                "count": 1
+            },
+            {
+                "translation": "achzä",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "19",
+        "target": [
+            {
+                "translation": "niinzächä",
+                "count": 1
+            },
+            {
+                "translation": "niinzä",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "20",
+        "target": [
+            {
+                "translation": "zwenzg",
+                "count": 1
+            },
+            {
+                "translation": "zwänzg",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "30",
+        "target": [
+            {
+                "translation": "drissg",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "40",
+        "target": [
+            {
+                "translation": "viärzg",
+                "count": 1
+            },
+            {
+                "translation": "vierzg",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "50",
+        "target": [
+            {
+                "translation": "fifzg",
+                "count": 1
+            },
+            {
+                "translation": "füfzg",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "60",
+        "target": [
+            {
+                "translation": "sächzg",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "70",
+        "target": [
+            {
+                "translation": "sibetzg",
+                "count": 1
+            },
+            {
+                "translation": "siebezg",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "80",
+        "target": [
+            {
+                "translation": "achzg",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "90",
+        "target": [
+            {
+                "translation": "ninzg",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "100",
+        "target": [
+            {
+                "translation": "hundert",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "1000",
+        "target": [
+            {
+                "translation": "tuisig",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "10000",
+        "target": [
+            {
+                "translation": "zächä tuisig",
+                "count": 1
+            },
+            {
+                "translation": "zätuisig",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "100000",
+        "target": [
+            {
+                "translation": "hundert tuisig",
+                "count": 1
+            },
+            {
+                "translation": "hunderttuisig",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "1000000",
+        "target": [
+            {
+                "translation": "äi million",
+                "count": 1
+            },
+            {
+                "translation": "eimillion",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "1000000000",
+        "target": [
+            {
+                "translation": "äi milliardä",
+                "count": 1
+            },
+            {
+                "translation": "eimilliard",
+                "count": 1
+            }
+        ]
+    }
+]
