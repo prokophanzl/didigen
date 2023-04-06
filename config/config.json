@@ -73,12 +73,24 @@
 			"code": "fr"
 		},
 		{
+			"name": "Graubünden",
+			"code": "gr"
+		},
+		{
 			"name": "Luzern",
 			"code": "lu"
 		},
 		{
+			"name": "Obwalden",
+			"code": "ow"
+		},
+		{
 			"name": "Schaffhausen",
 			"code": "sh"
+		},
+		{
+			"name": "Schwyz",
+			"code": "sz"
 		},
 		{
 			"name": "Solothurn",
@@ -116,24 +128,12 @@
 			"code": "gl"
 		},
 		{
-			"name": "Graubünden",
-			"code": "gr"
-		},
-		{
 			"name": "Jura",
 			"code": "ju"
 		},
 		{
 			"name": "Nidwalden",
 			"code": "nw"
-		},
-		{
-			"name": "Obwalden",
-			"code": "ow"
-		},
-		{
-			"name": "Schwyz",
-			"code": "sz"
 		},
 		{
 			"name": "Tessin",
