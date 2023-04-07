@@ -5107,10 +5107,14 @@
         ]
     },
     {
-        "src": "chan",
+        "src": "kann (er/sie/es)",
         "target": [
             {
                 "translation": "kann",
+                "count": 1
+            },
+            {
+                "translation": "chan",
                 "count": 1
             }
         ]
@@ -11356,15 +11360,6 @@
             },
             {
                 "translation": "chüngel",
-                "count": 1
-            }
-        ]
-    },
-    {
-        "src": "kann (er/sie/es)",
-        "target": [
-            {
-                "translation": "chan",
                 "count": 1
             }
         ]
