@@ -57,7 +57,7 @@
         "target": [
             {
                 "translation": "elf",
-                "count": 1
+                "count": 2
             }
         ]
     },
@@ -350,7 +350,7 @@
         "target": [
             {
                 "translation": "vier",
-                "count": 1
+                "count": 2
             }
         ]
     },
@@ -606,7 +606,7 @@
         "target": [
             {
                 "translation": "acht",
-                "count": 1
+                "count": 2
             }
         ]
     },
@@ -974,15 +974,6 @@
         "target": [
             {
                 "translation": "jä so",
-                "count": 1
-            }
-        ]
-    },
-    {
-        "src": "acht",
-        "target": [
-            {
-                "translation": "acht",
                 "count": 1
             }
         ]
@@ -6102,19 +6093,18 @@
         ]
     },
     {
-        "src": "drei",
+        "src": "3",
         "target": [
             {
                 "translation": "drü",
-                "count": 1
-            }
-        ]
-    },
-    {
-        "src": "Drei",
-        "target": [
+                "count": 3
+            },
             {
-                "translation": "drü",
+                "translation": "drüü",
+                "count": 3
+            },
+            {
+                "translation": "drei",
                 "count": 1
             }
         ]
@@ -11810,7 +11800,7 @@
         ]
     },
     {
-        "src": "Kerngehäuse des Obstes",
+        "src": "Kerngehäuse bei Obst",
         "target": [
             {
                 "translation": "bütschgi",
@@ -21447,15 +21437,6 @@
         ]
     },
     {
-        "src": "Vier",
-        "target": [
-            {
-                "translation": "vier",
-                "count": 1
-            }
-        ]
-    },
-    {
         "src": "vo",
         "target": [
             {
@@ -24571,23 +24552,6 @@
         ]
     },
     {
-        "src": "3",
-        "target": [
-            {
-                "translation": "drüü",
-                "count": 3
-            },
-            {
-                "translation": "drü",
-                "count": 1
-            },
-            {
-                "translation": "drei",
-                "count": 1
-            }
-        ]
-    },
-    {
         "src": "Dreikäsehoch",
         "target": [
             {
@@ -25558,15 +25522,6 @@
         "target": [
             {
                 "translation": "ilpe",
-                "count": 1
-            }
-        ]
-    },
-    {
-        "src": "elf",
-        "target": [
-            {
-                "translation": "elf",
                 "count": 1
             }
         ]

@@ -3618,7 +3618,7 @@
         "src": "sechs",
         "target": [
             {
-                "translation": "sechs",
+                "translation": "6",
                 "count": 1
             }
         ]
@@ -4381,7 +4381,7 @@
         "src": "weshalb",
         "target": [
             {
-                "translation": "weshalt",
+                "translation": "weshalb",
                 "count": 1
             }
         ]
@@ -4579,7 +4579,7 @@
         "src": "zwei",
         "target": [
             {
-                "translation": "zwei",
+                "translation": "2",
                 "count": 1
             }
         ]

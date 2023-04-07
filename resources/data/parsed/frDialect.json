@@ -1862,12 +1862,8 @@
         "src": "drüü",
         "target": [
             {
-                "translation": "drei",
-                "count": 6
-            },
-            {
                 "translation": "3",
-                "count": 2
+                "count": 8
             }
         ]
     },
@@ -1875,7 +1871,7 @@
         "src": "dryy",
         "target": [
             {
-                "translation": "drei",
+                "translation": "3",
                 "count": 2
             }
         ]
@@ -5721,11 +5717,7 @@
         "target": [
             {
                 "translation": "6",
-                "count": 3
-            },
-            {
-                "translation": "sechs",
-                "count": 2
+                "count": 5
             }
         ]
     },
@@ -5733,7 +5725,7 @@
         "src": "säks",
         "target": [
             {
-                "translation": "sechs",
+                "translation": "6",
                 "count": 1
             }
         ]
@@ -6882,11 +6874,7 @@
         "target": [
             {
                 "translation": "4",
-                "count": 3
-            },
-            {
-                "translation": "vier",
-                "count": 2
+                "count": 5
             }
         ]
     },
@@ -6894,7 +6882,7 @@
         "src": "vierzeg",
         "target": [
             {
-                "translation": "vierzig",
+                "translation": "40",
                 "count": 1
             }
         ]
@@ -7692,7 +7680,7 @@
         "src": "zwìi",
         "target": [
             {
-                "translation": "zwei",
+                "translation": "2",
                 "count": 1
             }
         ]
@@ -7701,7 +7689,7 @@
         "src": "zwǜǜ",
         "target": [
             {
-                "translation": "zwei",
+                "translation": "2",
                 "count": 1
             }
         ]

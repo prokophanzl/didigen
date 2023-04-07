@@ -58,7 +58,7 @@
         "target": [
             {
                 "translation": "aber",
-                "count": 158
+                "count": 162
             }
         ]
     },
@@ -359,7 +359,7 @@
         "target": [
             {
                 "translation": "alle",
-                "count": 8
+                "count": 9
             },
             {
                 "translation": "alles",
@@ -389,7 +389,7 @@
         "target": [
             {
                 "translation": "alles",
-                "count": 27
+                "count": 28
             }
         ]
     },
@@ -434,7 +434,7 @@
         "target": [
             {
                 "translation": "als",
-                "count": 17
+                "count": 20
             }
         ]
     },
@@ -443,7 +443,7 @@
         "target": [
             {
                 "translation": "wie",
-                "count": 44
+                "count": 47
             },
             {
                 "translation": "als",
@@ -456,7 +456,7 @@
         "target": [
             {
                 "translation": "also",
-                "count": 83
+                "count": 86
             }
         ]
     },
@@ -474,7 +474,7 @@
         "target": [
             {
                 "translation": "am",
-                "count": 57
+                "count": 59
             },
             {
                 "translation": "um",
@@ -563,7 +563,7 @@
         "target": [
             {
                 "translation": "an",
-                "count": 1
+                "count": 2
             }
         ]
     },
@@ -635,6 +635,10 @@
             {
                 "translation": "anderen",
                 "count": 10
+            },
+            {
+                "translation": "anderen (pl.)",
+                "count": 1
             }
         ]
     },
@@ -760,7 +764,7 @@
         "target": [
             {
                 "translation": "ankommen",
-                "count": 8
+                "count": 11
             },
             {
                 "translation": "angekommen",
@@ -975,7 +979,7 @@
         "target": [
             {
                 "translation": "arbeiten",
-                "count": 15
+                "count": 19
             }
         ]
     },
@@ -1038,7 +1042,7 @@
         "target": [
             {
                 "translation": "Art",
-                "count": 3
+                "count": 4
             }
         ]
     },
@@ -1074,7 +1078,7 @@
         "target": [
             {
                 "translation": "auch",
-                "count": 227
+                "count": 235
             }
         ]
     },
@@ -1101,7 +1105,7 @@
         "target": [
             {
                 "translation": "auf",
-                "count": 67
+                "count": 68
             }
         ]
     },
@@ -1420,7 +1424,7 @@
         "target": [
             {
                 "translation": "aus",
-                "count": 11
+                "count": 12
             }
         ]
     },
@@ -1712,7 +1716,7 @@
         "target": [
             {
                 "translation": "behandeln",
-                "count": 14
+                "count": 18
             }
         ]
     },
@@ -1730,7 +1734,7 @@
         "target": [
             {
                 "translation": "bei",
-                "count": 60
+                "count": 61
             },
             {
                 "translation": "bin (ich)",
@@ -1824,7 +1828,7 @@
         "target": [
             {
                 "translation": "beim",
-                "count": 10
+                "count": 12
             }
         ]
     },
@@ -1873,7 +1877,7 @@
             },
             {
                 "translation": "erhalten",
-                "count": 7
+                "count": 9
             }
         ]
     },
@@ -1886,7 +1890,7 @@
             },
             {
                 "translation": "erhalten",
-                "count": 1
+                "count": 2
             }
         ]
     },
@@ -1966,7 +1970,7 @@
         "target": [
             {
                 "translation": "benutzen",
-                "count": 8
+                "count": 11
             }
         ]
     },
@@ -2137,7 +2141,7 @@
         "target": [
             {
                 "translation": "bevor",
-                "count": 2
+                "count": 3
             }
         ]
     },
@@ -2289,7 +2293,7 @@
         "target": [
             {
                 "translation": "bist (du)",
-                "count": 6
+                "count": 7
             }
         ]
     },
@@ -2298,7 +2302,7 @@
         "target": [
             {
                 "translation": "bitte",
-                "count": 50
+                "count": 51
             },
             {
                 "translation": "Bitte",
@@ -2369,7 +2373,7 @@
         "target": [
             {
                 "translation": "bleiben",
-                "count": 9
+                "count": 12
             }
         ]
     },
@@ -2517,11 +2521,11 @@
         "target": [
             {
                 "translation": "brauchen",
-                "count": 8
+                "count": 10
             },
             {
                 "translation": "benutzen",
-                "count": 5
+                "count": 7
             },
             {
                 "translation": "verwenden",
@@ -2534,7 +2538,7 @@
         "target": [
             {
                 "translation": "brauchen",
-                "count": 10
+                "count": 12
             },
             {
                 "translation": "benutzen",
@@ -2623,7 +2627,7 @@
         "target": [
             {
                 "translation": "bringen",
-                "count": 17
+                "count": 21
             }
         ]
     },
@@ -2982,7 +2986,11 @@
         "target": [
             {
                 "translation": "da",
-                "count": 23
+                "count": 25
+            },
+            {
+                "translation": "darin",
+                "count": 1
             }
         ]
     },
@@ -3067,7 +3075,7 @@
         "target": [
             {
                 "translation": "dagegen",
-                "count": 9
+                "count": 10
             }
         ]
     },
@@ -3202,7 +3210,7 @@
         "target": [
             {
                 "translation": "dann",
-                "count": 8
+                "count": 12
             }
         ]
     },
@@ -3220,7 +3228,7 @@
         "target": [
             {
                 "translation": "dann",
-                "count": 59
+                "count": 61
             },
             {
                 "translation": "denn",
@@ -3300,7 +3308,7 @@
         "target": [
             {
                 "translation": "darfst du",
-                "count": 1
+                "count": 2
             }
         ]
     },
@@ -3345,11 +3353,11 @@
         "target": [
             {
                 "translation": "es",
-                "count": 11
+                "count": 12
             },
             {
                 "translation": "ein (N)",
-                "count": 4
+                "count": 6
             },
             {
                 "translation": "das",
@@ -3366,11 +3374,11 @@
         "target": [
             {
                 "translation": "die",
-                "count": 52
+                "count": 55
             },
             {
                 "translation": "die (F)",
-                "count": 9
+                "count": 15
             },
             {
                 "translation": "das",
@@ -3387,7 +3395,7 @@
         "target": [
             {
                 "translation": "das",
-                "count": 201
+                "count": 213
             },
             {
                 "translation": "dass",
@@ -3400,7 +3408,7 @@
         "target": [
             {
                 "translation": "dass",
-                "count": 55
+                "count": 57
             },
             {
                 "translation": "das",
@@ -3413,18 +3421,18 @@
         "target": [
             {
                 "translation": "es",
-                "count": 72
+                "count": 79
             },
             {
                 "translation": "ein",
                 "count": 9
             },
             {
-                "translation": "das",
-                "count": 7
+                "translation": "ein (N)",
+                "count": 8
             },
             {
-                "translation": "ein (N)",
+                "translation": "das",
                 "count": 7
             }
         ]
@@ -3434,7 +3442,7 @@
         "target": [
             {
                 "translation": "das",
-                "count": 50
+                "count": 52
             },
             {
                 "translation": "es",
@@ -3471,7 +3479,7 @@
             },
             {
                 "translation": "das",
-                "count": 3
+                "count": 4
             },
             {
                 "translation": "den",
@@ -3479,7 +3487,7 @@
             },
             {
                 "translation": "der",
-                "count": 2
+                "count": 3
             },
             {
                 "translation": "in welcher",
@@ -3491,6 +3499,14 @@
             },
             {
                 "translation": "welcher",
+                "count": 1
+            },
+            {
+                "translation": "die (F)",
+                "count": 1
+            },
+            {
+                "translation": "die (pl.)",
                 "count": 1
             }
         ]
@@ -3790,7 +3806,7 @@
             },
             {
                 "translation": "der (M)",
-                "count": 12
+                "count": 13
             },
             {
                 "translation": "die",
@@ -3828,7 +3844,7 @@
         "target": [
             {
                 "translation": "dem",
-                "count": 14
+                "count": 15
             }
         ]
     },
@@ -3850,7 +3866,15 @@
         "target": [
             {
                 "translation": "der",
-                "count": 5
+                "count": 9
+            },
+            {
+                "translation": "der (M)",
+                "count": 3
+            },
+            {
+                "translation": "den (pl.)",
+                "count": 2
             },
             {
                 "translation": "den",
@@ -3898,7 +3922,7 @@
             },
             {
                 "translation": "dir",
-                "count": 3
+                "count": 4
             }
         ]
     },
@@ -3988,7 +4012,7 @@
         "target": [
             {
                 "translation": "dich",
-                "count": 5
+                "count": 6
             }
         ]
     },
@@ -4010,7 +4034,7 @@
             },
             {
                 "translation": "die (pl.)",
-                "count": 5
+                "count": 6
             }
         ]
     },
@@ -4019,15 +4043,15 @@
         "target": [
             {
                 "translation": "die",
-                "count": 71
+                "count": 72
             },
             {
                 "translation": "die (pl.)",
-                "count": 16
+                "count": 18
             },
             {
                 "translation": "die (F)",
-                "count": 4
+                "count": 6
             }
         ]
     },
@@ -4451,11 +4475,7 @@
         "target": [
             {
                 "translation": "3",
-                "count": 29
-            },
-            {
-                "translation": "drei",
-                "count": 1
+                "count": 34
             }
         ]
     },
@@ -4464,11 +4484,7 @@
         "target": [
             {
                 "translation": "3",
-                "count": 15
-            },
-            {
-                "translation": "drei",
-                "count": 1
+                "count": 18
             }
         ]
     },
@@ -4504,7 +4520,7 @@
         "target": [
             {
                 "translation": "drücken",
-                "count": 12
+                "count": 16
             }
         ]
     },
@@ -4522,7 +4538,7 @@
         "target": [
             {
                 "translation": "du",
-                "count": 51
+                "count": 54
             }
         ]
     },
@@ -4540,7 +4556,7 @@
         "target": [
             {
                 "translation": "kannst (du)",
-                "count": 7
+                "count": 10
             },
             {
                 "translation": "du kannst",
@@ -4622,7 +4638,7 @@
         "target": [
             {
                 "translation": "durch",
-                "count": 1
+                "count": 2
             }
         ]
     },
@@ -4802,7 +4818,7 @@
         "target": [
             {
                 "translation": "egal",
-                "count": 3
+                "count": 4
             }
         ]
     },
@@ -4811,7 +4827,7 @@
         "target": [
             {
                 "translation": "gleiche",
-                "count": 4
+                "count": 5
             },
             {
                 "translation": "egal",
@@ -4887,7 +4903,7 @@
         "target": [
             {
                 "translation": "1",
-                "count": 41
+                "count": 46
             },
             {
                 "translation": "ein",
@@ -4912,10 +4928,14 @@
             },
             {
                 "translation": "ein (M)",
-                "count": 6
+                "count": 7
             },
             {
                 "translation": "ihn",
+                "count": 2
+            },
+            {
+                "translation": "einen (M)",
                 "count": 2
             }
         ]
@@ -4997,7 +5017,7 @@
         "target": [
             {
                 "translation": "eine",
-                "count": 1
+                "count": 3
             }
         ]
     },
@@ -5129,7 +5149,7 @@
         "target": [
             {
                 "translation": "einfach",
-                "count": 32
+                "count": 37
             }
         ]
     },
@@ -5277,7 +5297,7 @@
         "target": [
             {
                 "translation": "eislaufen",
-                "count": 1
+                "count": 2
             }
         ]
     },
@@ -5460,7 +5480,7 @@
         "target": [
             {
                 "translation": "entsteht (er/sie/es)",
-                "count": 2
+                "count": 3
             }
         ]
     },
@@ -5612,7 +5632,7 @@
         "target": [
             {
                 "translation": "erklären",
-                "count": 9
+                "count": 11
             }
         ]
     },
@@ -5621,7 +5641,7 @@
         "target": [
             {
                 "translation": "erklären",
-                "count": 8
+                "count": 11
             }
         ]
     },
@@ -5688,7 +5708,7 @@
         "target": [
             {
                 "translation": "erst",
-                "count": 4
+                "count": 5
             }
         ]
     },
@@ -5790,7 +5810,7 @@
         "target": [
             {
                 "translation": "ist (er/sie/es)",
-                "count": 204
+                "count": 216
             },
             {
                 "translation": "es ist",
@@ -5816,7 +5836,7 @@
         "target": [
             {
                 "translation": "essen",
-                "count": 8
+                "count": 10
             },
             {
                 "translation": "esse (ich)",
@@ -5856,7 +5876,7 @@
         "target": [
             {
                 "translation": "etwas",
-                "count": 6
+                "count": 8
             }
         ]
     },
@@ -6241,7 +6261,7 @@
         "target": [
             {
                 "translation": "finden",
-                "count": 17
+                "count": 21
             },
             {
                 "translation": "finde (ich)",
@@ -6455,7 +6475,7 @@
         "target": [
             {
                 "translation": "fragen",
-                "count": 13
+                "count": 17
             },
             {
                 "translation": "Fragen",
@@ -6763,7 +6783,7 @@
         "target": [
             {
                 "translation": "fühlen",
-                "count": 11
+                "count": 13
             }
         ]
     },
@@ -6830,7 +6850,7 @@
         "target": [
             {
                 "translation": "für",
-                "count": 59
+                "count": 60
             }
         ]
     },
@@ -6839,7 +6859,7 @@
         "target": [
             {
                 "translation": "für die",
-                "count": 2
+                "count": 3
             }
         ]
     },
@@ -6936,7 +6956,7 @@
         "target": [
             {
                 "translation": "gar",
-                "count": 8
+                "count": 9
             }
         ]
     },
@@ -7031,6 +7051,10 @@
             {
                 "translation": "gedacht",
                 "count": 3
+            },
+            {
+                "translation": "denkt (er/sie/es)",
+                "count": 1
             }
         ]
     },
@@ -7178,7 +7202,7 @@
         "target": [
             {
                 "translation": "gehen",
-                "count": 19
+                "count": 22
             },
             {
                 "translation": "gegangen",
@@ -7200,7 +7224,7 @@
         "target": [
             {
                 "translation": "gehen",
-                "count": 4
+                "count": 6
             },
             {
                 "translation": "gegangen",
@@ -7330,7 +7354,7 @@
         "target": [
             {
                 "translation": "geht (er/sie/es)",
-                "count": 22
+                "count": 24
             }
         ]
     },
@@ -7375,7 +7399,7 @@
         "target": [
             {
                 "translation": "kommen",
-                "count": 26
+                "count": 31
             },
             {
                 "translation": "gekommen",
@@ -7433,7 +7457,7 @@
         "target": [
             {
                 "translation": "gelernt",
-                "count": 4
+                "count": 5
             }
         ]
     },
@@ -7487,7 +7511,7 @@
         "target": [
             {
                 "translation": "gemacht",
-                "count": 22
+                "count": 24
             }
         ]
     },
@@ -7518,7 +7542,7 @@
         "target": [
             {
                 "translation": "genau",
-                "count": 15
+                "count": 16
             }
         ]
     },
@@ -7617,7 +7641,7 @@
         "target": [
             {
                 "translation": "gerade",
-                "count": 11
+                "count": 12
             },
             {
                 "translation": "Grad",
@@ -7666,7 +7690,7 @@
         "target": [
             {
                 "translation": "gesagt",
-                "count": 27
+                "count": 28
             }
         ]
     },
@@ -7765,7 +7789,7 @@
         "target": [
             {
                 "translation": "geschrieben",
-                "count": 3
+                "count": 4
             }
         ]
     },
@@ -7792,7 +7816,7 @@
         "target": [
             {
                 "translation": "sehen",
-                "count": 17
+                "count": 20
             },
             {
                 "translation": "gesehen",
@@ -7962,7 +7986,7 @@
         "target": [
             {
                 "translation": "gibt (er/sie/es)",
-                "count": 7
+                "count": 9
             }
         ]
     },
@@ -8006,7 +8030,7 @@
         "target": [
             {
                 "translation": "glauben",
-                "count": 14
+                "count": 17
             },
             {
                 "translation": "glaube (ich)",
@@ -8036,7 +8060,7 @@
         "target": [
             {
                 "translation": "glaube ich",
-                "count": 2
+                "count": 3
             }
         ]
     },
@@ -8345,7 +8369,7 @@
         "target": [
             {
                 "translation": "gut",
-                "count": 39
+                "count": 40
             }
         ]
     },
@@ -8482,7 +8506,7 @@
         "target": [
             {
                 "translation": "haben",
-                "count": 16
+                "count": 20
             },
             {
                 "translation": "habe (ich)",
@@ -8547,7 +8571,7 @@
         "target": [
             {
                 "translation": "haben",
-                "count": 3
+                "count": 5
             }
         ]
     },
@@ -8569,7 +8593,7 @@
         "target": [
             {
                 "translation": "haben (wir)",
-                "count": 9
+                "count": 10
             },
             {
                 "translation": "haben (sie)",
@@ -8599,7 +8623,7 @@
         "target": [
             {
                 "translation": "haben es (sie)",
-                "count": 1
+                "count": 2
             },
             {
                 "translation": "haben es (wir)",
@@ -8774,7 +8798,7 @@
         "target": [
             {
                 "translation": "halten",
-                "count": 13
+                "count": 17
             }
         ]
     },
@@ -8810,7 +8834,7 @@
         "target": [
             {
                 "translation": "hassen",
-                "count": 15
+                "count": 18
             },
             {
                 "translation": "hasse (ich)",
@@ -8879,7 +8903,7 @@
         "target": [
             {
                 "translation": "hat (er/sie/es)",
-                "count": 10
+                "count": 14
             }
         ]
     },
@@ -9047,7 +9071,7 @@
         "target": [
             {
                 "translation": "heisst (er/sie/es)",
-                "count": 7
+                "count": 8
             }
         ]
     },
@@ -9083,7 +9107,7 @@
         "target": [
             {
                 "translation": "helfen",
-                "count": 11
+                "count": 13
             },
             {
                 "translation": "unterstützen",
@@ -9288,7 +9312,7 @@
         "target": [
             {
                 "translation": "hoffen",
-                "count": 13
+                "count": 17
             },
             {
                 "translation": "hoffe",
@@ -9417,7 +9441,7 @@
         "target": [
             {
                 "translation": "in",
-                "count": 55
+                "count": 56
             },
             {
                 "translation": "ich",
@@ -9660,7 +9684,7 @@
         "target": [
             {
                 "translation": "im",
-                "count": 40
+                "count": 42
             }
         ]
     },
@@ -9843,7 +9867,7 @@
         "target": [
             {
                 "translation": "Internet",
-                "count": 2
+                "count": 3
             }
         ]
     },
@@ -9969,7 +9993,7 @@
         "target": [
             {
                 "translation": "ist es",
-                "count": 5
+                "count": 6
             },
             {
                 "translation": "ist das",
@@ -10004,7 +10028,7 @@
         "target": [
             {
                 "translation": "ja",
-                "count": 300
+                "count": 301
             }
         ]
     },
@@ -10121,7 +10145,7 @@
         "target": [
             {
                 "translation": "jemand",
-                "count": 9
+                "count": 10
             }
         ]
     },
@@ -10130,7 +10154,7 @@
         "target": [
             {
                 "translation": "jemand",
-                "count": 39
+                "count": 40
             }
         ]
     },
@@ -10148,7 +10172,7 @@
         "target": [
             {
                 "translation": "jetzt",
-                "count": 3
+                "count": 4
             }
         ]
     },
@@ -10202,7 +10226,7 @@
         "target": [
             {
                 "translation": "kann (er/sie/es)",
-                "count": 4
+                "count": 6
             },
             {
                 "translation": "kann (ich)",
@@ -10219,7 +10243,7 @@
         "target": [
             {
                 "translation": "kann (er/sie/es)",
-                "count": 40
+                "count": 42
             },
             {
                 "translation": "kann (ich)",
@@ -10236,7 +10260,7 @@
         "target": [
             {
                 "translation": "kann es",
-                "count": 2
+                "count": 3
             },
             {
                 "translation": "kann es (ich)",
@@ -10328,11 +10352,11 @@
             },
             {
                 "translation": "keine (F)",
-                "count": 3
+                "count": 5
             },
             {
                 "translation": "kein (M)",
-                "count": 1
+                "count": 2
             },
             {
                 "translation": "kein (N)",
@@ -10371,7 +10395,7 @@
         "target": [
             {
                 "translation": "können",
-                "count": 20
+                "count": 22
             },
             {
                 "translation": "kennen",
@@ -10680,7 +10704,7 @@
         "target": [
             {
                 "translation": "können",
-                "count": 23
+                "count": 24
             }
         ]
     },
@@ -10706,7 +10730,7 @@
         "target": [
             {
                 "translation": "könnte (er/sie/es)",
-                "count": 2
+                "count": 3
             },
             {
                 "translation": "könnte (ich)",
@@ -10841,6 +10865,10 @@
         "target": [
             {
                 "translation": "könnte ich",
+                "count": 1
+            },
+            {
+                "translation": "könnte (er/sie/es)",
                 "count": 1
             }
         ]
@@ -11146,7 +11174,7 @@
         "target": [
             {
                 "translation": "lachen",
-                "count": 13
+                "count": 16
             },
             {
                 "translation": "Lachen",
@@ -11208,7 +11236,7 @@
         "target": [
             {
                 "translation": "länger",
-                "count": 3
+                "count": 4
             }
         ]
     },
@@ -11217,7 +11245,7 @@
         "target": [
             {
                 "translation": "mehr",
-                "count": 11
+                "count": 14
             },
             {
                 "translation": "länger",
@@ -11360,7 +11388,7 @@
         "target": [
             {
                 "translation": "leben",
-                "count": 7
+                "count": 9
             },
             {
                 "translation": "Leben",
@@ -11486,6 +11514,10 @@
             {
                 "translation": "lerne (ich)",
                 "count": 5
+            },
+            {
+                "translation": "lerne (du)",
+                "count": 1
             }
         ]
     },
@@ -11494,7 +11526,7 @@
         "target": [
             {
                 "translation": "lernen",
-                "count": 29
+                "count": 32
             },
             {
                 "translation": "lehren",
@@ -11574,7 +11606,7 @@
         "target": [
             {
                 "translation": "lesen",
-                "count": 27
+                "count": 29
             }
         ]
     },
@@ -11794,7 +11826,7 @@
         "target": [
             {
                 "translation": "Lust",
-                "count": 2
+                "count": 8
             }
         ]
     },
@@ -11840,6 +11872,10 @@
             {
                 "translation": "mache (ich)",
                 "count": 2
+            },
+            {
+                "translation": "mach (du)",
+                "count": 2
             }
         ]
     },
@@ -11857,7 +11893,7 @@
         "target": [
             {
                 "translation": "machen",
-                "count": 39
+                "count": 46
             },
             {
                 "translation": "machen (wir)",
@@ -11901,7 +11937,7 @@
         "target": [
             {
                 "translation": "macht (er/sie/es)",
-                "count": 4
+                "count": 10
             },
             {
                 "translation": "macht",
@@ -11923,7 +11959,11 @@
         "target": [
             {
                 "translation": "macht es",
-                "count": 2
+                "count": 3
+            },
+            {
+                "translation": "macht (er/sie/es)",
+                "count": 1
             }
         ]
     },
@@ -11977,7 +12017,7 @@
         "target": [
             {
                 "translation": "mal",
-                "count": 1
+                "count": 2
             }
         ]
     },
@@ -11986,7 +12026,7 @@
         "target": [
             {
                 "translation": "mal",
-                "count": 51
+                "count": 55
             }
         ]
     },
@@ -12031,7 +12071,7 @@
         "target": [
             {
                 "translation": "wir",
-                "count": 54
+                "count": 55
             },
             {
                 "translation": "mir",
@@ -12039,7 +12079,7 @@
             },
             {
                 "translation": "man",
-                "count": 12
+                "count": 13
             }
         ]
     },
@@ -12052,7 +12092,7 @@
             },
             {
                 "translation": "man",
-                "count": 1
+                "count": 2
             },
             {
                 "translation": "mir",
@@ -12190,7 +12230,7 @@
         "target": [
             {
                 "translation": "mehrere",
-                "count": 1
+                "count": 2
             }
         ]
     },
@@ -12328,7 +12368,7 @@
         "target": [
             {
                 "translation": "Mensch",
-                "count": 1
+                "count": 2
             }
         ]
     },
@@ -12383,6 +12423,10 @@
             {
                 "translation": "mich",
                 "count": 1
+            },
+            {
+                "translation": "man",
+                "count": 1
             }
         ]
     },
@@ -12400,7 +12444,7 @@
         "target": [
             {
                 "translation": "wir",
-                "count": 4
+                "count": 5
             },
             {
                 "translation": "mier",
@@ -12453,7 +12497,7 @@
         "target": [
             {
                 "translation": "wir",
-                "count": 71
+                "count": 72
             },
             {
                 "translation": "mir",
@@ -12461,7 +12505,7 @@
             },
             {
                 "translation": "mit",
-                "count": 2
+                "count": 3
             },
             {
                 "translation": "wie",
@@ -12519,7 +12563,7 @@
         "target": [
             {
                 "translation": "erhalten",
-                "count": 8
+                "count": 9
             },
             {
                 "translation": "mitbekommen",
@@ -12675,7 +12719,7 @@
         "target": [
             {
                 "translation": "Moment",
-                "count": 1
+                "count": 2
             }
         ]
     },
@@ -12787,7 +12831,7 @@
         "target": [
             {
                 "translation": "muss (er/sie/es)",
-                "count": 2
+                "count": 3
             },
             {
                 "translation": "müssen (wir)",
@@ -12817,7 +12861,7 @@
         "target": [
             {
                 "translation": "muss (er/sie/es)",
-                "count": 5
+                "count": 7
             },
             {
                 "translation": "muss (ich)",
@@ -13364,7 +13408,7 @@
         "target": [
             {
                 "translation": "nehmen",
-                "count": 8
+                "count": 10
             }
         ]
     },
@@ -13545,7 +13589,7 @@
         "target": [
             {
                 "translation": "nicht",
-                "count": 217
+                "count": 228
             }
         ]
     },
@@ -13625,7 +13669,7 @@
         "target": [
             {
                 "translation": "nie",
-                "count": 9
+                "count": 11
             }
         ]
     },
@@ -13948,7 +13992,7 @@
         "target": [
             {
                 "translation": "oder",
-                "count": 85
+                "count": 89
             }
         ]
     },
@@ -14204,7 +14248,7 @@
             },
             {
                 "translation": "geschehen",
-                "count": 1
+                "count": 2
             }
         ]
     },
@@ -14249,7 +14293,7 @@
         "target": [
             {
                 "translation": "per",
-                "count": 2
+                "count": 3
             }
         ]
     },
@@ -14510,7 +14554,7 @@
         "target": [
             {
                 "translation": "versuchen",
-                "count": 4
+                "count": 7
             },
             {
                 "translation": "probieren",
@@ -14789,6 +14833,10 @@
             {
                 "translation": "rechnen",
                 "count": 2
+            },
+            {
+                "translation": "Rechnen",
+                "count": 1
             }
         ]
     },
@@ -14841,11 +14889,11 @@
         "target": [
             {
                 "translation": "sprechen",
-                "count": 14
+                "count": 18
             },
             {
                 "translation": "reden",
-                "count": 13
+                "count": 17
             }
         ]
     },
@@ -14971,7 +15019,7 @@
         "target": [
             {
                 "translation": "rennen",
-                "count": 8
+                "count": 10
             }
         ]
     },
@@ -15066,6 +15114,10 @@
             {
                 "translation": "richtige",
                 "count": 2
+            },
+            {
+                "translation": "Richtung",
+                "count": 1
             }
         ]
     },
@@ -15091,8 +15143,8 @@
         "src": "risiko",
         "target": [
             {
-                "translation": "RIsiko",
-                "count": 1
+                "translation": "Risiko",
+                "count": 2
             }
         ]
     },
@@ -15173,7 +15225,7 @@
         "target": [
             {
                 "translation": "sagen",
-                "count": 14
+                "count": 18
             }
         ]
     },
@@ -15182,7 +15234,7 @@
         "target": [
             {
                 "translation": "sagen",
-                "count": 12
+                "count": 14
             }
         ]
     },
@@ -15347,11 +15399,11 @@
         "target": [
             {
                 "translation": "schauen",
-                "count": 21
+                "count": 26
             },
             {
                 "translation": "sehen",
-                "count": 1
+                "count": 2
             }
         ]
     },
@@ -15400,7 +15452,7 @@
         "target": [
             {
                 "translation": "schicken",
-                "count": 50
+                "count": 53
             }
         ]
     },
@@ -15458,7 +15510,7 @@
         "target": [
             {
                 "translation": "schlafen",
-                "count": 18
+                "count": 20
             }
         ]
     },
@@ -15539,7 +15591,7 @@
         "target": [
             {
                 "translation": "schon",
-                "count": 71
+                "count": 75
             }
         ]
     },
@@ -15571,6 +15623,10 @@
             {
                 "translation": "schöne (pl.)",
                 "count": 2
+            },
+            {
+                "translation": "schöne (M)",
+                "count": 1
             }
         ]
     },
@@ -15579,6 +15635,10 @@
         "target": [
             {
                 "translation": "schönen",
+                "count": 1
+            },
+            {
+                "translation": "schöne (N)",
                 "count": 1
             }
         ]
@@ -15637,7 +15697,7 @@
         "target": [
             {
                 "translation": "schreiben",
-                "count": 12
+                "count": 16
             }
         ]
     },
@@ -15888,7 +15948,7 @@
         "target": [
             {
                 "translation": "sein",
-                "count": 15
+                "count": 20
             },
             {
                 "translation": "sie",
@@ -15913,7 +15973,7 @@
             },
             {
                 "translation": "sein",
-                "count": 2
+                "count": 3
             }
         ]
     },
@@ -15922,7 +15982,7 @@
         "target": [
             {
                 "translation": "sein",
-                "count": 19
+                "count": 20
             },
             {
                 "translation": "sie",
@@ -16010,7 +16070,7 @@
         "target": [
             {
                 "translation": "selber",
-                "count": 8
+                "count": 10
             }
         ]
     },
@@ -16064,7 +16124,7 @@
         "target": [
             {
                 "translation": "sich",
-                "count": 19
+                "count": 21
             }
         ]
     },
@@ -16181,7 +16241,7 @@
         "target": [
             {
                 "translation": "Sinn",
-                "count": 7
+                "count": 19
             }
         ]
     },
@@ -16235,7 +16295,7 @@
         "target": [
             {
                 "translation": "so",
-                "count": 87
+                "count": 89
             }
         ]
     },
@@ -16333,7 +16393,7 @@
         "target": [
             {
                 "translation": "soll (er/sie/es)",
-                "count": 2
+                "count": 3
             },
             {
                 "translation": "soll (ich)",
@@ -16409,7 +16469,7 @@
         "target": [
             {
                 "translation": "sondern",
-                "count": 8
+                "count": 11
             }
         ]
     },
@@ -16436,7 +16496,7 @@
         "target": [
             {
                 "translation": "sonst",
-                "count": 8
+                "count": 9
             }
         ]
     },
@@ -16764,7 +16824,7 @@
         "target": [
             {
                 "translation": "steigt (er/sie/es)",
-                "count": 2
+                "count": 3
             },
             {
                 "translation": "steigt",
@@ -16822,7 +16882,7 @@
         "target": [
             {
                 "translation": "stimmt (er/sie/es)",
-                "count": 22
+                "count": 23
             }
         ]
     },
@@ -17306,7 +17366,7 @@
         "target": [
             {
                 "translation": "treffen",
-                "count": 9
+                "count": 12
             }
         ]
     },
@@ -17450,7 +17510,7 @@
         "target": [
             {
                 "translation": "über",
-                "count": 7
+                "count": 9
             }
         ]
     },
@@ -17585,7 +17645,7 @@
         "target": [
             {
                 "translation": "um",
-                "count": 1
+                "count": 2
             }
         ]
     },
@@ -17666,7 +17726,7 @@
         "target": [
             {
                 "translation": "unbedingt",
-                "count": 1
+                "count": 2
             }
         ]
     },
@@ -17684,7 +17744,7 @@
         "target": [
             {
                 "translation": "und",
-                "count": 193
+                "count": 207
             }
         ]
     },
@@ -17720,7 +17780,7 @@
         "target": [
             {
                 "translation": "uns",
-                "count": 5
+                "count": 6
             },
             {
                 "translation": "1",
@@ -18007,7 +18067,7 @@
         "target": [
             {
                 "translation": "vergessen",
-                "count": 12
+                "count": 14
             }
         ]
     },
@@ -18025,7 +18085,7 @@
         "target": [
             {
                 "translation": "vergleichen",
-                "count": 7
+                "count": 9
             }
         ]
     },
@@ -18160,7 +18220,7 @@
         "target": [
             {
                 "translation": "verstehen",
-                "count": 16
+                "count": 20
             }
         ]
     },
@@ -18277,7 +18337,7 @@
         "target": [
             {
                 "translation": "viel",
-                "count": 15
+                "count": 16
             }
         ]
     },
@@ -18385,11 +18445,7 @@
         "target": [
             {
                 "translation": "4",
-                "count": 39
-            },
-            {
-                "translation": "vier",
-                "count": 1
+                "count": 45
             }
         ]
     },
@@ -18492,7 +18548,7 @@
         "target": [
             {
                 "translation": "von",
-                "count": 72
+                "count": 76
             },
             {
                 "translation": "vom",
@@ -18536,7 +18592,7 @@
         "target": [
             {
                 "translation": "von der",
-                "count": 2
+                "count": 3
             }
         ]
     },
@@ -18562,8 +18618,8 @@
         "src": "vorus",
         "target": [
             {
-                "translation": "Voraus",
-                "count": 2
+                "translation": "voraus",
+                "count": 3
             }
         ]
     },
@@ -18599,7 +18655,7 @@
         "target": [
             {
                 "translation": "vorgegeben",
-                "count": 1
+                "count": 2
             }
         ]
     },
@@ -18788,7 +18844,7 @@
         "target": [
             {
                 "translation": "wenn",
-                "count": 4
+                "count": 5
             },
             {
                 "translation": "wann",
@@ -18903,7 +18959,7 @@
         "target": [
             {
                 "translation": "warum",
-                "count": 6
+                "count": 7
             }
         ]
     },
@@ -18912,7 +18968,7 @@
         "target": [
             {
                 "translation": "was",
-                "count": 71
+                "count": 73
             }
         ]
     },
@@ -19110,11 +19166,11 @@
         "target": [
             {
                 "translation": "weil",
-                "count": 39
+                "count": 40
             },
             {
                 "translation": "will (er/sie/es)",
-                "count": 2
+                "count": 3
             }
         ]
     },
@@ -19132,7 +19188,7 @@
         "target": [
             {
                 "translation": "weil es",
-                "count": 3
+                "count": 4
             }
         ]
     },
@@ -19186,7 +19242,7 @@
         "target": [
             {
                 "translation": "weiter",
-                "count": 3
+                "count": 4
             }
         ]
     },
@@ -19226,7 +19282,7 @@
         "target": [
             {
                 "translation": "wollen",
-                "count": 12
+                "count": 15
             },
             {
                 "translation": "welche",
@@ -19320,7 +19376,7 @@
         "target": [
             {
                 "translation": "weniger",
-                "count": 2
+                "count": 3
             }
         ]
     },
@@ -19365,7 +19421,7 @@
         "target": [
             {
                 "translation": "wenn es",
-                "count": 5
+                "count": 6
             }
         ]
     },
@@ -19432,7 +19488,7 @@
         "target": [
             {
                 "translation": "wird (er/sie/es)",
-                "count": 9
+                "count": 11
             },
             {
                 "translation": "wird",
@@ -19449,7 +19505,7 @@
         "target": [
             {
                 "translation": "werden",
-                "count": 1
+                "count": 3
             }
         ]
     },
@@ -19762,7 +19818,7 @@
         "target": [
             {
                 "translation": "wirklich",
-                "count": 5
+                "count": 7
             }
         ]
     },
@@ -19771,7 +19827,7 @@
         "target": [
             {
                 "translation": "Wirtschaft",
-                "count": 2
+                "count": 3
             }
         ]
     },
@@ -19780,7 +19836,7 @@
         "target": [
             {
                 "translation": "wissen",
-                "count": 22
+                "count": 26
             }
         ]
     },
@@ -20126,7 +20182,7 @@
         "target": [
             {
                 "translation": "zahlen",
-                "count": 13
+                "count": 17
             },
             {
                 "translation": "Zahlen",
@@ -20184,11 +20240,7 @@
         "target": [
             {
                 "translation": "10",
-                "count": 5
-            },
-            {
-                "translation": "zehn",
-                "count": 1
+                "count": 7
             }
         ]
     },
@@ -20215,7 +20267,7 @@
         "target": [
             {
                 "translation": "zeigen",
-                "count": 15
+                "count": 19
             }
         ]
     },
@@ -20467,7 +20519,7 @@
         "target": [
             {
                 "translation": "zuerst",
-                "count": 3
+                "count": 4
             }
         ]
     },
@@ -20521,7 +20573,7 @@
         "target": [
             {
                 "translation": "zum",
-                "count": 18
+                "count": 21
             }
         ]
     },
@@ -20732,7 +20784,7 @@
         "target": [
             {
                 "translation": "zwar",
-                "count": 3
+                "count": 4
             }
         ]
     },
@@ -20741,14 +20793,10 @@
         "target": [
             {
                 "translation": "2",
-                "count": 41
+                "count": 54
             },
             {
-                "translation": "zwei",
-                "count": 7
-            },
-            {
-                "translation": "zwei (N)",
+                "translation": "2 (N)",
                 "count": 1
             }
         ]
@@ -20802,7 +20850,7 @@
         "target": [
             {
                 "translation": "zweiten",
-                "count": 1
+                "count": 2
             }
         ]
     },
@@ -20892,7 +20940,7 @@
         "target": [
             {
                 "translation": "8",
-                "count": 45
+                "count": 50
             }
         ]
     },
@@ -20910,7 +20958,7 @@
         "target": [
             {
                 "translation": "18",
-                "count": 15
+                "count": 18
             }
         ]
     },
@@ -20955,7 +21003,7 @@
         "target": [
             {
                 "translation": "18",
-                "count": 17
+                "count": 18
             }
         ]
     },
@@ -20964,7 +21012,7 @@
         "target": [
             {
                 "translation": "80",
-                "count": 34
+                "count": 39
             }
         ]
     },
@@ -20973,7 +21021,7 @@
         "target": [
             {
                 "translation": "30",
-                "count": 22
+                "count": 25
             }
         ]
     },
@@ -20991,7 +21039,7 @@
         "target": [
             {
                 "translation": "13",
-                "count": 3
+                "count": 4
             }
         ]
     },
@@ -21009,7 +21057,7 @@
         "target": [
             {
                 "translation": "30",
-                "count": 16
+                "count": 18
             }
         ]
     },
@@ -21054,7 +21102,7 @@
         "target": [
             {
                 "translation": "13",
-                "count": 23
+                "count": 26
             }
         ]
     },
@@ -21063,7 +21111,7 @@
         "target": [
             {
                 "translation": "13",
-                "count": 3
+                "count": 4
             }
         ]
     },
@@ -21135,7 +21183,7 @@
         "target": [
             {
                 "translation": "1000000000",
-                "count": 10
+                "count": 12
             }
         ]
     },
@@ -21144,7 +21192,7 @@
         "target": [
             {
                 "translation": "1000000000",
-                "count": 3
+                "count": 4
             }
         ]
     },
@@ -21153,7 +21201,7 @@
         "target": [
             {
                 "translation": "1000000",
-                "count": 14
+                "count": 17
             }
         ]
     },
@@ -21171,7 +21219,7 @@
         "target": [
             {
                 "translation": "11",
-                "count": 45
+                "count": 50
             }
         ]
     },
@@ -21180,7 +21228,7 @@
         "target": [
             {
                 "translation": "5",
-                "count": 4
+                "count": 5
             }
         ]
     },
@@ -21189,7 +21237,7 @@
         "target": [
             {
                 "translation": "5",
-                "count": 35
+                "count": 38
             }
         ]
     },
@@ -21207,7 +21255,7 @@
         "target": [
             {
                 "translation": "5",
-                "count": 5
+                "count": 6
             }
         ]
     },
@@ -21252,7 +21300,7 @@
         "target": [
             {
                 "translation": "15",
-                "count": 31
+                "count": 35
             }
         ]
     },
@@ -21261,7 +21309,7 @@
         "target": [
             {
                 "translation": "15",
-                "count": 3
+                "count": 4
             }
         ]
     },
@@ -21270,7 +21318,7 @@
         "target": [
             {
                 "translation": "50",
-                "count": 41
+                "count": 46
             }
         ]
     },
@@ -21279,7 +21327,7 @@
         "target": [
             {
                 "translation": "5",
-                "count": 1
+                "count": 2
             }
         ]
     },
@@ -21324,7 +21372,7 @@
         "target": [
             {
                 "translation": "100",
-                "count": 41
+                "count": 46
             }
         ]
     },
@@ -21333,7 +21381,7 @@
         "target": [
             {
                 "translation": "100000",
-                "count": 6
+                "count": 7
             }
         ]
     },
@@ -21360,7 +21408,7 @@
         "target": [
             {
                 "translation": "100000",
-                "count": 18
+                "count": 20
             }
         ]
     },
@@ -21369,7 +21417,7 @@
         "target": [
             {
                 "translation": "100000",
-                "count": 7
+                "count": 9
             }
         ]
     },
@@ -21378,7 +21426,7 @@
         "target": [
             {
                 "translation": "1000000000",
-                "count": 8
+                "count": 9
             }
         ]
     },
@@ -21405,7 +21453,7 @@
         "target": [
             {
                 "translation": "1000000",
-                "count": 10
+                "count": 11
             }
         ]
     },
@@ -21423,7 +21471,7 @@
         "target": [
             {
                 "translation": "9",
-                "count": 21
+                "count": 22
             }
         ]
     },
@@ -21459,7 +21507,7 @@
         "target": [
             {
                 "translation": "19",
-                "count": 22
+                "count": 26
             }
         ]
     },
@@ -21468,7 +21516,7 @@
         "target": [
             {
                 "translation": "19",
-                "count": 5
+                "count": 6
             }
         ]
     },
@@ -21477,7 +21525,7 @@
         "target": [
             {
                 "translation": "90",
-                "count": 39
+                "count": 44
             }
         ]
     },
@@ -21486,7 +21534,7 @@
         "target": [
             {
                 "translation": "9",
-                "count": 24
+                "count": 28
             }
         ]
     },
@@ -21522,7 +21570,7 @@
         "target": [
             {
                 "translation": "6",
-                "count": 32
+                "count": 37
             }
         ]
     },
@@ -21567,7 +21615,7 @@
         "target": [
             {
                 "translation": "16",
-                "count": 19
+                "count": 23
             }
         ]
     },
@@ -21576,7 +21624,7 @@
         "target": [
             {
                 "translation": "60",
-                "count": 28
+                "count": 33
             }
         ]
     },
@@ -21738,7 +21786,7 @@
         "target": [
             {
                 "translation": "17",
-                "count": 10
+                "count": 11
             }
         ]
     },
@@ -21774,7 +21822,7 @@
         "target": [
             {
                 "translation": "70",
-                "count": 3
+                "count": 4
             }
         ]
     },
@@ -21783,7 +21831,7 @@
         "target": [
             {
                 "translation": "7",
-                "count": 21
+                "count": 27
             }
         ]
     },
@@ -21792,7 +21840,7 @@
         "target": [
             {
                 "translation": "70",
-                "count": 19
+                "count": 21
             }
         ]
     },
@@ -21810,7 +21858,7 @@
         "target": [
             {
                 "translation": "17",
-                "count": 15
+                "count": 16
             }
         ]
     },
@@ -21819,7 +21867,7 @@
         "target": [
             {
                 "translation": "17",
-                "count": 5
+                "count": 6
             }
         ]
     },
@@ -21828,7 +21876,7 @@
         "target": [
             {
                 "translation": "70",
-                "count": 2
+                "count": 3
             }
         ]
     },
@@ -21846,7 +21894,7 @@
         "target": [
             {
                 "translation": "7",
-                "count": 2
+                "count": 3
             }
         ]
     },
@@ -21900,7 +21948,7 @@
         "target": [
             {
                 "translation": "1000",
-                "count": 39
+                "count": 44
             }
         ]
     },
@@ -21954,7 +22002,7 @@
         "target": [
             {
                 "translation": "14",
-                "count": 28
+                "count": 32
             }
         ]
     },
@@ -21963,7 +22011,7 @@
         "target": [
             {
                 "translation": "14",
-                "count": 4
+                "count": 5
             }
         ]
     },
@@ -21972,7 +22020,7 @@
         "target": [
             {
                 "translation": "40",
-                "count": 40
+                "count": 45
             }
         ]
     },
@@ -22044,7 +22092,7 @@
         "target": [
             {
                 "translation": "10",
-                "count": 34
+                "count": 38
             }
         ]
     },
@@ -22071,7 +22119,7 @@
         "target": [
             {
                 "translation": "10000",
-                "count": 24
+                "count": 28
             }
         ]
     },
@@ -22125,7 +22173,7 @@
         "target": [
             {
                 "translation": "20",
-                "count": 41
+                "count": 44
             }
         ]
     },
@@ -22152,7 +22200,7 @@
         "target": [
             {
                 "translation": "12",
-                "count": 43
+                "count": 48
             }
         ]
     },
@@ -22160,7 +22208,7 @@
         "src": "zwe",
         "target": [
             {
-                "translation": "zwei (M)",
+                "translation": "2 (M)",
                 "count": 1
             }
         ]
@@ -22169,7 +22217,7 @@
         "src": "zwo",
         "target": [
             {
-                "translation": "zwei (F)",
+                "translation": "2 (F)",
                 "count": 1
             }
         ]
@@ -22188,7 +22236,7 @@
         "target": [
             {
                 "translation": "anbieten",
-                "count": 4
+                "count": 5
             }
         ]
     },
@@ -22206,7 +22254,7 @@
         "target": [
             {
                 "translation": "anbieten",
-                "count": 5
+                "count": 6
             }
         ]
     },
@@ -22282,11 +22330,11 @@
         "target": [
             {
                 "translation": "anfangen",
-                "count": 3
+                "count": 4
             },
             {
                 "translation": "beginnen",
-                "count": 2
+                "count": 3
             }
         ]
     },
@@ -22307,12 +22355,12 @@
         "src": "afange",
         "target": [
             {
-                "translation": "anfangen",
-                "count": 7
+                "translation": "beginnen",
+                "count": 11
             },
             {
-                "translation": "beginnen",
-                "count": 7
+                "translation": "anfangen",
+                "count": 10
             }
         ]
     },
@@ -22356,7 +22404,7 @@
         "target": [
             {
                 "translation": "ankommen",
-                "count": 5
+                "count": 6
             }
         ]
     },
@@ -22401,7 +22449,7 @@
         "target": [
             {
                 "translation": "anrufen",
-                "count": 3
+                "count": 4
             }
         ]
     },
@@ -22410,7 +22458,7 @@
         "target": [
             {
                 "translation": "anrufen",
-                "count": 4
+                "count": 6
             }
         ]
     },
@@ -22428,7 +22476,7 @@
         "target": [
             {
                 "translation": "anrufen",
-                "count": 5
+                "count": 7
             }
         ]
     },
@@ -22473,7 +22521,7 @@
         "target": [
             {
                 "translation": "antworten",
-                "count": 13
+                "count": 17
             }
         ]
     },
@@ -22527,7 +22575,7 @@
         "target": [
             {
                 "translation": "aufhören",
-                "count": 8
+                "count": 11
             },
             {
                 "translation": "beenden",
@@ -22603,7 +22651,7 @@
         "target": [
             {
                 "translation": "ausruhen",
-                "count": 3
+                "count": 5
             }
         ]
     },
@@ -22648,7 +22696,7 @@
         "target": [
             {
                 "translation": "ausruhen",
-                "count": 1
+                "count": 2
             }
         ]
     },
@@ -22666,7 +22714,7 @@
         "target": [
             {
                 "translation": "ausruhen",
-                "count": 1
+                "count": 2
             }
         ]
     },
@@ -22693,7 +22741,7 @@
         "target": [
             {
                 "translation": "auswählen",
-                "count": 7
+                "count": 9
             }
         ]
     },
@@ -22729,7 +22777,7 @@
         "target": [
             {
                 "translation": "beenden",
-                "count": 8
+                "count": 9
             }
         ]
     },
@@ -22756,7 +22804,7 @@
         "target": [
             {
                 "translation": "beenden",
-                "count": 6
+                "count": 8
             }
         ]
     },
@@ -22886,7 +22934,7 @@
         "target": [
             {
                 "translation": "berühren",
-                "count": 1
+                "count": 2
             }
         ]
     },
@@ -22895,7 +22943,7 @@
         "target": [
             {
                 "translation": "berühren",
-                "count": 6
+                "count": 8
             }
         ]
     },
@@ -22967,7 +23015,7 @@
         "target": [
             {
                 "translation": "beschreiben",
-                "count": 6
+                "count": 9
             }
         ]
     },
@@ -22976,7 +23024,7 @@
         "target": [
             {
                 "translation": "beschreiben",
-                "count": 3
+                "count": 4
             }
         ]
     },
@@ -22994,7 +23042,7 @@
         "target": [
             {
                 "translation": "besuchen",
-                "count": 1
+                "count": 2
             }
         ]
     },
@@ -23003,7 +23051,7 @@
         "target": [
             {
                 "translation": "besuchen",
-                "count": 15
+                "count": 18
             }
         ]
     },
@@ -23030,7 +23078,7 @@
         "target": [
             {
                 "translation": "bevorzugen",
-                "count": 2
+                "count": 3
             }
         ]
     },
@@ -23039,7 +23087,7 @@
         "target": [
             {
                 "translation": "bevorzugen",
-                "count": 11
+                "count": 13
             }
         ]
     },
@@ -23057,7 +23105,7 @@
         "target": [
             {
                 "translation": "bewegen",
-                "count": 4
+                "count": 5
             }
         ]
     },
@@ -23066,7 +23114,7 @@
         "target": [
             {
                 "translation": "bewegen",
-                "count": 12
+                "count": 16
             }
         ]
     },
@@ -23120,7 +23168,7 @@
         "target": [
             {
                 "translation": "brennen",
-                "count": 6
+                "count": 8
             }
         ]
     },
@@ -23129,7 +23177,7 @@
         "target": [
             {
                 "translation": "brennen",
-                "count": 7
+                "count": 9
             }
         ]
     },
@@ -23165,7 +23213,7 @@
         "target": [
             {
                 "translation": "bringen",
-                "count": 4
+                "count": 5
             }
         ]
     },
@@ -23183,7 +23231,7 @@
         "target": [
             {
                 "translation": "denken",
-                "count": 8
+                "count": 10
             }
         ]
     },
@@ -23192,7 +23240,7 @@
         "target": [
             {
                 "translation": "denken",
-                "count": 8
+                "count": 11
             }
         ]
     },
@@ -23237,7 +23285,7 @@
         "target": [
             {
                 "translation": "entscheiden",
-                "count": 13
+                "count": 17
             }
         ]
     },
@@ -23255,7 +23303,7 @@
         "target": [
             {
                 "translation": "erhalten",
-                "count": 4
+                "count": 6
             }
         ]
     },
@@ -23273,7 +23321,7 @@
         "target": [
             {
                 "translation": "erinnern",
-                "count": 15
+                "count": 18
             }
         ]
     },
@@ -23291,7 +23339,7 @@
         "target": [
             {
                 "translation": "erinnern",
-                "count": 1
+                "count": 2
             }
         ]
     },
@@ -23309,7 +23357,7 @@
         "target": [
             {
                 "translation": "erkennen",
-                "count": 4
+                "count": 6
             }
         ]
     },
@@ -23327,7 +23375,7 @@
         "target": [
             {
                 "translation": "erkennen",
-                "count": 5
+                "count": 7
             }
         ]
     },
@@ -23408,7 +23456,7 @@
         "target": [
             {
                 "translation": "erlauben",
-                "count": 15
+                "count": 18
             }
         ]
     },
@@ -23435,7 +23483,7 @@
         "target": [
             {
                 "translation": "erzählen",
-                "count": 11
+                "count": 14
             }
         ]
     },
@@ -23507,7 +23555,7 @@
         "target": [
             {
                 "translation": "essen",
-                "count": 9
+                "count": 11
             }
         ]
     },
@@ -23525,7 +23573,7 @@
         "target": [
             {
                 "translation": "fahren",
-                "count": 13
+                "count": 17
             }
         ]
     },
@@ -23534,7 +23582,7 @@
         "target": [
             {
                 "translation": "fallen",
-                "count": 13
+                "count": 17
             }
         ]
     },
@@ -23660,7 +23708,7 @@
         "target": [
             {
                 "translation": "fühlen",
-                "count": 1
+                "count": 2
             }
         ]
     },
@@ -23705,7 +23753,7 @@
         "target": [
             {
                 "translation": "füllen",
-                "count": 2
+                "count": 3
             }
         ]
     },
@@ -23714,7 +23762,7 @@
         "target": [
             {
                 "translation": "füllen",
-                "count": 15
+                "count": 19
             }
         ]
     },
@@ -23750,7 +23798,7 @@
         "target": [
             {
                 "translation": "gehen",
-                "count": 2
+                "count": 4
             }
         ]
     },
@@ -23777,7 +23825,7 @@
         "target": [
             {
                 "translation": "geschehen",
-                "count": 11
+                "count": 13
             }
         ]
     },
@@ -23795,7 +23843,7 @@
         "target": [
             {
                 "translation": "geschehen",
-                "count": 3
+                "count": 4
             }
         ]
     },
@@ -23822,7 +23870,7 @@
         "target": [
             {
                 "translation": "gewinnen",
-                "count": 6
+                "count": 8
             }
         ]
     },
@@ -23849,7 +23897,7 @@
         "target": [
             {
                 "translation": "gewinnen",
-                "count": 4
+                "count": 6
             }
         ]
     },
@@ -23876,7 +23924,7 @@
         "target": [
             {
                 "translation": "glauben",
-                "count": 4
+                "count": 5
             }
         ]
     },
@@ -23903,7 +23951,7 @@
         "target": [
             {
                 "translation": "halten",
-                "count": 3
+                "count": 4
             }
         ]
     },
@@ -23921,7 +23969,7 @@
         "target": [
             {
                 "translation": "hassen",
-                "count": 5
+                "count": 6
             }
         ]
     },
@@ -23939,7 +23987,7 @@
         "target": [
             {
                 "translation": "helfen",
-                "count": 6
+                "count": 8
             }
         ]
     },
@@ -23966,7 +24014,7 @@
         "target": [
             {
                 "translation": "hören",
-                "count": 9
+                "count": 12
             }
         ]
     },
@@ -23975,7 +24023,7 @@
         "target": [
             {
                 "translation": "hören",
-                "count": 4
+                "count": 5
             }
         ]
     },
@@ -24020,7 +24068,7 @@
         "target": [
             {
                 "translation": "kaufen",
-                "count": 11
+                "count": 15
             }
         ]
     },
@@ -24038,7 +24086,7 @@
         "target": [
             {
                 "translation": "kochen",
-                "count": 5
+                "count": 6
             }
         ]
     },
@@ -24047,7 +24095,7 @@
         "target": [
             {
                 "translation": "kochen",
-                "count": 13
+                "count": 16
             },
             {
                 "translation": "zubereiten",
@@ -24096,7 +24144,7 @@
         "target": [
             {
                 "translation": "kosten",
-                "count": 10
+                "count": 13
             }
         ]
     },
@@ -24114,7 +24162,7 @@
         "target": [
             {
                 "translation": "kosten",
-                "count": 1
+                "count": 2
             }
         ]
     },
@@ -24123,7 +24171,7 @@
         "target": [
             {
                 "translation": "kämpfen",
-                "count": 4
+                "count": 5
             }
         ]
     },
@@ -24132,7 +24180,7 @@
         "target": [
             {
                 "translation": "kämpfen",
-                "count": 13
+                "count": 16
             }
         ]
     },
@@ -24150,7 +24198,7 @@
         "target": [
             {
                 "translation": "lachen",
-                "count": 5
+                "count": 6
             }
         ]
     },
@@ -24177,7 +24225,7 @@
         "target": [
             {
                 "translation": "leben",
-                "count": 7
+                "count": 9
             }
         ]
     },
@@ -24195,7 +24243,7 @@
         "target": [
             {
                 "translation": "legen",
-                "count": 7
+                "count": 8
             }
         ]
     },
@@ -24213,7 +24261,7 @@
         "target": [
             {
                 "translation": "legen",
-                "count": 6
+                "count": 8
             }
         ]
     },
@@ -24231,7 +24279,7 @@
         "target": [
             {
                 "translation": "lehren",
-                "count": 15
+                "count": 19
             },
             {
                 "translation": "lernen",
@@ -24253,7 +24301,7 @@
         "target": [
             {
                 "translation": "lernen",
-                "count": 2
+                "count": 3
             }
         ]
     },
@@ -24280,7 +24328,7 @@
         "target": [
             {
                 "translation": "lesen",
-                "count": 5
+                "count": 7
             }
         ]
     },
@@ -24289,7 +24337,7 @@
         "target": [
             {
                 "translation": "lieben",
-                "count": 4
+                "count": 5
             }
         ]
     },
@@ -24298,7 +24346,7 @@
         "target": [
             {
                 "translation": "lieben",
-                "count": 13
+                "count": 16
             }
         ]
     },
@@ -24316,7 +24364,7 @@
         "target": [
             {
                 "translation": "lächeln",
-                "count": 3
+                "count": 4
             }
         ]
     },
@@ -24325,7 +24373,7 @@
         "target": [
             {
                 "translation": "lächeln",
-                "count": 14
+                "count": 17
             }
         ]
     },
@@ -24352,7 +24400,7 @@
         "target": [
             {
                 "translation": "lügen",
-                "count": 8
+                "count": 12
             }
         ]
     },
@@ -24379,7 +24427,7 @@
         "target": [
             {
                 "translation": "nehmen",
-                "count": 6
+                "count": 9
             }
         ]
     },
@@ -24397,7 +24445,7 @@
         "target": [
             {
                 "translation": "putzen",
-                "count": 3
+                "count": 4
             }
         ]
     },
@@ -24406,7 +24454,7 @@
         "target": [
             {
                 "translation": "putzen",
-                "count": 13
+                "count": 16
             }
         ]
     },
@@ -24428,7 +24476,7 @@
             },
             {
                 "translation": "sprechen",
-                "count": 3
+                "count": 4
             }
         ]
     },
@@ -24455,7 +24503,7 @@
         "target": [
             {
                 "translation": "reisen",
-                "count": 14
+                "count": 18
             }
         ]
     },
@@ -24473,7 +24521,7 @@
         "target": [
             {
                 "translation": "rennen",
-                "count": 7
+                "count": 9
             }
         ]
     },
@@ -24531,7 +24579,7 @@
         "target": [
             {
                 "translation": "schicken",
-                "count": 4
+                "count": 5
             }
         ]
     },
@@ -24558,7 +24606,7 @@
         "target": [
             {
                 "translation": "schliessen",
-                "count": 8
+                "count": 11
             }
         ]
     },
@@ -24567,7 +24615,7 @@
         "target": [
             {
                 "translation": "schliessen",
-                "count": 1
+                "count": 2
             }
         ]
     },
@@ -24639,7 +24687,7 @@
         "target": [
             {
                 "translation": "schmerzen",
-                "count": 1
+                "count": 2
             }
         ]
     },
@@ -24648,7 +24696,7 @@
         "target": [
             {
                 "translation": "schmerzen",
-                "count": 8
+                "count": 10
             }
         ]
     },
@@ -24657,7 +24705,7 @@
         "target": [
             {
                 "translation": "schmerzen",
-                "count": 5
+                "count": 6
             }
         ]
     },
@@ -24675,7 +24723,7 @@
         "target": [
             {
                 "translation": "schneiden",
-                "count": 9
+                "count": 13
             }
         ]
     },
@@ -24720,7 +24768,7 @@
         "target": [
             {
                 "translation": "schreien",
-                "count": 13
+                "count": 17
             }
         ]
     },
@@ -24756,7 +24804,7 @@
         "target": [
             {
                 "translation": "singen",
-                "count": 12
+                "count": 16
             }
         ]
     },
@@ -24765,7 +24813,7 @@
         "target": [
             {
                 "translation": "sitzen",
-                "count": 5
+                "count": 6
             }
         ]
     },
@@ -24783,7 +24831,7 @@
         "target": [
             {
                 "translation": "sitzen",
-                "count": 13
+                "count": 16
             }
         ]
     },
@@ -24810,7 +24858,7 @@
         "target": [
             {
                 "translation": "spielen",
-                "count": 4
+                "count": 5
             }
         ]
     },
@@ -24819,7 +24867,7 @@
         "target": [
             {
                 "translation": "spielen",
-                "count": 10
+                "count": 13
             }
         ]
     },
@@ -24873,7 +24921,7 @@
         "target": [
             {
                 "translation": "springen",
-                "count": 9
+                "count": 13
             }
         ]
     },
@@ -24882,7 +24930,7 @@
         "target": [
             {
                 "translation": "springen",
-                "count": 7
+                "count": 8
             }
         ]
     },
@@ -24918,7 +24966,7 @@
         "target": [
             {
                 "translation": "sterben",
-                "count": 13
+                "count": 16
             }
         ]
     },
@@ -24936,7 +24984,7 @@
         "target": [
             {
                 "translation": "sterben",
-                "count": 1
+                "count": 2
             }
         ]
     },
@@ -24954,7 +25002,7 @@
         "target": [
             {
                 "translation": "studieren",
-                "count": 2
+                "count": 3
             }
         ]
     },
@@ -24963,7 +25011,7 @@
         "target": [
             {
                 "translation": "studieren",
-                "count": 14
+                "count": 17
             }
         ]
     },
@@ -24990,7 +25038,7 @@
         "target": [
             {
                 "translation": "tanzen",
-                "count": 4
+                "count": 5
             }
         ]
     },
@@ -24999,7 +25047,7 @@
         "target": [
             {
                 "translation": "tanzen",
-                "count": 12
+                "count": 15
             }
         ]
     },
@@ -25017,7 +25065,7 @@
         "target": [
             {
                 "translation": "treffen",
-                "count": 5
+                "count": 7
             }
         ]
     },
@@ -25026,7 +25074,7 @@
         "target": [
             {
                 "translation": "trinken",
-                "count": 3
+                "count": 4
             }
         ]
     },
@@ -25035,7 +25083,7 @@
         "target": [
             {
                 "translation": "trinken",
-                "count": 13
+                "count": 16
             }
         ]
     },
@@ -25062,7 +25110,7 @@
         "target": [
             {
                 "translation": "töten",
-                "count": 5
+                "count": 6
             }
         ]
     },
@@ -25071,7 +25119,7 @@
         "target": [
             {
                 "translation": "töten",
-                "count": 13
+                "count": 15
             }
         ]
     },
@@ -25098,7 +25146,7 @@
         "target": [
             {
                 "translation": "unterstützen",
-                "count": 9
+                "count": 13
             }
         ]
     },
@@ -25143,7 +25191,7 @@
         "target": [
             {
                 "translation": "verbessern",
-                "count": 12
+                "count": 16
             }
         ]
     },
@@ -25161,7 +25209,7 @@
         "target": [
             {
                 "translation": "vergeben",
-                "count": 6
+                "count": 8
             }
         ]
     },
@@ -25170,7 +25218,7 @@
         "target": [
             {
                 "translation": "vergeben",
-                "count": 7
+                "count": 8
             }
         ]
     },
@@ -25206,7 +25254,7 @@
         "target": [
             {
                 "translation": "vergessen",
-                "count": 5
+                "count": 7
             }
         ]
     },
@@ -25251,7 +25299,7 @@
         "target": [
             {
                 "translation": "vergleichen",
-                "count": 10
+                "count": 13
             }
         ]
     },
@@ -25278,7 +25326,7 @@
         "target": [
             {
                 "translation": "verkaufen",
-                "count": 12
+                "count": 15
             }
         ]
     },
@@ -25305,7 +25353,7 @@
         "target": [
             {
                 "translation": "verlassen",
-                "count": 13
+                "count": 15
             }
         ]
     },
@@ -25314,7 +25362,7 @@
         "target": [
             {
                 "translation": "verlassen",
-                "count": 2
+                "count": 3
             }
         ]
     },
@@ -25332,7 +25380,7 @@
         "target": [
             {
                 "translation": "verlassen",
-                "count": 2
+                "count": 3
             }
         ]
     },
@@ -25350,7 +25398,7 @@
         "target": [
             {
                 "translation": "verlieren",
-                "count": 10
+                "count": 12
             }
         ]
     },
@@ -25359,7 +25407,7 @@
         "target": [
             {
                 "translation": "verlieren",
-                "count": 8
+                "count": 10
             }
         ]
     },
@@ -25386,7 +25434,7 @@
         "target": [
             {
                 "translation": "versprechen",
-                "count": 5
+                "count": 7
             }
         ]
     },
@@ -25395,7 +25443,7 @@
         "target": [
             {
                 "translation": "versprechen",
-                "count": 10
+                "count": 12
             }
         ]
     },
@@ -25422,7 +25470,7 @@
         "target": [
             {
                 "translation": "verstecken",
-                "count": 2
+                "count": 3
             }
         ]
     },
@@ -25431,7 +25479,7 @@
         "target": [
             {
                 "translation": "verstecken",
-                "count": 13
+                "count": 17
             }
         ]
     },
@@ -25494,7 +25542,7 @@
         "target": [
             {
                 "translation": "versuchen",
-                "count": 11
+                "count": 13
             }
         ]
     },
@@ -25521,7 +25569,7 @@
         "target": [
             {
                 "translation": "vorschlagen",
-                "count": 13
+                "count": 14
             }
         ]
     },
@@ -25530,7 +25578,7 @@
         "target": [
             {
                 "translation": "vorschlagen",
-                "count": 4
+                "count": 6
             }
         ]
     },
@@ -25539,7 +25587,7 @@
         "target": [
             {
                 "translation": "waschen",
-                "count": 14
+                "count": 17
             }
         ]
     },
@@ -25557,7 +25605,7 @@
         "target": [
             {
                 "translation": "waschen",
-                "count": 1
+                "count": 2
             }
         ]
     },
@@ -25575,7 +25623,7 @@
         "target": [
             {
                 "translation": "weinen",
-                "count": 13
+                "count": 15
             }
         ]
     },
@@ -25620,7 +25668,7 @@
         "target": [
             {
                 "translation": "weinen",
-                "count": 1
+                "count": 2
             }
         ]
     },
@@ -25656,7 +25704,7 @@
         "target": [
             {
                 "translation": "weitermachen",
-                "count": 8
+                "count": 12
             }
         ]
     },
@@ -25692,7 +25740,7 @@
         "target": [
             {
                 "translation": "werfen",
-                "count": 4
+                "count": 5
             }
         ]
     },
@@ -25701,7 +25749,7 @@
         "target": [
             {
                 "translation": "werfen",
-                "count": 7
+                "count": 8
             }
         ]
     },
@@ -25737,7 +25785,7 @@
         "target": [
             {
                 "translation": "werfen",
-                "count": 1
+                "count": 2
             }
         ]
     },
@@ -25746,7 +25794,7 @@
         "target": [
             {
                 "translation": "werfen",
-                "count": 1
+                "count": 2
             }
         ]
     },
@@ -25791,7 +25839,7 @@
         "target": [
             {
                 "translation": "wiederholen",
-                "count": 2
+                "count": 3
             }
         ]
     },
@@ -25800,7 +25848,7 @@
         "target": [
             {
                 "translation": "wiederholen",
-                "count": 10
+                "count": 12
             }
         ]
     },
@@ -25836,7 +25884,7 @@
         "target": [
             {
                 "translation": "wollen",
-                "count": 1
+                "count": 2
             }
         ]
     },
@@ -25926,7 +25974,7 @@
         "target": [
             {
                 "translation": "zerstören",
-                "count": 11
+                "count": 15
             }
         ]
     },
@@ -25935,7 +25983,7 @@
         "target": [
             {
                 "translation": "zerstören",
-                "count": 2
+                "count": 3
             }
         ]
     },
@@ -25962,7 +26010,7 @@
         "target": [
             {
                 "translation": "ziehen",
-                "count": 16
+                "count": 20
             }
         ]
     },
@@ -25998,7 +26046,7 @@
         "target": [
             {
                 "translation": "zubereiten",
-                "count": 11
+                "count": 15
             }
         ]
     },
@@ -26043,7 +26091,7 @@
         "target": [
             {
                 "translation": "zuhören",
-                "count": 16
+                "count": 21
             }
         ]
     },
@@ -26079,7 +26127,7 @@
         "target": [
             {
                 "translation": "zählen",
-                "count": 2
+                "count": 3
             }
         ]
     },
@@ -26088,7 +26136,7 @@
         "target": [
             {
                 "translation": "zählen",
-                "count": 5
+                "count": 6
             }
         ]
     },
@@ -26097,7 +26145,7 @@
         "target": [
             {
                 "translation": "zählen",
-                "count": 2
+                "count": 4
             }
         ]
     },
@@ -26142,7 +26190,7 @@
         "target": [
             {
                 "translation": "zurückkehren",
-                "count": 1
+                "count": 2
             }
         ]
     },
@@ -26178,7 +26226,7 @@
         "target": [
             {
                 "translation": "zurückkehren",
-                "count": 7
+                "count": 9
             }
         ]
     },
@@ -26466,7 +26514,7 @@
         "target": [
             {
                 "translation": "20",
-                "count": 1
+                "count": 2
             }
         ]
     },
@@ -26565,7 +26613,7 @@
         "target": [
             {
                 "translation": "1000000",
-                "count": 1
+                "count": 2
             }
         ]
     },
@@ -26610,7 +26658,7 @@
         "target": [
             {
                 "translation": "1000000000",
-                "count": 1
+                "count": 2
             }
         ]
     },
@@ -26655,6 +26703,1630 @@
         "target": [
             {
                 "translation": "1000000000",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "äh",
+        "target": [
+            {
+                "translation": "äh",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "aktiv",
+        "target": [
+            {
+                "translation": "aktiv",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "allfäligi",
+        "target": [
+            {
+                "translation": "allfällige (pl.)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "aeigne",
+        "target": [
+            {
+                "translation": "aneignen",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "antisemitischi",
+        "target": [
+            {
+                "translation": "antisemitische (F)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "azeig",
+        "target": [
+            {
+                "translation": "Anzeige",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "armee",
+        "target": [
+            {
+                "translation": "Armee",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "uuf",
+        "target": [
+            {
+                "translation": "auf",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "ufreggä",
+        "target": [
+            {
+                "translation": "aufregen",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "üsserige",
+        "target": [
+            {
+                "translation": "Äusserungen",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "begriffe",
+        "target": [
+            {
+                "translation": "begriffen",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "bispiele",
+        "target": [
+            {
+                "translation": "Beispiel",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "benützig",
+        "target": [
+            {
+                "translation": "Benützung",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "bricht",
+        "target": [
+            {
+                "translation": "Bericht",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "blösinn",
+        "target": [
+            {
+                "translation": "Blödsinn",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "bringed",
+        "target": [
+            {
+                "translation": "bringen (sie)",
+                "count": 1
+            },
+            {
+                "translation": "bringt (ihr)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "covid",
+        "target": [
+            {
+                "translation": "Covid",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "dammits",
+        "target": [
+            {
+                "translation": "damit es",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "drüber",
+        "target": [
+            {
+                "translation": "darüber",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "s'ageboht",
+        "target": [
+            {
+                "translation": "das Angebot",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "s'problem",
+        "target": [
+            {
+                "translation": "das Problem",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "dis",
+        "target": [
+            {
+                "translation": "dein (N)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "däm",
+        "target": [
+            {
+                "translation": "dem",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "dänkfähigkeit",
+        "target": [
+            {
+                "translation": "Denkfähigkeit",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "deskriptive",
+        "target": [
+            {
+                "translation": "deskriptive",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "dütlich",
+        "target": [
+            {
+                "translation": "deutlich",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "düütsch",
+        "target": [
+            {
+                "translation": "Deutsch",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "d’auge",
+        "target": [
+            {
+                "translation": "die Augen",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "d’situation",
+        "target": [
+            {
+                "translation": "die Situation",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "dät",
+        "target": [
+            {
+                "translation": "dort",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "eme",
+        "target": [
+            {
+                "translation": "einem",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "schlitle",
+        "target": [
+            {
+                "translation": "eislaufen",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "eltere",
+        "target": [
+            {
+                "translation": "Eltern",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "endi",
+        "target": [
+            {
+                "translation": "Ende",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "erbost",
+        "target": [
+            {
+                "translation": "erbost",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "ergeh",
+        "target": [
+            {
+                "translation": "ergeben",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "europa",
+        "target": [
+            {
+                "translation": "Europa",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "eventuell",
+        "target": [
+            {
+                "translation": "eventuell",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "fiene",
+        "target": [
+            {
+                "translation": "feinen (M)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "flagge",
+        "target": [
+            {
+                "translation": "Flagge",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "freuts",
+        "target": [
+            {
+                "translation": "freut es",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "gfüert",
+        "target": [
+            {
+                "translation": "geführt",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "gang",
+        "target": [
+            {
+                "translation": "geh (du)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "gönd",
+        "target": [
+            {
+                "translation": "gehen (wir)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "gmeinhin",
+        "target": [
+            {
+                "translation": "gemeinhin",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "generell",
+        "target": [
+            {
+                "translation": "generell",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "greist",
+        "target": [
+            {
+                "translation": "gereist",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "xetzliche",
+        "target": [
+            {
+                "translation": "gesetzliche (N)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "troffe",
+        "target": [
+            {
+                "translation": "getroffen",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "gids",
+        "target": [
+            {
+                "translation": "gibt es",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "gröschti",
+        "target": [
+            {
+                "translation": "grösste (F)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "hed",
+        "target": [
+            {
+                "translation": "hat (er/sie/es)",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "häts",
+        "target": [
+            {
+                "translation": "hat es (er/sie/es)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "huusverbot",
+        "target": [
+            {
+                "translation": "Hausverbot",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "hervorgruefene",
+        "target": [
+            {
+                "translation": "hervorgerufenen (pl.)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "idä",
+        "target": [
+            {
+                "translation": "in den (pl.)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "irgend",
+        "target": [
+            {
+                "translation": "irgendeinen (M)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "jude",
+        "target": [
+            {
+                "translation": "Juden",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "jüdische",
+        "target": [
+            {
+                "translation": "jüdische (F)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "chani",
+        "target": [
+            {
+                "translation": "kann ich",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "keine",
+        "target": [
+            {
+                "translation": "keinen (M)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "kennt",
+        "target": [
+            {
+                "translation": "kennt (er/sie/es)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "chlosterschuel",
+        "target": [
+            {
+                "translation": "Klosterschule",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "konstrukt",
+        "target": [
+            {
+                "translation": "Konstrukt",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "chöpf",
+        "target": [
+            {
+                "translation": "Köpfen",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "liit",
+        "target": [
+            {
+                "translation": "liegt (er/sie/es)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "logisch",
+        "target": [
+            {
+                "translation": "logisch",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "mänsche",
+        "target": [
+            {
+                "translation": "Menschen",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "mönsche",
+        "target": [
+            {
+                "translation": "Menschen",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "miesi",
+        "target": [
+            {
+                "translation": "miese (pl.)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "nächste",
+        "target": [
+            {
+                "translation": "nächste (N)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "nämmli",
+        "target": [
+            {
+                "translation": "nämlich",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "natur",
+        "target": [
+            {
+                "translation": "Natur",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "nummä",
+        "target": [
+            {
+                "translation": "nur",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "objekt",
+        "target": [
+            {
+                "translation": "Objekt",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "organisation",
+        "target": [
+            {
+                "translation": "Organisation",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "philisophoisch",
+        "target": [
+            {
+                "translation": "philosophisches",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "priis",
+        "target": [
+            {
+                "translation": "Preis",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "problematisch",
+        "target": [
+            {
+                "translation": "problematisch",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "dusse",
+        "target": [
+            {
+                "translation": "raus",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "rächnig",
+        "target": [
+            {
+                "translation": "Rechnung",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "reins",
+        "target": [
+            {
+                "translation": "reines",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "sieche",
+        "target": [
+            {
+                "translation": "rennen",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "restliche",
+        "target": [
+            {
+                "translation": "restlichen (pl.)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "sand",
+        "target": [
+            {
+                "translation": "Sand",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "schöfli",
+        "target": [
+            {
+                "translation": "Schäfchen",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "schnee",
+        "target": [
+            {
+                "translation": "Schnee",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "src": "schriftlichs",
+        "target": [
+            {
+                "translation": "schriftliches",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "schwarzi",
+        "target": [
+            {
+                "translation": "schwarze (pl.)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "schwizer",
+        "target": [
+            {
+                "translation": "Schweizer",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "schwuli",
+        "target": [
+            {
+                "translation": "Schwule",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "sit",
+        "target": [
+            {
+                "translation": "seit",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "setzt",
+        "target": [
+            {
+                "translation": "setzt (er/sie/es)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "sinkt",
+        "target": [
+            {
+                "translation": "sinkt (er/sie/es)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "sinnhafte",
+        "target": [
+            {
+                "translation": "sinnhaften (M)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "sinnlos",
+        "target": [
+            {
+                "translation": "sinnlos",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "sinnvollers",
+        "target": [
+            {
+                "translation": "sinnvolleres",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "situation",
+        "target": [
+            {
+                "translation": "Situation",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "sones",
+        "target": [
+            {
+                "translation": "so ein (N)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "söttisch",
+        "target": [
+            {
+                "translation": "solltest (du)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "spered",
+        "target": [
+            {
+                "translation": "sperren (sie)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "sprach",
+        "target": [
+            {
+                "translation": "Sprache",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "standbei",
+        "target": [
+            {
+                "translation": "Standbein",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "starks",
+        "target": [
+            {
+                "translation": "starkes",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "stundewyys",
+        "target": [
+            {
+                "translation": "stundenweise",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "touriste",
+        "target": [
+            {
+                "translation": "Touristen",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "transphob",
+        "target": [
+            {
+                "translation": "transphob",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "trara",
+        "target": [
+            {
+                "translation": "Trara",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "übrigns",
+        "target": [
+            {
+                "translation": "übrigens",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "umstand",
+        "target": [
+            {
+                "translation": "Umstand",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "unironisch",
+        "target": [
+            {
+                "translation": "unironisch",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "euis",
+        "target": [
+            {
+                "translation": "uns",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "euies",
+        "target": [
+            {
+                "translation": "unseres",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "underschribe",
+        "target": [
+            {
+                "translation": "unterschreiben",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "unverständnis",
+        "target": [
+            {
+                "translation": "Unverständnis",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "bapi",
+        "target": [
+            {
+                "translation": "Vater",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "verantwortlich",
+        "target": [
+            {
+                "translation": "verantwortlich",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "veribarige",
+        "target": [
+            {
+                "translation": "Vereinbarungen",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "vergliichbari",
+        "target": [
+            {
+                "translation": "vergleichbare",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "vermiete",
+        "target": [
+            {
+                "translation": "vermieten",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "verschwiizerdütscht",
+        "target": [
+            {
+                "translation": "verschweizerdeutscht",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "vertraglichi",
+        "target": [
+            {
+                "translation": "verträgliche (pl.)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "volksmund",
+        "target": [
+            {
+                "translation": "Volksmund",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "vonerer",
+        "target": [
+            {
+                "translation": "von einer",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "vo obbeabe",
+        "target": [
+            {
+                "translation": "von oben nach unten",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "websites",
+        "target": [
+            {
+                "translation": "Webseiten",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "wells",
+        "target": [
+            {
+                "translation": "weil es",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "will’mer",
+        "target": [
+            {
+                "translation": "weil wir",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "weltchrieg",
+        "target": [
+            {
+                "translation": "Weltkrieg",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "wert",
+        "target": [
+            {
+                "translation": "wer",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "weshalb",
+        "target": [
+            {
+                "translation": "weshalb",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "wunderbar",
+        "target": [
+            {
+                "translation": "wunderbaren (M)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "zelt",
+        "target": [
+            {
+                "translation": "zählt (er/sie/es)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "zalige",
+        "target": [
+            {
+                "translation": "Zahlungen",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "game",
+        "target": [
+            {
+                "translation": "zocken",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "z’verbreite",
+        "target": [
+            {
+                "translation": "zu verbreiten",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "offeriere",
+        "target": [
+            {
+                "translation": "anbieten",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "ahbüte",
+        "target": [
+            {
+                "translation": "anbieten",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "aufhöre",
+        "target": [
+            {
+                "translation": "aufhören",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "uusähle",
+        "target": [
+            {
+                "translation": "auswählen",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "auswähle",
+        "target": [
+            {
+                "translation": "auswählen",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "uf höre",
+        "target": [
+            {
+                "translation": "beenden",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "beeände",
+        "target": [
+            {
+                "translation": "beenden",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "stoppe",
+        "target": [
+            {
+                "translation": "beenden",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "alange",
+        "target": [
+            {
+                "translation": "berühren",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "präferiere",
+        "target": [
+            {
+                "translation": "bevorzugen",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "bliive",
+        "target": [
+            {
+                "translation": "bleiben",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "erläube",
+        "target": [
+            {
+                "translation": "erlauben",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "verzelleh",
+        "target": [
+            {
+                "translation": "erzählen",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "gspühre",
+        "target": [
+            {
+                "translation": "fühlen",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "kaufä",
+        "target": [
+            {
+                "translation": "kaufen",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "chenne",
+        "target": [
+            {
+                "translation": "können",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "lige",
+        "target": [
+            {
+                "translation": "legen",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "iiebe",
+        "target": [
+            {
+                "translation": "lieben",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "nimme",
+        "target": [
+            {
+                "translation": "nehmen",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "schocke",
+        "target": [
+            {
+                "translation": "schicken",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "schlaafä",
+        "target": [
+            {
+                "translation": "schlafen",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "schalfe",
+        "target": [
+            {
+                "translation": "schlafen",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "zue tue",
+        "target": [
+            {
+                "translation": "schliessen",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "wehtueh",
+        "target": [
+            {
+                "translation": "schmerzen",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "umbringe",
+        "target": [
+            {
+                "translation": "töten",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "vergebe",
+        "target": [
+            {
+                "translation": "vergeben",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "verkaufä",
+        "target": [
+            {
+                "translation": "verkaufen",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "weggah",
+        "target": [
+            {
+                "translation": "verlassen",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "usegah",
+        "target": [
+            {
+                "translation": "verlassen",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "verlaah",
+        "target": [
+            {
+                "translation": "verlassen",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "vorsclah",
+        "target": [
+            {
+                "translation": "vorschlagen",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "vorschlaah",
+        "target": [
+            {
+                "translation": "vorschlagen",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "hüle",
+        "target": [
+            {
+                "translation": "weinen",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "brüelä",
+        "target": [
+            {
+                "translation": "weinen",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "rühre",
+        "target": [
+            {
+                "translation": "werfen",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "repetiere",
+        "target": [
+            {
+                "translation": "wiederholen",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "zerstöhre",
+        "target": [
+            {
+                "translation": "zerstören",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "zrugg chere",
+        "target": [
+            {
+                "translation": "zurückkehren",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "sächzeh",
+        "target": [
+            {
+                "translation": "16",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "siibzäh",
+        "target": [
+            {
+                "translation": "17",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "achzeh",
+        "target": [
+            {
+                "translation": "18",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "zänzg",
+        "target": [
+            {
+                "translation": "20",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "siibzg",
+        "target": [
+            {
+                "translation": "70",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "zeh tuusig",
+        "target": [
+            {
+                "translation": "10000",
                 "count": 1
             }
         ]

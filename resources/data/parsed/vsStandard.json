@@ -4,7 +4,7 @@
         "target": [
             {
                 "translation": "eis",
-                "count": 1
+                "count": 2
             }
         ]
     },
@@ -14,6 +14,10 @@
             {
                 "translation": "zää",
                 "count": 1
+            },
+            {
+                "translation": "zäh",
+                "count": 1
             }
         ]
     },
@@ -21,15 +25,15 @@
         "src": "100",
         "target": [
             {
+                "translation": "hunnert",
+                "count": 2
+            },
+            {
                 "translation": "hundärt",
                 "count": 1
             },
             {
                 "translation": "hunner",
-                "count": 1
-            },
-            {
-                "translation": "hunnert",
                 "count": 1
             }
         ]
@@ -39,7 +43,7 @@
         "target": [
             {
                 "translation": "tüüsig",
-                "count": 1
+                "count": 2
             }
         ]
     },
@@ -48,6 +52,10 @@
         "target": [
             {
                 "translation": "zätüüsig",
+                "count": 1
+            },
+            {
+                "translation": "zähtüüsig",
                 "count": 1
             }
         ]
@@ -58,6 +66,10 @@
             {
                 "translation": "hunnertüüsig",
                 "count": 1
+            },
+            {
+                "translation": "hunnerttüüsig",
+                "count": 1
             }
         ]
     },
@@ -66,6 +78,10 @@
         "target": [
             {
                 "translation": "million",
+                "count": 1
+            },
+            {
+                "translation": "ei million",
                 "count": 1
             }
         ]
@@ -76,6 +92,10 @@
             {
                 "translation": "milliart",
                 "count": 1
+            },
+            {
+                "translation": "ei milliard",
+                "count": 1
             }
         ]
     },
@@ -84,7 +104,7 @@
         "target": [
             {
                 "translation": "elf",
-                "count": 1
+                "count": 2
             }
         ]
     },
@@ -93,7 +113,7 @@
         "target": [
             {
                 "translation": "zwelf",
-                "count": 1
+                "count": 2
             }
         ]
     },
@@ -103,6 +123,10 @@
             {
                 "translation": "driizä",
                 "count": 1
+            },
+            {
+                "translation": "drizä",
+                "count": 1
             }
         ]
     },
@@ -111,7 +135,7 @@
         "target": [
             {
                 "translation": "vierzä",
-                "count": 1
+                "count": 2
             }
         ]
     },
@@ -121,6 +145,10 @@
             {
                 "translation": "füfzä",
                 "count": 1
+            },
+            {
+                "translation": "fufzä",
+                "count": 1
             }
         ]
     },
@@ -129,7 +157,7 @@
         "target": [
             {
                 "translation": "sächzä",
-                "count": 1
+                "count": 2
             }
         ]
     },
@@ -139,6 +167,10 @@
             {
                 "translation": "siibzä",
                 "count": 1
+            },
+            {
+                "translation": "sibzä",
+                "count": 1
             }
         ]
     },
@@ -147,7 +179,7 @@
         "target": [
             {
                 "translation": "achzä",
-                "count": 1
+                "count": 2
             }
         ]
     },
@@ -156,7 +188,7 @@
         "target": [
             {
                 "translation": "niinzä",
-                "count": 1
+                "count": 2
             }
         ]
     },
@@ -165,7 +197,7 @@
         "target": [
             {
                 "translation": "zwei",
-                "count": 1
+                "count": 2
             }
         ]
     },
@@ -175,6 +207,10 @@
             {
                 "translation": "zwensg",
                 "count": 1
+            },
+            {
+                "translation": "zwenzig",
+                "count": 1
             }
         ]
     },
@@ -183,7 +219,7 @@
         "target": [
             {
                 "translation": "drii",
-                "count": 1
+                "count": 2
             }
         ]
     },
@@ -193,6 +229,10 @@
             {
                 "translation": "driisg",
                 "count": 1
+            },
+            {
+                "translation": "driisig",
+                "count": 1
             }
         ]
     },
@@ -201,7 +241,7 @@
         "target": [
             {
                 "translation": "vier",
-                "count": 1
+                "count": 2
             }
         ]
     },
@@ -211,6 +251,10 @@
             {
                 "translation": "vierzg",
                 "count": 1
+            },
+            {
+                "translation": "vierzig",
+                "count": 1
             }
         ]
     },
@@ -219,7 +263,7 @@
         "target": [
             {
                 "translation": "füüf",
-                "count": 1
+                "count": 2
             }
         ]
     },
@@ -229,6 +273,10 @@
             {
                 "translation": "fufzg",
                 "count": 1
+            },
+            {
+                "translation": "fuffzig",
+                "count": 1
             }
         ]
     },
@@ -237,7 +285,7 @@
         "target": [
             {
                 "translation": "sägsch",
-                "count": 1
+                "count": 2
             }
         ]
     },
@@ -247,6 +295,10 @@
             {
                 "translation": "sächzg",
                 "count": 1
+            },
+            {
+                "translation": "sächzig",
+                "count": 1
             }
         ]
     },
@@ -254,11 +306,11 @@
         "src": "7",
         "target": [
             {
-                "translation": "sibo",
-                "count": 1
+                "translation": "sibu",
+                "count": 2
             },
             {
-                "translation": "sibu",
+                "translation": "sibo",
                 "count": 1
             }
         ]
@@ -269,6 +321,10 @@
             {
                 "translation": "sibzg",
                 "count": 1
+            },
+            {
+                "translation": "sibzig",
+                "count": 1
             }
         ]
     },
@@ -277,7 +333,7 @@
         "target": [
             {
                 "translation": "acht",
-                "count": 1
+                "count": 2
             }
         ]
     },
@@ -287,6 +343,10 @@
             {
                 "translation": "achzg",
                 "count": 1
+            },
+            {
+                "translation": "achzig",
+                "count": 1
             }
         ]
     },
@@ -295,7 +355,7 @@
         "target": [
             {
                 "translation": "niin",
-                "count": 1
+                "count": 2
             }
         ]
     },
@@ -304,6 +364,1072 @@
         "target": [
             {
                 "translation": "ninsg",
+                "count": 1
+            },
+            {
+                "translation": "niinzig",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "anbieten",
+        "target": [
+            {
+                "translation": "ahbietu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "anfangen",
+        "target": [
+            {
+                "translation": "afaah",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "ankommen",
+        "target": [
+            {
+                "translation": "aahcho",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "anrufen",
+        "target": [
+            {
+                "translation": "ahliitu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "antworten",
+        "target": [
+            {
+                "translation": "antwoortu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "arbeiten",
+        "target": [
+            {
+                "translation": "schaffu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "aufhören",
+        "target": [
+            {
+                "translation": "üfheeru",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "ausruhen",
+        "target": [
+            {
+                "translation": "liwwu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "auswählen",
+        "target": [
+            {
+                "translation": "üsläsu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "beenden",
+        "target": [
+            {
+                "translation": "fertig machu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "beginnen",
+        "target": [
+            {
+                "translation": "afaah",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "behandeln",
+        "target": [
+            {
+                "translation": "bhandlu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "benutzen",
+        "target": [
+            {
+                "translation": "brüüchu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "berühren",
+        "target": [
+            {
+                "translation": "priehru",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "beschreiben",
+        "target": [
+            {
+                "translation": "beschriibu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "besuchen",
+        "target": [
+            {
+                "translation": "bsüechu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "bevorzugen",
+        "target": [
+            {
+                "translation": "vorzieh",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "bewegen",
+        "target": [
+            {
+                "translation": "bewegu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "bleiben",
+        "target": [
+            {
+                "translation": "bliibu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "brauchen",
+        "target": [
+            {
+                "translation": "brüüchu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "brennen",
+        "target": [
+            {
+                "translation": "brennu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "bringen",
+        "target": [
+            {
+                "translation": "bringu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "denken",
+        "target": [
+            {
+                "translation": "deichu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "drücken",
+        "target": [
+            {
+                "translation": "tricku",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "entscheiden",
+        "target": [
+            {
+                "translation": "entscheidu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "erhalten",
+        "target": [
+            {
+                "translation": "vercho",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "erinnern",
+        "target": [
+            {
+                "translation": "bsinnu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "erkennen",
+        "target": [
+            {
+                "translation": "erkennu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "erklären",
+        "target": [
+            {
+                "translation": "erkläru",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "erlauben",
+        "target": [
+            {
+                "translation": "erlöipu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "erzählen",
+        "target": [
+            {
+                "translation": "verzellu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "essen",
+        "target": [
+            {
+                "translation": "ässu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "fahren",
+        "target": [
+            {
+                "translation": "fahru",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "fallen",
+        "target": [
+            {
+                "translation": "kiiu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "finden",
+        "target": [
+            {
+                "translation": "finnu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "fragen",
+        "target": [
+            {
+                "translation": "fräägu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "fühlen",
+        "target": [
+            {
+                "translation": "füühlu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "füllen",
+        "target": [
+            {
+                "translation": "fillu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "gehen",
+        "target": [
+            {
+                "translation": "gaah",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "geschehen",
+        "target": [
+            {
+                "translation": "passieru",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "gewinnen",
+        "target": [
+            {
+                "translation": "gwinnu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "glauben",
+        "target": [
+            {
+                "translation": "glöibu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "haben",
+        "target": [
+            {
+                "translation": "hä",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "halten",
+        "target": [
+            {
+                "translation": "häbu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "hassen",
+        "target": [
+            {
+                "translation": "hassu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "helfen",
+        "target": [
+            {
+                "translation": "hälfu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "hoffen",
+        "target": [
+            {
+                "translation": "hoffu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "hören",
+        "target": [
+            {
+                "translation": "kheeru",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "kaufen",
+        "target": [
+            {
+                "translation": "chöiffu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "kochen",
+        "target": [
+            {
+                "translation": "chochu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "kommen",
+        "target": [
+            {
+                "translation": "choh",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "kosten",
+        "target": [
+            {
+                "translation": "chostu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "kämpfen",
+        "target": [
+            {
+                "translation": "kämpfu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "können",
+        "target": [
+            {
+                "translation": "chännu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "lachen",
+        "target": [
+            {
+                "translation": "lachu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "leben",
+        "target": [
+            {
+                "translation": "läbu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "legen",
+        "target": [
+            {
+                "translation": "leggu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "lehren",
+        "target": [
+            {
+                "translation": "leehru",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "lernen",
+        "target": [
+            {
+                "translation": "leehru",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "lesen",
+        "target": [
+            {
+                "translation": "läsu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "lieben",
+        "target": [
+            {
+                "translation": "liebu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "lächeln",
+        "target": [
+            {
+                "translation": "lächlu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "lügen",
+        "target": [
+            {
+                "translation": "leigu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "machen",
+        "target": [
+            {
+                "translation": "machu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "nehmen",
+        "target": [
+            {
+                "translation": "näh",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "putzen",
+        "target": [
+            {
+                "translation": "putzu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "reden",
+        "target": [
+            {
+                "translation": "redu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "reisen",
+        "target": [
+            {
+                "translation": "reisu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "rennen",
+        "target": [
+            {
+                "translation": "secklu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "sagen",
+        "target": [
+            {
+                "translation": "sägu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "schauen",
+        "target": [
+            {
+                "translation": "lüegu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "schicken",
+        "target": [
+            {
+                "translation": "schicku",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "schlafen",
+        "target": [
+            {
+                "translation": "schlaafu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "schliessen",
+        "target": [
+            {
+                "translation": "schliessu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "schneiden",
+        "target": [
+            {
+                "translation": "schniidu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "schreiben",
+        "target": [
+            {
+                "translation": "schriibu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "schreien",
+        "target": [
+            {
+                "translation": "höiru",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "sehen",
+        "target": [
+            {
+                "translation": "gseeh",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "sein",
+        "target": [
+            {
+                "translation": "sii",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "singen",
+        "target": [
+            {
+                "translation": "singu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "sitzen",
+        "target": [
+            {
+                "translation": "sitzu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "spielen",
+        "target": [
+            {
+                "translation": "spilu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "sprechen",
+        "target": [
+            {
+                "translation": "redu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "springen",
+        "target": [
+            {
+                "translation": "gumpu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "sterben",
+        "target": [
+            {
+                "translation": "stärbu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "studieren",
+        "target": [
+            {
+                "translation": "studieru",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "tanzen",
+        "target": [
+            {
+                "translation": "tanzu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "treffen",
+        "target": [
+            {
+                "translation": "träffu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "trinken",
+        "target": [
+            {
+                "translation": "triichu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "töten",
+        "target": [
+            {
+                "translation": "umbringu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "unterstützen",
+        "target": [
+            {
+                "translation": "unnerstützu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "verbessern",
+        "target": [
+            {
+                "translation": "verbessru",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "vergeben",
+        "target": [
+            {
+                "translation": "vergäh",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "vergessen",
+        "target": [
+            {
+                "translation": "vergässu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "vergleichen",
+        "target": [
+            {
+                "translation": "vergliichu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "verkaufen",
+        "target": [
+            {
+                "translation": "verchöiffu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "verlassen",
+        "target": [
+            {
+                "translation": "verlaah",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "verlieren",
+        "target": [
+            {
+                "translation": "verlieru",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "versprechen",
+        "target": [
+            {
+                "translation": "versprächu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "verstecken",
+        "target": [
+            {
+                "translation": "verstecku",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "verstehen",
+        "target": [
+            {
+                "translation": "verstaah",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "versuchen",
+        "target": [
+            {
+                "translation": "probieru",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "vorschlagen",
+        "target": [
+            {
+                "translation": "vorschlaah",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "waschen",
+        "target": [
+            {
+                "translation": "wäschu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "weinen",
+        "target": [
+            {
+                "translation": "flännu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "weitermachen",
+        "target": [
+            {
+                "translation": "witermachu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "werfen",
+        "target": [
+            {
+                "translation": "triibu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "wiederholen",
+        "target": [
+            {
+                "translation": "widerholu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "wissen",
+        "target": [
+            {
+                "translation": "wissu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "wollen",
+        "target": [
+            {
+                "translation": "wellu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "zahlen",
+        "target": [
+            {
+                "translation": "zahlu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "zeigen",
+        "target": [
+            {
+                "translation": "zeigu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "zerstören",
+        "target": [
+            {
+                "translation": "kaputt machu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "ziehen",
+        "target": [
+            {
+                "translation": "zieh",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "zubereiten",
+        "target": [
+            {
+                "translation": "züebireitu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "zuhören",
+        "target": [
+            {
+                "translation": "züelosu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "zählen",
+        "target": [
+            {
+                "translation": "zellu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "zurückkehren",
+        "target": [
+            {
+                "translation": "zrugg cho",
                 "count": 1
             }
         ]

@@ -53,11 +53,7 @@
         "target": [
             {
                 "translation": "11",
-                "count": 1
-            },
-            {
-                "translation": "elf",
-                "count": 1
+                "count": 2
             }
         ]
     },
@@ -408,11 +404,7 @@
         "target": [
             {
                 "translation": "4",
-                "count": 1
-            },
-            {
-                "translation": "Vier",
-                "count": 1
+                "count": 2
             }
         ]
     },
@@ -673,11 +665,7 @@
         "target": [
             {
                 "translation": "8",
-                "count": 1
-            },
-            {
-                "translation": "acht",
-                "count": 1
+                "count": 2
             }
         ]
     },
@@ -7025,16 +7013,8 @@
         "src": "drü",
         "target": [
             {
-                "translation": "drei",
-                "count": 1
-            },
-            {
-                "translation": "Drei",
-                "count": 1
-            },
-            {
                 "translation": "3",
-                "count": 1
+                "count": 3
             }
         ]
     },
@@ -13391,7 +13371,7 @@
         "src": "bütschgi",
         "target": [
             {
-                "translation": "Kerngehäuse des Obstes",
+                "translation": "Kerngehäuse bei Obst",
                 "count": 1
             }
         ]
@@ -13400,7 +13380,7 @@
         "src": "gigetschi",
         "target": [
             {
-                "translation": "Kerngehäuse des Obstes",
+                "translation": "Kerngehäuse bei Obst",
                 "count": 1
             }
         ]

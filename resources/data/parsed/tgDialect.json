@@ -601,7 +601,7 @@
         "target": [
             {
                 "translation": "bleiben",
-                "count": 1
+                "count": 2
             }
         ]
     },
@@ -610,7 +610,7 @@
         "target": [
             {
                 "translation": "bleiben",
-                "count": 1
+                "count": 2
             }
         ]
     },
@@ -772,7 +772,7 @@
         "target": [
             {
                 "translation": "erklären",
-                "count": 1
+                "count": 2
             }
         ]
     },
@@ -970,7 +970,7 @@
         "target": [
             {
                 "translation": "gehen",
-                "count": 1
+                "count": 2
             }
         ]
     },
@@ -1051,7 +1051,7 @@
         "target": [
             {
                 "translation": "halten",
-                "count": 1
+                "count": 2
             }
         ]
     },
@@ -1078,7 +1078,7 @@
         "target": [
             {
                 "translation": "helfen",
-                "count": 1
+                "count": 2
             }
         ]
     },
@@ -1087,7 +1087,7 @@
         "target": [
             {
                 "translation": "helfen",
-                "count": 1
+                "count": 2
             },
             {
                 "translation": "unterstützen",
@@ -1397,7 +1397,7 @@
         "target": [
             {
                 "translation": "lügen",
-                "count": 1
+                "count": 2
             }
         ]
     },
@@ -1406,7 +1406,7 @@
         "target": [
             {
                 "translation": "lügen",
-                "count": 1
+                "count": 2
             }
         ]
     },
@@ -1648,7 +1648,7 @@
         "target": [
             {
                 "translation": "schreiben",
-                "count": 1
+                "count": 2
             }
         ]
     },
@@ -1657,7 +1657,7 @@
         "target": [
             {
                 "translation": "schreiben",
-                "count": 1
+                "count": 2
             }
         ]
     },
@@ -1729,7 +1729,7 @@
         "target": [
             {
                 "translation": "sitzen",
-                "count": 1
+                "count": 2
             }
         ]
     },
@@ -1738,7 +1738,7 @@
         "target": [
             {
                 "translation": "sitzen",
-                "count": 1
+                "count": 2
             }
         ]
     },
@@ -1855,7 +1855,7 @@
         "target": [
             {
                 "translation": "trinken",
-                "count": 1
+                "count": 2
             }
         ]
     },
@@ -1864,7 +1864,7 @@
         "target": [
             {
                 "translation": "trinken",
-                "count": 1
+                "count": 2
             }
         ]
     },
@@ -2161,7 +2161,7 @@
         "target": [
             {
                 "translation": "wiederholen",
-                "count": 2
+                "count": 3
             }
         ]
     },
@@ -2656,6 +2656,141 @@
         "target": [
             {
                 "translation": "1000000000",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "aafange",
+        "target": [
+            {
+                "translation": "anfangen",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "aafangä",
+        "target": [
+            {
+                "translation": "anfangen",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "aalüte",
+        "target": [
+            {
+                "translation": "anrufen",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "schafe",
+        "target": [
+            {
+                "translation": "arbeiten",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "schafä",
+        "target": [
+            {
+                "translation": "arbeiten",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "erhalte",
+        "target": [
+            {
+                "translation": "erhalten",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "erhaltä",
+        "target": [
+            {
+                "translation": "erhalten",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "erklärä",
+        "target": [
+            {
+                "translation": "erklären",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "chömmed",
+        "target": [
+            {
+                "translation": "kommen",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "choschte",
+        "target": [
+            {
+                "translation": "kosten",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "choschtä",
+        "target": [
+            {
+                "translation": "kosten",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "chönd",
+        "target": [
+            {
+                "translation": "können",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "redet",
+        "target": [
+            {
+                "translation": "reden",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "schmärzä",
+        "target": [
+            {
+                "translation": "schmerzen",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "wiederhole",
+        "target": [
+            {
+                "translation": "wiederholen",
                 "count": 1
             }
         ]

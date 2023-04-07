@@ -1579,6 +1579,10 @@
             {
                 "translation": "goh",
                 "count": 1
+            },
+            {
+                "translation": "gaa",
+                "count": 1
             }
         ]
     },
@@ -1946,6 +1950,10 @@
             {
                 "translation": "ha",
                 "count": 2
+            },
+            {
+                "translation": "haa",
+                "count": 1
             }
         ]
     },
@@ -3025,6 +3033,10 @@
             {
                 "translation": "neh",
                 "count": 1
+            },
+            {
+                "translation": "neme",
+                "count": 1
             }
         ]
     },
@@ -3430,7 +3442,7 @@
         "target": [
             {
                 "translation": "sege",
-                "count": 2
+                "count": 3
             }
         ]
     },
@@ -3488,6 +3500,10 @@
         "target": [
             {
                 "translation": "luege",
+                "count": 1
+            },
+            {
+                "translation": "loge",
                 "count": 1
             }
         ]
@@ -3625,6 +3641,10 @@
             },
             {
                 "translation": "sii",
+                "count": 1
+            },
+            {
+                "translation": "see",
                 "count": 1
             }
         ]
@@ -3867,6 +3887,10 @@
         "target": [
             {
                 "translation": "spiele",
+                "count": 1
+            },
+            {
+                "translation": "spele",
                 "count": 1
             }
         ]
@@ -4573,6 +4597,10 @@
             {
                 "translation": "wähle",
                 "count": 1
+            },
+            {
+                "translation": "wela",
+                "count": 1
             }
         ]
     },
@@ -4697,6 +4725,1112 @@
         "target": [
             {
                 "translation": "zwiifelsfall",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "anbieten",
+        "target": [
+            {
+                "translation": "abeete",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "anfangen",
+        "target": [
+            {
+                "translation": "aafoo",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "anrufen",
+        "target": [
+            {
+                "translation": "aaloöte",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "antworten",
+        "target": [
+            {
+                "translation": "aantwote",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "arbeiten",
+        "target": [
+            {
+                "translation": "weerche",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "ausruhen",
+        "target": [
+            {
+                "translation": "roobe",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "auswählen",
+        "target": [
+            {
+                "translation": "weehle",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "beginnen",
+        "target": [
+            {
+                "translation": "aafange",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "behandeln",
+        "target": [
+            {
+                "translation": "behaandle",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "benutzen",
+        "target": [
+            {
+                "translation": "brooche",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "beschreiben",
+        "target": [
+            {
+                "translation": "bschreebe",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "besuchen",
+        "target": [
+            {
+                "translation": "bsouche",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "bewegen",
+        "target": [
+            {
+                "translation": "bweege",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "bleiben",
+        "target": [
+            {
+                "translation": "bleebe",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "brennen",
+        "target": [
+            {
+                "translation": "brönne",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "bringen",
+        "target": [
+            {
+                "translation": "brenge",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "denken",
+        "target": [
+            {
+                "translation": "denk",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "drücken",
+        "target": [
+            {
+                "translation": "drugge",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "erhalten",
+        "target": [
+            {
+                "translation": "bechoo",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "erinnern",
+        "target": [
+            {
+                "translation": "erennere",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "erklären",
+        "target": [
+            {
+                "translation": "echleere",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "erlauben",
+        "target": [
+            {
+                "translation": "erloobe",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "erzählen",
+        "target": [
+            {
+                "translation": "verzölle",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "fahren",
+        "target": [
+            {
+                "translation": "faare",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "fallen",
+        "target": [
+            {
+                "translation": "gheie",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "finden",
+        "target": [
+            {
+                "translation": "feende",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "fragen",
+        "target": [
+            {
+                "translation": "frooge",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "füllen",
+        "target": [
+            {
+                "translation": "fölle",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "geschehen",
+        "target": [
+            {
+                "translation": "passeert",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "gewinnen",
+        "target": [
+            {
+                "translation": "gwönne",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "glauben",
+        "target": [
+            {
+                "translation": "gloobe",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "halten",
+        "target": [
+            {
+                "translation": "hebe",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "hassen",
+        "target": [
+            {
+                "translation": "hasst",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "helfen",
+        "target": [
+            {
+                "translation": "hölfe",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "hören",
+        "target": [
+            {
+                "translation": "ghööre",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "kaufen",
+        "target": [
+            {
+                "translation": "choofe",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "kochen",
+        "target": [
+            {
+                "translation": "choche",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "kommen",
+        "target": [
+            {
+                "translation": "cho",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "kosten",
+        "target": [
+            {
+                "translation": "ckoschte",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "kämpfen",
+        "target": [
+            {
+                "translation": "keemfe",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "können",
+        "target": [
+            {
+                "translation": "chö",
+                "count": 1
+            },
+            {
+                "translation": "cha",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "lachen",
+        "target": [
+            {
+                "translation": "laache",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "leben",
+        "target": [
+            {
+                "translation": "lebe",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "legen",
+        "target": [
+            {
+                "translation": "lege",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "lehren",
+        "target": [
+            {
+                "translation": "leerne",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "lernen",
+        "target": [
+            {
+                "translation": "leere",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "lesen",
+        "target": [
+            {
+                "translation": "leese",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "lächeln",
+        "target": [
+            {
+                "translation": "greese",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "lügen",
+        "target": [
+            {
+                "translation": "lööge",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "putzen",
+        "target": [
+            {
+                "translation": "botze",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "reden",
+        "target": [
+            {
+                "translation": "rede",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "reisen",
+        "target": [
+            {
+                "translation": "reese",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "rennen",
+        "target": [
+            {
+                "translation": "rönne",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "schicken",
+        "target": [
+            {
+                "translation": "schecke",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "schlafen",
+        "target": [
+            {
+                "translation": "schloofe",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "schmerzen",
+        "target": [
+            {
+                "translation": "schmeeze",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "schneiden",
+        "target": [
+            {
+                "translation": "schneede",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "schreiben",
+        "target": [
+            {
+                "translation": "schreebe",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "schreien",
+        "target": [
+            {
+                "translation": "heepe",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "sehen",
+        "target": [
+            {
+                "translation": "gseh",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "singen",
+        "target": [
+            {
+                "translation": "senge",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "sitzen",
+        "target": [
+            {
+                "translation": "hocke",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "sprechen",
+        "target": [
+            {
+                "translation": "rede",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "springen",
+        "target": [
+            {
+                "translation": "spreenge",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "sterben",
+        "target": [
+            {
+                "translation": "steebe",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "studieren",
+        "target": [
+            {
+                "translation": "studeered",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "treffen",
+        "target": [
+            {
+                "translation": "tröffe",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "trinken",
+        "target": [
+            {
+                "translation": "treenke",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "töten",
+        "target": [
+            {
+                "translation": "töte",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "unterstützen",
+        "target": [
+            {
+                "translation": "stütze",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "vergeben",
+        "target": [
+            {
+                "translation": "fegee",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "vergessen",
+        "target": [
+            {
+                "translation": "vegesse",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "verkaufen",
+        "target": [
+            {
+                "translation": "vechoofe",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "verlassen",
+        "target": [
+            {
+                "translation": "verloo",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "verlieren",
+        "target": [
+            {
+                "translation": "verlüüre",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "versprechen",
+        "target": [
+            {
+                "translation": "vehedere",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "versuchen",
+        "target": [
+            {
+                "translation": "probeere",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "vorschlagen",
+        "target": [
+            {
+                "translation": "voorschlage",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "waschen",
+        "target": [
+            {
+                "translation": "wösche",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "weinen",
+        "target": [
+            {
+                "translation": "brööle",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "werfen",
+        "target": [
+            {
+                "translation": "weefe",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "wiederholen",
+        "target": [
+            {
+                "translation": "wederhole",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "wissen",
+        "target": [
+            {
+                "translation": "wesse",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "zahlen",
+        "target": [
+            {
+                "translation": "zale",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "zeigen",
+        "target": [
+            {
+                "translation": "zeege",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "ziehen",
+        "target": [
+            {
+                "translation": "zööche",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "zuhören",
+        "target": [
+            {
+                "translation": "lose",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "zählen",
+        "target": [
+            {
+                "translation": "zölle",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "zurückkehren",
+        "target": [
+            {
+                "translation": "wederchoo",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "1",
+        "target": [
+            {
+                "translation": "ees",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "2",
+        "target": [
+            {
+                "translation": "zwee",
+                "count": 1
+            },
+            {
+                "translation": "zwo",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "3",
+        "target": [
+            {
+                "translation": "dreei",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "4",
+        "target": [
+            {
+                "translation": "fier",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "5",
+        "target": [
+            {
+                "translation": "fööf",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "6",
+        "target": [
+            {
+                "translation": "sex",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "7",
+        "target": [
+            {
+                "translation": "sebe",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "8",
+        "target": [
+            {
+                "translation": "achd",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "9",
+        "target": [
+            {
+                "translation": "nöön",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "10",
+        "target": [
+            {
+                "translation": "zee",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "11",
+        "target": [
+            {
+                "translation": "ölf",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "12",
+        "target": [
+            {
+                "translation": "zwelf",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "13",
+        "target": [
+            {
+                "translation": "dreezee",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "14",
+        "target": [
+            {
+                "translation": "veerzee",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "15",
+        "target": [
+            {
+                "translation": "föfzee",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "16",
+        "target": [
+            {
+                "translation": "sechzee",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "17",
+        "target": [
+            {
+                "translation": "sebezee",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "18",
+        "target": [
+            {
+                "translation": "achzee",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "19",
+        "target": [
+            {
+                "translation": "nönzee",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "20",
+        "target": [
+            {
+                "translation": "zweenzg",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "30",
+        "target": [
+            {
+                "translation": "dreesg",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "40",
+        "target": [
+            {
+                "translation": "veerzg",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "50",
+        "target": [
+            {
+                "translation": "föfzg",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "60",
+        "target": [
+            {
+                "translation": "sechzg",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "70",
+        "target": [
+            {
+                "translation": "sebezg",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "80",
+        "target": [
+            {
+                "translation": "achzg",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "90",
+        "target": [
+            {
+                "translation": "nönzg",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "100",
+        "target": [
+            {
+                "translation": "hoondert",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "1000",
+        "target": [
+            {
+                "translation": "toosig",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "10000",
+        "target": [
+            {
+                "translation": "zetoosig",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "100000",
+        "target": [
+            {
+                "translation": "hoondertoosig",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "1000000",
+        "target": [
+            {
+                "translation": "melleon",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "1000000000",
+        "target": [
+            {
+                "translation": "melleard",
                 "count": 1
             }
         ]
