@@ -614,6 +614,10 @@
             {
                 "translation": "aabüte",
                 "count": 1
+            },
+            {
+                "translation": "fòal haa",
+                "count": 1
             }
         ]
     },
@@ -1496,6 +1500,10 @@
             {
                 "translation": "lache",
                 "count": 2
+            },
+            {
+                "translation": "gììgara",
+                "count": 1
             }
         ]
     },
@@ -1732,6 +1740,10 @@
             {
                 "translation": "luaga",
                 "count": 2
+            },
+            {
+                "translation": "glaara",
+                "count": 1
             }
         ]
     },
@@ -2303,6 +2315,18 @@
             {
                 "translation": "hüla",
                 "count": 1
+            },
+            {
+                "translation": "beella",
+                "count": 1
+            },
+            {
+                "translation": "brööla",
+                "count": 1
+            },
+            {
+                "translation": "grääza",
+                "count": 1
             }
         ]
     },
@@ -2531,6 +2555,2163 @@
             },
             {
                 "translation": "zruckko",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Kartoffeln",
+        "target": [
+            {
+                "translation": "ääadlì",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Kartoffelstock",
+        "target": [
+            {
+                "translation": "ääadlìschtok",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Wechseljahre",
+        "target": [
+            {
+                "translation": "aabändarìg",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Durchfall",
+        "target": [
+            {
+                "translation": "aabfüüara",
+                "count": 1
+            },
+            {
+                "translation": "di schnäall katrii",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "abtauschen",
+        "target": [
+            {
+                "translation": "aabkuara",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "verenden",
+        "target": [
+            {
+                "translation": "aabschtòò",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "unterbrechen",
+        "target": [
+            {
+                "translation": "aabseza",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Mutter-Schwein",
+        "target": [
+            {
+                "translation": "aabsöögara",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Plumpsklo",
+        "target": [
+            {
+                "translation": "aabtreatt",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Tier notschlachten",
+        "target": [
+            {
+                "translation": "aabtùùa",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "herab",
+        "target": [
+            {
+                "translation": "aacha",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "hinab",
+        "target": [
+            {
+                "translation": "aachì",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Kartoffelkäfer",
+        "target": [
+            {
+                "translation": "äadlìkäafar",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Elster",
+        "target": [
+            {
+                "translation": "aagascht",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "vorbereiten",
+        "target": [
+            {
+                "translation": "aagattaga",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Anschnitt bei Brot",
+        "target": [
+            {
+                "translation": "aahou",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Bekleidung",
+        "target": [
+            {
+                "translation": "aaleggata",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "liebkosen",
+        "target": [
+            {
+                "translation": "aalì gììa",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Juni-Heuernte",
+        "target": [
+            {
+                "translation": "äämmt",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Juniheu heuen",
+        "target": [
+            {
+                "translation": "äämmta",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "jener",
+        "target": [
+            {
+                "translation": "ääna",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Ahnin behüt uns auch",
+        "target": [
+            {
+                "translation": "aanabhüatìsoo",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Grossvater",
+        "target": [
+            {
+                "translation": "äänì",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Grossmutter",
+        "target": [
+            {
+                "translation": "äännara",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "stöhnen",
+        "target": [
+            {
+                "translation": "aanza",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "gekochter Maisbrei",
+        "target": [
+            {
+                "translation": "aapröüta rììbìl",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "pflügen",
+        "target": [
+            {
+                "translation": "aara",
+                "count": 1
+            },
+            {
+                "translation": "eera",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Bohnen",
+        "target": [
+            {
+                "translation": "äarbs",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "ein Arm voll",
+        "target": [
+            {
+                "translation": "an aarfìl",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Anlauf nehmen",
+        "target": [
+            {
+                "translation": "aarung nììa",
+                "count": 1
+            },
+            {
+                "translation": "aarum nììa",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "jenes",
+        "target": [
+            {
+                "translation": "ääs",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "abräumen (Christbaum)",
+        "target": [
+            {
+                "translation": "ablööatara",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "aufpassen",
+        "target": [
+            {
+                "translation": "acht gììa",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Ei",
+        "target": [
+            {
+                "translation": "aiar",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Eierchen",
+        "target": [
+            {
+                "translation": "ööalì",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "immer",
+        "target": [
+            {
+                "translation": "all",
+                "count": 1
+            },
+            {
+                "translation": "allawiil",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "jeweils",
+        "target": [
+            {
+                "translation": "allamööla",
+                "count": 1
+            },
+            {
+                "translation": "ammìl",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "immer wieder",
+        "target": [
+            {
+                "translation": "allgad",
+                "count": 1
+            },
+            {
+                "translation": "allfäda",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "sehr oft",
+        "target": [
+            {
+                "translation": "allpott",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "jeden Tag",
+        "target": [
+            {
+                "translation": "alltìg",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Ameisen",
+        "target": [
+            {
+                "translation": "amòasa",
+                "count": 2
+            },
+            {
+                "translation": "ärmòòsa",
+                "count": 2
+            },
+            {
+                "translation": "ermòòasan",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "Hohenems",
+        "target": [
+            {
+                "translation": "äms",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "fortwährend",
+        "target": [
+            {
+                "translation": "an ùam tròòm",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "eigentlich",
+        "target": [
+            {
+                "translation": "anaart",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Sterbegeläut",
+        "target": [
+            {
+                "translation": "änd lütta",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "schwanger sein",
+        "target": [
+            {
+                "translation": "ì andaran ùmschtänd sii",
+                "count": 1
+            },
+            {
+                "translation": "andarscht sii",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "verarmen",
+        "target": [
+            {
+                "translation": "arma taaga",
+                "count": 1
+            },
+            {
+                "translation": "zù a t kòò",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "damit es ihn",
+        "target": [
+            {
+                "translation": "assa",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "kleiner Hund",
+        "target": [
+            {
+                "translation": "bäafzgar",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "schlecht gelaunt",
+        "target": [
+            {
+                "translation": "bäänìg",
+                "count": 1
+            },
+            {
+                "translation": "gröötìg",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Berner Rosen (Apfelsorte)",
+        "target": [
+            {
+                "translation": "bäannar roaslì",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "rein",
+        "target": [
+            {
+                "translation": "baar",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "rauchen",
+        "target": [
+            {
+                "translation": "bäkla",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Schweinedarmbeutel",
+        "target": [
+            {
+                "translation": "baksekìl",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Mantel",
+        "target": [
+            {
+                "translation": "baldòò",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "genau gleich",
+        "target": [
+            {
+                "translation": "baräntìg",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "bitte (2. P. sg.)",
+        "target": [
+            {
+                "translation": "beassogoat",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Tasse",
+        "target": [
+            {
+                "translation": "bekalì",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "grosses Geschirr für Speisen",
+        "target": [
+            {
+                "translation": "bekì",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "offenes Tellergestell",
+        "target": [
+            {
+                "translation": "bekìgschtell",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Hahnenfuss",
+        "target": [
+            {
+                "translation": "bettsòòachara",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Küken",
+        "target": [
+            {
+                "translation": "bibalì",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Verstärkungswolle (Socken)",
+        "target": [
+            {
+                "translation": "bigäänlì",
+                "count": 1
+            },
+            {
+                "translation": "biwüalalì",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "wirklich",
+        "target": [
+            {
+                "translation": "bìgoscht",
+                "count": 1
+            },
+            {
+                "translation": "jò bìgoscht",
+                "count": 1
+            },
+            {
+                "translation": "bìgoscht nòmòòl",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Bienenhonig",
+        "target": [
+            {
+                "translation": "biinahùng",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Schubkarre",
+        "target": [
+            {
+                "translation": "bìnna",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Vormittag",
+        "target": [
+            {
+                "translation": "bìsmeattìg",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Nachmittag",
+        "target": [
+            {
+                "translation": "bìsnacht",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Kerngehäuse bei Obst",
+        "target": [
+            {
+                "translation": "bìzgì",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "früh",
+        "target": [
+            {
+                "translation": "bìzitta",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "rundes Gefäss zum Reinigen des Getreides",
+        "target": [
+            {
+                "translation": "blaaiì",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Blatt",
+        "target": [
+            {
+                "translation": "bläka",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Bleistift",
+        "target": [
+            {
+                "translation": "bleiwiis",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "kurze Ohnmacht haben",
+        "target": [
+            {
+                "translation": "a blöadì haa",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Blasen",
+        "target": [
+            {
+                "translation": "blòòtara",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Bahre",
+        "target": [
+            {
+                "translation": "bòar",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Baumgarten",
+        "target": [
+            {
+                "translation": "bòmmart",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Kuh (Kindersprache)",
+        "target": [
+            {
+                "translation": "boobalì",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "in der Nase bohren",
+        "target": [
+            {
+                "translation": "böögga",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "getrockneter Nasenschleim",
+        "target": [
+            {
+                "translation": "bögg",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Glasperlen",
+        "target": [
+            {
+                "translation": "böötarlì",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Gebrechen",
+        "target": [
+            {
+                "translation": "bräaschta",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "gebrechlich",
+        "target": [
+            {
+                "translation": "bräaschthaft",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "angebrannt riechen",
+        "target": [
+            {
+                "translation": "bräässala",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Bremse",
+        "target": [
+            {
+                "translation": "brìama",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "vespern",
+        "target": [
+            {
+                "translation": "brìanda",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Juni",
+        "target": [
+            {
+                "translation": "bròòchat",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "zerbrochene Torfturben",
+        "target": [
+            {
+                "translation": "bròòchlì",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "schwarz machen (Russ)",
+        "target": [
+            {
+                "translation": "bröömmara",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Vorraum vor Schlafzimmern im Obergeschoss",
+        "target": [
+            {
+                "translation": "brüggalì",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "pinkeln",
+        "target": [
+            {
+                "translation": "brùnza",
+                "count": 1
+            },
+            {
+                "translation": "brünzla",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Gilet",
+        "target": [
+            {
+                "translation": "brùschttuach",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Erbsen",
+        "target": [
+            {
+                "translation": "buäärlì",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "nähen",
+        "target": [
+            {
+                "translation": "büaza",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Werkstatt",
+        "target": [
+            {
+                "translation": "budìk",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Milchflasche für Säugling",
+        "target": [
+            {
+                "translation": "budìl",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "auf dem Rücken tragen",
+        "target": [
+            {
+                "translation": "bùggala",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Wiesenkerbel",
+        "target": [
+            {
+                "translation": "bùggla",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Zwiebel",
+        "target": [
+            {
+                "translation": "bülla",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Orange",
+        "target": [
+            {
+                "translation": "bùmmaranza",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Biber (Gebäck)",
+        "target": [
+            {
+                "translation": "bümmìlflaada",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "junges Rind",
+        "target": [
+            {
+                "translation": "buslì",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Pferd (Kindersprache)",
+        "target": [
+            {
+                "translation": "butscharlì",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Holzfässchen",
+        "target": [
+            {
+                "translation": "büttarìg",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "rasch",
+        "target": [
+            {
+                "translation": "da gnoata wäag",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "solches",
+        "target": [
+            {
+                "translation": "dääarìgs",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "tagsüber",
+        "target": [
+            {
+                "translation": "dar taag",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "daneben",
+        "target": [
+            {
+                "translation": "darnääabat",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "jenseits",
+        "target": [
+            {
+                "translation": "dììana",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "in Österreicht",
+        "target": [
+            {
+                "translation": "dììana",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "diskutieren",
+        "target": [
+            {
+                "translation": "dìschgariara",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "herüber",
+        "target": [
+            {
+                "translation": "doara",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "hinüber",
+        "target": [
+            {
+                "translation": "doarì",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "da",
+        "target": [
+            {
+                "translation": "dòò",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "hier",
+        "target": [
+            {
+                "translation": "dòò",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "damals",
+        "target": [
+            {
+                "translation": "dooa",
+                "count": 1
+            },
+            {
+                "translation": "do",
+                "count": 1
+            },
+            {
+                "translation": "doazmòòl",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "3 (F)",
+        "target": [
+            {
+                "translation": "drei",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "3 (M)",
+        "target": [
+            {
+                "translation": "drei",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "3 (N)",
+        "target": [
+            {
+                "translation": "drüü",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Frauen",
+        "target": [
+            {
+                "translation": "froua",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Männer",
+        "target": [
+            {
+                "translation": "mää",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Kinder",
+        "target": [
+            {
+                "translation": "kìand",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Brot 1500g",
+        "target": [
+            {
+                "translation": "drüüpfündar",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Armut",
+        "target": [
+            {
+                "translation": "eearmì",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "behindert",
+        "target": [
+            {
+                "translation": "eeländ",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "eher",
+        "target": [
+            {
+                "translation": "eendar",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "manch eine",
+        "target": [
+            {
+                "translation": "epan ùanì",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "einige",
+        "target": [
+            {
+                "translation": "ettlìg",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "im letzten Jahr",
+        "target": [
+            {
+                "translation": "fääan",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "unruhiges Kind",
+        "target": [
+            {
+                "translation": "fäagnäascht",
+                "count": 1
+            },
+            {
+                "translation": "gìschpìl",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Wunde",
+        "target": [
+            {
+                "translation": "fääal",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Wunden",
+        "target": [
+            {
+                "translation": "fäallar",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Silberpappel",
+        "target": [
+            {
+                "translation": "fäalba",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Baby-Schwein",
+        "target": [
+            {
+                "translation": "fäärlì",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Mutterschwein",
+        "target": [
+            {
+                "translation": "fäärlìsuu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Epilepsie",
+        "target": [
+            {
+                "translation": "fallatweea",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "auf der Schulter tragen",
+        "target": [
+            {
+                "translation": "firittara",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "geh weg!",
+        "target": [
+            {
+                "translation": "flüch!",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Gebrauchtwarenhandlung in Berneck",
+        "target": [
+            {
+                "translation": "fòòlträägì",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "nach vorne kommen",
+        "target": [
+            {
+                "translation": "föara",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "wischen",
+        "target": [
+            {
+                "translation": "föarba",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "furchtbar",
+        "target": [
+            {
+                "translation": "föarchtìg",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Gabel",
+        "target": [
+            {
+                "translation": "foargga",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "nach vorne gehen",
+        "target": [
+            {
+                "translation": "föarì",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "vorwärts",
+        "target": [
+            {
+                "translation": "föarschì",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Löwenzahn (Blume)",
+        "target": [
+            {
+                "translation": "foarzara",
+                "count": 1
+            },
+            {
+                "translation": "guggùmmara",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Fangis spielen",
+        "target": [
+            {
+                "translation": "fööcharla",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "lieb",
+        "target": [
+            {
+                "translation": "frei",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "früher",
+        "target": [
+            {
+                "translation": "fröüar",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Getreide",
+        "target": [
+            {
+                "translation": "frùcht",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "foppen",
+        "target": [
+            {
+                "translation": "fùggsa",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "reut (er/sie/es)",
+        "target": [
+            {
+                "translation": "fùggsat",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Brot 2500g",
+        "target": [
+            {
+                "translation": "füüfpfündar",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "gelblich",
+        "target": [
+            {
+                "translation": "gäallächt",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Birnensorte",
+        "target": [
+            {
+                "translation": "gäalmöschtlara",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Rind",
+        "target": [
+            {
+                "translation": "gaaltlìg",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "leicht zu gehende Treppe",
+        "target": [
+            {
+                "translation": "gääntì schtäaga",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Treppe",
+        "target": [
+            {
+                "translation": "schtäaga",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "haben wollen",
+        "target": [
+            {
+                "translation": "gäara",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Gänsehaut",
+        "target": [
+            {
+                "translation": "gääs",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "nur",
+        "target": [
+            {
+                "translation": "gad",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Krebs",
+        "target": [
+            {
+                "translation": "galoppiarandì uuszeerìg",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Schaukelpferd",
+        "target": [
+            {
+                "translation": "gampìross",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Schaukel",
+        "target": [
+            {
+                "translation": "gigampì",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Wespe",
+        "target": [
+            {
+                "translation": "gängar",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Blechzuber",
+        "target": [
+            {
+                "translation": "gellta",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "gestern",
+        "target": [
+            {
+                "translation": "gescht",
+                "count": 1
+            },
+            {
+                "translation": "geschtart",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Schweinshaxe",
+        "target": [
+            {
+                "translation": "ggnaagì",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "nicken",
+        "target": [
+            {
+                "translation": "ggnappa",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "schnell",
+        "target": [
+            {
+                "translation": "ggnoat",
+                "count": 1
+            },
+            {
+                "translation": "gnoat",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Gehege",
+        "target": [
+            {
+                "translation": "ggöü",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "beabsichtigen",
+        "target": [
+            {
+                "translation": "im ggöü haa",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "bereit",
+        "target": [
+            {
+                "translation": "ggrääa",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "gepflegt",
+        "target": [
+            {
+                "translation": "ggreeasat",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "bereit sein",
+        "target": [
+            {
+                "translation": "ggrüscht sii",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "nach",
+        "target": [
+            {
+                "translation": "gì",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "schaukeln (Schaukelpferd)",
+        "target": [
+            {
+                "translation": "gigampa",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "schaukeln am Seil",
+        "target": [
+            {
+                "translation": "gireeza",
+                "count": 1
+            },
+            {
+                "translation": "reeza",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Ziege",
+        "target": [
+            {
+                "translation": "gizì",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Geissenkot",
+        "target": [
+            {
+                "translation": "gizìböllalì",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "fixer Blick",
+        "target": [
+            {
+                "translation": "glaarì",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Fliederbaum",
+        "target": [
+            {
+                "translation": "gläslìbòmm",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "lustig",
+        "target": [
+            {
+                "translation": "glatt",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "schrill schreien",
+        "target": [
+            {
+                "translation": "gleia",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Woll-Nähnadel",
+        "target": [
+            {
+                "translation": "glììampf",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "glänzen",
+        "target": [
+            {
+                "translation": "glìnsala",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Speiseresten",
+        "target": [
+            {
+                "translation": "glòabats",
+                "count": 1
+            },
+            {
+                "translation": "lòabata",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Kettenglied",
+        "target": [
+            {
+                "translation": "glööachtlì",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Schmuckanhänger",
+        "target": [
+            {
+                "translation": "glöönggar",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "brütendes Huhn",
+        "target": [
+            {
+                "translation": "gluggara",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Nähnadel",
+        "target": [
+            {
+                "translation": "glùùfa",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "geschminkt",
+        "target": [
+            {
+                "translation": "gmöölalat",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "rülpsen",
+        "target": [
+            {
+                "translation": "göarpsa",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Magenknurren",
+        "target": [
+            {
+                "translation": "goarra",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Kind (eher grob)",
+        "target": [
+            {
+                "translation": "gòarsch",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Geiss",
+        "target": [
+            {
+                "translation": "gòass",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "mit genügend Fett gebraten",
+        "target": [
+            {
+                "translation": "goat gschmüzt",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "geifern",
+        "target": [
+            {
+                "translation": "gòafara",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Mittagsschlaf",
+        "target": [
+            {
+                "translation": "göögli",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "liegen",
+        "target": [
+            {
+                "translation": "gòòga",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "schlecht",
+        "target": [
+            {
+                "translation": "göölìg",
+                "count": 1
+            },
+            {
+                "translation": "grööpalig",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "es",
+        "target": [
+            {
+                "translation": "as",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "wird (er/sie/es)",
+        "target": [
+            {
+                "translation": "wöart",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "mir",
+        "target": [
+            {
+                "translation": "mar",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Kinder hüten",
+        "target": [
+            {
+                "translation": "gòòma",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Kinderhüter",
+        "target": [
+            {
+                "translation": "gòòmmar",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "geht man?",
+        "target": [
+            {
+                "translation": "gòòpa?",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "gerade jetzt",
+        "target": [
+            {
+                "translation": "grajiaz",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "gräulich",
+        "target": [
+            {
+                "translation": "gräüsch",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "tasten",
+        "target": [
+            {
+                "translation": "gròòpa",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "grapschen",
+        "target": [
+            {
+                "translation": "gròòpla",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "grünlich",
+        "target": [
+            {
+                "translation": "grüalächt",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Müllhalde",
+        "target": [
+            {
+                "translation": "grùschtloch",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Rest von eingesottenem Schweinefett",
+        "target": [
+            {
+                "translation": "grüüba",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "knapp",
+        "target": [
+            {
+                "translation": "gschmooga",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "unsicher",
+        "target": [
+            {
+                "translation": "gschmuuch",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "src": "ist mir (er/sie/es)",
+        "target": [
+            {
+                "translation": "ìschtmar",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Freundin",
+        "target": [
+            {
+                "translation": "gschpaana",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Trauzeugin",
+        "target": [
+            {
+                "translation": "gschpììl",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "sehr fröhlich",
+        "target": [
+            {
+                "translation": "gschpöar",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "steif",
+        "target": [
+            {
+                "translation": "gschtaabat",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Hemd mit angenähten Strumpfhaltern",
+        "target": [
+            {
+                "translation": "gschtäältlì",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "gemächlich",
+        "target": [
+            {
+                "translation": "gschtäät",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Innereien",
+        "target": [
+            {
+                "translation": "gschtell",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "gesagt",
+        "target": [
+            {
+                "translation": "gseet",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Trauzeuge",
+        "target": [
+            {
+                "translation": "gsell",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "sich für den Sonntag fein machen",
+        "target": [
+            {
+                "translation": "gsunntigat",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Kuckuck",
+        "target": [
+            {
+                "translation": "guggar",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "src": "Mostkrug",
+        "target": [
+            {
+                "translation": "gümmìl",
                 "count": 1
             }
         ]
