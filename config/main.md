@@ -27,6 +27,7 @@ Die Daten stammen aus den folgenden Quellen:
 -   [Schweizerdeutsches Wörterbuch](https://www.pauker.at/pauker/DE_DE/SC/) von Stefan Zwischenbrugger
 -   verschiedene Ressourcen des [Schweizerischen Idiotikons](https://www.idiotikon.ch/)
 -   Dialektwortlisten der [Aargauer Zeitung](https://www.aargauerzeitung.ch/kultur/buch-buehne-kunst/von-aabandle-uber-aaheulig-bis-huutze-ld.1280659)
+-   Baseldeutsches Wörterbuch von [Floatleft](https://baseldeutsch-woerterbuch.floatleft.ch/)
 -   verschiedene andere im Internet verfügbare Texte
 
 Geben sie einen Suchbegriff auf Hochdeutsch ein. Sie können Ihre Suche nach Kanton filtern.
