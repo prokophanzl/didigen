@@ -28,6 +28,7 @@ Die Daten stammen aus den folgenden Quellen:
 -   verschiedene Ressourcen des [Schweizerischen Idiotikons](https://www.idiotikon.ch/)
 -   Dialektwortlisten der [Aargauer Zeitung](https://www.aargauerzeitung.ch/kultur/buch-buehne-kunst/von-aabandle-uber-aaheulig-bis-huutze-ld.1280659)
 -   Baseldeutsches Wörterbuch von [Floatleft](https://baseldeutsch-woerterbuch.floatleft.ch/)
+-   TippÌlzouar ùnd Schmeattar Wörterbuch von [diepoldsau.ch](https://www.diepoldsau.ch/woerterbuch)
 -   verschiedene andere im Internet verfügbare Texte
 
 Geben sie einen Suchbegriff auf Hochdeutsch ein. Sie können Ihre Suche nach Kanton filtern.
