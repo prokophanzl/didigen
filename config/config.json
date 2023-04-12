@@ -25,9 +25,9 @@
 		"dataPointWord": "Datenpunkte",
 		"dataPointWordSingular": "Datenpunkt",
 
-		"resultText": "DATA_RESULT_COUNT DATA_RESULT_WORD für «DATA_QUERY» (DATA_DATAPOINT_COUNT DATA_DATAPOINT_WORD)",
-		"resultTextSingular": "1 Ergebnis für «DATA_QUERY» (DATA_TOTAL Datenpunkte)",
-		"resultTextNoResults": "Keine Ergebnisse für «DATA_QUERY»",
+		"resultText": "{result_count} {result_word} für «{query}» ({datapoint_count} {datapoint_word})",
+		"resultTextSingular": "1 Ergebnis für «{query}» ({datapoint_count} Datenpunkte)",
+		"resultTextNoResults": "Keine Ergebnisse für «{query}»",
 
 		"lightTheme": "Hellmodus",
 		"darkTheme": "Dunkelmodus",

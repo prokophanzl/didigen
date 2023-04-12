@@ -10,9 +10,9 @@ Wir brauchen sonst auch Freiwillige, die uns beim Übersetzen helfen würden. Fa
 
 ## Daten
 
-Dem Wörterbuch stehen DATA_TOTAL Datenpunkte aus DATA_DIALECTS Kantonen zur Verfügung (DATA_UNIQUE verschiedene Wörter).
+Dem Wörterbuch stehen {total_words} Datenpunkte aus {total_dialects} Kantonen zur Verfügung ({total_unique} verschiedene Wörter).
 
-Letzte Aktualisierung: DATA_LASTUPDATE_DAY. DATA_LASTUPDATE_MONTH DATA_LASTUPDATE_YEAR.
+Letzte Aktualisierung: {last_update_day}. {last_update_month} {last_update_year}.
 
 ### Woher stammen sie?
 

@@ -196,15 +196,15 @@ export function translate() {
 
 	$("#search-results-heading").text(
 		config.text.resultText
-			.replace("DATA_RESULT_COUNT", parsedData.length)
-			.replace("DATA_RESULT_WORD", parsedData.length === 1 ? config.text.resultWordSingular : config.text.resultWord)
-			.replace("DATA_QUERY", formatNumber(word))
+			.replace("{result_count}", parsedData.length)
+			.replace("{result_word}", parsedData.length === 1 ? config.text.resultWordSingular : config.text.resultWord)
+			.replace("{query}", formatNumber(word))
 			.replace(
-				"DATA_DATAPOINT_COUNT",
+				"{datapoint_count}",
 				parsedData.reduce((acc, obj) => acc + obj.count, 0)
 			)
 			.replace(
-				"DATA_DATAPOINT_WORD",
+				"{datapoint_word}",
 				parsedData.reduce((acc, obj) => acc + obj.count, 0) === 1 ? config.text.dataPointWordSingular : config.text.dataPointWord
 			)
 	);
