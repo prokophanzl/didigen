@@ -12,7 +12,7 @@ Wir brauchen sonst auch Freiwillige, die uns beim Übersetzen helfen würden. Fa
 
 Dem Wörterbuch stehen DATA_TOTAL Datenpunkte aus DATA_DIALECTS Kantonen zur Verfügung (DATA_UNIQUE verschiedene Wörter).
 
-Letzte Aktualisierung: DATA_LASTUPDATE.
+Letzte Aktualisierung: DATA_LASTUPDATE_DAY. DATA_LASTUPDATE_MONTH DATA_LASTUPDATE_YEAR.
 
 ### Woher stammen sie?
 

@@ -66,8 +66,14 @@ xhr.onload = function () {
 		// replace all instances of DATA_UNIQUE with uniqueStandard from meta.json
 		htmlText = htmlText.replace("DATA_UNIQUE", meta.uniqueStandard);
 
-		// replace all instances of DATA_LASTUPDATE with date from meta.json
-		htmlText = htmlText.replace("DATA_LASTUPDATE", meta.date);
+		// replace all instances of DATA_LASTUPDATE_DAY with the day of the month from lastUpdate from meta.json
+		htmlText = htmlText.replace("DATA_LASTUPDATE_DAY", meta.lastUpdate.day);
+
+		// replace all instances of DATA_LASTUPDATE_MONTH with the month from lastUpdate from meta.json and config.json
+		htmlText = htmlText.replace("DATA_LASTUPDATE_MONTH", config.options.monthNames[meta.lastUpdate.month.toString()]);
+
+		// replace all instances of DATA_LASTUPDATE_YEAR with the year from lastUpdate from meta.json
+		htmlText = htmlText.replace("DATA_LASTUPDATE_YEAR", meta.lastUpdate.year);
 
 		// replace all instances of DATA_DIALECTS with length of dialects from config.json. if config.options.includesUnknownDialect is true, subtract 1
 		htmlText = htmlText.replace("DATA_DIALECTS", config.dialects.length - (config.options.includesUnknownDialect ? 1 : 0));
