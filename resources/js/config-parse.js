@@ -70,7 +70,7 @@ xhr.onload = function () {
 		htmlText = htmlText.replace("DATA_LASTUPDATE_DAY", meta.lastUpdate.day);
 
 		// replace all instances of DATA_LASTUPDATE_MONTH with the month from lastUpdate from meta.json and config.json
-		htmlText = htmlText.replace("DATA_LASTUPDATE_MONTH", config.options.monthNames[meta.lastUpdate.month.toString()]);
+		htmlText = htmlText.replace("DATA_LASTUPDATE_MONTH", config.options.monthNames[meta.lastUpdate.month - 1]);
 
 		// replace all instances of DATA_LASTUPDATE_YEAR with the year from lastUpdate from meta.json
 		htmlText = htmlText.replace("DATA_LASTUPDATE_YEAR", meta.lastUpdate.year);
