@@ -19,7 +19,7 @@ Letzte Aktualisierung: {last_update_day}. {last_update_month} {last_update_year}
 Die Daten stammen aus den folgenden Quellen:
 
 -   Reddit-Kommentare von [r/BUENZLI](https://www.reddit.com/r/BUENZLI)
--   private Nachrichten (mit freundlicher Genehmigung der Autoren)
+-   private Nachrichten (mit freundlicher Genehmigung der Autor\*innen)
 -   verschiedene Umfragen
 -   [Alemannische Wikipedia](https://als.wikipedia.org/)
 -   [Wörterbuch](https://www.auswandern-schweiz.net/schweiz-erleben/schweizerdeutsch-woerterbuch) von About Swiss
